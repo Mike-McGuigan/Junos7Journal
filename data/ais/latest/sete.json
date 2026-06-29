@@ -5,7 +5,7 @@
   "mmsi": "319314700",
   "imo": null,
   "role": "chase boat",
-  "lastUpdatedUtc": "2026-06-29T18:45:05+00:00",
+  "lastUpdatedUtc": "2026-06-29T22:40:15+00:00",
   "status": "not_configured",
   "message": "Tracker ran, but no live AIS provider has been configured.",
   "position": null,

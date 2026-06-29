@@ -1,12 +1,13 @@
 {
   "vesselKey": "sete",
   "displayName": "SETE",
+  "journalName": "SETE",
   "mmsi": "319314700",
   "imo": null,
   "role": "chase boat",
-  "lastUpdatedUtc": null,
+  "lastUpdatedUtc": "2026-06-29T18:45:05+00:00",
   "status": "not_configured",
-  "message": "Tracker configured, but no live AIS provider has been connected yet.",
+  "message": "Tracker ran, but no live AIS provider has been configured.",
   "position": null,
   "source": null
 }

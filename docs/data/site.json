@@ -1,0 +1,18 @@
+{
+  "project": "Juno's 7 Mediterranean Journal 2026",
+  "principle": "Don't document the yacht. Document the memories.",
+  "people": [
+    "Cameron",
+    "Sophie"
+  ],
+  "vessels": [
+    {
+      "name": "Juno's 7",
+      "role": "superyacht"
+    },
+    {
+      "name": "SETE",
+      "role": "chase boat"
+    }
+  ]
+}

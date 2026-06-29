@@ -1,0 +1,67 @@
+[
+  {
+    "date": "2026-06-11",
+    "location": "Lindos, Rhodes",
+    "type": "route"
+  },
+  {
+    "date": "2026-06-11",
+    "location": "Chalki",
+    "type": "route"
+  },
+  {
+    "date": "2026-06-12",
+    "location": "Symi",
+    "type": "route"
+  },
+  {
+    "date": "2026-06-15",
+    "location": "Nisyros",
+    "type": "route"
+  },
+  {
+    "date": "2026-06-16",
+    "location": "Kos",
+    "type": "route"
+  },
+  {
+    "date": "2026-06-17",
+    "location": "Cameron & Sophie join",
+    "type": "milestone"
+  },
+  {
+    "date": "2026-06-18",
+    "location": "Lipsi",
+    "type": "route"
+  },
+  {
+    "date": "2026-06-19",
+    "location": "Patmos",
+    "type": "route"
+  },
+  {
+    "date": "2026-06-22",
+    "location": "Katapola, Amorgos",
+    "type": "route"
+  },
+  {
+    "date": "2026-06-22",
+    "location": "Ios",
+    "type": "route"
+  },
+  {
+    "date": "2026-06-26",
+    "location": "Zakynthos",
+    "type": "route"
+  },
+  {
+    "date": "2026-06-28",
+    "location": "Sami, Kefalonia",
+    "type": "route"
+  },
+  {
+    "date": "2026-06-29",
+    "location": "East Coast Ithaca",
+    "type": "route"
+  }
+]

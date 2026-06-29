@@ -1,0 +1,38 @@
+.version-badge {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  z-index: 9999;
+  background: rgba(6, 25, 40, 0.92);
+  color: #f6efe2;
+  border: 1px solid #c9a45c;
+  border-radius: 999px;
+  padding: 0.65rem 0.9rem;
+  font-size: 0.82rem;
+  box-shadow: 0 12px 30px rgba(0,0,0,.25);
+}
+.version-badge strong { color: #c9a45c; }
+.version-footer {
+  margin-top: 1rem;
+  color: #c9a45c;
+  font-size: 0.85rem;
+}
+.build-info-page {
+  max-width: 900px;
+  margin: auto;
+  padding: 3rem 1.5rem;
+  font-family: Segoe UI, Arial, sans-serif;
+  background: #f6efe2;
+  color: #132333;
+}
+.build-info-page h1 {
+  font-family: Georgia, serif;
+  font-size: clamp(2.4rem, 6vw, 5rem);
+  color: #061928;
+}
+.build-info-card {
+  background: #fffaf0;
+  border-left: 6px solid #c9a45c;
+  padding: 1.25rem 1.5rem;
+  box-shadow: 0 14px 35px rgba(6,25,40,.12);
+}

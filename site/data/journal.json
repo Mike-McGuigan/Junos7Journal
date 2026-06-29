@@ -1,0 +1,134 @@
+{
+  "entries": [
+    {
+      "date": "2026-06-17",
+      "title": "The Beginning",
+      "location": "Juno's 7",
+      "type": "milestone",
+      "quote": "",
+      "person": "",
+      "body": "Cameron and Sophie stepped aboard Juno's 7 to begin their first season working together on the same yacht. A marina webcam captured the moment they boarded for the first time."
+    },
+    {
+      "date": "2026-06-20",
+      "title": "First Days on Deck",
+      "location": "Lipsi",
+      "type": "journal",
+      "quote": "Giving the sun deck black some love.",
+      "person": "Cameron",
+      "body": "The first days aboard quickly settled into the rhythm of deck work: cleaning, polishing and looking after the exterior surfaces that make the yacht appear effortless."
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Still Filthy",
+      "location": "Lipsi",
+      "type": "crew-view",
+      "quote": "Spent the last 3 days cleaning the thing and tbh, still filthy.",
+      "person": "Cameron",
+      "body": "A perfectly honest summary of life on deck: however beautiful the setting, salt, sun and dust never stop working against the crew."
+    },
+    {
+      "date": "2026-06-21",
+      "title": "Rather Rocky",
+      "location": "Greek Islands",
+      "type": "sea",
+      "quote": "Rather rocky.",
+      "person": "Cameron",
+      "body": "A livelier passage gave the Mediterranean some character."
+    },
+    {
+      "date": "2026-06-21",
+      "title": "Sophie's First Jet Ski",
+      "location": "At Anchor",
+      "type": "highlight",
+      "quote": "",
+      "person": "",
+      "body": "The captain invited Cameron to take Sophie out on a jet ski. It became Sophie's first time on one."
+    },
+    {
+      "date": "2026-06-23",
+      "title": "My Future House",
+      "location": "Greek Islands",
+      "type": "small-moment",
+      "quote": "My future house!",
+      "person": "Sophie",
+      "body": "Passing a beautiful hillside house above the water, Sophie captured one of those light-hearted travel moments."
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Nice Spot for Today",
+      "location": "Ionian Anchorage",
+      "type": "anchorage",
+      "quote": "Nice spot for today.",
+      "person": "Cameron",
+      "body": "A quiet anchorage surrounded by clear water and green hills."
+    }
+  ],
+  "route": [
+    {
+      "date": "11 Jun",
+      "name": "Lindos, Rhodes",
+      "phase": "before"
+    },
+    {
+      "date": "11\u201312 Jun",
+      "name": "Chalki",
+      "phase": "before"
+    },
+    {
+      "date": "12\u201313 Jun",
+      "name": "Symi",
+      "phase": "before"
+    },
+    {
+      "date": "15\u201316 Jun",
+      "name": "Nisyros",
+      "phase": "before"
+    },
+    {
+      "date": "16\u201318 Jun",
+      "name": "Kos",
+      "phase": "before"
+    },
+    {
+      "date": "17 Jun",
+      "name": "Cameron & Sophie join",
+      "phase": "milestone"
+    },
+    {
+      "date": "18\u201319 Jun",
+      "name": "Lipsi",
+      "phase": "onboard"
+    },
+    {
+      "date": "19\u201321 Jun",
+      "name": "Patmos",
+      "phase": "onboard"
+    },
+    {
+      "date": "22 Jun",
+      "name": "Katapola, Amorgos",
+      "phase": "onboard"
+    },
+    {
+      "date": "22\u201323 Jun",
+      "name": "Ios",
+      "phase": "onboard"
+    },
+    {
+      "date": "26\u201327 Jun",
+      "name": "Zakynthos",
+      "phase": "onboard"
+    },
+    {
+      "date": "28 Jun",
+      "name": "Sami, Kefalonia",
+      "phase": "onboard"
+    },
+    {
+      "date": "29 Jun",
+      "name": "East Coast Ithaca",
+      "phase": "onboard"
+    }
+  ]
+}

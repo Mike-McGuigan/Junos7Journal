@@ -1,0 +1,31 @@
+{
+  "project": "Juno's 7 Mediterranean Journal",
+  "polling": {
+    "minimum_minutes_between_points": 60,
+    "only_commit_when_changed": true
+  },
+  "vessels": [
+    {
+      "key": "junos7",
+      "displayName": "JUNOS 7",
+      "journalName": "Juno's 7",
+      "imo": "1109712",
+      "mmsi": "319303300",
+      "role": "main yacht",
+      "enabled": true
+    },
+    {
+      "key": "sete",
+      "displayName": "SETE",
+      "journalName": "SETE",
+      "imo": null,
+      "mmsi": "319314700",
+      "role": "chase boat",
+      "enabled": true
+    }
+  ],
+  "source": {
+    "provider": "manual-placeholder",
+    "notes": "Replace with a configured AIS API/source when available. Do not commit credentials."
+  }
+}

@@ -1,34 +1,40 @@
 # Current Release
 
-Version: 0.5.0
+Version: 0.6.0
 
-Name: Release Management
+Name: Tracker Foundation
 
-Build date: 2026-06-29 16:18:56 UTC
+Build date: 2026-06-29 17:59:22 UTC
 
-Status: Development
+Status: Development / tracker scaffold
+
+## Purpose
+
+Adds the first automatic tracking framework for Juno's 7 and SETE.
+
+This release does **not** yet include a guaranteed AIS data provider. It establishes the structure, workflow, vessel identifiers and output files needed for automatic tracking once a reliable source is configured.
+
+## Vessels
+
+- JUNOS 7 — IMO `1109712`, MMSI `319303300`
+- SETE — MMSI `319314700`
 
 ## Highlights
 
-- Adds root `VERSION`
-- Adds root `RELEASE.md`
-- Adds `site/data/version.json`
-- Adds visible version badge/footer support
-- Adds `tools/build_site.py`
-- Adds GitHub Pages diagnostic page generation
+- Adds `.github/workflows/track-yachts.yml`
+- Adds `tracker/config.json`
+- Adds `tracker/track_yachts.py`
+- Adds latest-position JSON files
+- Adds public site data file at `site/data/tracker.json`
+- Adds tracker documentation
 
-## Publish Workflow
+## What is needed to make this live
 
-```bash
-python tools/patch_version_display.py
-python tools/build_site.py
-git add .
-git commit -m "Release 0.5.0"
-git push
-```
+A position source must be configured. Options:
 
-Then check:
+1. AIS API endpoint, preferred.
+2. A reliable public endpoint that returns vessel position data.
+3. Manual CSV/JSON imports until an automated source is available.
 
-```text
-https://YOUR-GITHUB-USERNAME.github.io/Junos7Journal/build-info.html
-```
+Do not commit usernames, passwords, API keys or VesselFinder credentials to the repo.
+Use GitHub Actions secrets for anything private.

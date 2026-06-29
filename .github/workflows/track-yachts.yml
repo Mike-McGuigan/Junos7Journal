@@ -1,0 +1,39 @@
+name: Track Yachts
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs once per hour. GitHub may delay scheduled workflows.
+    - cron: "7 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run yacht tracker
+        run: python tracker/track_yachts.py
+
+      - name: Build Pages output
+        run: |
+          if [ -f tools/patch_version_display.py ]; then python tools/patch_version_display.py; fi
+          if [ -f tools/build_site.py ]; then python tools/build_site.py; fi
+
+      - name: Commit tracker updates
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/ais site/data docs content/vessels content/routes content/media-index
+          git commit -m "Update yacht tracking data" || echo "No changes to commit"
+          git push

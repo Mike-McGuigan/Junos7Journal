@@ -1,7 +1,10 @@
 {
   "name": "Juno's 7",
-  "type": "Superyacht",
+  "displayName": "JUNOS 7",
+  "imo": "1109712",
+  "mmsi": "319303300",
+  "type": "Motor yacht",
   "builder": "Benetti",
   "length_m": 44,
-  "role_in_journal": "Main vessel and setting for the Mediterranean season"
+  "role_in_journal": "Main yacht and setting for Cameron and Sophie's Mediterranean season"
 }

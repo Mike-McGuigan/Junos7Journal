@@ -1,0 +1,138 @@
+:root {
+  --navy: #071b2c;
+  --blue: #0f4c6e;
+  --gold: #c8a45d;
+  --ivory: #f7f1e6;
+  --stone: #d8cbb7;
+  --text: #14202b;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  color: var(--text);
+  background: var(--ivory);
+}
+
+.hero {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 3rem;
+  color: var(--ivory);
+  background:
+    linear-gradient(rgba(7,27,44,.78), rgba(7,27,44,.9)),
+    radial-gradient(circle at top right, #1f6f8f, var(--navy));
+}
+
+.hero__content {
+  max-width: 850px;
+  text-align: center;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: .25em;
+  color: var(--gold);
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-size: clamp(3rem, 9vw, 8rem);
+  margin: 0;
+  letter-spacing: .04em;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  margin-top: .25rem;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+}
+
+blockquote {
+  font-family: Georgia, serif;
+  font-size: 1.3rem;
+  color: var(--gold);
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+a {
+  color: inherit;
+}
+
+nav a, header a {
+  border: 1px solid var(--gold);
+  padding: .8rem 1.2rem;
+  text-decoration: none;
+  border-radius: 999px;
+}
+
+.page {
+  max-width: 1000px;
+  margin: auto;
+  padding: 2rem;
+  background: var(--ivory);
+}
+
+header {
+  border-bottom: 1px solid var(--stone);
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+}
+
+header h1 {
+  color: var(--navy);
+  font-size: clamp(2.5rem, 6vw, 5rem);
+}
+
+.entry {
+  background: white;
+  margin: 1.5rem 0;
+  padding: 1.5rem;
+  border-left: 6px solid var(--blue);
+  box-shadow: 0 10px 30px rgba(7,27,44,.08);
+}
+
+.date {
+  color: var(--gold);
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-weight: 700;
+}
+
+.media-note, .note {
+  color: #405365;
+}
+
+.route {
+  display: grid;
+  gap: .75rem;
+}
+
+.route-card {
+  background: var(--navy);
+  color: var(--ivory);
+  padding: 1rem 1.2rem;
+  border-left: 6px solid var(--blue);
+  font-size: 1.05rem;
+}
+
+.route-card.milestone {
+  border-left-color: var(--gold);
+  background: #27384a;
+  color: #fff7db;
+  font-weight: 700;
+}

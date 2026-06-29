@@ -1,0 +1,18 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python/cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build/export outputs
+export/
+dist/
+.cache/
+
+# Keep original media under version control intentionally for this private family archive.

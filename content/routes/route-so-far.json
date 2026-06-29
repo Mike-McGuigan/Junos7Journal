@@ -1,67 +1,93 @@
 [
   {
-    "date": "2026-06-11",
-    "location": "Lindos, Rhodes",
-    "phase": "before_joining"
+    "date": "11 Jun",
+    "name": "Lindos, Rhodes",
+    "phase": "before",
+    "lat": 36.091,
+    "lng": 28.086
   },
   {
-    "date": "2026-06-11",
-    "location": "Chalki",
-    "phase": "before_joining"
+    "date": "11\u201312 Jun",
+    "name": "Chalki",
+    "phase": "before",
+    "lat": 36.222,
+    "lng": 27.611
   },
   {
-    "date": "2026-06-12",
-    "location": "Symi",
-    "phase": "before_joining"
+    "date": "12\u201313 Jun",
+    "name": "Symi",
+    "phase": "before",
+    "lat": 36.617,
+    "lng": 27.838
   },
   {
-    "date": "2026-06-15",
-    "location": "Nisyros",
-    "phase": "before_joining"
+    "date": "15\u201316 Jun",
+    "name": "Nisyros",
+    "phase": "before",
+    "lat": 36.611,
+    "lng": 27.133
   },
   {
-    "date": "2026-06-16",
-    "location": "Kos",
-    "phase": "joining_period"
+    "date": "16\u201318 Jun",
+    "name": "Kos",
+    "phase": "before",
+    "lat": 36.893,
+    "lng": 27.289
   },
   {
-    "date": "2026-06-17",
-    "location": "Cameron and Sophie join",
-    "phase": "milestone"
+    "date": "17 Jun",
+    "name": "Cameron & Sophie join",
+    "phase": "milestone",
+    "lat": 36.893,
+    "lng": 27.289
   },
   {
-    "date": "2026-06-18",
-    "location": "Lipsi",
-    "phase": "onboard"
+    "date": "18\u201319 Jun",
+    "name": "Lipsi",
+    "phase": "onboard",
+    "lat": 37.295,
+    "lng": 26.766
   },
   {
-    "date": "2026-06-19",
-    "location": "Patmos",
-    "phase": "onboard"
+    "date": "19\u201321 Jun",
+    "name": "Patmos",
+    "phase": "onboard",
+    "lat": 37.324,
+    "lng": 26.545
   },
   {
-    "date": "2026-06-22",
-    "location": "Katapola, Amorgos",
-    "phase": "onboard"
+    "date": "22 Jun",
+    "name": "Katapola, Amorgos",
+    "phase": "onboard",
+    "lat": 36.827,
+    "lng": 25.863
   },
   {
-    "date": "2026-06-22",
-    "location": "Ios",
-    "phase": "onboard"
+    "date": "22\u201323 Jun",
+    "name": "Ios",
+    "phase": "onboard",
+    "lat": 36.722,
+    "lng": 25.272
   },
   {
-    "date": "2026-06-26",
-    "location": "Zakynthos",
-    "phase": "onboard"
+    "date": "26\u201327 Jun",
+    "name": "Zakynthos",
+    "phase": "onboard",
+    "lat": 37.788,
+    "lng": 20.899
   },
   {
-    "date": "2026-06-28",
-    "location": "Sami, Kefalonia",
-    "phase": "onboard"
+    "date": "28 Jun",
+    "name": "Sami, Kefalonia",
+    "phase": "onboard",
+    "lat": 38.253,
+    "lng": 20.647
   },
   {
-    "date": "2026-06-29",
-    "location": "East Coast Ithaca",
-    "phase": "onboard"
+    "date": "29 Jun",
+    "name": "East Coast Ithaca",
+    "phase": "onboard",
+    "lat": 38.43164,
+    "lng": 20.58843
   }
 ]

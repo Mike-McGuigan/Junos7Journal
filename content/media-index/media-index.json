@@ -1,11 +1,106 @@
-{
-  "note": "Media files remain in media/originals. This index will later map filenames to dates, captions and journal entries.",
-  "known_dates": [
-    "2026-06-17",
-    "2026-06-20",
-    "2026-06-21",
-    "2026-06-23",
-    "2026-06-26",
-    "2026-06-27"
-  ]
-}
+[
+  {
+    "id": "join-selfie",
+    "date": "2026-06-17",
+    "type": "photo",
+    "title": "Cameron and Sophie in Juno's 7 crew uniform",
+    "caption": "Cameron and Sophie shortly after joining Juno's 7.",
+    "url": "media/photos/2026-06-17-cameron-sophie-selfie.jpg"
+  },
+  {
+    "id": "junos-sete-marina",
+    "date": "2026-06-17",
+    "type": "photo",
+    "title": "Juno's 7 and SETE",
+    "caption": "Juno's 7 with her chase boat SETE nearby.",
+    "url": "media/photos/2026-06-17-junos7-sete-marina.jpg"
+  },
+  {
+    "id": "mooring-lines",
+    "date": "2026-06-19",
+    "type": "photo",
+    "title": "Learning the ropes",
+    "caption": "Cameron working with lines on deck.",
+    "url": "media/photos/2026-06-19-cameron-lines.jpg"
+  },
+  {
+    "id": "sundeck-black",
+    "date": "2026-06-20",
+    "type": "photo",
+    "title": "Giving the sun deck black some love",
+    "caption": "Deck work with the Greek islands beyond.",
+    "url": "media/photos/2026-06-20-sundeck-black.jpg"
+  },
+  {
+    "id": "junos-lipsi",
+    "date": "2026-06-20",
+    "type": "photo",
+    "title": "Juno's 7 at anchor",
+    "caption": "Juno's 7 sitting quietly against the Greek coastline.",
+    "url": "media/photos/2026-06-20-junos7-at-anchor.jpg"
+  },
+  {
+    "id": "cameron-jetski",
+    "date": "2026-06-21",
+    "type": "photo",
+    "title": "Sophie's first jet ski day",
+    "caption": "A quiet moment around the swim platform and water toys.",
+    "url": "media/photos/2026-06-21-cameron-jetski.jpg"
+  },
+  {
+    "id": "future-house",
+    "date": "2026-06-23",
+    "type": "photo",
+    "title": "My future house",
+    "caption": "The hillside villa Sophie picked out from the water.",
+    "url": "media/photos/2026-06-23-future-house.jpg"
+  },
+  {
+    "id": "nice-spot-1",
+    "date": "2026-06-27",
+    "type": "photo",
+    "title": "Nice spot for today",
+    "caption": "Tender and toys alongside in a peaceful anchorage.",
+    "url": "media/photos/2026-06-27-nice-spot-1.jpg"
+  },
+  {
+    "id": "nice-spot-2",
+    "date": "2026-06-27",
+    "type": "photo",
+    "title": "Green hills and clear water",
+    "caption": "A sheltered bay with water toys ready on the platform.",
+    "url": "media/photos/2026-06-27-nice-spot-2.jpg"
+  },
+  {
+    "id": "nice-spot-3",
+    "date": "2026-06-27",
+    "type": "photo",
+    "title": "Sun on the water",
+    "caption": "Sunlight across the anchorage from the swim platform.",
+    "url": "media/photos/2026-06-27-nice-spot-3.jpg"
+  },
+  {
+    "id": "sophie-june26",
+    "date": "2026-06-26",
+    "type": "video",
+    "title": "Sophie video",
+    "caption": "Short video sent by Sophie on 26 June.",
+    "url": "media/videos/2026-06-26-sophie-video.mp4"
+  },
+  {
+    "id": "rather-rocky",
+    "date": "2026-06-21",
+    "type": "video",
+    "title": "Rather rocky",
+    "caption": "Cameron's late-morning video: \u201cRather rocky.\u201d",
+    "url": "media/videos/2026-06-21-rather-rocky.mp4"
+  },
+  {
+    "id": "webcam-boarding",
+    "date": "2026-06-17",
+    "type": "video",
+    "title": "The Beginning",
+    "caption": "Webcam footage showing Cameron and Sophie boarding Juno's 7 for the first time.",
+    "url": "media/webcam/2026-06-17-first-boarding-webcam.mp4"
+  }
+]

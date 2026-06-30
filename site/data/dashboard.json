@@ -1,45 +1,19 @@
 {
-  "version": "0.7.2",
-  "release": "Route Gap and Homepage Map Replacement",
-  "buildUtc": "2026-06-30 10:12:03 UTC",
+  "version": "0.8.0",
+  "release": "Story Engine",
+  "buildUtc": "2026-06-30 11:43:48 UTC",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "lastManualLookupUtc": "2026-06-30T10:10:00Z",
-    "latestStatus": "Recent AIS reception - East Mediterranean / West Coast Greece area",
-    "latestSource": "Manual public AIS reconstruction",
-    "latestPrecisePosition": {
-      "lat": 38.43164,
-      "lng": 20.58843,
-      "reportedUtc": "2026-06-29T10:47:00Z",
-      "source": "latest precise coordinate already stored"
-    },
-    "note": "Route now includes partial public-history points between Ios and Zakynthos. These are not full AIS history."
+    "latestStatus": "Underway on 30 Jun - Cameron reported around 2.5 hours remaining",
+    "latestSource": "Family update + manual AIS context"
   },
-  "vessels": [
-    {
-      "key": "junos7",
-      "name": "Juno's 7",
-      "displayName": "JUNOS 7",
-      "imo": "1109712",
-      "mmsi": "319303300",
-      "role": "Main yacht"
-    },
-    {
-      "key": "sete",
-      "name": "SETE",
-      "displayName": "SETE",
-      "imo": null,
-      "mmsi": "319314700",
-      "role": "Chase boat"
-    }
-  ],
   "stats": {
     "routeStops": 17,
-    "journalDays": 9,
-    "mediaItems": 13,
-    "videos": 3,
-    "photos": 10
+    "journalEntries": 10,
+    "mediaItems": 15,
+    "photos": 11,
+    "videos": 4
   }
 }

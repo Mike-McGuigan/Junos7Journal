@@ -8,4 +8,4 @@ media: mooring-lines
 
 # Learning the Ropes
 
-Cameron was already settling into the rhythm of deck work: lines, fenders, washdowns and the quiet precision that sits behind every smooth arrival.
+Cameron settled into the rhythm of deck work: lines, fenders, washdowns and the careful details behind every smooth arrival.

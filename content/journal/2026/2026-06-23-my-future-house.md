@@ -10,6 +10,7 @@ media: future-house
 
 Passing a beautiful hillside house above the water, Sophie captured one of those light-hearted travel moments that instantly becomes part of the shared story.
 
-## Sophie's Journal
 
-> "My future house!"
+## Sophie's note
+
+> My future house!

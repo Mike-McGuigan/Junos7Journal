@@ -1,8 +1,7 @@
 {
-  "version": "0.5.0",
-  "release": "Release Management",
-  "buildUtc": "2026-06-29 16:18:56 UTC",
-  "status": "development",
+  "version": "0.8.0",
+  "release": "Story Engine",
+  "buildUtc": "2026-06-30 11:43:48 UTC",
   "project": "Juno's 7 Mediterranean Journal",
   "pagesSource": "docs"
 }

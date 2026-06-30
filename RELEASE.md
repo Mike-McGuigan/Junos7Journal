@@ -1,14 +1,16 @@
 # Current Release
 
-Version: 0.7.6
+Version: 0.8.0
 
-Name: Restore Homepage Sections and SETE Role
+Name: Story Engine
 
-Build date: 2026-06-30 11:09:41 UTC
+Build date: 2026-06-30 11:43:48 UTC
 
 ## Highlights
 
-- Restores the homepage from the backup created by the 0.7.5 cleanup script if available.
-- Avoids broad section replacement so Journal, Gallery and Collector's Edition sections are preserved.
-- Restores SETE's `role_in_journal` to a proper vessel role.
-- Corrects SETE references only in known photo caption data files.
+- Rebuilt homepage cleanly.
+- Added 27 June Sophie video.
+- Added 30 June underway photo and Cameron quote.
+- Added At Sea journal entry type.
+- Kept improved voyage map with double-click-to-location zoom.
+- Restored SETE vessel metadata and safe captions.

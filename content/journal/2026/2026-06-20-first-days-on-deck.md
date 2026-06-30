@@ -8,8 +8,9 @@ media: sundeck-black, junos-lipsi
 
 # First Days on Deck
 
-The early days aboard quickly settled into the rhythm of exterior maintenance: cleaning, polishing and keeping the yacht looking immaculate beneath the Mediterranean sun.
+The early days aboard quickly became a cycle of cleaning, polishing and keeping the yacht looking immaculate beneath the Mediterranean sun.
 
-## Cameron's Journal
 
-> "Giving the sun deck black some love."
+## Cameron's note
+
+> Giving the sun deck black some love.

@@ -1,11 +1,16 @@
 # Changelog
 
-## 0.7.6 - Restore Homepage Sections and SETE Role
+## 0.8.0 - Story Engine
 
 ### Added
-- `tools/restore_homepage_and_sete_role.py`
+- New 27 June video from Sophie.
+- New 30 June underway photo from Cameron.
+- Clean rebuilt homepage.
+- Story-focused journal data.
+- Latest media section.
+- At Sea journal entry.
 
 ### Fixed
-- Restores homepage sections accidentally removed by an over-broad cleanup.
-- Restores SETE vessel metadata.
-- Limits SETE caption correction to known journal/media data files.
+- Removes old homepage SVG map duplication.
+- Keeps Journal, Gallery and Collector's Edition sections visible.
+- Corrects SETE caption issue while preserving SETE as chase boat metadata.

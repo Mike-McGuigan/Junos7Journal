@@ -10,6 +10,7 @@ media: rather-rocky
 
 The sea showed a livelier side during the late morning passage.
 
-## Cameron's Journal
 
-> "Rather rocky."
+## Cameron's note
+
+> Rather rocky.

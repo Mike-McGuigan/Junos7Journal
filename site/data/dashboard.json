@@ -1,21 +1,22 @@
 {
-  "version": "1.0.2",
-  "release": "Latest Position Update",
+  "version": "1.0.3",
+  "release": "Paxi Position Correction",
   "buildUtc": "2026-06-30 13:32:09 UTC",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Latest precise public coordinate plotted - West Coast Greece / Ionian Sea",
-    "latestSource": "Manual public AIS lookup",
-    "lastManualLookupUtc": "2026-06-30T20:10:00Z",
-    "latestPrecisePosition": {
-      "lat": 39.01234,
-      "lng": 20.32855,
-      "reportedUtc": "2026-06-30T06:16:00Z",
-      "source": "MyShipTracking public page"
-    },
-    "note": "Latest precise coordinate from MyShipTracking; recent area corroborated by VesselFinder/Maritime Optima public snippets."
+    "latestStatus": "User-confirmed current location: Paxi / Paxos",
+    "latestSource": "User-confirmed location; approximate map marker",
+    "lastManualLookupUtc": "2026-06-30T21:12:00Z",
+    "latestPrecisePosition": null,
+    "note": "Previous en-route AIS marker has been replaced because it appears stale. Current marker is plotted approximately in Paxi/Paxos pending a fresh precise AIS coordinate.",
+    "latestApproximatePosition": {
+      "lat": 39.2026,
+      "lng": 20.1858,
+      "precision": "approximate area marker",
+      "source": "user-confirmed current location"
+    }
   },
   "stats": {
     "routeStops": 16,

@@ -1,12 +1,12 @@
 # Current Release
 
-Version: 1.0.2
+Version: 1.0.3
 
-Name: Latest Position Update
+Name: Paxi Position Correction
 
 ## Highlights
 
-- Adds latest precise public AIS coordinate for JUNOS 7.
-- Plots `39.01234, 20.32855` as the latest/current marker.
-- Stores a manual AIS lookup record.
-- Updates dashboard status to show the newest plotted point.
+- Corrects the latest plotted position from stale en-route AIS to the Paxi/Paxos area.
+- Adds a current marker at approximate Paxi/Gaios coordinates: `39.2026, 20.1858`.
+- Stores the correction as a manual AIS/location record.
+- Marks the point clearly as approximate pending a fresh precise AIS coordinate.

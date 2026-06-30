@@ -1,0 +1,22 @@
+{
+  "timestampUtc": "2026-06-30T21:12:00Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "status": "At/near Paxi",
+  "area": "Paxi / Paxos, Ionian Sea, Greece",
+  "position": {
+    "lat": 39.2026,
+    "lng": 20.1858,
+    "precision": "approximate area marker",
+    "source": "user-confirmed current location"
+  },
+  "replaces": {
+    "lat": 39.01234,
+    "lng": 20.32855,
+    "reason": "Previous marker appears to have been a stale en-route AIS position."
+  },
+  "source": "user observation plus public AIS area context",
+  "confidence": "area high; exact coordinate approximate pending fresh precise AIS"
+}

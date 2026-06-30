@@ -1,11 +1,11 @@
 # Changelog
 
-## 1.0.2 - Latest Position Update
+## 1.0.3 - Paxi Position Correction
 
 ### Added
-- `tools/add_latest_position_2026_06_30.py`
-- `data/ais/manual/2026-06-30-2010-junos7-latest-position.json`
+- `tools/correct_latest_position_to_paxi.py`
+- `data/ais/manual/2026-06-30-2112-junos7-paxi-correction.json`
 
 ### Changed
-- Route data gets a new current/latest marker at `39.01234, 20.32855`.
-- Dashboard data gets the latest public AIS lookup summary.
+- Replaces stale latest AIS marker with an approximate Paxi/Paxos current marker.
+- Dashboard latest status updated to user-confirmed Paxi location.

@@ -1,0 +1,27 @@
+{
+  "version": "1.0.2",
+  "release": "Latest Position Update",
+  "buildUtc": "2026-06-30 13:32:09 UTC",
+  "tracker": {
+    "workflow": "running",
+    "provider": "manual / provider not configured",
+    "liveAis": false,
+    "latestStatus": "Latest precise public coordinate plotted - West Coast Greece / Ionian Sea",
+    "latestSource": "Manual public AIS lookup",
+    "lastManualLookupUtc": "2026-06-30T20:10:00Z",
+    "latestPrecisePosition": {
+      "lat": 39.01234,
+      "lng": 20.32855,
+      "reportedUtc": "2026-06-30T06:16:00Z",
+      "source": "MyShipTracking public page"
+    },
+    "note": "Latest precise coordinate from MyShipTracking; recent area corroborated by VesselFinder/Maritime Optima public snippets."
+  },
+  "stats": {
+    "routeStops": 16,
+    "journalEntries": 10,
+    "mediaItems": 16,
+    "photos": 11,
+    "videos": 5
+  }
+}

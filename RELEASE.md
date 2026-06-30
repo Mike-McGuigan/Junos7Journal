@@ -1,14 +1,29 @@
 # Current Release
 
-Version: 0.9.1
+Version: 1.0.0
 
-Name: Cam on a Mission
+Name: Juno's 7 Companion Pages
 
-Build date: 2026-06-30 15:58:08 UTC
+Build date: 2026-06-30 16:30:56 UTC
 
 ## Highlights
 
-- Adds Sophie's 30 June video: "Cam on a mission."
-- Adds a general caption for Cameron towing inflatable water toys.
-- Updates the 30 June At Sea journal source content.
-- Keeps guests general until identities are confirmed.
+- Adds `site/about.html` — About Juno's 7.
+- Adds `site/crew.html` — Meet the Crew.
+- Adds companion page styling.
+- Adds a navigation patch script.
+- Adds `PROJECT_NOTES.md`.
+- Adds structured yacht data at `site/data/about-junos7.json`.
+
+## Apply
+
+```bash
+python tools/patch_companion_nav.py
+python tools/build_site.py
+```
+
+Commit:
+
+```text
+Release 1.0.0 companion pages
+```

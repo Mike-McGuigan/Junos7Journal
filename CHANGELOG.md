@@ -1,11 +1,14 @@
 # Changelog
 
-## 0.9.1 - Cam on a Mission
+## 1.0.0 - Juno's 7 Companion Pages
 
 ### Added
-- `site/media/videos/2026-06-30-cam-on-a-mission.mp4`
-- `content/journal/2026/2026-06-30-underway-changing-conditions.md`
-- media update JSON for the new video
+- About Juno's 7 page.
+- Meet the Crew page.
+- Companion page CSS.
+- Structured yacht fact data.
+- Homepage navigation patch.
+- Project notes.
 
 ### Notes
-This is a content update. It includes the video and source journal content. The current site may still need its main generated `site/data/journal.json` updated by the build/content pipeline when that is fully in use.
+This release uses public yacht information and keeps private crew/guest details general.

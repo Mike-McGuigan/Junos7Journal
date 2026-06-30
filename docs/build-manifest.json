@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1",
+  "version": "1.0.0",
   "release": "Content First Journal",
-  "buildUtc": "2026-06-30 16:11:45 UTC",
-  "fileCount": 48,
+  "buildUtc": "2026-06-30 17:22:54 UTC",
+  "fileCount": 53,
   "files": [
     {
       "path": ".gitkeep",
@@ -10,19 +10,29 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "about.html",
+      "sizeBytes": 4878,
+      "sha256": "6eb90f8b8adc87bc84c64ee354b2f4172e02f7a35a15405dccfa42b920139f35"
+    },
+    {
       "path": "build-info.html",
       "sizeBytes": 486,
-      "sha256": "05dbc0a5e35c5bfa2f9e39243741b99fdd08a8cc1ad058e70c3cfbb923542452"
+      "sha256": "5cc8e97bcb8888c179a07598ec1ccedbe12833d5e92d6d53e9cd2ba562dcc8bd"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 181,
-      "sha256": "f6597bc5672f34295c1a6d0447dbec5ae2e35f3f04618a9dcc4e96e2f84cc9f5"
+      "sha256": "83cfa01cef4cc113de85aa446ab1454a1c16bced3dadb7a8e0cba15040b444e7"
+    },
+    {
+      "path": "crew.html",
+      "sizeBytes": 5575,
+      "sha256": "e5ee831530f480c952e859174e72954dbd2ef6367afe52bd31a2fe4b59ba4c57"
     },
     {
       "path": "index.html",
-      "sizeBytes": 2764,
-      "sha256": "f581dfc88bfc11622dcb34163b631d90d8549bbf5bbf55219151db34e908389e"
+      "sizeBytes": 2841,
+      "sha256": "32acabd3fc18c4d21d3fbd76b9ef5044ffa41b314bcb07cded040a62188dd834"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -38,6 +48,11 @@
       "path": "index.html.bak-0-7-5",
       "sizeBytes": 4014,
       "sha256": "fd9ddd9e8297bf12e168046c95b0a91b9b58303fb441a152474519b0b1b09813"
+    },
+    {
+      "path": "index.html.bak-1-0-0-nav",
+      "sizeBytes": 2764,
+      "sha256": "f581dfc88bfc11622dcb34163b631d90d8549bbf5bbf55219151db34e908389e"
     },
     {
       "path": "index.html.bak-before-0-7-6-restore",
@@ -58,6 +73,11 @@
       "path": "voyage.html",
       "sizeBytes": 1005,
       "sha256": "61d83c235dd357852117b34d063e0765c943b3c6fe9f9f227c6967491eac6468"
+    },
+    {
+      "path": "data/about-junos7.json",
+      "sizeBytes": 756,
+      "sha256": "a0c3881e44ece0d7b55877598b6c8c79eb76341f419896fe0484be1a5afe44fc"
     },
     {
       "path": "data/dashboard.json",
@@ -112,7 +132,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 181,
-      "sha256": "f6597bc5672f34295c1a6d0447dbec5ae2e35f3f04618a9dcc4e96e2f84cc9f5"
+      "sha256": "83cfa01cef4cc113de85aa446ab1454a1c16bced3dadb7a8e0cba15040b444e7"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -203,6 +223,11 @@
       "path": "media/webcam/2026-06-17-first-boarding-webcam.mp4",
       "sizeBytes": 11579714,
       "sha256": "70a221c8f03c336c6f1ce461ec43bf70fe00b089257110995d4801eed04633c4"
+    },
+    {
+      "path": "assets/css/companion.css",
+      "sizeBytes": 2482,
+      "sha256": "46dac473a6faee2ad683a29976ffad4fd8cad4c450d3be8e5f7b93a534381b66"
     },
     {
       "path": "assets/css/dashboard.css",

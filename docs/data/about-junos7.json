@@ -1,0 +1,30 @@
+{
+  "name": "Juno's 7",
+  "displayName": "JUNO'S 7",
+  "imo": "1109712",
+  "mmsi": "319303300",
+  "callsign": "ZGSN8",
+  "flag": "Cayman Islands",
+  "builder": "Benetti",
+  "model": "Class 44M",
+  "delivered": "2025",
+  "launched": "November 2024",
+  "launchLocation": "Viareggio, Italy",
+  "design": "Cassetta Yacht Designers",
+  "lengthM": 44.06,
+  "beamM": 9.16,
+  "draftM": 2.31,
+  "grossTonnage": "470\u2013471 GT",
+  "cruisingSpeedKnots": 11,
+  "topSpeedKnots": 15,
+  "rangeNm": 4100,
+  "guests": "10\u201312",
+  "cabins": "5\u20136",
+  "crew": "8\u20139",
+  "notes": [
+    "First Benetti Class 44M unit.",
+    "Flagship of Benetti's fibreglass Class range.",
+    "Large sundeck and beach club-focused layout.",
+    "Long-range cruising focus."
+  ]
+}

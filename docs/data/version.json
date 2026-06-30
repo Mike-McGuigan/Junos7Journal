@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
   "version": "0.7.0",
   "release": "Dashboard and Mapping",
   "buildUtc": "2026-06-30 08:22:21 UTC",
+=======
+  "version": "0.6.0",
+  "release": "Release Management",
+  "buildUtc": "2026-06-29 22:40:16 UTC",
+  "status": "development",
+>>>>>>> cc883859855877b8548a2ab9db5134677f8161bd
   "project": "Juno's 7 Mediterranean Journal",
   "pagesSource": "docs"
 }

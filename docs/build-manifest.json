@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "version": "0.7.0",
   "release": "Dashboard and Mapping",
   "buildUtc": "2026-06-30 08:22:21 UTC",
@@ -23,6 +24,22 @@
       "path": "index.html",
       "sizeBytes": 3082,
       "sha256": "8cb3c82b96e4264db98ca166291902e35b79a93d56d47e060043f44e41371f55"
+=======
+  "version": "0.6.0",
+  "release": "Release Management",
+  "buildUtc": "2026-06-29 22:40:16 UTC",
+  "fileCount": 29,
+  "files": [
+    {
+      "path": "timeline.html",
+      "sizeBytes": 1495,
+      "sha256": "5f374eb5e1f1b2722ab818f90b982dc8ce3825177b76ea2f5c5080798e359966"
+    },
+    {
+      "path": "build-info.json",
+      "sizeBytes": 199,
+      "sha256": "3ac7a636d7571c594b33afea946a7dd0b06fc23a7295d20727afa74d27867236"
+>>>>>>> cc883859855877b8548a2ab9db5134677f8161bd
     },
     {
       "path": "route.html",
@@ -30,11 +47,12 @@
       "sha256": "5b6b9a4c34b2811eb57646e3716383452700fdefb3b5650a7925ab7a8cb6ed47"
     },
     {
-      "path": "timeline.html",
-      "sizeBytes": 1495,
-      "sha256": "5f374eb5e1f1b2722ab818f90b982dc8ce3825177b76ea2f5c5080798e359966"
+      "path": "index.html",
+      "sizeBytes": 3072,
+      "sha256": "fe11de55487cf5dcd958ca78d26ed403179c288e064f9342af619b35aeb58a02"
     },
     {
+<<<<<<< HEAD
       "path": "voyage.html",
       "sizeBytes": 1163,
       "sha256": "0efd58c623bf41b9cfacfa8e27beb19f074c7504a7f3745633423a9030ffe8e4"
@@ -53,6 +71,21 @@
       "path": "data/route.json",
       "sizeBytes": 1558,
       "sha256": "1aa265a56b103dab9c7e2f791049b49cbe68b9b998a19e39b40a3ce3f74c0078"
+=======
+      "path": "build-info.html",
+      "sizeBytes": 685,
+      "sha256": "805d8c62a38849321a3275daf28497ad53867cc3f004ae9970a4cc0ecb0e66e4"
+    },
+    {
+      "path": ".gitkeep",
+      "sizeBytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "data/tracker.json",
+      "sizeBytes": 992,
+      "sha256": "bd72c45920ca2fe42ae0589e3de84646cf7974c472adf6a7be086fe02b4953a5"
+>>>>>>> cc883859855877b8548a2ab9db5134677f8161bd
     },
     {
       "path": "data/site.json",
@@ -66,28 +99,23 @@
     },
     {
       "path": "data/version.json",
+<<<<<<< HEAD
       "sizeBytes": 181,
       "sha256": "b0aad997c8931b3b159e4372a431d15c1d02b5694ca25e329384442a2dba2837"
+=======
+      "sizeBytes": 199,
+      "sha256": "3ac7a636d7571c594b33afea946a7dd0b06fc23a7295d20727afa74d27867236"
+>>>>>>> cc883859855877b8548a2ab9db5134677f8161bd
     },
     {
-      "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
-      "sizeBytes": 408400,
-      "sha256": "1fc77c63ff51700ba9b447f469da539ebc63918efc09a1eada41e027a2919e14"
+      "path": "data/route.json",
+      "sizeBytes": 1108,
+      "sha256": "5683c64246236bf4bb5c4fb0fa3502bd6a740518621b42a2a7b41a210cab22f3"
     },
     {
-      "path": "media/photos/2026-06-17-junos7-sete-marina.jpg",
-      "sizeBytes": 365702,
-      "sha256": "5097b6437c97c33cb3638f506045c7333802affe3a15e02a9350f3a29e0a3e79"
-    },
-    {
-      "path": "media/photos/2026-06-19-cameron-lines.jpg",
-      "sizeBytes": 268328,
-      "sha256": "d4a9f66b7bd5ef3d91dcd9e4b0ef691a16a3c2c1d94b8e1650788bb7948846c1"
-    },
-    {
-      "path": "media/photos/2026-06-20-junos7-at-anchor.jpg",
-      "sizeBytes": 319552,
-      "sha256": "385713d4caaadaafbbf7fb6b002aa7778b54222fa0881d72e832f4ecd0a025de"
+      "path": "data/journal.json",
+      "sizeBytes": 9302,
+      "sha256": "58725bf20c5df5c1edbbf0f44b21079400639c53931b7c94941458a002a58b75"
     },
     {
       "path": "media/photos/2026-06-20-sundeck-black.jpg",
@@ -95,19 +123,24 @@
       "sha256": "d4527a0981283ddba6f582259dc18d2e78faec4cf811585d5c49bad7dcb46335"
     },
     {
-      "path": "media/photos/2026-06-21-cameron-jetski.jpg",
-      "sizeBytes": 239156,
-      "sha256": "e96414a3038ae6d85b349204113bf7b036f9b48924e6fca3f84c9e97fd3b66a5"
-    },
-    {
       "path": "media/photos/2026-06-23-future-house.jpg",
       "sizeBytes": 437886,
       "sha256": "9408680caa3c236f04d508996e566a65f8a79529358426760771c767ec74609f"
     },
     {
+      "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
+      "sizeBytes": 408400,
+      "sha256": "1fc77c63ff51700ba9b447f469da539ebc63918efc09a1eada41e027a2919e14"
+    },
+    {
       "path": "media/photos/2026-06-27-nice-spot-1.jpg",
       "sizeBytes": 329452,
       "sha256": "e325af0a34e4b947c76973718720b09fb019029e491ce7db14e76efcf4381191"
+    },
+    {
+      "path": "media/photos/2026-06-21-cameron-jetski.jpg",
+      "sizeBytes": 239156,
+      "sha256": "e96414a3038ae6d85b349204113bf7b036f9b48924e6fca3f84c9e97fd3b66a5"
     },
     {
       "path": "media/photos/2026-06-27-nice-spot-2.jpg",
@@ -118,6 +151,21 @@
       "path": "media/photos/2026-06-27-nice-spot-3.jpg",
       "sizeBytes": 320620,
       "sha256": "306596f3d53cdb4dc74a8d194330a9251b90dbbe85555d76695bca033993c4ce"
+    },
+    {
+      "path": "media/photos/2026-06-20-junos7-at-anchor.jpg",
+      "sizeBytes": 319552,
+      "sha256": "385713d4caaadaafbbf7fb6b002aa7778b54222fa0881d72e832f4ecd0a025de"
+    },
+    {
+      "path": "media/photos/2026-06-19-cameron-lines.jpg",
+      "sizeBytes": 268328,
+      "sha256": "d4a9f66b7bd5ef3d91dcd9e4b0ef691a16a3c2c1d94b8e1650788bb7948846c1"
+    },
+    {
+      "path": "media/photos/2026-06-17-junos7-sete-marina.jpg",
+      "sizeBytes": 365702,
+      "sha256": "5097b6437c97c33cb3638f506045c7333802affe3a15e02a9350f3a29e0a3e79"
     },
     {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",
@@ -135,9 +183,15 @@
       "sha256": "70a221c8f03c336c6f1ce461ec43bf70fe00b089257110995d4801eed04633c4"
     },
     {
+<<<<<<< HEAD
       "path": "assets/css/dashboard.css",
       "sizeBytes": 1342,
       "sha256": "42c48c97645dfc1f414b6390726d21951945d61e79cf6ad9dadd83334439d1e3"
+=======
+      "path": "assets/images/.gitkeep",
+      "sizeBytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+>>>>>>> cc883859855877b8548a2ab9db5134677f8161bd
     },
     {
       "path": "assets/css/style.css",
@@ -148,11 +202,6 @@
       "path": "assets/css/version.css",
       "sizeBytes": 836,
       "sha256": "13574efb008adf89f18ce276fc725874a1a9ae41f4e4f6c98bda1347888feb00"
-    },
-    {
-      "path": "assets/images/.gitkeep",
-      "sizeBytes": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "assets/js/app.js",

@@ -1,16 +1,22 @@
 {
-  "version": "0.7.0",
-  "release": "Dashboard and Mapping",
-  "buildUtc": "2026-06-30 07:40:38 UTC",
+  "version": "0.7.1",
+  "release": "Current Location and Homepage Voyage Link",
+  "buildUtc": "2026-06-30 09:20:04 UTC",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "lastManualLookupUtc": "2026-06-30T07:34:00Z",
-    "latestStatus": "Under way, last reported departing Sami/Kefalonia area; exact current coordinates not yet stored.",
+    "lastManualLookupUtc": "2026-06-30T09:18:00Z",
+    "latestStatus": "At anchor - East Mediterranean / West Coast Greece area",
     "latestSpeedKnots": 11.5,
-    "latestSource": "Manual AIS lookup",
-    "note": "No paid AIS provider is configured. Manual lookup entries can be added while provider evaluation continues."
+    "latestSource": "Manual public AIS lookup",
+    "latestPrecisePosition": {
+      "lat": 38.43164,
+      "lng": 20.58843,
+      "reportedUtc": "2026-06-29T10:47:00Z",
+      "source": "MyShipTracking public page"
+    },
+    "note": "Current public sources confirm area/status, but the fresh public text did not expose exact coordinates. The map marker uses the latest precise stored position."
   },
   "vessels": [
     {
@@ -31,7 +37,7 @@
     }
   ],
   "stats": {
-    "routeStops": 13,
+    "routeStops": 14,
     "journalDays": 9,
     "mediaItems": 13,
     "videos": 3,

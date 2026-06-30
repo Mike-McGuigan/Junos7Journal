@@ -1,16 +1,14 @@
 # Current Release
 
-Version: 0.7.0
+Version: 0.7.1
 
-Name: Dashboard and Mapping
+Name: Current Location and Homepage Voyage Link
 
-Build date: 2026-06-30 07:40:38 UTC
+Build date: 2026-06-30 09:20:04 UTC
 
 ## Highlights
 
-- Adds a dashboard section.
-- Replaces the temporary zig-zag route with a Leaflet-based map.
-- Adds map layers for OpenStreetMap and Esri World Imagery satellite view.
-- Adds tracker/provider status cards.
-- Adds a manual AIS lookup record for 30 June 2026.
-- Keeps the mapping provider-free: no Google Maps API key required.
+- Adds the latest manual public AIS lookup to structured data.
+- Adds a current/latest marker to the voyage map using the latest precise stored coordinate.
+- Updates dashboard cards with current AIS summary information.
+- Adds a safe homepage patch script so the old homepage Voyage section points users to `voyage.html`.

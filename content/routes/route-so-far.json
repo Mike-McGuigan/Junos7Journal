@@ -89,5 +89,13 @@
     "phase": "onboard",
     "lat": 38.43164,
     "lng": 20.58843
+  },
+  {
+    "date": "30 Jun",
+    "name": "Latest AIS summary",
+    "phase": "current",
+    "lat": 38.43164,
+    "lng": 20.58843,
+    "note": "Latest public search confirms JUNOS 7 is reported in the East Mediterranean / West Coast Greece area. Exact fresh coordinates were not exposed in the public text result, so this marker uses the latest precise coordinate stored from 29 Jun."
   }
 ]

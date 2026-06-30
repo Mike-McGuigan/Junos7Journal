@@ -8,6 +8,9 @@
 .map-timeline{display:flex;gap:.75rem;overflow-x:auto;padding:1rem;background:rgba(0,0,0,.28)}
 .map-stop{min-width:190px;border-left:4px solid #0f6f91;background:rgba(255,255,255,.08);padding:.85rem;color:#f6efe2;border-radius:8px;text-align:left;cursor:pointer}
 .map-stop.milestone{border-left-color:#c9a45c}
+.map-stop.current{border-left-color:#ff8a2a;box-shadow:0 0 0 1px rgba(255,138,42,.35) inset}
 .map-stop-date{color:#c9a45c;font-size:.72rem;text-transform:uppercase;letter-spacing:.12em;font-weight:800}
 .leaflet-popup-content{font-family:Segoe UI,Arial,sans-serif}
 .status-pill{display:inline-block;padding:.35rem .65rem;border-radius:999px;background:rgba(201,164,92,.16);border:1px solid rgba(201,164,92,.5);color:#c9a45c;font-size:.85rem}
+.voyage-dashboard-cta{margin:1.5rem 0;padding:1.25rem;border-radius:16px;border:1px solid rgba(201,164,92,.45);background:rgba(255,255,255,.07)}
+.voyage-dashboard-cta a{display:inline-block;margin-top:.75rem;padding:.7rem 1rem;border-radius:999px;border:1px solid rgba(201,164,92,.6);color:#f6efe2;text-decoration:none}

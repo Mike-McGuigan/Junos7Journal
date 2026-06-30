@@ -1,0 +1,25 @@
+{
+  "timestampUtc": "2026-06-30T09:18:00Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "status": "At anchor",
+  "speedKnots": 11.5,
+  "area": "East Mediterranean / West Coast Greece",
+  "lastPort": "Sami, Greece",
+  "atdUtc": "2026-06-29T05:31:00Z",
+  "destination": null,
+  "latestPrecisePosition": {
+    "lat": 38.43164,
+    "lng": 20.58843,
+    "reportedUtc": "2026-06-29T10:47:00Z",
+    "source": "MyShipTracking public page"
+  },
+  "currentPublicSummary": {
+    "reportedAge": "less than 1 hour / minutes old depending on source",
+    "sourceSummary": "VesselFinder and Maritime Optima public snippets confirm recent AIS reception in the East Mediterranean / West Coast Greece area, but the public text snippet did not expose a new coordinate."
+  },
+  "source": "manual public AIS lookup",
+  "confidence": "area/status current; exact coordinate retained from latest precise stored point"
+}

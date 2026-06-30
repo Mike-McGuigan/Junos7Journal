@@ -1,14 +1,13 @@
 # Current Release
 
-Version: 0.7.1
+Version: 0.7.2
 
-Name: Current Location and Homepage Voyage Link
+Name: Route Gap and Homepage Map Replacement
 
-Build date: 2026-06-30 09:20:04 UTC
+Build date: 2026-06-30 10:12:03 UTC
 
 ## Highlights
 
-- Adds the latest manual public AIS lookup to structured data.
-- Adds a current/latest marker to the voyage map using the latest precise stored coordinate.
-- Updates dashboard cards with current AIS summary information.
-- Adds a safe homepage patch script so the old homepage Voyage section points users to `voyage.html`.
+- Adds partial public AIS reconstruction points between Ios and Zakynthos.
+- Replaces the old homepage SVG voyage section with a clean link to the live dashboard.
+- Keeps the full interactive route on `voyage.html`.

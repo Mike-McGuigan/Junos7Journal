@@ -1,22 +1,21 @@
 {
-  "version": "0.7.1",
-  "release": "Current Location and Homepage Voyage Link",
-  "buildUtc": "2026-06-30 09:20:04 UTC",
+  "version": "0.7.2",
+  "release": "Route Gap and Homepage Map Replacement",
+  "buildUtc": "2026-06-30 10:12:03 UTC",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "lastManualLookupUtc": "2026-06-30T09:18:00Z",
-    "latestStatus": "At anchor - East Mediterranean / West Coast Greece area",
-    "latestSpeedKnots": 11.5,
-    "latestSource": "Manual public AIS lookup",
+    "lastManualLookupUtc": "2026-06-30T10:10:00Z",
+    "latestStatus": "Recent AIS reception - East Mediterranean / West Coast Greece area",
+    "latestSource": "Manual public AIS reconstruction",
     "latestPrecisePosition": {
       "lat": 38.43164,
       "lng": 20.58843,
       "reportedUtc": "2026-06-29T10:47:00Z",
-      "source": "MyShipTracking public page"
+      "source": "latest precise coordinate already stored"
     },
-    "note": "Current public sources confirm area/status, but the fresh public text did not expose exact coordinates. The map marker uses the latest precise stored position."
+    "note": "Route now includes partial public-history points between Ios and Zakynthos. These are not full AIS history."
   },
   "vessels": [
     {
@@ -37,7 +36,7 @@
     }
   ],
   "stats": {
-    "routeStops": 14,
+    "routeStops": 17,
     "journalDays": 9,
     "mediaItems": 13,
     "videos": 3,

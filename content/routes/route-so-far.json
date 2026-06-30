@@ -70,6 +70,30 @@
     "lng": 25.272
   },
   {
+    "date": "23 Jun",
+    "name": "Ios departure AIS",
+    "phase": "ais",
+    "lat": 36.71285,
+    "lng": 25.28499,
+    "note": "Public MyShipTracking result shows JUNO'S 7 around 36.71285, 25.28499 on 23 Jun after the Ios call."
+  },
+  {
+    "date": "24 Jun",
+    "name": "Sea of Crete AIS gap marker",
+    "phase": "ais",
+    "lat": 36.6513,
+    "lng": 24.3377,
+    "note": "Public AIS history snippet exposes a Sea of Crete position on 24 Jun. This helps fill the Ios to Zakynthos route gap, but should be treated as a public-source reconstruction rather than full track history."
+  },
+  {
+    "date": "25 Jun",
+    "name": "Sea of Crete / Cyclades area",
+    "phase": "ais",
+    "lat": 36.6473,
+    "lng": 24.3392,
+    "note": "A public tracker snippet reports JUNO'S 7 at anchor around 36.6473, 24.3392 before the later westward movement."
+  },
+  {
     "date": "26-27 Jun",
     "name": "Zakynthos",
     "phase": "onboard",
@@ -96,6 +120,6 @@
     "phase": "current",
     "lat": 38.43164,
     "lng": 20.58843,
-    "note": "Latest public search confirms JUNOS 7 is reported in the East Mediterranean / West Coast Greece area. Exact fresh coordinates were not exposed in the public text result, so this marker uses the latest precise coordinate stored from 29 Jun."
+    "note": "Latest public search confirms recent AIS reporting in the East Mediterranean / West Coast Greece area. Exact fresh coordinates were not exposed in the public text result, so this marker uses the latest precise coordinate stored from 29 Jun."
   }
 ]

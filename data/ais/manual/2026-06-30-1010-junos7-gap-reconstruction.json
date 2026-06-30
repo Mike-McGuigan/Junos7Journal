@@ -1,0 +1,37 @@
+{
+  "timestampUtc": "2026-06-30T10:10:00Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "status": "At anchor / recent AIS reception",
+  "area": "East Mediterranean / West Coast Greece",
+  "latestPrecisePosition": {
+    "lat": 38.43164,
+    "lng": 20.58843,
+    "reportedUtc": "2026-06-29T10:47:00Z",
+    "source": "latest precise coordinate already stored"
+  },
+  "reconstructedGapPoints": [
+    {
+      "timestampUtc": "2026-06-23T10:02:00Z",
+      "lat": 36.71285,
+      "lng": 25.28499,
+      "label": "Ios departure / post-Ios AIS point"
+    },
+    {
+      "timestampUtc": "2026-06-24T07:49:37Z",
+      "lat": 36.6513,
+      "lng": 24.3377,
+      "label": "Sea of Crete AIS event"
+    },
+    {
+      "timestampUtc": "2026-06-25T03:03:00Z",
+      "lat": 36.6473,
+      "lng": 24.3392,
+      "label": "Sea of Crete anchor/public tracker point"
+    }
+  ],
+  "source": "manual public AIS reconstruction",
+  "confidence": "partial public-history reconstruction; not a complete AIS trail"
+}

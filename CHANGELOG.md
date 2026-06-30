@@ -1,17 +1,16 @@
 # Changelog
 
-## 0.7.1 - Current Location and Homepage Voyage Link
+## 0.7.2 - Route Gap and Homepage Map Replacement
 
 ### Added
-- `data/ais/manual/2026-06-30-0918-junos7.json`
-- Latest AIS summary data in `site/data/dashboard.json`
-- Current marker in `site/data/route.json`
-- Homepage patch tool: `tools/patch_homepage_voyage_link.py`
+- `data/ais/manual/2026-06-30-1010-junos7-gap-reconstruction.json`
+- Additional route points for 23 Jun, 24 Jun and 25 Jun.
+- Homepage replacement tool: `tools/replace_homepage_voyage_section.py`
 
 ### Changed
-- Dashboard now displays latest precise stored coordinates and current public AIS summary.
-- Map highlights the latest/current marker in orange.
-- Homepage navigation can be patched to link to `voyage.html`.
+- `site/data/route.json` now includes partial public-history points between Ios and Zakynthos.
+- `site/data/dashboard.json` version updated to 0.7.2.
+- Homepage old embedded voyage SVG section can now be replaced entirely rather than just linked around.
 
-### Note
-The 30 Jun lookup confirms recent AIS reporting in the East Mediterranean / West Coast Greece area. The fresh public text result did not expose a new coordinate, so the map retains the latest precise coordinate already stored from 29 Jun.
+### Notes
+The Ios to Zakynthos gap is a partial reconstruction from public AIS snippets, not complete historical AIS.

@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-30",
+  "title": "Underway \u2014 Changing Conditions",
+  "location": "At Sea",
+  "type": "at-sea",
+  "person": "Cameron & Sophie",
+  "quotes": [
+    {
+      "person": "Cameron",
+      "text": "Underway for another 2.5 hours."
+    },
+    {
+      "person": "Sophie",
+      "text": "A little stormy today."
+    },
+    {
+      "person": "Sophie",
+      "text": "Cam on a mission."
+    }
+  ],
+  "media_add": [
+    "cam-on-a-mission"
+  ],
+  "body_addition": "Later, Sophie captured Cameron on a mission towing the yacht's inflatable water toys during the livelier conditions. For now the journal keeps the guests general rather than identifying who was on the toys."
+}

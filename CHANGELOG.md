@@ -1,12 +1,11 @@
 # Changelog
 
-## 0.9.0 - Content First Journal
+## 0.9.1 - Cam on a Mission
 
 ### Added
-- 30 June Sophie video: `sophie-stormy`.
-- Content-first Markdown journal entries.
-- Updated generated JSON data.
-- Combined 30 June At Sea entry.
+- `site/media/videos/2026-06-30-cam-on-a-mission.mp4`
+- `content/journal/2026/2026-06-30-underway-changing-conditions.md`
+- media update JSON for the new video
 
-### Changed
-- Site data remains generated-compatible while content files become the source of truth going forward.
+### Notes
+This is a content update. It includes the video and source journal content. The current site may still need its main generated `site/data/journal.json` updated by the build/content pipeline when that is fully in use.

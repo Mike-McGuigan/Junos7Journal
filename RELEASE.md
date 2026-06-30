@@ -1,15 +1,14 @@
 # Current Release
 
-Version: 0.9.0
+Version: 0.9.1
 
-Name: Content First Journal
+Name: Cam on a Mission
 
-Build date: 2026-06-30 13:32:09 UTC
+Build date: 2026-06-30 15:58:08 UTC
 
 ## Highlights
 
-- Adds 30 June Sophie stormy video.
-- Combines Cameron and Sophie 30 June updates into one At Sea entry.
-- Introduces content-first Markdown journal files under `content/journal/2026`.
-- Keeps generated site JSON for current website compatibility.
-- Preserves working homepage, gallery, journal, collector and voyage map.
+- Adds Sophie's 30 June video: "Cam on a mission."
+- Adds a general caption for Cameron towing inflatable water toys.
+- Updates the 30 June At Sea journal source content.
+- Keeps guests general until identities are confirmed.

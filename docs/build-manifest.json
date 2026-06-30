@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "release": "Content First Journal",
-  "buildUtc": "2026-06-30 14:27:32 UTC",
-  "fileCount": 45,
+  "buildUtc": "2026-06-30 16:11:45 UTC",
+  "fileCount": 48,
   "files": [
     {
       "path": ".gitkeep",
@@ -12,12 +12,12 @@
     {
       "path": "build-info.html",
       "sizeBytes": 486,
-      "sha256": "d2b3f3666d6f2269b6786200fe845bedc0c1575ea130bca716e1d5a19a68c153"
+      "sha256": "05dbc0a5e35c5bfa2f9e39243741b99fdd08a8cc1ad058e70c3cfbb923542452"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 181,
-      "sha256": "0ba5b9e6883ca73b9396c6db8162b52b2f4de440db35f8897579e7f0086101b2"
+      "sha256": "f6597bc5672f34295c1a6d0447dbec5ae2e35f3f04618a9dcc4e96e2f84cc9f5"
     },
     {
       "path": "index.html",
@@ -65,6 +65,11 @@
       "sha256": "8df5e9707150df81c1ceeb881701141cbcb5ad5052cab818dcc7062acb166a9f"
     },
     {
+      "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
+      "sizeBytes": 683,
+      "sha256": "5b34cf239f8a85eb2d5019d4bf6c49241c9e4f888c4ee40b05e2dcdff75f7288"
+    },
+    {
       "path": "data/journal.json",
       "sizeBytes": 10993,
       "sha256": "bf17931f0c7872567bfc90fb5faae3dfb7e9cbf0ee615114a349c92eeda023a0"
@@ -78,6 +83,11 @@
       "path": "data/journal.json.bak-0-7-5",
       "sizeBytes": 9639,
       "sha256": "3afe57af47ced6c4bd73b9286c00772f245e6740427ea6ada33c5f6a7546fa88"
+    },
+    {
+      "path": "data/media-update-2026-06-30-cam-on-a-mission.json",
+      "sizeBytes": 294,
+      "sha256": "e1810cd788b1548ce1266e79a6af407c9f3eaf21b8592bb544c558491f0747c9"
     },
     {
       "path": "data/media.json",
@@ -102,7 +112,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 181,
-      "sha256": "0ba5b9e6883ca73b9396c6db8162b52b2f4de440db35f8897579e7f0086101b2"
+      "sha256": "f6597bc5672f34295c1a6d0447dbec5ae2e35f3f04618a9dcc4e96e2f84cc9f5"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -178,6 +188,11 @@
       "path": "media/videos/2026-06-27-sophie-swim-platform.mp4",
       "sizeBytes": 2772289,
       "sha256": "09e603535bff98e18669467380c76e983fddd954d9b446a0505f9b7651c31e0e"
+    },
+    {
+      "path": "media/videos/2026-06-30-cam-on-a-mission.mp4",
+      "sizeBytes": 3534374,
+      "sha256": "a92285970d0903e74922df86492f0c3a590676af6dc1d4912ac293d00297c6ed"
     },
     {
       "path": "media/videos/2026-06-30-sophie-stormy.mp4",

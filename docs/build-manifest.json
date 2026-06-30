@@ -1,8 +1,8 @@
 {
-  "version": "0.7.5",
+  "version": "0.7.6",
   "release": "Dashboard and Mapping",
-  "buildUtc": "2026-06-30 10:57:11 UTC",
-  "fileCount": 39,
+  "buildUtc": "2026-06-30 11:17:36 UTC",
+  "fileCount": 40,
   "files": [
     {
       "path": ".gitkeep",
@@ -12,17 +12,17 @@
     {
       "path": "build-info.html",
       "sizeBytes": 541,
-      "sha256": "857bc3fd4e4da149d53d187aada56772dd794f4dc5e1e2fd7eeea554f4f4d616"
+      "sha256": "88904072edf394b61b279baec4f65492920d53738497368ed774cb76a66a8eec"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 181,
-      "sha256": "fcf1e6cce4b18e91fa0cbbb290e53a06651388ccbd39527ff2bd8fe6c9dd28f3"
+      "sha256": "4a69701bc78e5ed875faaf948da9ef560d42481438da813ee739cc10f61eca8b"
     },
     {
       "path": "index.html",
-      "sizeBytes": 2068,
-      "sha256": "aa47d11cef650e6d3edc3a999d3f08f7fb2d493608e9887c3cb44337d4aa0c47"
+      "sizeBytes": 3720,
+      "sha256": "db0868fe25f4d5d68acde3e7bed5db4143e49b27f77be984999213b273995fa2"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -38,6 +38,11 @@
       "path": "index.html.bak-0-7-5",
       "sizeBytes": 4014,
       "sha256": "fd9ddd9e8297bf12e168046c95b0a91b9b58303fb441a152474519b0b1b09813"
+    },
+    {
+      "path": "index.html.bak-before-0-7-6-restore",
+      "sizeBytes": 2068,
+      "sha256": "aa47d11cef650e6d3edc3a999d3f08f7fb2d493608e9887c3cb44337d4aa0c47"
     },
     {
       "path": "route.html",
@@ -92,7 +97,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 181,
-      "sha256": "fcf1e6cce4b18e91fa0cbbb290e53a06651388ccbd39527ff2bd8fe6c9dd28f3"
+      "sha256": "4a69701bc78e5ed875faaf948da9ef560d42481438da813ee739cc10f61eca8b"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",

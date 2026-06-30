@@ -1,14 +1,11 @@
 # Changelog
 
-## 0.7.5 - Homepage and Caption Cleanup
+## 0.7.6 - Restore Homepage Sections and SETE Role
 
 ### Added
-- `tools/cleanup_homepage_and_sete_caption.py`
+- `tools/restore_homepage_and_sete_role.py`
 
-### Changed
-- Cleans up duplicate homepage dashboard CTAs.
-- Replaces the old homepage route map section with one tidy link to `voyage.html`.
-- Broadens SETE caption correction beyond the original exact phrase matching.
-
-### Notes
-If any SETE reference remains, run a repo search for `SETE`; remaining references may be legitimate vessel/chase-boat content.
+### Fixed
+- Restores homepage sections accidentally removed by an over-broad cleanup.
+- Restores SETE vessel metadata.
+- Limits SETE caption correction to known journal/media data files.

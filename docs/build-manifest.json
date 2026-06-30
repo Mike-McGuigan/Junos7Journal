@@ -1,8 +1,8 @@
 {
-  "version": "0.7.3",
+  "version": "0.7.4",
   "release": "Dashboard and Mapping",
-  "buildUtc": "2026-06-30 10:35:47 UTC",
-  "fileCount": 36,
+  "buildUtc": "2026-06-30 10:42:47 UTC",
+  "fileCount": 37,
   "files": [
     {
       "path": ".gitkeep",
@@ -12,12 +12,12 @@
     {
       "path": "build-info.html",
       "sizeBytes": 541,
-      "sha256": "b5f9393e7b13a9dc225e342d0011838426a70b1f90c90c9562e52cd62fa414f4"
+      "sha256": "8bf8645ed6c311f25296b1223fec4b06d93ebffa589c9fe025505a6c8a9009de"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 181,
-      "sha256": "78c9e0df16462add205854316313aa1595af278317f022268399e99d0fec3367"
+      "sha256": "f9978ec063693f3f93c2abbef0c9e7a1ec4de6e445cbc159ff47d8870094777e"
     },
     {
       "path": "index.html",
@@ -56,8 +56,13 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 9302,
-      "sha256": "58725bf20c5df5c1edbbf0f44b21079400639c53931b7c94941458a002a58b75"
+      "sizeBytes": 9639,
+      "sha256": "3afe57af47ced6c4bd73b9286c00772f245e6740427ea6ada33c5f6a7546fa88"
+    },
+    {
+      "path": "data/journal.json.bak-0-7-4",
+      "sizeBytes": 9617,
+      "sha256": "21a5cb3125a8074f0f8eea3c3ea6eed8670d7f109d46e16edd51b6677027a8a1"
     },
     {
       "path": "data/route.json",
@@ -77,7 +82,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 181,
-      "sha256": "78c9e0df16462add205854316313aa1595af278317f022268399e99d0fec3367"
+      "sha256": "f9978ec063693f3f93c2abbef0c9e7a1ec4de6e445cbc159ff47d8870094777e"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",

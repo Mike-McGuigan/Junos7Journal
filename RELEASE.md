@@ -1,13 +1,13 @@
 # Current Release
 
-Version: 0.7.3
+Version: 0.7.4
 
-Name: Map Double Click Zoom
+Name: SETE Caption Correction
 
-Build date: 2026-06-30 10:23:56 UTC
+Build date: 2026-06-30 10:30:33 UTC
 
 ## Highlights
 
-- Adds a double-click map interaction.
-- Double-clicking anywhere on the voyage map zooms in three levels and centres the map on the clicked location.
-- The patch edits `site/assets/js/dashboard.js` safely and creates a backup first.
+- Corrects any generated photo caption that wrongly says SETE is visible near Juno's 7.
+- Replaces that wording with a safer caption: "Juno's 7 in the marina shortly after Cameron and Sophie joined."
+- Leaves legitimate SETE references in the vessel/chase boat context untouched where possible.

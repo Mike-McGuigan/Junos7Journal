@@ -1,14 +1,13 @@
 # Changelog
 
-## 0.7.3 - Map Double Click Zoom
+## 0.7.4 - SETE Caption Correction
 
 ### Added
-- `tools/patch_map_double_click_zoom.py`
+- `tools/correct_sete_photo_caption.py`
 
 ### Changed
-- Adds double-click-to-zoom behaviour to the Leaflet voyage map.
+- Removes misleading photo-caption wording implying SETE is visible in a photo.
+- Adds a factual marina caption that does not identify the chase boat unless visible.
 
-### Behaviour
-- Single click behaviour is unchanged.
-- Double-click zooms in around the clicked map tile.
-- The map zoom increases by 3 levels, capped at the map provider's maximum zoom.
+### Note
+SETE remains valid in the journal as the chase boat, but should not be mentioned in individual photo captions unless clearly visible.

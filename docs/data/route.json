@@ -78,7 +78,7 @@
   },
   {
     "date": "24 Jun",
-    "name": "Sea of Crete AIS gap marker",
+    "name": "Sea of Crete AIS marker",
     "phase": "ais",
     "lat": 36.6513,
     "lng": 24.3377
@@ -105,15 +105,8 @@
     "lng": 20.647
   },
   {
-    "date": "29 Jun",
-    "name": "East Coast Ithaca",
-    "phase": "onboard",
-    "lat": 38.43164,
-    "lng": 20.58843
-  },
-  {
-    "date": "30 Jun",
-    "name": "Underway",
+    "date": "29-30 Jun",
+    "name": "East Coast Ithaca / Underway",
     "phase": "current",
     "lat": 38.43164,
     "lng": 20.58843

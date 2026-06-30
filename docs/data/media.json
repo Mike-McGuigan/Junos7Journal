@@ -88,12 +88,12 @@
     "caption": "A quiet afternoon at sea aboard Juno's 7, with around two and a half hours remaining before the next destination."
   },
   {
-    "id": "sophie-june26",
+    "id": "webcam-boarding",
     "type": "video",
-    "date": "2026-06-26",
-    "url": "media/videos/2026-06-26-sophie-video.mp4",
-    "title": "Sophie video",
-    "caption": "Short video sent by Sophie on 26 June."
+    "date": "2026-06-17",
+    "url": "media/webcam/2026-06-17-first-boarding-webcam.mp4",
+    "title": "The Beginning",
+    "caption": "Webcam footage showing Cameron and Sophie boarding Juno's 7 for the first time."
   },
   {
     "id": "rather-rocky",
@@ -104,12 +104,12 @@
     "caption": "Cameron's late-morning video: Rather rocky."
   },
   {
-    "id": "webcam-boarding",
+    "id": "sophie-june26",
     "type": "video",
-    "date": "2026-06-17",
-    "url": "media/webcam/2026-06-17-first-boarding-webcam.mp4",
-    "title": "The Beginning",
-    "caption": "Webcam footage showing Cameron and Sophie boarding Juno's 7 for the first time."
+    "date": "2026-06-26",
+    "url": "media/videos/2026-06-26-sophie-video.mp4",
+    "title": "Sophie video",
+    "caption": "Short video sent by Sophie on 26 June."
   },
   {
     "id": "sophie-june27",
@@ -118,5 +118,13 @@
     "url": "media/videos/2026-06-27-sophie-swim-platform.mp4",
     "title": "Sophie's swim platform video",
     "caption": "Cameron and Sophie enjoying the swim platform in a calm Greek anchorage."
+  },
+  {
+    "id": "sophie-stormy",
+    "type": "video",
+    "date": "2026-06-30",
+    "url": "media/videos/2026-06-30-sophie-stormy.mp4",
+    "title": "A little stormy today",
+    "caption": "Stormier conditions later on 30 June, captured by Sophie while underway."
   }
 ]

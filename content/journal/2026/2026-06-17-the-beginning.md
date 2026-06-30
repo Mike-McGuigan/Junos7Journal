@@ -3,6 +3,8 @@ date: 2026-06-17
 title: The Beginning
 location: Juno's 7
 type: milestone
+person: 
+quote: ""
 media: webcam-boarding, join-selfie, junos-marina
 ---
 

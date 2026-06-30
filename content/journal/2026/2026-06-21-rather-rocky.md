@@ -3,6 +3,8 @@ date: 2026-06-21
 title: Rather Rocky
 location: Greek Islands
 type: sea
+person: Cameron
+quote: "Rather rocky."
 media: rather-rocky
 ---
 
@@ -11,6 +13,6 @@ media: rather-rocky
 The sea showed a livelier side during the late morning passage.
 
 
-## Cameron's note
+## Note
 
 > Rather rocky.

@@ -3,6 +3,8 @@ date: 2026-06-26
 title: A Short Video from Sophie
 location: Greek Islands
 type: video
+person: 
+quote: ""
 media: sophie-june26
 ---
 

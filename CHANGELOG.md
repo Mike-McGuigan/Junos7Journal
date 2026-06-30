@@ -1,16 +1,12 @@
 # Changelog
 
-## 0.8.0 - Story Engine
+## 0.9.0 - Content First Journal
 
 ### Added
-- New 27 June video from Sophie.
-- New 30 June underway photo from Cameron.
-- Clean rebuilt homepage.
-- Story-focused journal data.
-- Latest media section.
-- At Sea journal entry.
+- 30 June Sophie video: `sophie-stormy`.
+- Content-first Markdown journal entries.
+- Updated generated JSON data.
+- Combined 30 June At Sea entry.
 
-### Fixed
-- Removes old homepage SVG map duplication.
-- Keeps Journal, Gallery and Collector's Edition sections visible.
-- Corrects SETE caption issue while preserving SETE as chase boat metadata.
+### Changed
+- Site data remains generated-compatible while content files become the source of truth going forward.

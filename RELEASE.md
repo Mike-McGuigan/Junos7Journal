@@ -1,16 +1,15 @@
 # Current Release
 
-Version: 0.8.0
+Version: 0.9.0
 
-Name: Story Engine
+Name: Content First Journal
 
-Build date: 2026-06-30 11:43:48 UTC
+Build date: 2026-06-30 13:32:09 UTC
 
 ## Highlights
 
-- Rebuilt homepage cleanly.
-- Added 27 June Sophie video.
-- Added 30 June underway photo and Cameron quote.
-- Added At Sea journal entry type.
-- Kept improved voyage map with double-click-to-location zoom.
-- Restored SETE vessel metadata and safe captions.
+- Adds 30 June Sophie stormy video.
+- Combines Cameron and Sophie 30 June updates into one At Sea entry.
+- Introduces content-first Markdown journal files under `content/journal/2026`.
+- Keeps generated site JSON for current website compatibility.
+- Preserves working homepage, gallery, journal, collector and voyage map.

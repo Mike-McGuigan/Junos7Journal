@@ -5,8 +5,8 @@
       "title": "The Beginning",
       "location": "Juno's 7",
       "type": "milestone",
-      "quote": "",
       "person": "",
+      "quote": "",
       "media": [
         "webcam-boarding",
         "join-selfie",
@@ -19,8 +19,8 @@
       "title": "Learning the Ropes",
       "location": "Greek Islands",
       "type": "work",
-      "quote": "",
       "person": "",
+      "quote": "",
       "media": [
         "mooring-lines"
       ],
@@ -31,8 +31,8 @@
       "title": "First Days on Deck",
       "location": "Lipsi",
       "type": "journal",
-      "quote": "Giving the sun deck black some love.",
       "person": "Cameron",
+      "quote": "Giving the sun deck black some love.",
       "media": [
         "sundeck-black",
         "junos-lipsi"
@@ -44,8 +44,8 @@
       "title": "Still Filthy",
       "location": "Lipsi",
       "type": "crew-view",
-      "quote": "Spent the last 3 days cleaning the thing and tbh, still filthy.",
       "person": "Cameron",
+      "quote": "Spent the last 3 days cleaning the thing and tbh, still filthy.",
       "media": [
         "junos-lipsi"
       ],
@@ -56,8 +56,8 @@
       "title": "Rather Rocky",
       "location": "Greek Islands",
       "type": "sea",
-      "quote": "Rather rocky.",
       "person": "Cameron",
+      "quote": "Rather rocky.",
       "media": [
         "rather-rocky"
       ],
@@ -68,8 +68,8 @@
       "title": "Sophie's First Jet Ski",
       "location": "At Anchor",
       "type": "highlight",
-      "quote": "Captain was going out on the Ski with his Mrs who\u2019s onboard as well and he asked me if I wanted to take Soph out so we went out on one for 15 minutes.",
       "person": "Cameron",
+      "quote": "Captain was going out on the Ski with his Mrs who\u2019s onboard as well and he asked me if I wanted to take Soph out so we went out on one for 15 minutes.",
       "media": [
         "cameron-jetski"
       ],
@@ -80,8 +80,8 @@
       "title": "My Future House",
       "location": "Greek Islands",
       "type": "small-moment",
-      "quote": "My future house!",
       "person": "Sophie",
+      "quote": "My future house!",
       "media": [
         "future-house"
       ],
@@ -92,8 +92,8 @@
       "title": "A Short Video from Sophie",
       "location": "Greek Islands",
       "type": "video",
-      "quote": "",
       "person": "",
+      "quote": "",
       "media": [
         "sophie-june26"
       ],
@@ -104,8 +104,8 @@
       "title": "Nice Spot for Today",
       "location": "Zakynthos",
       "type": "anchorage",
-      "quote": "Nice spot for today.",
       "person": "Cameron",
+      "quote": "Nice spot for today.",
       "media": [
         "nice-spot-1",
         "nice-spot-2",
@@ -116,15 +116,16 @@
     },
     {
       "date": "2026-06-30",
-      "title": "Underway",
+      "title": "Underway \u2014 Changing Conditions",
       "location": "At Sea",
       "type": "at-sea",
-      "quote": "Underway for another 2.5 hours.",
-      "person": "Cameron",
+      "person": "Cameron & Sophie",
+      "quote": "Underway for another 2.5 hours. / A little stormy today.",
       "media": [
-        "underway-aft-deck"
+        "underway-aft-deck",
+        "sophie-stormy"
       ],
-      "body": "Another calm Mediterranean passage, with open sea ahead and a couple of hours still to run before the next destination. The aft deck photograph captures the quiet rhythm of life underway."
+      "body": "The day began with a calmer underway view from Cameron: open sea ahead, teak decks in the sun and around two and a half hours still to run. Later, Sophie sent a different side of the same passage: a little stormier, more unsettled, and a reminder of how quickly conditions can change at sea."
     }
   ],
   "media": [
@@ -217,12 +218,12 @@
       "caption": "A quiet afternoon at sea aboard Juno's 7, with around two and a half hours remaining before the next destination."
     },
     {
-      "id": "sophie-june26",
+      "id": "webcam-boarding",
       "type": "video",
-      "date": "2026-06-26",
-      "url": "media/videos/2026-06-26-sophie-video.mp4",
-      "title": "Sophie video",
-      "caption": "Short video sent by Sophie on 26 June."
+      "date": "2026-06-17",
+      "url": "media/webcam/2026-06-17-first-boarding-webcam.mp4",
+      "title": "The Beginning",
+      "caption": "Webcam footage showing Cameron and Sophie boarding Juno's 7 for the first time."
     },
     {
       "id": "rather-rocky",
@@ -233,12 +234,12 @@
       "caption": "Cameron's late-morning video: Rather rocky."
     },
     {
-      "id": "webcam-boarding",
+      "id": "sophie-june26",
       "type": "video",
-      "date": "2026-06-17",
-      "url": "media/webcam/2026-06-17-first-boarding-webcam.mp4",
-      "title": "The Beginning",
-      "caption": "Webcam footage showing Cameron and Sophie boarding Juno's 7 for the first time."
+      "date": "2026-06-26",
+      "url": "media/videos/2026-06-26-sophie-video.mp4",
+      "title": "Sophie video",
+      "caption": "Short video sent by Sophie on 26 June."
     },
     {
       "id": "sophie-june27",
@@ -247,6 +248,14 @@
       "url": "media/videos/2026-06-27-sophie-swim-platform.mp4",
       "title": "Sophie's swim platform video",
       "caption": "Cameron and Sophie enjoying the swim platform in a calm Greek anchorage."
+    },
+    {
+      "id": "sophie-stormy",
+      "type": "video",
+      "date": "2026-06-30",
+      "url": "media/videos/2026-06-30-sophie-stormy.mp4",
+      "title": "A little stormy today",
+      "caption": "Stormier conditions later on 30 June, captured by Sophie while underway."
     }
   ],
   "route": [
@@ -329,7 +338,7 @@
     },
     {
       "date": "24 Jun",
-      "name": "Sea of Crete AIS gap marker",
+      "name": "Sea of Crete AIS marker",
       "phase": "ais",
       "lat": 36.6513,
       "lng": 24.3377
@@ -356,15 +365,8 @@
       "lng": 20.647
     },
     {
-      "date": "29 Jun",
-      "name": "East Coast Ithaca",
-      "phase": "onboard",
-      "lat": 38.43164,
-      "lng": 20.58843
-    },
-    {
-      "date": "30 Jun",
-      "name": "Underway",
+      "date": "29-30 Jun",
+      "name": "East Coast Ithaca / Underway",
       "phase": "current",
       "lat": 38.43164,
       "lng": 20.58843

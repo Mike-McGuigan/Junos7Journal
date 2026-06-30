@@ -3,6 +3,8 @@ date: 2026-06-19
 title: Learning the Ropes
 location: Greek Islands
 type: work
+person: 
+quote: ""
 media: mooring-lines
 ---
 

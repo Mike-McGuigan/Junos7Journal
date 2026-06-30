@@ -126,5 +126,13 @@
     "url": "media/videos/2026-06-30-sophie-stormy.mp4",
     "title": "A little stormy today",
     "caption": "Stormier conditions later on 30 June, captured by Sophie while underway."
+  },
+  {
+    "id": "cam-towing-toys",
+    "type": "video",
+    "date": "2026-06-30",
+    "url": "media/videos/2026-06-30-cam-towing-toys.mp4",
+    "title": "Cam on a mission",
+    "caption": "Cameron towing the yacht's inflatable water toys from the tender during livelier conditions. No-one was on the toys at the time."
   }
 ]

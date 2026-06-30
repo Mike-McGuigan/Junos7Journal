@@ -120,12 +120,13 @@
       "location": "At Sea",
       "type": "at-sea",
       "person": "Cameron & Sophie",
-      "quote": "Underway for another 2.5 hours. / A little stormy today.",
+      "quote": "Underway for another 2.5 hours. / A little stormy today. / Cam on a mission.",
       "media": [
         "underway-aft-deck",
-        "sophie-stormy"
+        "sophie-stormy",
+        "cam-towing-toys"
       ],
-      "body": "The day began with a calmer underway view from Cameron: open sea ahead, teak decks in the sun and around two and a half hours still to run. Later, Sophie sent a different side of the same passage: a little stormier, more unsettled, and a reminder of how quickly conditions can change at sea."
+      "body": "The day began with a calmer underway view from Cameron: open sea ahead, teak decks in the sun and around two and a half hours still to run. Later, Sophie sent a different side of the same passage: a little stormier, more unsettled, and a reminder of how quickly conditions can change at sea.\n\nSophie also captured Cameron towing the yacht's inflatable water toys from the tender. It was one of those practical deck-crew moments that sits behind the guest experience: getting equipment safely into position and managing it in livelier conditions. It has since been confirmed that no-one was on the toys at the time."
     }
   ],
   "media": [
@@ -256,6 +257,14 @@
       "url": "media/videos/2026-06-30-sophie-stormy.mp4",
       "title": "A little stormy today",
       "caption": "Stormier conditions later on 30 June, captured by Sophie while underway."
+    },
+    {
+      "id": "cam-towing-toys",
+      "type": "video",
+      "date": "2026-06-30",
+      "url": "media/videos/2026-06-30-cam-towing-toys.mp4",
+      "title": "Cam on a mission",
+      "caption": "Cameron towing the yacht's inflatable water toys from the tender during livelier conditions. No-one was on the toys at the time."
     }
   ],
   "route": [

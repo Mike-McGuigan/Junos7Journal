@@ -1,29 +1,13 @@
 # Current Release
 
-Version: 1.0.0
+Version: 1.0.1
 
-Name: Juno's 7 Companion Pages
+Name: Cam Towing Toys Fix
 
-Build date: 2026-06-30 16:30:56 UTC
+Build date: 2026-06-30 17:32:46 UTC
 
 ## Highlights
 
-- Adds `site/about.html` — About Juno's 7.
-- Adds `site/crew.html` — Meet the Crew.
-- Adds companion page styling.
-- Adds a navigation patch script.
-- Adds `PROJECT_NOTES.md`.
-- Adds structured yacht data at `site/data/about-junos7.json`.
-
-## Apply
-
-```bash
-python tools/patch_companion_nav.py
-python tools/build_site.py
-```
-
-Commit:
-
-```text
-Release 1.0.0 companion pages
-```
+- Adds Sophie's 30 June video: "Cam on a mission."
+- Ensures the video is added to the current generated `site/data/journal.json` and media index.
+- Corrects the wording: Cameron was towing inflatable water toys from the tender, and no-one was on the toys at the time.

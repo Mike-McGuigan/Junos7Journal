@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "release": "Content First Journal",
-  "buildUtc": "2026-06-30 17:22:54 UTC",
-  "fileCount": 53,
+  "buildUtc": "2026-06-30 18:10:30 UTC",
+  "fileCount": 57,
   "files": [
     {
       "path": ".gitkeep",
@@ -17,12 +17,12 @@
     {
       "path": "build-info.html",
       "sizeBytes": 486,
-      "sha256": "5cc8e97bcb8888c179a07598ec1ccedbe12833d5e92d6d53e9cd2ba562dcc8bd"
+      "sha256": "4cd4ace013407639cdad79df6fd33b0613c4a61f222e8decaabe55c004c3bf82"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 181,
-      "sha256": "83cfa01cef4cc113de85aa446ab1454a1c16bced3dadb7a8e0cba15040b444e7"
+      "sha256": "fefff7150d095b432165e820b9e011d61005fa88fb9baf224133b54c8c5f1602"
     },
     {
       "path": "crew.html",
@@ -91,8 +91,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 10993,
-      "sha256": "bf17931f0c7872567bfc90fb5faae3dfb7e9cbf0ee615114a349c92eeda023a0"
+      "sizeBytes": 12086,
+      "sha256": "58fd9e3eab04ed1d313b48bfe8bbee5c9d39c1022472dc5bcb75cd2984fc5301"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -105,14 +105,24 @@
       "sha256": "3afe57af47ced6c4bd73b9286c00772f245e6740427ea6ada33c5f6a7546fa88"
     },
     {
+      "path": "data/journal.json.bak-1-0-1",
+      "sizeBytes": 11367,
+      "sha256": "cd18d5e2e2e022b15a03841b87908e8c981b95f833b3cfc68fae2321edaceec0"
+    },
+    {
       "path": "data/media-update-2026-06-30-cam-on-a-mission.json",
       "sizeBytes": 294,
       "sha256": "e1810cd788b1548ce1266e79a6af407c9f3eaf21b8592bb544c558491f0747c9"
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 4054,
-      "sha256": "93df0c5bcf11a7dc2c2b253bcfdad96b30685b1df0afc58b359672dda5ce79c9"
+      "sizeBytes": 4513,
+      "sha256": "d8262ab18ee37e025caa0d55ad0b95ce03ac03eb64bd685285cb330489e1fd07"
+    },
+    {
+      "path": "data/media.json.bak-1-0-1",
+      "sizeBytes": 4183,
+      "sha256": "cca345b44c0162ef21e6b79858c495843262c67cee3d7f82c4a39687f480fe3b"
     },
     {
       "path": "data/route.json",
@@ -132,7 +142,12 @@
     {
       "path": "data/version.json",
       "sizeBytes": 181,
-      "sha256": "83cfa01cef4cc113de85aa446ab1454a1c16bced3dadb7a8e0cba15040b444e7"
+      "sha256": "fefff7150d095b432165e820b9e011d61005fa88fb9baf224133b54c8c5f1602"
+    },
+    {
+      "path": "data/version.json.bak-1-0-1",
+      "sizeBytes": 155,
+      "sha256": "5764f17f10d457ba2247fe6b961ef75ddcd004e716ad9610096c3877a65729d0"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -211,6 +226,11 @@
     },
     {
       "path": "media/videos/2026-06-30-cam-on-a-mission.mp4",
+      "sizeBytes": 3534374,
+      "sha256": "a92285970d0903e74922df86492f0c3a590676af6dc1d4912ac293d00297c6ed"
+    },
+    {
+      "path": "media/videos/2026-06-30-cam-towing-toys.mp4",
       "sizeBytes": 3534374,
       "sha256": "a92285970d0903e74922df86492f0c3a590676af6dc1d4912ac293d00297c6ed"
     },

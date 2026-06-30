@@ -1,14 +1,11 @@
 # Changelog
 
-## 1.0.0 - Juno's 7 Companion Pages
+## 1.0.1 - Cam Towing Toys Fix
 
 ### Added
-- About Juno's 7 page.
-- Meet the Crew page.
-- Companion page CSS.
-- Structured yacht fact data.
-- Homepage navigation patch.
-- Project notes.
+- `site/media/videos/2026-06-30-cam-towing-toys.mp4`
+- `tools/add_cam_towing_toys.py`
 
-### Notes
-This release uses public yacht information and keeps private crew/guest details general.
+### Fixed
+- Ensures the "Cam on a mission" video appears on the current site, not only in source-content files.
+- Updates the caption to avoid implying anyone was riding the toys.

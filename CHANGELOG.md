@@ -1,13 +1,14 @@
 # Changelog
 
-## 0.7.4 - SETE Caption Correction
+## 0.7.5 - Homepage and Caption Cleanup
 
 ### Added
-- `tools/correct_sete_photo_caption.py`
+- `tools/cleanup_homepage_and_sete_caption.py`
 
 ### Changed
-- Removes misleading photo-caption wording implying SETE is visible in a photo.
-- Adds a factual marina caption that does not identify the chase boat unless visible.
+- Cleans up duplicate homepage dashboard CTAs.
+- Replaces the old homepage route map section with one tidy link to `voyage.html`.
+- Broadens SETE caption correction beyond the original exact phrase matching.
 
-### Note
-SETE remains valid in the journal as the chase boat, but should not be mentioned in individual photo captions unless clearly visible.
+### Notes
+If any SETE reference remains, run a repo search for `SETE`; remaining references may be legitimate vessel/chase-boat content.

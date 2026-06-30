@@ -1,0 +1,13 @@
+.dashboard-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:1rem;margin:2rem 0}
+.metric-card{background:rgba(255,255,255,.08);border:1px solid rgba(201,164,92,.35);padding:1.1rem;border-radius:14px}
+.metric-card .label{color:#c9a45c;text-transform:uppercase;letter-spacing:.12em;font-size:.72rem;font-weight:800}
+.metric-card .value{font-family:Georgia,serif;font-size:1.65rem;margin-top:.35rem}
+.metric-card .sub{color:rgba(246,239,226,.78);font-size:.9rem;margin-top:.25rem}
+.map-shell{background:#061928;border:1px solid rgba(201,164,92,.4);border-radius:18px;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,.24)}
+#voyageMap{height:620px;width:100%}
+.map-timeline{display:flex;gap:.75rem;overflow-x:auto;padding:1rem;background:rgba(0,0,0,.28)}
+.map-stop{min-width:190px;border-left:4px solid #0f6f91;background:rgba(255,255,255,.08);padding:.85rem;color:#f6efe2;border-radius:8px;text-align:left;cursor:pointer}
+.map-stop.milestone{border-left-color:#c9a45c}
+.map-stop-date{color:#c9a45c;font-size:.72rem;text-transform:uppercase;letter-spacing:.12em;font-weight:800}
+.leaflet-popup-content{font-family:Segoe UI,Arial,sans-serif}
+.status-pill{display:inline-block;padding:.35rem .65rem;border-radius:999px;background:rgba(201,164,92,.16);border:1px solid rgba(201,164,92,.5);color:#c9a45c;font-size:.85rem}

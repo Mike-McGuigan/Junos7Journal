@@ -1,0 +1,13 @@
+{
+  "timestampUtc": "2026-06-30T07:34:00Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "status": "Under way",
+  "speedKnots": 11.5,
+  "lastKnownContext": "Departed Sami, Kefalonia; underway in the Ionian/eastern Mediterranean.",
+  "position": null,
+  "source": "manual AIS lookup",
+  "confidence": "position coordinates not stored"
+}

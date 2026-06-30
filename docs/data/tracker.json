@@ -1,0 +1,23 @@
+{
+  "version": "0.6.0",
+  "release": "Tracker Foundation",
+  "lastBuildUtc": "2026-06-29 17:59:22 UTC",
+  "status": "tracker scaffold ready",
+  "vessels": [
+    {
+      "key": "junos7",
+      "name": "Juno's 7",
+      "mmsi": "319303300",
+      "imo": "1109712",
+      "role": "main yacht"
+    },
+    {
+      "key": "sete",
+      "name": "SETE",
+      "mmsi": "319314700",
+      "imo": null,
+      "role": "chase boat"
+    }
+  ],
+  "note": "Live tracking requires an AIS data source to be configured."
+}

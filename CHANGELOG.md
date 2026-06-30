@@ -1,16 +1,13 @@
 # Changelog
 
-## 0.6.0 - Tracker Foundation
+## 0.7.0 - Dashboard and Mapping
 
 ### Added
-- Tracker configuration for JUNOS 7 and SETE.
-- GitHub Actions workflow scaffold for hourly tracking.
-- Python tracker script with provider abstraction.
-- JSON output structure for latest and historical AIS data.
-- Site-facing tracker metadata.
-- Documentation for configuring the tracker.
+- Dashboard data model at `site/data/dashboard.json`.
+- Leaflet-based route map.
+- Satellite and street map layer controls.
+- Manual AIS lookup entry under `data/ais/manual`.
+- Route data at `site/data/route.json`.
 
-### Notes
-- This release is safe to commit publicly.
-- It does not contain private credentials or scraping logic tied to a login.
-- Automatic live tracking requires a configured data source.
+### Changed
+- Voyage So Far now uses a real interactive map instead of the temporary SVG route.

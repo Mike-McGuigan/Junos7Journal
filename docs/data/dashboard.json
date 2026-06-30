@@ -1,0 +1,40 @@
+{
+  "version": "0.7.0",
+  "release": "Dashboard and Mapping",
+  "buildUtc": "2026-06-30 07:40:38 UTC",
+  "tracker": {
+    "workflow": "running",
+    "provider": "manual / provider not configured",
+    "liveAis": false,
+    "lastManualLookupUtc": "2026-06-30T07:34:00Z",
+    "latestStatus": "Under way, last reported departing Sami/Kefalonia area; exact current coordinates not yet stored.",
+    "latestSpeedKnots": 11.5,
+    "latestSource": "Manual AIS lookup",
+    "note": "No paid AIS provider is configured. Manual lookup entries can be added while provider evaluation continues."
+  },
+  "vessels": [
+    {
+      "key": "junos7",
+      "name": "Juno's 7",
+      "displayName": "JUNOS 7",
+      "imo": "1109712",
+      "mmsi": "319303300",
+      "role": "Main yacht"
+    },
+    {
+      "key": "sete",
+      "name": "SETE",
+      "displayName": "SETE",
+      "imo": null,
+      "mmsi": "319314700",
+      "role": "Chase boat"
+    }
+  ],
+  "stats": {
+    "routeStops": 13,
+    "journalDays": 9,
+    "mediaItems": 13,
+    "videos": 3,
+    "photos": 10
+  }
+}

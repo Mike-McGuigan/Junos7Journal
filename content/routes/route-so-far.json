@@ -7,28 +7,28 @@
     "lng": 28.086
   },
   {
-    "date": "11\u201312 Jun",
+    "date": "11-12 Jun",
     "name": "Chalki",
     "phase": "before",
     "lat": 36.222,
     "lng": 27.611
   },
   {
-    "date": "12\u201313 Jun",
+    "date": "12-13 Jun",
     "name": "Symi",
     "phase": "before",
     "lat": 36.617,
     "lng": 27.838
   },
   {
-    "date": "15\u201316 Jun",
+    "date": "15-16 Jun",
     "name": "Nisyros",
     "phase": "before",
     "lat": 36.611,
     "lng": 27.133
   },
   {
-    "date": "16\u201318 Jun",
+    "date": "16-18 Jun",
     "name": "Kos",
     "phase": "before",
     "lat": 36.893,
@@ -42,14 +42,14 @@
     "lng": 27.289
   },
   {
-    "date": "18\u201319 Jun",
+    "date": "18-19 Jun",
     "name": "Lipsi",
     "phase": "onboard",
     "lat": 37.295,
     "lng": 26.766
   },
   {
-    "date": "19\u201321 Jun",
+    "date": "19-21 Jun",
     "name": "Patmos",
     "phase": "onboard",
     "lat": 37.324,
@@ -63,14 +63,14 @@
     "lng": 25.863
   },
   {
-    "date": "22\u201323 Jun",
+    "date": "22-23 Jun",
     "name": "Ios",
     "phase": "onboard",
     "lat": 36.722,
     "lng": 25.272
   },
   {
-    "date": "26\u201327 Jun",
+    "date": "26-27 Jun",
     "name": "Zakynthos",
     "phase": "onboard",
     "lat": 37.788,

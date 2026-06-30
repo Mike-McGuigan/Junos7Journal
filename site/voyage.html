@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Voyage So Far - Juno's 7</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/dashboard.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body>
+  <section class="section dark">
+    <div class="wrap">
+      <p class="kicker">Dashboard</p>
+      <h2>Voyage So Far</h2>
+      <p class="lead">A living overview of the route, tracker status and latest known movement.</p>
+      <div id="dashboardMetrics" class="dashboard-grid"></div>
+      <div class="map-shell">
+        <div id="voyageMap"></div>
+        <div id="mapTimeline" class="map-timeline"></div>
+      </div>
+      <p class="lead" style="margin-top:2rem">Tracking is currently provider-neutral. The workflow is running, and manual AIS lookups can be stored until a live AIS provider is configured.</p>
+    </div>
+  </section>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="assets/js/dashboard.js"></script>
+</body>
+</html>

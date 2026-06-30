@@ -107,8 +107,16 @@
   {
     "date": "29-30 Jun",
     "name": "East Coast Ithaca / Underway",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 38.43164,
     "lng": 20.58843
+  },
+  {
+    "date": "30 Jun",
+    "name": "Latest AIS position - West Coast Greece",
+    "phase": "current",
+    "lat": 39.01234,
+    "lng": 20.32855,
+    "note": "Latest precise public coordinate found from MyShipTracking: 39.01234, 20.32855, reported 2026-06-30 06:16 UTC. Other public AIS sources report recent reception in the East Mediterranean / West Coast Greece area, but did not expose a newer precise coordinate."
   }
 ]

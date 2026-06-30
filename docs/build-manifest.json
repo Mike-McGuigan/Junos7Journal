@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "release": "Content First Journal",
-  "buildUtc": "2026-06-30 18:10:30 UTC",
-  "fileCount": 57,
+  "buildUtc": "2026-06-30 21:07:11 UTC",
+  "fileCount": 60,
   "files": [
     {
       "path": ".gitkeep",
@@ -17,12 +17,12 @@
     {
       "path": "build-info.html",
       "sizeBytes": 486,
-      "sha256": "4cd4ace013407639cdad79df6fd33b0613c4a61f222e8decaabe55c004c3bf82"
+      "sha256": "dc8b2c7e084ee80fc758451ddad006c58e664a179f6995bed364482f976e3483"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 181,
-      "sha256": "fefff7150d095b432165e820b9e011d61005fa88fb9baf224133b54c8c5f1602"
+      "sha256": "d71e90cbf972f263295d61971bdc63b507142e0e9e6a7f060889d3692eb73d08"
     },
     {
       "path": "crew.html",
@@ -81,8 +81,13 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 468,
-      "sha256": "8df5e9707150df81c1ceeb881701141cbcb5ad5052cab818dcc7062acb166a9f"
+      "sizeBytes": 878,
+      "sha256": "0e2aa8f958ba59e5f3def5f50bd1e38d3d882e31b3370ed8472346e8892435cd"
+    },
+    {
+      "path": "data/dashboard.json.bak-1-0-2",
+      "sizeBytes": 486,
+      "sha256": "2fda1e1d54a5b75b059b7c20603b9492d4dab3e162f32e83f0566675751e7f6b"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -126,8 +131,13 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 1960,
-      "sha256": "78149916af299057f5153f4d79744d494df7177e57cb99f76cdebe43e9759b23"
+      "sizeBytes": 2506,
+      "sha256": "806f396cfe2ed8278752b77c5426281d2097174acbd6248e55e6592e866d538b"
+    },
+    {
+      "path": "data/route.json.bak-1-0-2",
+      "sizeBytes": 2073,
+      "sha256": "f570c59fa1bfc24b40b5b53c4adfb03aa28e95f7a451eb85934ef664106e378a"
     },
     {
       "path": "data/site.json",
@@ -142,12 +152,17 @@
     {
       "path": "data/version.json",
       "sizeBytes": 181,
-      "sha256": "fefff7150d095b432165e820b9e011d61005fa88fb9baf224133b54c8c5f1602"
+      "sha256": "d71e90cbf972f263295d61971bdc63b507142e0e9e6a7f060889d3692eb73d08"
     },
     {
       "path": "data/version.json.bak-1-0-1",
       "sizeBytes": 155,
       "sha256": "5764f17f10d457ba2247fe6b961ef75ddcd004e716ad9610096c3877a65729d0"
+    },
+    {
+      "path": "data/version.json.bak-1-0-2",
+      "sizeBytes": 153,
+      "sha256": "8206b68780b5bd51a7d3b07186556a32d95c19509cd1d6abee97713a9675ecbd"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",

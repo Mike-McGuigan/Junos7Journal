@@ -1,0 +1,19 @@
+{
+  "version": "0.9.0",
+  "release": "Content First Journal",
+  "buildUtc": "2026-06-30 13:32:09 UTC",
+  "tracker": {
+    "workflow": "running",
+    "provider": "manual / provider not configured",
+    "liveAis": false,
+    "latestStatus": "30 Jun underway: calm passage followed by stormier conditions",
+    "latestSource": "Family updates"
+  },
+  "stats": {
+    "routeStops": 16,
+    "journalEntries": 10,
+    "mediaItems": 16,
+    "photos": 11,
+    "videos": 5
+  }
+}

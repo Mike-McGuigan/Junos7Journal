@@ -1,0 +1,17 @@
+{
+  "timestampUtc": "2026-06-30T20:10:00Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "status": "Under way / recent AIS reception",
+  "area": "West Coast Greece / Ionian Sea",
+  "latestPrecisePosition": {
+    "lat": 39.01234,
+    "lng": 20.32855,
+    "reportedUtc": "2026-06-30T06:16:00Z",
+    "source": "MyShipTracking public page"
+  },
+  "source": "manual public AIS lookup",
+  "confidence": "latest precise coordinate from public source; current area corroborated by other public AIS snippets"
+}

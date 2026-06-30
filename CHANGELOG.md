@@ -1,11 +1,11 @@
 # Changelog
 
-## 1.0.1 - Cam Towing Toys Fix
+## 1.0.2 - Latest Position Update
 
 ### Added
-- `site/media/videos/2026-06-30-cam-towing-toys.mp4`
-- `tools/add_cam_towing_toys.py`
+- `tools/add_latest_position_2026_06_30.py`
+- `data/ais/manual/2026-06-30-2010-junos7-latest-position.json`
 
-### Fixed
-- Ensures the "Cam on a mission" video appears on the current site, not only in source-content files.
-- Updates the caption to avoid implying anyone was riding the toys.
+### Changed
+- Route data gets a new current/latest marker at `39.01234, 20.32855`.
+- Dashboard data gets the latest public AIS lookup summary.

@@ -1,13 +1,12 @@
 # Current Release
 
-Version: 1.0.1
+Version: 1.0.2
 
-Name: Cam Towing Toys Fix
-
-Build date: 2026-06-30 17:32:46 UTC
+Name: Latest Position Update
 
 ## Highlights
 
-- Adds Sophie's 30 June video: "Cam on a mission."
-- Ensures the video is added to the current generated `site/data/journal.json` and media index.
-- Corrects the wording: Cameron was towing inflatable water toys from the tender, and no-one was on the toys at the time.
+- Adds latest precise public AIS coordinate for JUNOS 7.
+- Plots `39.01234, 20.32855` as the latest/current marker.
+- Stores a manual AIS lookup record.
+- Updates dashboard status to show the newest plotted point.

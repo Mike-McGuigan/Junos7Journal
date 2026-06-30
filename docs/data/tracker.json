@@ -1,24 +1,4 @@
 {
-<<<<<<< HEAD
-  "version": "0.6.0",
-  "release": "Tracker Foundation",
-  "lastBuildUtc": "2026-06-29 17:59:22 UTC",
-  "status": "tracker scaffold ready",
-  "vessels": [
-    {
-      "key": "junos7",
-      "name": "Juno's 7",
-      "mmsi": "319303300",
-      "imo": "1109712",
-      "role": "main yacht"
-    },
-    {
-      "key": "sete",
-      "name": "SETE",
-      "mmsi": "319314700",
-      "imo": null,
-      "role": "chase boat"
-=======
   "lastTrackerRunUtc": "2026-06-29T22:40:15+00:00",
   "status": "not_configured",
   "provider": "manual-placeholder",
@@ -48,7 +28,6 @@
       "message": "Tracker ran, but no live AIS provider has been configured.",
       "position": null,
       "source": null
->>>>>>> cc883859855877b8548a2ab9db5134677f8161bd
     }
   ],
   "note": "Live tracking requires an AIS data source to be configured."

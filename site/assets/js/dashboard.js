@@ -30,6 +30,16 @@ function initVoyageMap(route) {
   const mapEl = document.querySelector('#voyageMap');
   if (!mapEl || typeof L === 'undefined') return;
   const map = L.map('voyageMap', {scrollWheelZoom: false});
+
+  // Double-click anywhere on the map to zoom in around that exact location.
+  // This is deliberately stronger than Leaflet's default double-click zoom,
+  // so it feels useful when browsing satellite tiles on desktop.
+  map.doubleClickZoom.disable();
+  map.on('dblclick', function (event) {
+    const targetZoom = Math.min(map.getZoom() + 3, map.getMaxZoom() || 19);
+    map.flyTo(event.latlng, targetZoom, { duration: 0.45 });
+  });
+
   const street = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:19, attribution:'&copy; OpenStreetMap contributors'});
   const satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {maxZoom:19, attribution:'Tiles &copy; Esri'});
   satellite.addTo(map);

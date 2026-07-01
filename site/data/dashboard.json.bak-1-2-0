@@ -1,0 +1,28 @@
+{
+  "version": "1.0.5",
+  "release": "Corfu Marker and Map Labels",
+  "buildUtc": "2026-06-30 13:32:09 UTC",
+  "tracker": {
+    "workflow": "running",
+    "provider": "manual / provider not configured",
+    "liveAis": false,
+    "latestStatus": "User-confirmed current area: east coast of Corfu",
+    "latestSource": "User-confirmed location; approximate map marker",
+    "lastManualLookupUtc": "2026-07-01T07:53:00Z",
+    "latestPrecisePosition": null,
+    "note": "Public free AIS coordinates may lag. This marker uses the user-confirmed current area and is intentionally labelled approximate.",
+    "latestApproximatePosition": {
+      "lat": 39.6243,
+      "lng": 19.9217,
+      "precision": "approximate area marker",
+      "source": "user-confirmed current location"
+    }
+  },
+  "stats": {
+    "routeStops": 16,
+    "journalEntries": 10,
+    "mediaItems": 16,
+    "photos": 11,
+    "videos": 5
+  }
+}

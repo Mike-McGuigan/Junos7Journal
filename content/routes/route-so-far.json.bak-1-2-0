@@ -126,13 +126,5 @@
     "lat": 39.6243,
     "lng": 19.9217,
     "note": "User-confirmed current area on the east coast of Corfu. Marker is approximate until a fresh precise AIS coordinate is available."
-  },
-  {
-    "date": "1 Jul",
-    "name": "East Coast Corfu",
-    "phase": "onboard",
-    "lat": 39.712184,
-    "lng": 19.870748,
-    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
   }
 ]

@@ -7,11 +7,11 @@
     "liveAis": false,
     "latestStatus": "Manual location: Near Κέρκυρα, Περιφέρεια Ιονίων Νήσων, Ελλάς",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-01T20:57:31.526Z",
+    "lastManualLookupUtc": "2026-07-01T20:52:22.372Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 39.620387,
-      "lng": 19.926509,
+      "lat": 39.712633,
+      "lng": 19.867385,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },

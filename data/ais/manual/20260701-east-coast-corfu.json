@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedUtc": "2026-07-01T16:28:51.651Z",
+  "generatedUtc": "2026-07-01T20:57:31.526Z",
   "vesselKey": "junos7",
   "displayName": "JUNOS 7",
   "mmsi": "319303300",
@@ -9,21 +9,55 @@
     "date": "1 Jul",
     "name": "East Coast Corfu",
     "phase": "current",
-    "lat": 39.712093,
-    "lng": 19.872113,
-    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
+    "lat": 39.620387,
+    "lng": 19.926509,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "node",
+      "osmId": 1827940532,
+      "displayName": "Near Κέρκυρα, Περιφέρεια Ιονίων Νήσων, Ελλάς",
+      "shortName": "Κέρκυρα, Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων",
+      "rawDisplayName": "Κέρκυρα, Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων, Περιφερειακή Ενότητα Κέρκυρας, Περιφέρεια Ιονίων Νήσων, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 491 00, Ελλάς",
+      "country": "Ελλάς",
+      "countryCode": "GR",
+      "region": "Περιφέρεια Ιονίων Νήσων",
+      "county": "Περιφερειακή Ενότητα Κέρκυρας",
+      "municipality": "Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων",
+      "island": null,
+      "nearestPlace": "Κέρκυρα",
+      "localArea": null
+    }
   },
   "tracker": {
-    "timestampUtc": "2026-07-01T16:28:51.651Z",
+    "timestampUtc": "2026-07-01T20:57:31.526Z",
     "status": "Approximate area",
-    "area": "East Coast Corfu",
+    "area": "Near Κέρκυρα, Περιφέρεια Ιονίων Νήσων, Ελλάς",
     "position": {
-      "lat": 39.712093,
-      "lng": 19.872113,
+      "lat": 39.620387,
+      "lng": 19.926509,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },
     "source": "captains dashboard",
-    "confidence": "manual map-click marker"
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "node",
+      "osmId": 1827940532,
+      "displayName": "Near Κέρκυρα, Περιφέρεια Ιονίων Νήσων, Ελλάς",
+      "shortName": "Κέρκυρα, Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων",
+      "rawDisplayName": "Κέρκυρα, Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων, Περιφερειακή Ενότητα Κέρκυρας, Περιφέρεια Ιονίων Νήσων, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 491 00, Ελλάς",
+      "country": "Ελλάς",
+      "countryCode": "GR",
+      "region": "Περιφέρεια Ιονίων Νήσων",
+      "county": "Περιφερειακή Ενότητα Κέρκυρας",
+      "municipality": "Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων",
+      "island": null,
+      "nearestPlace": "Κέρκυρα",
+      "localArea": null
+    }
   }
 }

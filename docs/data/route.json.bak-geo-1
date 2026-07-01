@@ -256,8 +256,8 @@
     "date": "1 Jul",
     "name": "East Coast Corfu",
     "phase": "current",
-    "lat": 39.620387,
-    "lng": 19.926509,
+    "lat": 39.712633,
+    "lng": 19.867385,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",

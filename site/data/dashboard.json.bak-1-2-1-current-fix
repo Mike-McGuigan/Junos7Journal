@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "release": "Current Marker Fix",
+  "version": "1.2.0",
+  "release": "Captain's Dashboard",
   "buildUtc": "2026-06-30 13:32:09 UTC",
   "tracker": {
     "workflow": "running",
@@ -10,7 +10,7 @@
     "latestSource": "captains dashboard",
     "lastManualLookupUtc": "2026-07-01T12:00:53.841Z",
     "latestPrecisePosition": null,
-    "note": "Current marker corrected so the admin-added East Coast Corfu point is the only current marker.",
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "latestApproximatePosition": {
       "lat": 39.712184,
       "lng": 19.870748,

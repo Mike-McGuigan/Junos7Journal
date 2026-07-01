@@ -114,9 +114,17 @@
   {
     "date": "30 Jun",
     "name": "Paxi / Paxos",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 39.2026,
     "lng": 20.1858,
     "note": "User-confirmed current location in Paxi/Paxos area. Plotted at an approximate Paxi/Gaios coordinate until a fresh precise AIS coordinate is available."
+  },
+  {
+    "date": "1 Jul",
+    "name": "East Coast Corfu",
+    "phase": "current",
+    "lat": 39.6243,
+    "lng": 19.9217,
+    "note": "User-confirmed current area on the east coast of Corfu. Marker is approximate until a fresh precise AIS coordinate is available."
   }
 ]

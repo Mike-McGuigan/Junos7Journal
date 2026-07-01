@@ -1,13 +1,12 @@
 # Changelog
 
-## 1.0.4 - About Page Media and CSS Fix
+## 1.0.5 - Corfu Marker and Map Labels
 
 ### Added
-- Launch/reference cards on the About page.
-- Deck-plan summary on the About page.
-- `content/pages/about-media-notes.md`.
+- `tools/add_corfu_marker_and_map_labels.py`
+- `data/ais/manual/2026-07-01-0753-junos7-east-corfu.json`
 
-### Fixed
-- Escaped apostrophe in the About Juno's 7 link.
-- Low-contrast timeline cards in dark sections.
-- Low-contrast Return to Journal link.
+### Changed
+- Current marker moved to approximate east coast Corfu area.
+- Voyage map default layer changed to labelled map tiles.
+- Satellite layer remains available in the map layer selector.

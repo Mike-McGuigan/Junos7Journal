@@ -1,0 +1,17 @@
+{
+  "timestampUtc": "2026-07-01T07:53:00Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "status": "At/near east coast of Corfu",
+  "area": "East coast of Corfu, Ionian Sea, Greece",
+  "position": {
+    "lat": 39.6243,
+    "lng": 19.9217,
+    "precision": "approximate area marker",
+    "source": "user-confirmed current location"
+  },
+  "source": "user-confirmed observation; public free AIS coordinates may be stale",
+  "confidence": "area high; exact coordinate approximate pending fresh precise AIS"
+}

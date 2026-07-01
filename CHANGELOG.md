@@ -1,11 +1,13 @@
 # Changelog
 
-## 1.0.3 - Paxi Position Correction
+## 1.0.4 - About Page Media and CSS Fix
 
 ### Added
-- `tools/correct_latest_position_to_paxi.py`
-- `data/ais/manual/2026-06-30-2112-junos7-paxi-correction.json`
+- Launch/reference cards on the About page.
+- Deck-plan summary on the About page.
+- `content/pages/about-media-notes.md`.
 
-### Changed
-- Replaces stale latest AIS marker with an approximate Paxi/Paxos current marker.
-- Dashboard latest status updated to user-confirmed Paxi location.
+### Fixed
+- Escaped apostrophe in the About Juno's 7 link.
+- Low-contrast timeline cards in dark sections.
+- Low-contrast Return to Journal link.

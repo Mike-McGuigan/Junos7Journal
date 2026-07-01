@@ -1,12 +1,13 @@
 # Current Release
 
-Version: 1.0.3
+Version: 1.0.4
 
-Name: Paxi Position Correction
+Name: About Page Media and CSS Fix
 
 ## Highlights
 
-- Corrects the latest plotted position from stale en-route AIS to the Paxi/Paxos area.
-- Adds a current marker at approximate Paxi/Gaios coordinates: `39.2026, 20.1858`.
-- Stores the correction as a manual AIS/location record.
-- Marks the point clearly as approximate pending a fresh precise AIS coordinate.
+- Adds launch-picture and public-reference cards to `about.html`.
+- Adds a simplified deck-plan summary section.
+- Fixes the escaped apostrophe in the About Juno's 7 nav label.
+- Improves contrast for the "Before the journal began" timeline cards.
+- Improves contrast for the Return to Journal link.

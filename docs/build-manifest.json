@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "release": "Content First Journal",
-  "buildUtc": "2026-06-30 23:08:14 UTC",
-  "fileCount": 63,
+  "buildUtc": "2026-07-01 07:39:46 UTC",
+  "fileCount": 64,
   "files": [
     {
       "path": ".gitkeep",
@@ -11,18 +11,18 @@
     },
     {
       "path": "about.html",
-      "sizeBytes": 4878,
-      "sha256": "6eb90f8b8adc87bc84c64ee354b2f4172e02f7a35a15405dccfa42b920139f35"
+      "sizeBytes": 8012,
+      "sha256": "a5a1622974de21f7682904b78c976d6777bb85bb76af1ff0a97cbd61fbf3dedd"
     },
     {
       "path": "build-info.html",
       "sizeBytes": 486,
-      "sha256": "73cc6d7d730baee58a101526063d1aadd09b692cd3076e688245f006af5723e0"
+      "sha256": "8ec66dd88dfab74d1897c8f2f8ea04031bcf1d99facb256112bb8420cd2a6077"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 181,
-      "sha256": "79f7728ab797794463fcf9639d84ee9afdf572e6e8abb7088815b5e8b5d3ed3f"
+      "sha256": "67bc06d4eeb6ce9b76a357d72bd77b2223920953db7e0e9729bd8943f36c82e7"
     },
     {
       "path": "crew.html",
@@ -31,8 +31,8 @@
     },
     {
       "path": "index.html",
-      "sizeBytes": 2841,
-      "sha256": "32acabd3fc18c4d21d3fbd76b9ef5044ffa41b314bcb07cded040a62188dd834"
+      "sizeBytes": 2840,
+      "sha256": "a7185f8957407febee4544cac0a4392ac7301a5a8bc740e0c7c050387a63a956"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -53,6 +53,11 @@
       "path": "index.html.bak-1-0-0-nav",
       "sizeBytes": 2764,
       "sha256": "f581dfc88bfc11622dcb34163b631d90d8549bbf5bbf55219151db34e908389e"
+    },
+    {
+      "path": "index.html.bak-1-0-4",
+      "sizeBytes": 2841,
+      "sha256": "32acabd3fc18c4d21d3fbd76b9ef5044ffa41b314bcb07cded040a62188dd834"
     },
     {
       "path": "index.html.bak-before-0-7-6-restore",
@@ -162,7 +167,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 181,
-      "sha256": "79f7728ab797794463fcf9639d84ee9afdf572e6e8abb7088815b5e8b5d3ed3f"
+      "sha256": "67bc06d4eeb6ce9b76a357d72bd77b2223920953db7e0e9729bd8943f36c82e7"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -276,8 +281,8 @@
     },
     {
       "path": "assets/css/companion.css",
-      "sizeBytes": 2482,
-      "sha256": "46dac473a6faee2ad683a29976ffad4fd8cad4c450d3be8e5f7b93a534381b66"
+      "sizeBytes": 3178,
+      "sha256": "c954d6e4bb0ed4e9c93c366fa39e685d615d40f73119dc7633d2b962f55e974f"
     },
     {
       "path": "assets/css/dashboard.css",

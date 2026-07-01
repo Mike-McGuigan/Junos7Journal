@@ -3,7 +3,7 @@ from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from pathlib import Path
 from urllib.parse import urlparse
 import json, os, subprocess, sys, webbrowser
-ROOT=Path(__file__).resolve().parents[1]; PORT=8765; VERSION="2.0.0"; RELEASE="Production Dashboard"
+ROOT=Path(__file__).resolve().parents[1]; PORT=8765; VERSION="2.1.0"; RELEASE="Geographic Intelligence"
 def run(cmd,check=True):
     p=subprocess.run(cmd,cwd=ROOT,text=True,stdout=subprocess.PIPE,stderr=subprocess.STDOUT,shell=False)
     if check and p.returncode!=0: raise RuntimeError(f"Command failed: {' '.join(cmd)}\n\n{p.stdout}")

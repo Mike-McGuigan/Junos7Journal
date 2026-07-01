@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0\\n",
+  "version": "2.1.0",
   "release": "Production Dashboard",
-  "buildUtc": "2026-07-01 16:28:52 UTC",
+  "buildUtc": "2026-07-01 19:26:55 UTC",
   "fileCount": 88,
   "files": [
     {
@@ -26,8 +26,8 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 183,
-      "sha256": "84b5a8f3462ee801f671a591df15e3d3336ff793ee3e4a83509af57dea25e1c2"
+      "sizeBytes": 180,
+      "sha256": "f6ab3926cd1d595929ca81e48aa0420b0753e3700a81d103434da95eac557069"
     },
     {
       "path": "crew.html",
@@ -116,8 +116,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 759,
-      "sha256": "10e1f1853c72f9bf7d8f88a21ff9c270e725bd84f2c654c83e702e69e3318060"
+      "sizeBytes": 1219,
+      "sha256": "221ac302e16547b0a57adf541ca2a144898e52b6526bddf633ed777e194c7b13"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -196,8 +196,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 2484,
-      "sha256": "0f074ba3f1f0c74448dc04829ec4af904e719c95374fdeaefa10dea8db421f1a"
+      "sizeBytes": 7908,
+      "sha256": "2f3f1ab274f162c2de36c144b998c4d2c75e11307fe2c7bec8b19b0f3a802c0c"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -246,8 +246,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 183,
-      "sha256": "84b5a8f3462ee801f671a591df15e3d3336ff793ee3e4a83509af57dea25e1c2"
+      "sizeBytes": 180,
+      "sha256": "f6ab3926cd1d595929ca81e48aa0420b0753e3700a81d103434da95eac557069"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -426,8 +426,8 @@
     },
     {
       "path": "assets/js/dashboard.js",
-      "sizeBytes": 3146,
-      "sha256": "33991f6e8f7075e248b398b55301293968a39b9c1bda1d830517b065f035d8e1"
+      "sizeBytes": 4446,
+      "sha256": "0d02a04e4cfb8eacd6ed231333373013d43079cb50a4a74335b4b4c0503638d3"
     },
     {
       "path": "assets/js/dashboard.js.bak-0-7-3",

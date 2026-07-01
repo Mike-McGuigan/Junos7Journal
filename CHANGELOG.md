@@ -1,18 +1,8 @@
 # Changelog
 
-## 2.0.0 - Production Dashboard
-
-### Added
-- Consolidated Captain's Dashboard.
-- Local publish server.
-- Windows launcher.
-- Git health checks.
-- About and Crew pages.
-- v2 navigation patch.
-- Build script.
-- Project notes.
+## 2.0.1 - Restore Historical Route
 
 ### Fixed
-- New admin-selected point is always the only current marker.
-- Escaped apostrophe issue in About Juno's 7 navigation.
-- About page contrast issues.
+- Restored full historical route from Rhodes through Corfu.
+- Updated route data in `site/data`, `content/routes`, and generated `docs/data`.
+- Preserves a newer current marker if you have added one locally.

@@ -1,34 +1,17 @@
-# Release 2.0.0 — Production Dashboard
+# Release 2.0.1 — Restore Historical Route
 
-## Highlights
+## Fix
 
-- Consolidated production release.
-- Captain's Dashboard with click-to-place map updates.
-- One-click local Publish.
-- Windows launcher.
-- Git health checks.
-- Correct current-marker handling.
-- About Juno's 7 and Meet the Crew pages.
-- Labelled voyage map workflow.
+v2.0.0 accidentally included a shortened placeholder route, which removed much of the historical voyage from the map.
+
+This patch restores the full route history and keeps the latest current point behaviour.
 
 ## Apply
 
-Copy this release over the repository root, then run:
-
 ```bash
-python tools/patch_v2_navigation.py
+python tools/restore_historical_route.py
 python tools/build_site.py
 git add .
-git commit -m "Release 2.0.0 production dashboard"
+git commit -m "Restore historical voyage route"
 git push
 ```
-
-## Use
-
-Double-click:
-
-```text
-Start Captains Dashboard.bat
-```
-
-Then click the map, enter the location name, and click **Publish**.

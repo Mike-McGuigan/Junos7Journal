@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "release": "Production Dashboard",
-  "buildUtc": "2026-07-01 19:26:55 UTC",
+  "buildUtc": "2026-07-01 19:36:38 UTC",
   "fileCount": 88,
   "files": [
     {
@@ -27,7 +27,7 @@
     {
       "path": "build-info.json",
       "sizeBytes": 180,
-      "sha256": "f6ab3926cd1d595929ca81e48aa0420b0753e3700a81d103434da95eac557069"
+      "sha256": "0d4351bb1dbaaed5d4b5b96961d6020ea2b013642ed8302aa1f90fd18a588e99"
     },
     {
       "path": "crew.html",
@@ -116,8 +116,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1219,
-      "sha256": "221ac302e16547b0a57adf541ca2a144898e52b6526bddf633ed777e194c7b13"
+      "sizeBytes": 1226,
+      "sha256": "6d0005be2e9b6c9f1d4419e891a266c44f1e7bb7400722204bbc145ac38d151c"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -247,7 +247,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 180,
-      "sha256": "f6ab3926cd1d595929ca81e48aa0420b0753e3700a81d103434da95eac557069"
+      "sha256": "0d4351bb1dbaaed5d4b5b96961d6020ea2b013642ed8302aa1f90fd18a588e99"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -416,8 +416,8 @@
     },
     {
       "path": "assets/js/admin-map.js",
-      "sizeBytes": 6022,
-      "sha256": "6da37e74451808b0032f42193f8bf0ca0d80c617dbc89ece028a74536420599b"
+      "sizeBytes": 6859,
+      "sha256": "d263babbea124e5fe4a5636e160a0ae664ecc167f3e47c14027f48e6da028638"
     },
     {
       "path": "assets/js/app.js",

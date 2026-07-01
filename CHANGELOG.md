@@ -1,9 +1,12 @@
 # Changelog
 
-## v2.1.0 — Geographic Intelligence
+## 2.1.1 - Geographic Intelligence polish
 
-- Added publish-time reverse geocoding for manual yacht locations.
-- Added enriched route `location` metadata.
-- Added dashboard display of friendly current location names.
-- Added richer route map popups and timeline labels.
-- Backfilled existing historical route stops with consistent location metadata.
+- Display enriched location metadata on the Captain's Dashboard admin map popups.
+- Treat missing global Git credential helper as optional information, not a red health-check failure.
+- Update version metadata to 2.1.1.
+
+## 2.1.0 - Geographic Intelligence
+
+- Added publish-time reverse geocoding.
+- Added friendly location metadata to route and dashboard data.

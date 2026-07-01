@@ -3,17 +3,34 @@ from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from pathlib import Path
 from urllib.parse import urlparse
 import json, os, subprocess, sys, webbrowser
-ROOT=Path(__file__).resolve().parents[1]; PORT=8765; VERSION="2.1.0"; RELEASE="Geographic Intelligence"
+ROOT=Path(__file__).resolve().parents[1]; PORT=8765; VERSION="2.1.1"; RELEASE="Geographic Intelligence polish"
 def run(cmd,check=True):
     p=subprocess.run(cmd,cwd=ROOT,text=True,stdout=subprocess.PIPE,stderr=subprocess.STDOUT,shell=False)
     if check and p.returncode!=0: raise RuntimeError(f"Command failed: {' '.join(cmd)}\n\n{p.stdout}")
     return p.stdout.strip()
 def git_health():
     info={"ok":True,"version":VERSION,"release":RELEASE,"repo":ROOT.name,"root":str(ROOT),"checks":[]}
-    def check(name,cmd,required=True):
-        try: out=run(cmd,True); info["checks"].append({"name":name,"ok":True,"output":out}); return out
-        except Exception as e: info["checks"].append({"name":name,"ok":False,"output":str(e)}); info["ok"]=False if required else info["ok"]; return ""
-    check("Git installed",["git","--version"]); info["branch"]=check("Current branch",["git","branch","--show-current"],False) or "unknown"; info["remote"]=check("Remote",["git","remote","-v"],False); status=check("Working tree",["git","status","--short"],False); info["workingTreeClean"]=not bool(status.strip()); info["credentialHelper"]=check("Credential helper",["git","config","--global","credential.helper"],False) or "not configured globally"; return info
+    def check(name,cmd,required=True,warning_ok=False):
+        try:
+            out=run(cmd,True)
+            info["checks"].append({"name":name,"ok":True,"required":required,"warning":False,"output":out})
+            return out
+        except Exception as e:
+            output=str(e)
+            if warning_ok:
+                info["checks"].append({"name":name,"ok":True,"required":False,"warning":True,"output":output})
+            else:
+                info["checks"].append({"name":name,"ok":False,"required":required,"warning":not required,"output":output})
+                if required: info["ok"]=False
+            return ""
+    check("Git installed",["git","--version"])
+    info["branch"]=check("Current branch",["git","branch","--show-current"],False) or "unknown"
+    info["remote"]=check("Remote",["git","remote","-v"],False)
+    status=check("Working tree",["git","status","--short"],False)
+    info["workingTreeClean"]=not bool(status.strip())
+    helper=check("Credential helper",["git","config","--global","credential.helper"],False,warning_ok=True)
+    info["credentialHelper"]=helper or "not configured globally"
+    return info
 def safe_name(v): return "".join(c.lower() if c.isalnum() else "-" for c in v).strip("-") or "junos7"
 def write_update(update):
     name=safe_name(update.get("routePoint",{}).get("name","junos7")); d=ROOT/"admin-input"; d.mkdir(parents=True,exist_ok=True); out=d/"latest-location.json"; arch=d/f"manual-location-{name}.json"; txt=json.dumps(update,indent=2); out.write_text(txt,encoding="utf-8"); arch.write_text(txt,encoding="utf-8"); return out
@@ -43,7 +60,7 @@ def main():
     os.chdir(ROOT); url=f"http://localhost:{PORT}/admin.html"; print("="*72); print("Captain's Dashboard"); print("="*72); print(f"Repository: {ROOT}"); print(f"URL:        {url}\n"); print("Health check:")
     h=git_health()
     for item in h["checks"]:
-        sym="OK " if item["ok"] else "ERR"; first=(item["output"] or "").splitlines()[0] if item["output"] else ""; print(f"  [{sym}] {item['name']}: {first}")
+        sym="OK " if item["ok"] and not item.get("warning") else ("WARN" if item.get("warning") else "ERR"); first=(item["output"] or "").splitlines()[0] if item["output"] else ""; print(f"  [{sym}] {item['name']}: {first}")
     print("\nLeave this window open while using Publish. Press Ctrl+C to stop."); print("="*72); webbrowser.open(url)
     try: ThreadingHTTPServer(("localhost",PORT),Handler).serve_forever()
     except KeyboardInterrupt: print("\\nCaptain's Dashboard stopped.")

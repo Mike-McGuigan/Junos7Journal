@@ -5,15 +5,15 @@ from urllib.request import Request, urlopen
 import json, sys, time
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "2.1.0"
-RELEASE = "Geographic Intelligence"
+VERSION = "2.1.1"
+RELEASE = "Geographic Intelligence polish"
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/reverse"
-USER_AGENT = "Junos7Journal/2.1.0 local-publishing-tool"
+USER_AGENT = "Junos7Journal/2.1.1 local-publishing-tool"
 
 
 def backup(path):
     if path.exists():
-        path.with_suffix(path.suffix + ".bak-2-1-0").write_text(path.read_text(encoding="utf-8"), encoding="utf-8")
+        path.with_suffix(path.suffix + ".bak-2-1-1").write_text(path.read_text(encoding="utf-8"), encoding="utf-8")
 
 
 def nice_join(parts):

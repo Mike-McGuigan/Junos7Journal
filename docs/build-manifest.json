@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "release": "Content First Journal",
-  "buildUtc": "2026-07-01 13:38:55 UTC",
-  "fileCount": 79,
+  "version": "2.0.0",
+  "release": "Production Dashboard",
+  "buildUtc": "2026-07-01 14:42:32 UTC",
+  "fileCount": 82,
   "files": [
     {
       "path": ".gitkeep",
@@ -11,28 +11,33 @@
     },
     {
       "path": "about.html",
-      "sizeBytes": 8012,
-      "sha256": "a5a1622974de21f7682904b78c976d6777bb85bb76af1ff0a97cbd61fbf3dedd"
+      "sizeBytes": 3953,
+      "sha256": "8722b09c2373db0f15ce7d1d2377ab358fa76c3aaa7155f86f3ad08b08298fa5"
+    },
+    {
+      "path": "about.html.bak-2-0-0-nav",
+      "sizeBytes": 3960,
+      "sha256": "2f527c6958cf1ef280d5d25a0079bebbf5a4ed6829826129fe2633f24da73fb3"
     },
     {
       "path": "admin.html",
-      "sizeBytes": 3203,
-      "sha256": "421384dcea018878597d0aac4f516f7fc702357b88b5095f79be937c37336c52"
-    },
-    {
-      "path": "build-info.html",
-      "sizeBytes": 486,
-      "sha256": "8dfb7fb403f0262a00992b5d5ce0b936f224674527ee5be6cdc5b272686b0217"
+      "sizeBytes": 3259,
+      "sha256": "baefeffa0b6757199fc8d211765ccca9c50dbf20914b457a9dcf3d36398c7374"
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 181,
-      "sha256": "c45225e45a9153801ade7589e4038e15cb428f6425c2fdd149d98e8f433a6b2d"
+      "sizeBytes": 180,
+      "sha256": "ee85473b49085f1de06f977703329a80a306d93167f08e0d2f319374290e727d"
     },
     {
       "path": "crew.html",
-      "sizeBytes": 5575,
-      "sha256": "e5ee831530f480c952e859174e72954dbd2ef6367afe52bd31a2fe4b59ba4c57"
+      "sizeBytes": 1837,
+      "sha256": "4dfb98088de9f8fab899b746ad2d4f9c57a1345cae6b852b89658193af871f68"
+    },
+    {
+      "path": "crew.html.bak-2-0-0-nav",
+      "sizeBytes": 1841,
+      "sha256": "ab899d7e9e96e0e6c6088feca424f9a4287750c3c5b8166bdf064907424ca099"
     },
     {
       "path": "index.html",
@@ -70,6 +75,11 @@
       "sha256": "a7185f8957407febee4544cac0a4392ac7301a5a8bc740e0c7c050387a63a956"
     },
     {
+      "path": "index.html.bak-2-0-0-nav",
+      "sizeBytes": 2884,
+      "sha256": "3cc664967b15ab101d04dee9a83e9ec572fa75a20a5d6fb4f9e3b75eaba1a132"
+    },
+    {
       "path": "index.html.bak-before-0-7-6-restore",
       "sizeBytes": 2068,
       "sha256": "aa47d11cef650e6d3edc3a999d3f08f7fb2d493608e9887c3cb44337d4aa0c47"
@@ -95,14 +105,19 @@
       "sha256": "61d83c235dd357852117b34d063e0765c943b3c6fe9f9f227c6967491eac6468"
     },
     {
+      "path": "voyage.html.bak-2-0-0-nav",
+      "sizeBytes": 1005,
+      "sha256": "61d83c235dd357852117b34d063e0765c943b3c6fe9f9f227c6967491eac6468"
+    },
+    {
       "path": "data/about-junos7.json",
       "sizeBytes": 756,
       "sha256": "a0c3881e44ece0d7b55877598b6c8c79eb76341f419896fe0484be1a5afe44fc"
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 856,
-      "sha256": "9b0ec1d0b575b4aee271f83413a392a21d2fd56d3027b92b26aac6d51b5d4240"
+      "sizeBytes": 318,
+      "sha256": "49efe1a6ccd1e67236fa5419464513d4c668b2bd6eae450145d8ffab64595332"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -171,8 +186,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 2923,
-      "sha256": "2b882b6f686a277f4479612d0490f21e3f28b9d7d5c463dcafce4bf09356a5d3"
+      "sizeBytes": 372,
+      "sha256": "7d52f00ed5f09530c1b91819b7cd1e8d6afc2cb584ab92a8c9f4ac208f4650a3"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -211,8 +226,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 181,
-      "sha256": "c45225e45a9153801ade7589e4038e15cb428f6425c2fdd149d98e8f433a6b2d"
+      "sizeBytes": 180,
+      "sha256": "ee85473b49085f1de06f977703329a80a306d93167f08e0d2f319374290e727d"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -341,13 +356,13 @@
     },
     {
       "path": "assets/css/admin-map.css",
-      "sizeBytes": 1396,
-      "sha256": "8c41679d6c3b85d3f7cb2d4bde6a2a4a9f7df099a501d53d083f5ab6a69ac786"
+      "sizeBytes": 1696,
+      "sha256": "b15840d3a4c25567896d2e31d9a19e26d951988fb1fb12849ae0761f80c19193"
     },
     {
       "path": "assets/css/companion.css",
-      "sizeBytes": 3178,
-      "sha256": "c954d6e4bb0ed4e9c93c366fa39e685d615d40f73119dc7633d2b962f55e974f"
+      "sizeBytes": 2515,
+      "sha256": "8d1e3ade6f95c358b5df39a5871a65acdf1001a4299ebff71ab0e22e464dfb5d"
     },
     {
       "path": "assets/css/dashboard.css",
@@ -371,8 +386,8 @@
     },
     {
       "path": "assets/js/admin-map.js",
-      "sizeBytes": 4410,
-      "sha256": "284ecef1750dd701c887bb5b0c894e83cf7686a19da447aed470a4841c13caef"
+      "sizeBytes": 6022,
+      "sha256": "6da37e74451808b0032f42193f8bf0ca0d80c617dbc89ece028a74536420599b"
     },
     {
       "path": "assets/js/app.js",

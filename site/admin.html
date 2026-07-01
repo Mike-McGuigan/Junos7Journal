@@ -3,18 +3,16 @@
 <title>Captain's Dashboard - Juno's 7</title>
 <link rel="stylesheet" href="assets/css/style.css"><link rel="stylesheet" href="assets/css/admin-map.css"><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"></head>
 <body>
-<header class="hero" style="min-height:48vh"><div class="hero-inner"><p class="eyebrow">Admin Tool</p><h1 style="font-size:clamp(3rem,9vw,7rem)">Captain's Dashboard</h1><h2>Click the map to add the latest location</h2><p class="lead" style="margin:auto">A static GitHub Pages-friendly helper. It generates the update JSON for your local apply script.</p><nav class="nav"><a href="index.html">Journal</a><a href="voyage.html">Voyage Map</a><a href="about.html">About Juno's 7</a></nav></div></header>
+<header class="hero" style="min-height:48vh"><div class="hero-inner"><p class="eyebrow">Admin Tool</p><h1 style="font-size:clamp(3rem,9vw,7rem)">Captain's Dashboard</h1><h2>Click the map, then publish</h2><p class="lead" style="margin:auto">A local publishing dashboard for updating the voyage map without editing JSON by hand.</p><nav class="nav"><a href="index.html">Journal</a><a href="voyage.html">Voyage Map</a><a href="about.html">About Juno's 7</a></nav></div></header>
 <main class="admin-layout"><section class="admin-panel"><p class="kicker">New position</p><h2 style="font-size:2.4rem">Location details</h2><p class="small-note">Click the map to fill latitude/longitude automatically. Drag the marker to refine it.</p><div class="status-card" id="statusCard">No point selected yet.</div>
-<label>Date label<input id="dateLabel" value="1 Jul"></label>
-<label>Location name<input id="locationName" value="East Coast Corfu"></label>
-<label>Stop type<select id="stopType"><option value="current" selected>Current / latest</option><option value="onboard">Normal route stop</option><option value="ais">AIS point</option><option value="milestone">Milestone</option></select></label>
+<label>Date label<input id="dateLabel" value="1 Jul"></label><label>Location name<input id="locationName" value="East Coast Corfu"></label>
 <label>Status<select id="status"><option>Approximate area</option><option>At anchor</option><option>Moored</option><option>Under way</option></select></label>
 <label>Precision<select id="precision"><option selected>map click approximate marker</option><option>precise AIS coordinate</option><option>user-confirmed area marker</option></select></label>
-<label>Latitude<input id="lat" type="number" step="0.000001" placeholder="Click map"></label>
-<label>Longitude<input id="lng" type="number" step="0.000001" placeholder="Click map"></label>
+<label>Latitude<input id="lat" type="number" step="0.000001" placeholder="Click map"></label><label>Longitude<input id="lng" type="number" step="0.000001" placeholder="Click map"></label>
 <label>Notes<textarea id="note" rows="4">Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.</textarea></label>
-<div class="admin-buttons"><button type="button" id="previewBtn">Preview JSON</button><button type="button" id="copyBtn">Copy JSON</button><button type="button" id="downloadBtn">Download JSON</button><a href="voyage.html">Open Voyage Map</a></div><pre id="output" class="output-box">Click the map, then preview or download the update.</pre></section>
-<section class="admin-map-shell"><div id="adminMap"></div></section></main>
-<section class="section"><p class="kicker">Apply locally</p><h2>After downloading the JSON</h2><p class="lead">Save the downloaded file as <code>admin-input/latest-location.json</code>, then run:</p><pre class="output-box">python tools/apply_manual_location.py admin-input/latest-location.json
-python tools/build_site.py</pre></section>
+<div class="admin-buttons"><button type="button" id="previewBtn">Preview JSON</button><button type="button" id="publishBtn">Publish</button><button type="button" id="copyBtn">Copy JSON</button><button type="button" id="downloadBtn">Download JSON</button><a href="voyage.html">Open Voyage Map</a></div>
+<pre id="output" class="output-box">Click the map, then preview or publish the update.</pre>
+<div class="status-card"><strong>Publish mode:</strong> <span id="publishMode">Checking...</span><div id="healthList" class="health-list"></div><p class="small-note">Publish works when opened through <code>Start Captains Dashboard.bat</code> or <code>python tools/admin_publish_server.py</code>.</p></div>
+</section><section class="admin-map-shell"><div id="adminMap"></div></section></main>
+<section class="section"><p class="kicker">Local publishing</p><h2>Start the local publish server</h2><pre class="output-box">Start Captains Dashboard.bat</pre><p class="lead">The server applies the location, builds the site, commits, and pushes using your existing local Git credentials.</p></section>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="assets/js/admin-map.js"></script></body></html>

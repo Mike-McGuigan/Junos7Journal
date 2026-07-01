@@ -1,28 +1,14 @@
 {
-  "version": "1.2.1",
-  "release": "Current Marker Fix",
-  "buildUtc": "2026-06-30 13:32:09 UTC",
+  "version": "2.0.0",
+  "release": "Production Dashboard",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: East Coast Corfu",
-    "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-01T12:00:53.841Z",
-    "latestPrecisePosition": null,
-    "note": "Current marker corrected so the admin-added East Coast Corfu point is the only current marker.",
-    "latestApproximatePosition": {
-      "lat": 39.712184,
-      "lng": 19.870748,
-      "precision": "map click approximate marker",
-      "source": "captains dashboard map click"
-    }
+    "latestStatus": "Manual location workflow enabled",
+    "latestSource": "Captain's Dashboard"
   },
   "stats": {
-    "routeStops": 16,
-    "journalEntries": 10,
-    "mediaItems": 16,
-    "photos": 11,
-    "videos": 5
+    "routeStops": 3
   }
 }

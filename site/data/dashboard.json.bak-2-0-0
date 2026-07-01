@@ -1,14 +1,23 @@
 {
-  "version": "2.0.0",
-  "release": "Production Dashboard",
+  "version": "2.0.1",
+  "release": "Restore Historical Route",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location workflow enabled",
-    "latestSource": "Captain's Dashboard"
+    "latestStatus": "Historical route restored",
+    "latestSource": "captains dashboard",
+    "lastManualLookupUtc": "2026-07-01T14:47:38.044Z",
+    "latestPrecisePosition": null,
+    "latestApproximatePosition": {
+      "lat": 39.711763,
+      "lng": 19.872705,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "note": "v2.0.1 restored the full route history after v2.0.0 accidentally shipped a shortened placeholder route."
   },
   "stats": {
-    "routeStops": 3
+    "routeStops": 18
   }
 }

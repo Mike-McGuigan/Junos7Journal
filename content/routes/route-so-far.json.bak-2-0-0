@@ -1,10 +1,115 @@
 [
   {
+    "date": "11 Jun",
+    "name": "Lindos, Rhodes",
+    "phase": "onboard",
+    "lat": 36.091,
+    "lng": 28.086
+  },
+  {
+    "date": "11-12 Jun",
+    "name": "Chalki",
+    "phase": "onboard",
+    "lat": 36.222,
+    "lng": 27.611
+  },
+  {
+    "date": "12-13 Jun",
+    "name": "Symi",
+    "phase": "onboard",
+    "lat": 36.617,
+    "lng": 27.838
+  },
+  {
+    "date": "15-16 Jun",
+    "name": "Nisyros",
+    "phase": "onboard",
+    "lat": 36.611,
+    "lng": 27.133
+  },
+  {
+    "date": "16-18 Jun",
+    "name": "Kos",
+    "phase": "onboard",
+    "lat": 36.893,
+    "lng": 27.289
+  },
+  {
+    "date": "17 Jun",
+    "name": "Cameron & Sophie join",
+    "phase": "milestone",
+    "lat": 36.893,
+    "lng": 27.289
+  },
+  {
+    "date": "18-19 Jun",
+    "name": "Lipsi",
+    "phase": "onboard",
+    "lat": 37.295,
+    "lng": 26.766
+  },
+  {
+    "date": "19-21 Jun",
+    "name": "Patmos",
+    "phase": "onboard",
+    "lat": 37.324,
+    "lng": 26.545
+  },
+  {
+    "date": "22 Jun",
+    "name": "Katapola, Amorgos",
+    "phase": "onboard",
+    "lat": 36.827,
+    "lng": 25.863
+  },
+  {
+    "date": "22-23 Jun",
+    "name": "Ios",
+    "phase": "onboard",
+    "lat": 36.722,
+    "lng": 25.272
+  },
+  {
+    "date": "23 Jun",
+    "name": "Ios departure AIS",
+    "phase": "ais",
+    "lat": 36.71285,
+    "lng": 25.28499
+  },
+  {
+    "date": "24 Jun",
+    "name": "Sea of Crete AIS marker",
+    "phase": "ais",
+    "lat": 36.6513,
+    "lng": 24.3377
+  },
+  {
+    "date": "25 Jun",
+    "name": "Sea of Crete / Cyclades area",
+    "phase": "ais",
+    "lat": 36.6473,
+    "lng": 24.3392
+  },
+  {
+    "date": "26-27 Jun",
+    "name": "Zakynthos",
+    "phase": "onboard",
+    "lat": 37.788,
+    "lng": 20.899
+  },
+  {
     "date": "28 Jun",
     "name": "Sami, Kefalonia",
     "phase": "onboard",
     "lat": 38.253,
     "lng": 20.647
+  },
+  {
+    "date": "29-30 Jun",
+    "name": "East Coast Ithaca / Underway",
+    "phase": "onboard",
+    "lat": 38.43164,
+    "lng": 20.58843
   },
   {
     "date": "30 Jun",

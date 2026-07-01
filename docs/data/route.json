@@ -256,25 +256,29 @@
     "date": "1 Jul",
     "name": "East Coast Corfu",
     "phase": "current",
-    "lat": 39.712677,
-    "lng": 19.866812,
+    "lat": 39.620358,
+    "lng": 19.926493,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
       "lookupProvider": "OpenStreetMap Nominatim",
       "osmType": "node",
-      "osmId": 3040609533,
-      "displayName": "Corfu, near Barbati, Ioanian Islands, Greece",
-      "shortName": "Barbati, Corfu",
-      "rawDisplayName": "Glyfa, Barbati, Municipality of Central Corfu and Diapontia Islands, Corfu Regional Unit, Ioanian Islands, Peloponnese, Western Greece and the Ionian, 490 81, Greece",
+      "osmId": 1827940532,
+      "displayName": "Near Corfu Town, Corfu, Greece",
+      "shortName": "Corfu Town, Corfu",
+      "rawDisplayName": "Corfu, Municipality of Central Corfu and Diapontia Islands, Corfu Regional Unit, Ioanian Islands, Peloponnese, Western Greece and the Ionian, 491 00, Greece",
       "country": "Greece",
       "countryCode": "GR",
       "region": "Ioanian Islands",
       "county": "Corfu Regional Unit",
       "municipality": "Municipality of Central Corfu and Diapontia Islands",
       "island": "Corfu",
-      "nearestPlace": "Barbati",
-      "localArea": null
+      "nearestPlace": "Corfu Town",
+      "localArea": null,
+      "nearestKnownPlace": "Corfu Town",
+      "nearestKnownPlaceDistanceKm": 0.6,
+      "nearestKnownPlaceDistanceNm": 0.3,
+      "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
     }
   }
 ]

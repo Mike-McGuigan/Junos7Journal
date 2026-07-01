@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedUtc": "2026-07-01T21:35:02.115Z",
+  "generatedUtc": "2026-07-01T21:52:57.623Z",
   "vesselKey": "junos7",
   "displayName": "JUNOS 7",
   "mmsi": "319303300",
@@ -9,17 +9,17 @@
     "date": "1 Jul",
     "name": "East Coast Corfu",
     "phase": "current",
-    "lat": 39.712677,
-    "lng": 19.866812,
+    "lat": 39.620358,
+    "lng": 19.926493,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
   },
   "tracker": {
-    "timestampUtc": "2026-07-01T21:35:02.115Z",
+    "timestampUtc": "2026-07-01T21:52:57.623Z",
     "status": "Approximate area",
     "area": "East Coast Corfu",
     "position": {
-      "lat": 39.712677,
-      "lng": 19.866812,
+      "lat": 39.620358,
+      "lng": 19.926493,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },

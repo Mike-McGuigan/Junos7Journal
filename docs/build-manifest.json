@@ -1,7 +1,7 @@
 {
   "version": "2.1.1",
   "release": "Production Dashboard",
-  "buildUtc": "2026-07-01 21:35:03 UTC",
+  "buildUtc": "2026-07-01 21:53:00 UTC",
   "fileCount": 94,
   "files": [
     {
@@ -27,7 +27,7 @@
     {
       "path": "build-info.json",
       "sizeBytes": 180,
-      "sha256": "b16c73f789771516b1470d0ebc725c74ded1143184b8ebc7edc89fc68867dcc9"
+      "sha256": "f03cbe7b4362cfe8aa13978326142df26ae0b5b769e8a8fdb4f391118cd1a0e7"
     },
     {
       "path": "crew.html",
@@ -116,8 +116,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1682,
-      "sha256": "e33cba218a7763502ed4bd22a38e12e843681afa48475acb1b3e7bbd3dc105b8"
+      "sizeBytes": 1842,
+      "sha256": "5f07fc768a468507ffa8f1e83b2d6b4f7db61c4daed1479743e5fc86f5be6376"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -156,8 +156,8 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 2157,
-      "sha256": "bb48bdc20129100cfc1de3f1d01cb0abfdb866c9edad3156d8ee556d48823476"
+      "sizeBytes": 1682,
+      "sha256": "e33cba218a7763502ed4bd22a38e12e843681afa48475acb1b3e7bbd3dc105b8"
     },
     {
       "path": "data/dashboard.json.bak-geo-2",
@@ -206,8 +206,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 8729,
-      "sha256": "901e5b046b7e15b8ae6e3a6e38dfa9b411a392abb9b33e8acff68ffab705f36c"
+      "sizeBytes": 8917,
+      "sha256": "395121803a930de49d615a5e3f91b595f7e5758a6df9d4e1ea38245d8547cd99"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -246,8 +246,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 9138,
-      "sha256": "b4a8b68bb219b5e3eb27d0d2358bc0b31e2800f32addd4ff211cef8aaee1d690"
+      "sizeBytes": 8729,
+      "sha256": "901e5b046b7e15b8ae6e3a6e38dfa9b411a392abb9b33e8acff68ffab705f36c"
     },
     {
       "path": "data/route.json.bak-geo-2",
@@ -267,7 +267,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 180,
-      "sha256": "b16c73f789771516b1470d0ebc725c74ded1143184b8ebc7edc89fc68867dcc9"
+      "sha256": "f03cbe7b4362cfe8aa13978326142df26ae0b5b769e8a8fdb4f391118cd1a0e7"
     },
     {
       "path": "data/version.json.bak-1-0-1",

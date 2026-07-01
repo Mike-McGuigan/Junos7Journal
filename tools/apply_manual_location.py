@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Apply a manually selected Juno's 7 location to route/dashboard data.
 
-Geographic Intelligence feature branch:
+Commit 1 of Geographic Intelligence:
 - performs a server-side reverse lookup at publish time;
-- stores normalised English metadata alongside the new route point and tracker data;
+- stores the returned metadata alongside the new route point and tracker data;
 - keeps existing site behaviour backwards-compatible because the original name/date/lat/lng fields remain unchanged.
 """
 
@@ -12,12 +12,14 @@ from __future__ import annotations
 from pathlib import Path
 import json
 import sys
+import time
 
 from geo_lookup import reverse_lookup
 
 ROOT = Path(__file__).resolve().parents[1]
 VERSION = "2.1.1"
 RELEASE = "Geographic Intelligence polish"
+
 def configure_console() -> None:
     """Avoid Windows cp1252 crashes if lookup text contains accented characters."""
     for stream_name in ("stdout", "stderr"):
@@ -31,7 +33,7 @@ def configure_console() -> None:
 
 def backup(path: Path) -> None:
     if path.exists():
-        path.with_suffix(path.suffix + ".bak-geo-2").write_text(
+        path.with_suffix(path.suffix + ".bak-geo-1").write_text(
             path.read_text(encoding="utf-8"),
             encoding="utf-8",
         )
@@ -49,6 +51,7 @@ def enrich_update(data: dict) -> dict:
         tracker = data.setdefault("tracker", {})
         tracker["location"] = location
         tracker["area"] = location.get("displayName") or fallback
+        time.sleep(1)
 
     return data
 

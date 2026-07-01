@@ -1,28 +1,23 @@
 #!/usr/bin/env python3
 """Apply a manually selected Juno's 7 location to route/dashboard data.
 
-Commit 1 of Geographic Intelligence:
+Geographic Intelligence feature branch:
 - performs a server-side reverse lookup at publish time;
-- stores the returned metadata alongside the new route point and tracker data;
+- stores normalised English metadata alongside the new route point and tracker data;
 - keeps existing site behaviour backwards-compatible because the original name/date/lat/lng fields remain unchanged.
 """
 
 from __future__ import annotations
 
 from pathlib import Path
-from urllib.parse import urlencode
-from urllib.request import Request, urlopen
 import json
 import sys
-import time
+
+from geo_lookup import reverse_lookup
 
 ROOT = Path(__file__).resolve().parents[1]
 VERSION = "2.1.1"
 RELEASE = "Geographic Intelligence polish"
-NOMINATIM_URL = "https://nominatim.openstreetmap.org/reverse"
-USER_AGENT = "Junos7Journal/2.2-feature local-publishing-tool"
-
-
 def configure_console() -> None:
     """Avoid Windows cp1252 crashes if lookup text contains accented characters."""
     for stream_name in ("stdout", "stderr"):
@@ -36,105 +31,10 @@ def configure_console() -> None:
 
 def backup(path: Path) -> None:
     if path.exists():
-        path.with_suffix(path.suffix + ".bak-geo-1").write_text(
+        path.with_suffix(path.suffix + ".bak-geo-2").write_text(
             path.read_text(encoding="utf-8"),
             encoding="utf-8",
         )
-
-
-def nice_join(parts) -> str:
-    out = []
-    for part in parts:
-        if part and part not in out:
-            out.append(part)
-    return ", ".join(out)
-
-
-def reverse_lookup(lat, lng, fallback_name: str = "Manual location") -> dict:
-    """Return friendly geographic metadata for a lat/lng.
-
-    This uses OpenStreetMap Nominatim only during local publishing. The generated
-    static website never calls the geocoder from a visitor's browser.
-    """
-    params = urlencode(
-        {
-            "format": "jsonv2",
-            "lat": f"{float(lat):.6f}",
-            "lon": f"{float(lng):.6f}",
-            "zoom": 10,
-            "addressdetails": 1,
-            "namedetails": 1,
-        }
-    )
-    req = Request(
-        f"{NOMINATIM_URL}?{params}",
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": "application/json",
-        },
-    )
-
-    try:
-        with urlopen(req, timeout=12) as response:
-            raw = json.loads(response.read().decode("utf-8"))
-    except Exception as exc:
-        return {
-            "lookupStatus": "failed",
-            "lookupProvider": "OpenStreetMap Nominatim",
-            "lookupError": str(exc),
-            "displayName": fallback_name,
-            "shortName": fallback_name,
-        }
-
-    address = raw.get("address", {}) or {}
-    country = address.get("country")
-    country_code = (address.get("country_code") or "").upper() or None
-    region = address.get("state") or address.get("region")
-    county = address.get("county")
-    municipality = address.get("municipality") or address.get("city") or address.get("town")
-    island = address.get("island")
-    nearest = (
-        address.get("city")
-        or address.get("town")
-        or address.get("village")
-        or address.get("hamlet")
-        or address.get("municipality")
-        or address.get("county")
-    )
-    local_area = address.get("suburb") or address.get("neighbourhood") or address.get("quarter")
-
-    short_name = nice_join([local_area, nearest, island or municipality or county]) or fallback_name
-
-    if island and nearest and island != nearest:
-        display = f"Near {nearest}, {island}"
-    elif nearest:
-        display = f"Near {nearest}"
-    elif island:
-        display = island
-    else:
-        display = fallback_name
-
-    suffix = nice_join([region if region not in {island, nearest} else None, country])
-    if suffix and suffix not in display:
-        display = f"{display}, {suffix}"
-
-    return {
-        "lookupStatus": "ok",
-        "lookupProvider": "OpenStreetMap Nominatim",
-        "osmType": raw.get("osm_type"),
-        "osmId": raw.get("osm_id"),
-        "displayName": display,
-        "shortName": short_name,
-        "rawDisplayName": raw.get("display_name"),
-        "country": country,
-        "countryCode": country_code,
-        "region": region,
-        "county": county,
-        "municipality": municipality,
-        "island": island,
-        "nearestPlace": nearest,
-        "localArea": local_area,
-    }
 
 
 def enrich_update(data: dict) -> dict:
@@ -149,7 +49,6 @@ def enrich_update(data: dict) -> dict:
         tracker = data.setdefault("tracker", {})
         tracker["location"] = location
         tracker["area"] = location.get("displayName") or fallback
-        time.sleep(1)
 
     return data
 

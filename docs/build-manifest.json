@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
+  "version": "1.2.0",
   "release": "Content First Journal",
-  "buildUtc": "2026-07-01 09:02:12 UTC",
-  "fileCount": 68,
+  "buildUtc": "2026-07-01 11:55:24 UTC",
+  "fileCount": 73,
   "files": [
     {
       "path": ".gitkeep",
@@ -15,14 +15,19 @@
       "sha256": "a5a1622974de21f7682904b78c976d6777bb85bb76af1ff0a97cbd61fbf3dedd"
     },
     {
+      "path": "admin.html",
+      "sizeBytes": 3203,
+      "sha256": "421384dcea018878597d0aac4f516f7fc702357b88b5095f79be937c37336c52"
+    },
+    {
       "path": "build-info.html",
       "sizeBytes": 486,
-      "sha256": "7f427973e227ad952c62dbcf2e8d47f9d5fdf12d223499bbbd9a29f3eac1e8d2"
+      "sha256": "6cbb661973a8999be63774f2a8ce42e19abfa191b6eff71feeba643be6f3c9a8"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 181,
-      "sha256": "1444aa3e197c6bf386595d3ea8b5abf074f17691290cd5176f1c5767e3433c85"
+      "sha256": "16db9061da8c061a1967f55f8f9f351ca9746f038eead5ee9c830897f33b12d8"
     },
     {
       "path": "crew.html",
@@ -31,8 +36,8 @@
     },
     {
       "path": "index.html",
-      "sizeBytes": 2840,
-      "sha256": "a7185f8957407febee4544cac0a4392ac7301a5a8bc740e0c7c050387a63a956"
+      "sizeBytes": 2884,
+      "sha256": "3cc664967b15ab101d04dee9a83e9ec572fa75a20a5d6fb4f9e3b75eaba1a132"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -60,6 +65,11 @@
       "sha256": "32acabd3fc18c4d21d3fbd76b9ef5044ffa41b314bcb07cded040a62188dd834"
     },
     {
+      "path": "index.html.bak-1-2-0-dashboard-nav",
+      "sizeBytes": 2840,
+      "sha256": "a7185f8957407febee4544cac0a4392ac7301a5a8bc740e0c7c050387a63a956"
+    },
+    {
       "path": "index.html.bak-before-0-7-6-restore",
       "sizeBytes": 2068,
       "sha256": "aa47d11cef650e6d3edc3a999d3f08f7fb2d493608e9887c3cb44337d4aa0c47"
@@ -76,6 +86,11 @@
     },
     {
       "path": "voyage.html",
+      "sizeBytes": 1005,
+      "sha256": "61d83c235dd357852117b34d063e0765c943b3c6fe9f9f227c6967491eac6468"
+    },
+    {
+      "path": "voyage.html.bak-1-2-0-dashboard-nav",
       "sizeBytes": 1005,
       "sha256": "61d83c235dd357852117b34d063e0765c943b3c6fe9f9f227c6967491eac6468"
     },
@@ -177,7 +192,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 181,
-      "sha256": "1444aa3e197c6bf386595d3ea8b5abf074f17691290cd5176f1c5767e3433c85"
+      "sha256": "16db9061da8c061a1967f55f8f9f351ca9746f038eead5ee9c830897f33b12d8"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -295,6 +310,11 @@
       "sha256": "70a221c8f03c336c6f1ce461ec43bf70fe00b089257110995d4801eed04633c4"
     },
     {
+      "path": "assets/css/admin-map.css",
+      "sizeBytes": 1396,
+      "sha256": "8c41679d6c3b85d3f7cb2d4bde6a2a4a9f7df099a501d53d083f5ab6a69ac786"
+    },
+    {
       "path": "assets/css/companion.css",
       "sizeBytes": 3178,
       "sha256": "c954d6e4bb0ed4e9c93c366fa39e685d615d40f73119dc7633d2b962f55e974f"
@@ -318,6 +338,11 @@
       "path": "assets/images/.gitkeep",
       "sizeBytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/js/admin-map.js",
+      "sizeBytes": 4410,
+      "sha256": "284ecef1750dd701c887bb5b0c894e83cf7686a19da447aed470a4841c13caef"
     },
     {
       "path": "assets/js/app.js",

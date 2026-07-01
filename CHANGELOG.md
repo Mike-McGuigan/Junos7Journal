@@ -1,12 +1,14 @@
 # Changelog
 
-## 1.0.5 - Corfu Marker and Map Labels
+## 1.2.0 - Captain's Dashboard
 
 ### Added
-- `tools/add_corfu_marker_and_map_labels.py`
-- `data/ais/manual/2026-07-01-0753-junos7-east-corfu.json`
+- Leaflet-based Captain's Dashboard admin page.
+- Click-to-place manual location marker.
+- Draggable selected marker.
+- Existing route preview.
+- Local apply script for admin-generated JSON.
+- Navigation patch for Captain's Dashboard.
 
 ### Changed
-- Current marker moved to approximate east coast Corfu area.
-- Voyage map default layer changed to labelled map tiles.
-- Satellite layer remains available in the map layer selector.
+- Manual location workflow no longer requires typing latitude/longitude.

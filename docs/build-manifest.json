@@ -1,7 +1,7 @@
 {
   "version": "2.0.1",
   "release": "Production Dashboard",
-  "buildUtc": "2026-07-01 15:04:49 UTC",
+  "buildUtc": "2026-07-01 15:54:08 UTC",
   "fileCount": 88,
   "files": [
     {
@@ -27,7 +27,7 @@
     {
       "path": "build-info.json",
       "sizeBytes": 180,
-      "sha256": "955a1d216f46cc85a18cd6e6d1ed15ae829cf9e8089c708a4d6b4534e4b2b9f3"
+      "sha256": "6f6c05de915e92510414f8d79e131081ea4ab53069da322d3c7799736fb2d521"
     },
     {
       "path": "crew.html",
@@ -247,7 +247,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 180,
-      "sha256": "955a1d216f46cc85a18cd6e6d1ed15ae829cf9e8089c708a4d6b4534e4b2b9f3"
+      "sha256": "6f6c05de915e92510414f8d79e131081ea4ab53069da322d3c7799736fb2d521"
     },
     {
       "path": "data/version.json.bak-1-0-1",

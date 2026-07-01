@@ -39,18 +39,41 @@ def backup(path: Path) -> None:
         )
 
 
+def narrative_title(route_point: dict, tracker: dict | None = None) -> str:
+    """Return the human-entered voyage title for a route point.
+
+    `name` is retained for backwards compatibility. `title` is the preferred
+    narrative field from this commit onwards.
+    """
+    tracker = tracker or {}
+    return (
+        route_point.get("title")
+        or route_point.get("name")
+        or tracker.get("area")
+        or "Manual location"
+    )
+
+
+def ensure_title(route_point: dict, tracker: dict | None = None) -> str:
+    title = narrative_title(route_point, tracker)
+    route_point["title"] = title
+    route_point.setdefault("name", title)
+    return title
+
+
 def enrich_update(data: dict) -> dict:
     route_point = data["routePoint"]
+    tracker = data.setdefault("tracker", {})
+    title = ensure_title(route_point, tracker)
     lat = route_point.get("lat")
     lng = route_point.get("lng")
-    fallback = route_point.get("name") or data.get("tracker", {}).get("area") or "Manual location"
 
     if lat is not None and lng is not None:
-        location = reverse_lookup(lat, lng, fallback)
+        location = reverse_lookup(lat, lng, title)
         route_point["location"] = location
-        tracker = data.setdefault("tracker", {})
         tracker["location"] = location
-        tracker["area"] = location.get("displayName") or fallback
+        tracker["area"] = title
+        tracker["title"] = title
         time.sleep(1)
 
     return data
@@ -66,8 +89,11 @@ def load_update(path: Path) -> dict:
 
 def normalise_route(route: list, new_point: dict) -> list:
     cleaned = []
+    new_title = ensure_title(new_point)
     for item in route:
-        if item.get("name") == new_point.get("name") and item.get("date") == new_point.get("date"):
+        item.setdefault("title", item.get("name", "Route stop"))
+        same_title = item.get("title") == new_title or item.get("name") == new_point.get("name")
+        if same_title and item.get("date") == new_point.get("date"):
             continue
         if item.get("phase") == "current":
             item["phase"] = "onboard"
@@ -97,15 +123,17 @@ def update_dashboard(path: Path, update: dict) -> bool:
     manual = update["tracker"]
     pos = manual["position"]
     location = manual.get("location") or update["routePoint"].get("location") or {}
-    display = location.get("displayName") or manual.get("area") or update["routePoint"].get("name", "Manual location")
+    title = update["routePoint"].get("title") or update["routePoint"].get("name", "Manual location")
+    display = location.get("displayName") or manual.get("area") or title
 
     tracker = data.setdefault("tracker", {})
     tracker["workflow"] = tracker.get("workflow", "running")
     tracker["provider"] = "manual / provider not configured"
     tracker["liveAis"] = False
     tracker["lastManualLookupUtc"] = manual["timestampUtc"]
-    tracker["latestStatus"] = f"Manual location: {display}"
-    tracker["latestLocationName"] = update["routePoint"].get("name")
+    tracker["latestStatus"] = f"Manual location: {title}"
+    tracker["latestLocationName"] = title
+    tracker["latestLocationTitle"] = title
     tracker["latestFriendlyLocation"] = display
     tracker["location"] = location
     tracker["latestSource"] = manual.get("source", "captains dashboard")
@@ -133,7 +161,8 @@ def update_version(path: Path) -> None:
 
 def write_record(update: dict) -> Path:
     ts = update["tracker"]["timestampUtc"].replace(":", "").replace("-", "")
-    name = update["routePoint"]["name"].lower().replace(" ", "-").replace("/", "-")
+    title = update["routePoint"].get("title") or update["routePoint"].get("name", "manual-location")
+    name = title.lower().replace(" ", "-").replace("/", "-")
     out = ROOT / "data" / "ais" / "manual" / f"{ts[:8]}-{name}.json"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(update, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -174,8 +203,9 @@ def main() -> None:
 
     loc = update["routePoint"].get("location", {})
     print("Manual location applied.")
-    print(f"Location: {update['routePoint']['name']}")
-    print(f"Friendly location: {loc.get('displayName', update['routePoint']['name'])}")
+    title = update["routePoint"].get("title") or update["routePoint"].get("name")
+    print(f"Title: {title}")
+    print(f"Friendly location: {loc.get('displayName', title)}")
     print(f"Coordinates: {update['routePoint']['lat']}, {update['routePoint']['lng']}")
     print(f"Tracker record: {record.relative_to(ROOT)}")
     print("Updated files where present:")

@@ -34,12 +34,60 @@
       "fromTitle": "Lindos, Rhodes",
       "toTitle": "Chalki",
       "distanceDirectNm": 24.1,
-      "distanceEstimatedNm": 24.1,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 52.6,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           36.096464,
           28.08893
+        ],
+        [
+          36.094189,
+          28.096483
+        ],
+        [
+          36.042367,
+          28.106117
+        ],
+        [
+          36.007416,
+          28.034534
+        ],
+        [
+          35.949037,
+          27.956429
+        ],
+        [
+          35.869508,
+          27.880211
+        ],
+        [
+          35.843352,
+          27.79644
+        ],
+        [
+          35.825469,
+          27.712326
+        ],
+        [
+          35.908935,
+          27.647781
+        ],
+        [
+          36.034525,
+          27.671127
+        ],
+        [
+          36.177202,
+          27.639713
+        ],
+        [
+          36.21308,
+          27.622622
+        ],
+        [
+          36.217955,
+          27.621474
         ],
         [
           36.221634,
@@ -52,8 +100,8 @@
     "date": "12-13 Jun",
     "name": "Symi",
     "phase": "onboard",
-    "lat": 36.617,
-    "lng": 27.838,
+    "lat": 36.616574,
+    "lng": 27.838722,
     "location": {
       "country": "Greece",
       "region": "South Aegean",
@@ -66,17 +114,81 @@
     "legFromPrevious": {
       "fromTitle": "Chalki",
       "toTitle": "Symi",
-      "distanceDirectNm": 26.1,
-      "distanceEstimatedNm": 26.1,
-      "usesManualSeaRoute": false,
+      "distanceDirectNm": 26.0,
+      "distanceEstimatedNm": 31.6,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           36.221634,
           27.615895
         ],
         [
-          36.617,
-          27.838
+          36.222844,
+          27.624789
+        ],
+        [
+          36.225092,
+          27.629178
+        ],
+        [
+          36.248946,
+          27.630787
+        ],
+        [
+          36.358234,
+          27.691555
+        ],
+        [
+          36.52726,
+          27.83987
+        ],
+        [
+          36.539769,
+          27.868237
+        ],
+        [
+          36.545975,
+          27.882056
+        ],
+        [
+          36.576447,
+          27.882743
+        ],
+        [
+          36.606907,
+          27.885146
+        ],
+        [
+          36.612763,
+          27.884889
+        ],
+        [
+          36.630949,
+          27.878108
+        ],
+        [
+          36.63457,
+          27.87298
+        ],
+        [
+          36.634641,
+          27.86636
+        ],
+        [
+          36.630949,
+          27.856393
+        ],
+        [
+          36.628539,
+          27.850986
+        ],
+        [
+          36.62475,
+          27.845836
+        ],
+        [
+          36.616574,
+          27.838722
         ]
       ]
     }
@@ -99,13 +211,65 @@
     "legFromPrevious": {
       "fromTitle": "Symi",
       "toTitle": "Nisyros",
-      "distanceDirectNm": 34.0,
-      "distanceEstimatedNm": 34.0,
-      "usesManualSeaRoute": false,
+      "distanceDirectNm": 34.1,
+      "distanceEstimatedNm": 36.2,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
-          36.617,
-          27.838
+          36.616574,
+          27.838722
+        ],
+        [
+          36.617127,
+          27.839066
+        ],
+        [
+          36.626954,
+          27.842832
+        ],
+        [
+          36.637561,
+          27.84472
+        ],
+        [
+          36.641349,
+          27.843261
+        ],
+        [
+          36.643213,
+          27.840793
+        ],
+        [
+          36.644143,
+          27.837746
+        ],
+        [
+          36.645275,
+          27.831845
+        ],
+        [
+          36.643966,
+          27.811761
+        ],
+        [
+          36.635332,
+          27.359905
+        ],
+        [
+          36.628168,
+          27.235966
+        ],
+        [
+          36.626791,
+          27.179317
+        ],
+        [
+          36.624466,
+          27.156229
+        ],
+        [
+          36.620892,
+          27.137475
         ],
         [
           36.613099,
@@ -133,12 +297,52 @@
       "fromTitle": "Nisyros",
       "toTitle": "Kos",
       "distanceDirectNm": 18.5,
-      "distanceEstimatedNm": 18.5,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 26.0,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           36.613099,
           27.131488
+        ],
+        [
+          36.63974,
+          27.148075
+        ],
+        [
+          36.67551,
+          27.221031
+        ],
+        [
+          36.795471,
+          27.377586
+        ],
+        [
+          36.867468,
+          27.374153
+        ],
+        [
+          36.896062,
+          27.355099
+        ],
+        [
+          36.900549,
+          27.299094
+        ],
+        [
+          36.898918,
+          27.289765
+        ],
+        [
+          36.897743,
+          27.289079
+        ],
+        [
+          36.89691,
+          27.288671
+        ],
+        [
+          36.896593,
+          27.288553
         ],
         [
           36.894668,
@@ -302,8 +506,8 @@
     "date": "22 Jun",
     "name": "Katapola, Amorgos",
     "phase": "onboard",
-    "lat": 36.827,
-    "lng": 25.863,
+    "lat": 36.827768,
+    "lng": 25.86261,
     "location": {
       "country": "Greece",
       "region": "South Aegean",
@@ -393,8 +597,8 @@
           25.862668
         ],
         [
-          36.827,
-          25.863
+          36.827768,
+          25.86261
         ]
       ]
     }
@@ -418,12 +622,64 @@
       "fromTitle": "Katapola, Amorgos",
       "toTitle": "Ios",
       "distanceDirectNm": 29.1,
-      "distanceEstimatedNm": 29.1,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 36.1,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
-          36.827,
-          25.863
+          36.827768,
+          25.86261
+        ],
+        [
+          36.828282,
+          25.862069
+        ],
+        [
+          36.825209,
+          25.743456
+        ],
+        [
+          36.804182,
+          25.317392
+        ],
+        [
+          36.794835,
+          25.264177
+        ],
+        [
+          36.758261,
+          25.241003
+        ],
+        [
+          36.724834,
+          25.235167
+        ],
+        [
+          36.718857,
+          25.235639
+        ],
+        [
+          36.713972,
+          25.239844
+        ],
+        [
+          36.71088,
+          25.249693
+        ],
+        [
+          36.711495,
+          25.260444
+        ],
+        [
+          36.718002,
+          25.263255
+        ],
+        [
+          36.721014,
+          25.265347
+        ],
+        [
+          36.723024,
+          25.268319
         ],
         [
           36.722263,
@@ -451,12 +707,40 @@
       "fromTitle": "Ios",
       "toTitle": "Ios departure AIS",
       "distanceDirectNm": 0.9,
-      "distanceEstimatedNm": 0.9,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 2.2,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           36.722263,
           25.271489
+        ],
+        [
+          36.722699,
+          25.268415
+        ],
+        [
+          36.720773,
+          25.265604
+        ],
+        [
+          36.717658,
+          25.263727
+        ],
+        [
+          36.713082,
+          25.262096
+        ],
+        [
+          36.709435,
+          25.262268
+        ],
+        [
+          36.708162,
+          25.270078
+        ],
+        [
+          36.709775,
+          25.280356
         ],
         [
           36.71285,
@@ -483,12 +767,52 @@
       "fromTitle": "Ios departure AIS",
       "toTitle": "Sea of Crete AIS marker",
       "distanceDirectNm": 45.8,
-      "distanceEstimatedNm": 45.8,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 47.6,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           36.71285,
           25.28499
+        ],
+        [
+          36.709229,
+          25.280807
+        ],
+        [
+          36.706954,
+          25.270143
+        ],
+        [
+          36.722779,
+          25.185599
+        ],
+        [
+          36.720294,
+          25.130968
+        ],
+        [
+          36.701389,
+          25.060158
+        ],
+        [
+          36.661672,
+          24.987717
+        ],
+        [
+          36.67995,
+          24.857769
+        ],
+        [
+          36.654339,
+          24.61607
+        ],
+        [
+          36.619799,
+          24.518051
+        ],
+        [
+          36.639834,
+          24.373298
         ],
         [
           36.6513,
@@ -533,8 +857,8 @@
     "date": "26-27 Jun",
     "name": "Zakynthos",
     "phase": "onboard",
-    "lat": 37.788,
-    "lng": 20.899,
+    "lat": 37.784249,
+    "lng": 20.904086,
     "location": {
       "country": "Greece",
       "region": "Ionian Islands",
@@ -547,17 +871,73 @@
     "legFromPrevious": {
       "fromTitle": "Sea of Crete / Cyclades area",
       "toTitle": "Zakynthos",
-      "distanceDirectNm": 178.2,
-      "distanceEstimatedNm": 178.2,
-      "usesManualSeaRoute": false,
+      "distanceDirectNm": 177.9,
+      "distanceEstimatedNm": 223.9,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           36.6473,
           24.3392
         ],
         [
-          37.788,
-          20.899
+          36.639757,
+          24.330168
+        ],
+        [
+          36.636589,
+          24.283476
+        ],
+        [
+          36.526053,
+          23.915176
+        ],
+        [
+          36.381352,
+          23.185959
+        ],
+        [
+          36.387502,
+          23.057213
+        ],
+        [
+          36.432021,
+          22.904949
+        ],
+        [
+          36.333796,
+          22.600937
+        ],
+        [
+          36.357025,
+          22.415543
+        ],
+        [
+          36.515983,
+          22.042694
+        ],
+        [
+          36.667868,
+          21.568909
+        ],
+        [
+          37.143761,
+          21.353989
+        ],
+        [
+          37.522525,
+          21.108856
+        ],
+        [
+          37.726058,
+          21.150742
+        ],
+        [
+          37.808563,
+          21.009293
+        ],
+        [
+          37.784249,
+          20.904086
         ]
       ]
     }
@@ -580,13 +960,53 @@
     "legFromPrevious": {
       "fromTitle": "Zakynthos",
       "toTitle": "Sami, Kefalonia",
-      "distanceDirectNm": 30.4,
-      "distanceEstimatedNm": 30.4,
-      "usesManualSeaRoute": false,
+      "distanceDirectNm": 30.7,
+      "distanceEstimatedNm": 36.8,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
-          37.788,
-          20.899
+          37.784249,
+          20.904086
+        ],
+        [
+          37.793436,
+          20.909836
+        ],
+        [
+          37.818328,
+          20.913162
+        ],
+        [
+          37.920232,
+          20.917282
+        ],
+        [
+          38.118217,
+          20.854111
+        ],
+        [
+          38.217548,
+          20.759354
+        ],
+        [
+          38.285608,
+          20.695925
+        ],
+        [
+          38.289255,
+          20.690475
+        ],
+        [
+          38.289996,
+          20.684295
+        ],
+        [
+          38.288303,
+          20.667257
+        ],
+        [
+          38.281305,
+          20.660949
         ],
         [
           38.253,
@@ -614,12 +1034,28 @@
       "fromTitle": "Sami, Kefalonia",
       "toTitle": "East Coast Ithaca / Underway",
       "distanceDirectNm": 11.1,
-      "distanceEstimatedNm": 11.1,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 11.6,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           38.253,
           20.647
+        ],
+        [
+          38.292025,
+          20.645714
+        ],
+        [
+          38.392767,
+          20.627346
+        ],
+        [
+          38.414291,
+          20.618076
+        ],
+        [
+          38.429529,
+          20.594725
         ],
         [
           38.43164,
@@ -632,8 +1068,8 @@
     "date": "30 Jun",
     "name": "Paxi / Paxos",
     "phase": "onboard",
-    "lat": 39.2026,
-    "lng": 20.1858,
+    "lat": 39.202978,
+    "lng": 20.191176,
     "location": {
       "country": "Greece",
       "region": "Ionian Islands",
@@ -646,17 +1082,65 @@
     "legFromPrevious": {
       "fromTitle": "East Coast Ithaca / Underway",
       "toTitle": "Paxi / Paxos",
-      "distanceDirectNm": 50.0,
-      "distanceEstimatedNm": 50.0,
-      "usesManualSeaRoute": false,
+      "distanceDirectNm": 49.9,
+      "distanceEstimatedNm": 52.2,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           38.43164,
           20.58843
         ],
         [
-          39.2026,
-          20.1858
+          38.431419,
+          20.592896
+        ],
+        [
+          38.437283,
+          20.594881
+        ],
+        [
+          38.455168,
+          20.599537
+        ],
+        [
+          38.493218,
+          20.573359
+        ],
+        [
+          38.571723,
+          20.498772
+        ],
+        [
+          39.145905,
+          20.284195
+        ],
+        [
+          39.197906,
+          20.224628
+        ],
+        [
+          39.204308,
+          20.216475
+        ],
+        [
+          39.207309,
+          20.208707
+        ],
+        [
+          39.208344,
+          20.197699
+        ],
+        [
+          39.206781,
+          20.193622
+        ],
+        [
+          39.202843,
+          20.192174
+        ],
+        [
+          39.202978,
+          20.191176
         ]
       ]
     }
@@ -693,13 +1177,13 @@
     "legFromPrevious": {
       "fromTitle": "Paxi / Paxos",
       "toTitle": "East Coast Corfu",
-      "distanceDirectNm": 34.0,
-      "distanceEstimatedNm": 34.9,
+      "distanceDirectNm": 34.1,
+      "distanceEstimatedNm": 34.7,
       "usesManualSeaRoute": true,
       "geometry": [
         [
-          39.2026,
-          20.1858
+          39.202978,
+          20.191176
         ],
         [
           39.20309,
@@ -820,12 +1304,32 @@
       "fromTitle": "East Coast Corfu",
       "toTitle": "Heading towards Cavtat, Croatia",
       "distanceDirectNm": 26.0,
-      "distanceEstimatedNm": 26.0,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 30.9,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           39.620394,
           19.926473
+        ],
+        [
+          39.621541,
+          19.947653
+        ],
+        [
+          39.667408,
+          19.945421
+        ],
+        [
+          39.742273,
+          19.9613
+        ],
+        [
+          39.783081,
+          19.982071
+        ],
+        [
+          39.826336,
+          19.961472
         ],
         [
           40.004344,

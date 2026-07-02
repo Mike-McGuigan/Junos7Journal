@@ -14,6 +14,8 @@ ROOT = Path(__file__).resolve().parents[1]
 PORT = 8765
 VERSION = "2.1.1"
 RELEASE = "Geographic Intelligence polish"
+GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
+ROUTE_FILE = ROOT / "docs" / "data" / "route.json"
 
 
 def run(cmd, check=True):
@@ -106,6 +108,68 @@ def publish(update):
     return "\n".join(log)
 
 
+
+def read_geometry():
+    if not GEOMETRY_FILE.exists():
+        return {
+            "schemaVersion": 1,
+            "description": "Optional manual sea-aware route waypoints for Juno's 7. Add legs here when a straight line between route stops would cross land.",
+            "legs": [],
+        }
+    return json.loads(GEOMETRY_FILE.read_text(encoding="utf-8"))
+
+
+def save_geometry(data):
+    if not isinstance(data, dict) or not isinstance(data.get("legs"), list):
+        raise ValueError("Invalid geometry payload. Expected an object with a legs array.")
+    data.setdefault("schemaVersion", 1)
+    data.setdefault("description", "Optional manual sea-aware route waypoints for Juno's 7. Add legs here when a straight line between route stops would cross land.")
+    GEOMETRY_FILE.parent.mkdir(parents=True, exist_ok=True)
+    GEOMETRY_FILE.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    log = [f"Saved {GEOMETRY_FILE.relative_to(ROOT)}"]
+    log.append(run([sys.executable, "tools/build_site.py"]))
+    log.append("Route geometry saved locally. Review, commit and push when ready.")
+    return "\n".join(log)
+
+
+def read_route():
+    if not ROUTE_FILE.exists():
+        return []
+    return json.loads(ROUTE_FILE.read_text(encoding="utf-8"))
+
+
+def save_route_payload(payload):
+    route = payload.get("route") if isinstance(payload, dict) else None
+    if not isinstance(route, list):
+        raise ValueError("Invalid route payload. Expected an object with a route array.")
+    for item in route:
+        if not isinstance(item, dict):
+            raise ValueError("Invalid route item. Each route point must be an object.")
+        if "lat" not in item or "lng" not in item:
+            raise ValueError("Invalid route item. Each route point needs lat and lng.")
+        # Validate numeric coordinates before writing anything.
+        float(item["lat"])
+        float(item["lng"])
+
+    ROUTE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    ROUTE_FILE.write_text(json.dumps(route, indent=2, ensure_ascii=False), encoding="utf-8")
+    log = [f"Saved {ROUTE_FILE.relative_to(ROOT)}"]
+
+    geometry = payload.get("geometry") if isinstance(payload, dict) else None
+    if geometry is not None:
+        if not isinstance(geometry, dict) or not isinstance(geometry.get("legs"), list):
+            raise ValueError("Invalid geometry payload. Expected an object with a legs array.")
+        geometry.setdefault("schemaVersion", 1)
+        geometry.setdefault("description", "Optional manual sea-aware route waypoints for Juno's 7. Add legs here when a straight line between route stops would cross land.")
+        GEOMETRY_FILE.parent.mkdir(parents=True, exist_ok=True)
+        GEOMETRY_FILE.write_text(json.dumps(geometry, indent=2, ensure_ascii=False), encoding="utf-8")
+        log.append(f"Saved {GEOMETRY_FILE.relative_to(ROOT)}")
+
+    log.append(run([sys.executable, "tools/build_site.py"]))
+    log.append("Route stop saved locally. Review, commit and push when ready.")
+    return "\n".join(log)
+
+
 class Handler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=str(ROOT / "site"), **kwargs)
@@ -127,21 +191,35 @@ class Handler(SimpleHTTPRequestHandler):
         self.end_headers()
 
     def do_GET(self):
-        if urlparse(self.path).path in {"/api/status", "/api/health"}:
+        path = urlparse(self.path).path
+        if path in {"/api/status", "/api/health"}:
             self._json(200, git_health())
+            return
+        if path == "/api/geometry":
+            self._json(200, read_geometry())
+            return
+        if path == "/api/route":
+            self._json(200, read_route())
             return
         super().do_GET()
 
     def do_POST(self):
-        if urlparse(self.path).path != "/api/publish":
-            self._json(404, {"ok": False, "error": "Not found"})
-            return
+        path = urlparse(self.path).path
         try:
             size = int(self.headers.get("Content-Length", "0"))
-            update = json.loads(self.rfile.read(size).decode("utf-8"))
-            if "routePoint" not in update or "tracker" not in update:
-                raise ValueError("Invalid update payload")
-            self._json(200, {"ok": True, "log": publish(update)})
+            payload = json.loads(self.rfile.read(size).decode("utf-8"))
+            if path == "/api/publish":
+                if "routePoint" not in payload or "tracker" not in payload:
+                    raise ValueError("Invalid update payload")
+                self._json(200, {"ok": True, "log": publish(payload)})
+                return
+            if path == "/api/geometry":
+                self._json(200, {"ok": True, "log": save_geometry(payload)})
+                return
+            if path == "/api/route":
+                self._json(200, {"ok": True, "log": save_route_payload(payload)})
+                return
+            self._json(404, {"ok": False, "error": "Not found"})
         except Exception as exc:
             self._json(500, {"ok": False, "error": str(exc)})
 

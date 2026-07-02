@@ -3,8 +3,8 @@
     "date": "11 Jun",
     "name": "Lindos, Rhodes",
     "phase": "onboard",
-    "lat": 36.091,
-    "lng": 28.086,
+    "lat": 36.096464,
+    "lng": 28.08893,
     "location": {
       "country": "Greece",
       "region": "South Aegean",
@@ -19,8 +19,8 @@
     "date": "11-12 Jun",
     "name": "Chalki",
     "phase": "onboard",
-    "lat": 36.222,
-    "lng": 27.611,
+    "lat": 36.221634,
+    "lng": 27.615895,
     "location": {
       "country": "Greece",
       "region": "South Aegean",
@@ -33,17 +33,17 @@
     "legFromPrevious": {
       "fromTitle": "Lindos, Rhodes",
       "toTitle": "Chalki",
-      "distanceDirectNm": 24.3,
-      "distanceEstimatedNm": 24.3,
+      "distanceDirectNm": 24.1,
+      "distanceEstimatedNm": 24.1,
       "usesManualSeaRoute": false,
       "geometry": [
         [
-          36.091,
-          28.086
+          36.096464,
+          28.08893
         ],
         [
-          36.222,
-          27.611
+          36.221634,
+          27.615895
         ]
       ]
     }
@@ -71,8 +71,8 @@
       "usesManualSeaRoute": false,
       "geometry": [
         [
-          36.222,
-          27.611
+          36.221634,
+          27.615895
         ],
         [
           36.617,
@@ -85,8 +85,8 @@
     "date": "15-16 Jun",
     "name": "Nisyros",
     "phase": "onboard",
-    "lat": 36.611,
-    "lng": 27.133,
+    "lat": 36.613099,
+    "lng": 27.131488,
     "location": {
       "country": "Greece",
       "region": "South Aegean",
@@ -108,8 +108,8 @@
           27.838
         ],
         [
-          36.611,
-          27.133
+          36.613099,
+          27.131488
         ]
       ]
     }
@@ -118,8 +118,8 @@
     "date": "16-18 Jun",
     "name": "Kos",
     "phase": "onboard",
-    "lat": 36.893,
-    "lng": 27.289,
+    "lat": 36.894668,
+    "lng": 27.288634,
     "location": {
       "country": "Greece",
       "region": "South Aegean",
@@ -137,12 +137,12 @@
       "usesManualSeaRoute": false,
       "geometry": [
         [
-          36.611,
-          27.133
+          36.613099,
+          27.131488
         ],
         [
-          36.893,
-          27.289
+          36.894668,
+          27.288634
         ]
       ]
     }
@@ -151,8 +151,8 @@
     "date": "17 Jun",
     "name": "Cameron & Sophie join",
     "phase": "milestone",
-    "lat": 36.893,
-    "lng": 27.289,
+    "lat": 36.894672,
+    "lng": 27.288634,
     "location": {
       "country": "Greece",
       "region": "South Aegean",
@@ -170,8 +170,12 @@
       "usesManualSeaRoute": false,
       "geometry": [
         [
-          36.893,
-          27.289
+          36.894668,
+          27.288634
+        ],
+        [
+          36.894672,
+          27.288634
         ]
       ]
     }
@@ -194,13 +198,45 @@
     "legFromPrevious": {
       "fromTitle": "Cameron & Sophie join",
       "toTitle": "Lipsi",
-      "distanceDirectNm": 34.8,
-      "distanceEstimatedNm": 34.8,
-      "usesManualSeaRoute": false,
+      "distanceDirectNm": 34.7,
+      "distanceEstimatedNm": 36.1,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
-          36.893,
-          27.289
+          36.894672,
+          27.288634
+        ],
+        [
+          36.896678,
+          27.28844
+        ],
+        [
+          36.899098,
+          27.289487
+        ],
+        [
+          36.916304,
+          27.285168
+        ],
+        [
+          37.059527,
+          27.114773
+        ],
+        [
+          37.268845,
+          26.782694
+        ],
+        [
+          37.27623,
+          26.762137
+        ],
+        [
+          37.287012,
+          26.754198
+        ],
+        [
+          37.293307,
+          26.757224
         ],
         [
           37.295,
@@ -228,12 +264,32 @@
       "fromTitle": "Lipsi",
       "toTitle": "Patmos",
       "distanceDirectNm": 10.7,
-      "distanceEstimatedNm": 10.7,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 10.9,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           37.295,
           26.766
+        ],
+        [
+          37.2936,
+          26.757025
+        ],
+        [
+          37.289041,
+          26.750668
+        ],
+        [
+          37.318835,
+          26.572194
+        ],
+        [
+          37.322521,
+          26.562581
+        ],
+        [
+          37.321224,
+          26.553311
         ],
         [
           37.324,
@@ -261,12 +317,80 @@
       "fromTitle": "Patmos",
       "toTitle": "Katapola, Amorgos",
       "distanceDirectNm": 44.2,
-      "distanceEstimatedNm": 44.2,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 51.0,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           37.324,
           26.545
+        ],
+        [
+          37.320376,
+          26.556594
+        ],
+        [
+          37.320201,
+          26.565843
+        ],
+        [
+          37.313921,
+          26.57434
+        ],
+        [
+          37.300258,
+          26.585455
+        ],
+        [
+          37.280848,
+          26.589146
+        ],
+        [
+          37.264729,
+          26.583652
+        ],
+        [
+          37.255439,
+          26.56889
+        ],
+        [
+          36.941592,
+          25.974083
+        ],
+        [
+          36.919285,
+          25.945287
+        ],
+        [
+          36.893608,
+          25.88851
+        ],
+        [
+          36.883723,
+          25.869284
+        ],
+        [
+          36.85818,
+          25.841131
+        ],
+        [
+          36.847406,
+          25.833793
+        ],
+        [
+          36.838064,
+          25.833879
+        ],
+        [
+          36.831813,
+          25.838771
+        ],
+        [
+          36.828038,
+          25.862353
+        ],
+        [
+          36.82748,
+          25.862668
         ],
         [
           36.827,
@@ -279,8 +403,8 @@
     "date": "22-23 Jun",
     "name": "Ios",
     "phase": "onboard",
-    "lat": 36.722,
-    "lng": 25.272,
+    "lat": 36.722263,
+    "lng": 25.271489,
     "location": {
       "country": "Greece",
       "region": "South Aegean",
@@ -302,8 +426,8 @@
           25.863
         ],
         [
-          36.722,
-          25.272
+          36.722263,
+          25.271489
         ]
       ]
     }
@@ -326,13 +450,13 @@
     "legFromPrevious": {
       "fromTitle": "Ios",
       "toTitle": "Ios departure AIS",
-      "distanceDirectNm": 0.8,
-      "distanceEstimatedNm": 0.8,
+      "distanceDirectNm": 0.9,
+      "distanceEstimatedNm": 0.9,
       "usesManualSeaRoute": false,
       "geometry": [
         [
-          36.722,
-          25.272
+          36.722263,
+          25.271489
         ],
         [
           36.71285,
@@ -570,12 +694,32 @@
       "fromTitle": "Paxi / Paxos",
       "toTitle": "East Coast Corfu",
       "distanceDirectNm": 34.0,
-      "distanceEstimatedNm": 34.0,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 34.9,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           39.2026,
           20.1858
+        ],
+        [
+          39.20309,
+          20.191734
+        ],
+        [
+          39.207309,
+          20.193257
+        ],
+        [
+          39.38193,
+          20.138197
+        ],
+        [
+          39.471053,
+          20.085068
+        ],
+        [
+          39.64309,
+          19.943533
         ],
         [
           39.712731,
@@ -589,8 +733,8 @@
     "title": "East Coast Corfu",
     "name": "East Coast Corfu",
     "phase": "current",
-    "lat": 39.620514,
-    "lng": 19.926614,
+    "lat": 39.620394,
+    "lng": 19.926473,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
@@ -617,16 +761,28 @@
       "fromTitle": "East Coast Corfu",
       "toTitle": "East Coast Corfu",
       "distanceDirectNm": 6.2,
-      "distanceEstimatedNm": 6.2,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 7.4,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           39.712731,
           19.867734
         ],
         [
-          39.620514,
-          19.926614
+          39.663559,
+          19.921474
+        ],
+        [
+          39.636332,
+          19.94276
+        ],
+        [
+          39.622846,
+          19.94482
+        ],
+        [
+          39.620394,
+          19.926473
         ]
       ]
     }

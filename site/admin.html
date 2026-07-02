@@ -12,6 +12,36 @@
 <label>Notes<textarea id="note" rows="4">Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.</textarea></label>
 <div class="admin-buttons"><button type="button" id="previewBtn">Preview JSON</button><button type="button" id="publishBtn">Publish</button><button type="button" id="copyBtn">Copy JSON</button><button type="button" id="downloadBtn">Download JSON</button><a href="voyage.html">Open Voyage Map</a></div>
 <pre id="output" class="output-box">Click the map, then preview or publish the update.</pre>
+<hr class="admin-divider">
+<div class="route-editor-panel">
+  <p class="kicker">Voyage route editor</p>
+  <h2 style="font-size:2rem">Manual sea waypoints</h2>
+  <p class="small-note">Use this only when a straight line between two stops crosses land. Select a leg, click <strong>Edit Leg</strong>, then click the sea on the map to add intermediate waypoints.</p>
+  <label>Voyage leg<select id="routeLegSelect"><option>Loading route legs...</option></select></label>
+  <div class="route-editor-buttons">
+    <button type="button" id="editLegBtn">Edit Leg</button>
+    <button type="button" id="undoWaypointBtn" disabled>Undo Waypoint</button>
+    <button type="button" id="clearWaypointsBtn" disabled>Clear</button>
+    <button type="button" id="saveWaypointsBtn" disabled>Save Route</button>
+    <button type="button" id="cancelWaypointsBtn" disabled>Cancel</button>
+  </div>
+  <div class="status-card route-editor-status" id="routeEditorStatus">Select a leg to inspect or edit its optional sea route.</div>
+</div>
+<hr class="admin-divider">
+<div class="route-editor-panel stop-editor-panel">
+  <p class="kicker">Voyage stop editor</p>
+  <h2 style="font-size:2rem">Move an existing stop</h2>
+  <p class="small-note">Use this to correct an existing stop position without adding a new route point. Select a stop, click <strong>Move Stop</strong>, then drag the cyan marker or click a new position on the map.</p>
+  <label>Voyage stop<select id="stopSelect"><option>Loading stops...</option></select></label>
+  <label class="checkbox-label"><input id="clearAffectedGeometry" type="checkbox" checked> Clear manual sea routes touching this stop</label>
+  <div class="route-editor-buttons">
+    <button type="button" id="moveStopBtn">Move Stop</button>
+    <button type="button" id="saveStopBtn" disabled>Save Stop</button>
+    <button type="button" id="cancelStopBtn" disabled>Cancel</button>
+  </div>
+  <div class="status-card route-editor-status" id="stopEditorStatus">Select a stop to inspect or move its plotted position.</div>
+</div>
+
 <div class="status-card"><strong>Publish mode:</strong> <span id="publishMode">Checking...</span><div id="healthList" class="health-list"></div><p class="small-note">Publish works when opened through <code>Start Captains Dashboard.bat</code> or <code>python tools/admin_publish_server.py</code>.</p></div>
 </section><section class="admin-map-shell"><div id="adminMap"></div></section></main>
 <section class="section"><p class="kicker">Local publishing</p><h2>Start the local publish server</h2><pre class="output-box">Start Captains Dashboard.bat</pre><p class="lead">The server applies the location, builds the site, commits, and pushes using your existing local Git credentials.</p></section>

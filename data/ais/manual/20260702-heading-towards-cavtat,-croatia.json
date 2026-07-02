@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-07-02T12:45:28.807Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "2 Jul",
+    "title": "Heading towards Cavtat, Croatia",
+    "name": "Heading towards Cavtat, Croatia",
+    "phase": "current",
+    "lat": 40.004344,
+    "lng": 19.667587,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 53292,
+      "displayName": "Near Kassiopi, Corfu, Greece",
+      "shortName": "Kassiopi, Corfu",
+      "rawDisplayName": "Albania",
+      "country": "Albania",
+      "countryCode": "AL",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": "Corfu",
+      "nearestPlace": "Kassiopi",
+      "localArea": null,
+      "nearestKnownPlace": "Kassiopi",
+      "nearestKnownPlaceDistanceKm": 32.3,
+      "nearestKnownPlaceDistanceNm": 17.4,
+      "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-07-02T12:45:28.807Z",
+    "status": "Under way",
+    "title": "Heading towards Cavtat, Croatia",
+    "area": "Heading towards Cavtat, Croatia",
+    "position": {
+      "lat": 40.004344,
+      "lng": 19.667587,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 53292,
+      "displayName": "Near Kassiopi, Corfu, Greece",
+      "shortName": "Kassiopi, Corfu",
+      "rawDisplayName": "Albania",
+      "country": "Albania",
+      "countryCode": "AL",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": "Corfu",
+      "nearestPlace": "Kassiopi",
+      "localArea": null,
+      "nearestKnownPlace": "Kassiopi",
+      "nearestKnownPlaceDistanceKm": 32.3,
+      "nearestKnownPlaceDistanceNm": 17.4,
+      "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
+    }
+  }
+}

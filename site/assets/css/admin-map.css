@@ -14,3 +14,20 @@
 .small-note{color:#6d7b86;font-size:.92rem;line-height:1.5}
 .health-list{display:grid;gap:.4rem;margin-top:.6rem}.health-ok{color:#116b3a}.health-warn{color:#8a5a00}.health-bad{color:#9b1c1c}
 code{background:rgba(6,25,40,.08);padding:.1rem .25rem;border-radius:4px}
+
+
+.admin-divider{border:0;border-top:1px solid rgba(6,25,40,.18);margin:1.4rem 0}
+.route-editor-panel{margin-top:1rem}
+.route-editor-buttons{display:flex;gap:.5rem;flex-wrap:wrap;margin:.75rem 0 1rem}
+.route-editor-buttons button{border:1px solid #c9a45c;border-radius:999px;background:#061928;color:#f6efe2;padding:.65rem .9rem;cursor:pointer;font:inherit}
+.route-editor-buttons button:disabled{opacity:.45;cursor:not-allowed}
+.route-editor-status{font-size:.92rem;line-height:1.45}
+.route-editor-status strong{color:#0f6f91}
+.leaflet-marker-icon.route-waypoint-marker{filter:drop-shadow(0 2px 4px rgba(0,0,0,.35))}
+
+
+.checkbox-label{display:flex!important;grid-template-columns:none!important;align-items:center;gap:.55rem;font-weight:600;margin:.75rem 0}
+.checkbox-label input{width:auto!important}
+.stop-editor-panel{border-top:1px solid rgba(6,25,40,.12);padding-top:1rem}
+.stop-move-marker{filter:drop-shadow(0 2px 5px rgba(0,0,0,.35))}
+.stop-editor-status strong{color:#0f6f91}

@@ -7,24 +7,24 @@
     "liveAis": false,
     "latestStatus": "Manual location: East Coast Corfu",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-01T23:40:57.275Z",
+    "lastManualLookupUtc": "2026-07-02T09:56:12.184Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 39.712659,
-      "lng": 19.870362,
+      "lat": 39.620325,
+      "lng": 19.926533,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "latestLocationName": "East Coast Corfu",
-    "latestFriendlyLocation": "Near Gouvia, Corfu, Greece",
+    "latestFriendlyLocation": "Near Corfu Town, Corfu, Greece",
     "location": {
       "lookupStatus": "ok",
       "lookupProvider": "OpenStreetMap Nominatim",
       "osmType": "node",
       "osmId": 1827940532,
-      "displayName": "Near Gouvia, Corfu, Greece",
-      "shortName": "Gouvia, Corfu",
+      "displayName": "Near Corfu Town, Corfu, Greece",
+      "shortName": "Corfu Town, Corfu",
       "rawDisplayName": "Corfu, Municipality of Central Corfu and Diapontia Islands, Corfu Regional Unit, Ioanian Islands, Peloponnese, Western Greece and the Ionian, 491 00, Greece",
       "country": "Greece",
       "countryCode": "GR",
@@ -32,16 +32,23 @@
       "county": "Corfu Regional Unit",
       "municipality": "Municipality of Central Corfu and Diapontia Islands",
       "island": "Corfu",
-      "nearestPlace": "Gouvia",
+      "nearestPlace": "Corfu Town",
       "localArea": null,
-      "nearestKnownPlace": "Gouvia",
-      "nearestKnownPlaceDistanceKm": 7.0,
-      "nearestKnownPlaceDistanceNm": 3.8,
+      "nearestKnownPlace": "Corfu Town",
+      "nearestKnownPlaceDistanceKm": 0.6,
+      "nearestKnownPlaceDistanceNm": 0.3,
       "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
     },
     "latestLocationTitle": "East Coast Corfu"
   },
   "stats": {
-    "routeStops": 18
+    "routeStops": 18,
+    "distanceDirectNm": 566.1,
+    "distanceEstimatedNm": 566.1,
+    "manualSeaRouteLegs": 0,
+    "journalEntries": 10,
+    "mediaItems": 17,
+    "photos": 11,
+    "videos": 6
   }
 }

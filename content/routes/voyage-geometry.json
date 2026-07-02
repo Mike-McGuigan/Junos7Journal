@@ -1,0 +1,5 @@
+{
+  "schemaVersion": 1,
+  "description": "Optional manual sea-aware route waypoints for Juno's 7. Add legs here when a straight line between route stops would cross land.",
+  "legs": []
+}

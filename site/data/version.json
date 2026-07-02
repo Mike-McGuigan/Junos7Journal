@@ -1,9 +1,8 @@
 {
   "version": "2.1.1",
-  "release": "Production Dashboard",
-  "buildUtc": "2026-07-02 08:50:12 UTC",
+  "release": "Geographic Intelligence",
+  "buildUtc": "2026-07-02 09:56:14 UTC",
   "project": "Juno's 7 Mediterranean Journal",
-  "pagesSource": "site",
-  "sourceFolder": "docs",
-  "outputFolder": "site"
+  "pagesSource": "docs",
+  "siteOutput": "site"
 }

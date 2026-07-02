@@ -1,8 +1,8 @@
 {
   "version": "2.1.1",
-  "release": "Production Dashboard",
-  "buildUtc": "2026-07-02 08:50:12 UTC",
-  "fileCount": 49,
+  "release": "Geographic Intelligence",
+  "buildUtc": "2026-07-02 09:56:14 UTC",
+  "fileCount": 95,
   "files": [
     {
       "path": ".gitkeep",
@@ -15,19 +15,24 @@
       "sha256": "8722b09c2373db0f15ce7d1d2377ab358fa76c3aaa7155f86f3ad08b08298fa5"
     },
     {
+      "path": "about.html.bak-2-0-0-nav",
+      "sizeBytes": 3960,
+      "sha256": "2f527c6958cf1ef280d5d25a0079bebbf5a4ed6829826129fe2633f24da73fb3"
+    },
+    {
       "path": "admin.html",
       "sizeBytes": 3259,
       "sha256": "baefeffa0b6757199fc8d211765ccca9c50dbf20914b457a9dcf3d36398c7374"
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 234,
-      "sha256": "01c80fdadb85a1621ce3bdd2b5dda08361aedffbd48bdce9fb171794c21ee5d9"
+      "sizeBytes": 208,
+      "sha256": "2f91815cdedb685ad2ca5fec5f45baf89e994c46c4b1e9e5e59b5fdd735ac65a"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 16321,
-      "sha256": "977090c6fc4941d94f83f024cdb7b520721a2527423f38983d9159819a651fc5"
+      "sizeBytes": 16489,
+      "sha256": "d9c9b5d9db36f5182824c4b3cee27b209765b4dacdf87eb5ac502b470455f627"
     },
     {
       "path": "crew.html",
@@ -35,9 +40,54 @@
       "sha256": "4dfb98088de9f8fab899b746ad2d4f9c57a1345cae6b852b89658193af871f68"
     },
     {
+      "path": "crew.html.bak-2-0-0-nav",
+      "sizeBytes": 1841,
+      "sha256": "ab899d7e9e96e0e6c6088feca424f9a4287750c3c5b8166bdf064907424ca099"
+    },
+    {
       "path": "index.html",
       "sizeBytes": 2884,
       "sha256": "3cc664967b15ab101d04dee9a83e9ec572fa75a20a5d6fb4f9e3b75eaba1a132"
+    },
+    {
+      "path": "index.html.bak-0-7-1",
+      "sizeBytes": 3082,
+      "sha256": "8cb3c82b96e4264db98ca166291902e35b79a93d56d47e060043f44e41371f55"
+    },
+    {
+      "path": "index.html.bak-0-7-2",
+      "sizeBytes": 3391,
+      "sha256": "a8adbf989d7acbfb67840bc84454df529fd67c972f17353c9ddf775a3bf9e5f5"
+    },
+    {
+      "path": "index.html.bak-0-7-5",
+      "sizeBytes": 4014,
+      "sha256": "fd9ddd9e8297bf12e168046c95b0a91b9b58303fb441a152474519b0b1b09813"
+    },
+    {
+      "path": "index.html.bak-1-0-0-nav",
+      "sizeBytes": 2764,
+      "sha256": "f581dfc88bfc11622dcb34163b631d90d8549bbf5bbf55219151db34e908389e"
+    },
+    {
+      "path": "index.html.bak-1-0-4",
+      "sizeBytes": 2841,
+      "sha256": "32acabd3fc18c4d21d3fbd76b9ef5044ffa41b314bcb07cded040a62188dd834"
+    },
+    {
+      "path": "index.html.bak-1-2-0-dashboard-nav",
+      "sizeBytes": 2840,
+      "sha256": "a7185f8957407febee4544cac0a4392ac7301a5a8bc740e0c7c050387a63a956"
+    },
+    {
+      "path": "index.html.bak-2-0-0-nav",
+      "sizeBytes": 2884,
+      "sha256": "3cc664967b15ab101d04dee9a83e9ec572fa75a20a5d6fb4f9e3b75eaba1a132"
+    },
+    {
+      "path": "index.html.bak-before-0-7-6-restore",
+      "sizeBytes": 2068,
+      "sha256": "aa47d11cef650e6d3edc3a999d3f08f7fb2d493608e9887c3cb44337d4aa0c47"
     },
     {
       "path": "route.html",
@@ -55,14 +105,69 @@
       "sha256": "61d83c235dd357852117b34d063e0765c943b3c6fe9f9f227c6967491eac6468"
     },
     {
+      "path": "voyage.html.bak-1-2-0-dashboard-nav",
+      "sizeBytes": 1005,
+      "sha256": "61d83c235dd357852117b34d063e0765c943b3c6fe9f9f227c6967491eac6468"
+    },
+    {
+      "path": "voyage.html.bak-2-0-0-nav",
+      "sizeBytes": 1005,
+      "sha256": "61d83c235dd357852117b34d063e0765c943b3c6fe9f9f227c6967491eac6468"
+    },
+    {
       "path": "data/about-junos7.json",
       "sizeBytes": 756,
       "sha256": "a0c3881e44ece0d7b55877598b6c8c79eb76341f419896fe0484be1a5afe44fc"
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1856,
-      "sha256": "bc39f1b6b82038357f8a1f8e02c17a4428af8634f273241d1900d0b84b77b260"
+      "sizeBytes": 2060,
+      "sha256": "0b1c25910032a565252b205d2fe7612edf96d80279bbdea4791178fafe550b76"
+    },
+    {
+      "path": "data/dashboard.json.bak-1-0-2",
+      "sizeBytes": 486,
+      "sha256": "2fda1e1d54a5b75b059b7c20603b9492d4dab3e162f32e83f0566675751e7f6b"
+    },
+    {
+      "path": "data/dashboard.json.bak-1-0-3",
+      "sizeBytes": 878,
+      "sha256": "0e2aa8f958ba59e5f3def5f50bd1e38d3d882e31b3370ed8472346e8892435cd"
+    },
+    {
+      "path": "data/dashboard.json.bak-1-0-5",
+      "sizeBytes": 965,
+      "sha256": "7df9a4dea9f921a32cc38e3be1d45e0413110859da605064648e534bd445cdbf"
+    },
+    {
+      "path": "data/dashboard.json.bak-1-2-0",
+      "sizeBytes": 933,
+      "sha256": "c87c675a4f5a4ae6fadfe215684c2bc27a98bfbeefc4c042f0c65724922654ff"
+    },
+    {
+      "path": "data/dashboard.json.bak-1-2-1-current-fix",
+      "sizeBytes": 887,
+      "sha256": "5ae311dc9a424db7fa8c65931ef63d24b424db62ade6d0be0cc8681b5b938c6b"
+    },
+    {
+      "path": "data/dashboard.json.bak-2-0-0",
+      "sizeBytes": 734,
+      "sha256": "e72e448f2927cc7dadd48ab20c1ff075b44f665cfbbc7779db0b31c6e1061dc3"
+    },
+    {
+      "path": "data/dashboard.json.bak-2-0-1",
+      "sizeBytes": 758,
+      "sha256": "635e8932aabf3e038a0a0c5eb8b971982a8002acf6b1e4dc1a0d90610c614868"
+    },
+    {
+      "path": "data/dashboard.json.bak-geo-1",
+      "sizeBytes": 2040,
+      "sha256": "5e5f5d375d3a1d5d1d720dda3c46b684ffe84fe2a19056f9c98c85e21fff90c7"
+    },
+    {
+      "path": "data/dashboard.json.bak-geo-2",
+      "sizeBytes": 2157,
+      "sha256": "70cf5bd84e936206e5c80b659e076ba6fdb4ff4249494f6e8967921ccb4b01b6"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -75,6 +180,21 @@
       "sha256": "58fd9e3eab04ed1d313b48bfe8bbee5c9d39c1022472dc5bcb75cd2984fc5301"
     },
     {
+      "path": "data/journal.json.bak-0-7-4",
+      "sizeBytes": 9617,
+      "sha256": "21a5cb3125a8074f0f8eea3c3ea6eed8670d7f109d46e16edd51b6677027a8a1"
+    },
+    {
+      "path": "data/journal.json.bak-0-7-5",
+      "sizeBytes": 9639,
+      "sha256": "3afe57af47ced6c4bd73b9286c00772f245e6740427ea6ada33c5f6a7546fa88"
+    },
+    {
+      "path": "data/journal.json.bak-1-0-1",
+      "sizeBytes": 11367,
+      "sha256": "cd18d5e2e2e022b15a03841b87908e8c981b95f833b3cfc68fae2321edaceec0"
+    },
+    {
       "path": "data/media-update-2026-06-30-cam-on-a-mission.json",
       "sizeBytes": 294,
       "sha256": "e1810cd788b1548ce1266e79a6af407c9f3eaf21b8592bb544c558491f0747c9"
@@ -85,9 +205,59 @@
       "sha256": "d8262ab18ee37e025caa0d55ad0b95ce03ac03eb64bd685285cb330489e1fd07"
     },
     {
+      "path": "data/media.json.bak-1-0-1",
+      "sizeBytes": 4183,
+      "sha256": "cca345b44c0162ef21e6b79858c495843262c67cee3d7f82c4a39687f480fe3b"
+    },
+    {
       "path": "data/route.json",
-      "sizeBytes": 9459,
-      "sha256": "208a8bdb437a71a3fdc833f5d589fdb8e0addc28bdae88b3684b1405521f53d3"
+      "sizeBytes": 15561,
+      "sha256": "9560e33f6c9eb0c213a8e8c06b8b0d73c2f5f8f9e876ed423e0b1bef9cce94c2"
+    },
+    {
+      "path": "data/route.json.bak-1-0-2",
+      "sizeBytes": 2073,
+      "sha256": "f570c59fa1bfc24b40b5b53c4adfb03aa28e95f7a451eb85934ef664106e378a"
+    },
+    {
+      "path": "data/route.json.bak-1-0-3",
+      "sizeBytes": 2506,
+      "sha256": "806f396cfe2ed8278752b77c5426281d2097174acbd6248e55e6592e866d538b"
+    },
+    {
+      "path": "data/route.json.bak-1-0-5",
+      "sizeBytes": 2369,
+      "sha256": "06e11dfb9b39320852380d412c82da121b38c222b22e6cb0b18cabde8bc27206"
+    },
+    {
+      "path": "data/route.json.bak-1-2-0",
+      "sizeBytes": 2646,
+      "sha256": "7292cca4fe7935c2f89639609934a4dd88873258b68d594a6782fc48d6abed35"
+    },
+    {
+      "path": "data/route.json.bak-1-2-1-current-fix",
+      "sizeBytes": 2923,
+      "sha256": "faaf63453b69b1d9f372fdc66b7ff1497446b078da2656c195dc37e001bed1fc"
+    },
+    {
+      "path": "data/route.json.bak-2-0-0",
+      "sizeBytes": 2339,
+      "sha256": "62358a90adbe1febb941670b803e32feb4cfb59c76225462b222e41eb9e5b707"
+    },
+    {
+      "path": "data/route.json.bak-2-0-1",
+      "sizeBytes": 2339,
+      "sha256": "62358a90adbe1febb941670b803e32feb4cfb59c76225462b222e41eb9e5b707"
+    },
+    {
+      "path": "data/route.json.bak-geo-1",
+      "sizeBytes": 15545,
+      "sha256": "51ac8edd1f6acb777a62a5c20f878307f04a894de02cb1ff203baae0b05f8339"
+    },
+    {
+      "path": "data/route.json.bak-geo-2",
+      "sizeBytes": 9138,
+      "sha256": "d9fb9e6bd4bc6457c46a775031ef8ed71f8ad5fc40a15ae260f3f0325d6bd3c4"
     },
     {
       "path": "data/site.json",
@@ -101,8 +271,58 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 234,
-      "sha256": "01c80fdadb85a1621ce3bdd2b5dda08361aedffbd48bdce9fb171794c21ee5d9"
+      "sizeBytes": 208,
+      "sha256": "2f91815cdedb685ad2ca5fec5f45baf89e994c46c4b1e9e5e59b5fdd735ac65a"
+    },
+    {
+      "path": "data/version.json.bak-1-0-1",
+      "sizeBytes": 155,
+      "sha256": "5764f17f10d457ba2247fe6b961ef75ddcd004e716ad9610096c3877a65729d0"
+    },
+    {
+      "path": "data/version.json.bak-1-0-2",
+      "sizeBytes": 153,
+      "sha256": "8206b68780b5bd51a7d3b07186556a32d95c19509cd1d6abee97713a9675ecbd"
+    },
+    {
+      "path": "data/version.json.bak-1-0-3",
+      "sizeBytes": 156,
+      "sha256": "17d21230944a136b2b7566800efad795290bd0a70614a9137c6d775de6a17638"
+    },
+    {
+      "path": "data/version.json.bak-1-0-5",
+      "sizeBytes": 158,
+      "sha256": "417be75accda6d007ba2f3fae380ee0ab8016f0c2bd4483bb6917026d7ec370c"
+    },
+    {
+      "path": "data/version.json.bak-1-2-0",
+      "sizeBytes": 161,
+      "sha256": "d157d1dbb2cb8b165a53cf92c275d1aafe69a944cbb2236d553e3edcf37da4bf"
+    },
+    {
+      "path": "data/version.json.bak-1-2-1-current-fix",
+      "sizeBytes": 153,
+      "sha256": "3ca49ddf3fd653fa45343b9a5ba3c4cb5da2b51b9f1a96d67f8ed38f3d2a6c98"
+    },
+    {
+      "path": "data/version.json.bak-2-0-0",
+      "sizeBytes": 68,
+      "sha256": "294d68cbafeba3eb7d705176a98d9931fea62862bb4aabd300c0afc60ff5d22b"
+    },
+    {
+      "path": "data/version.json.bak-2-0-1",
+      "sizeBytes": 64,
+      "sha256": "49fca29f46e1495522f9a43a2dbfce8db7844e1ce01c06ffd41b1d30794280de"
+    },
+    {
+      "path": "data/version.json.bak-geo-1",
+      "sizeBytes": 208,
+      "sha256": "be87220afb757172846d6edf5dfb154a618e9ee27b50065d4028811027b03291"
+    },
+    {
+      "path": "data/version.json.bak-geo-2",
+      "sizeBytes": 74,
+      "sha256": "cd8dda0f2e887dcc219af1747de1c0673e26407432b7bc1401f8054e6b3ec215"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -231,8 +451,8 @@
     },
     {
       "path": "assets/js/admin-map.js",
-      "sizeBytes": 7878,
-      "sha256": "3816e70ba90b89369fbb960c2984b7d23cbb2d6f3a7c672d063452cf77fa76ab"
+      "sizeBytes": 7980,
+      "sha256": "dc1eedb26f08cf3cd9e9eddb549d066a5d77fea1df244dc6853f90a3796676e7"
     },
     {
       "path": "assets/js/app.js",
@@ -241,8 +461,18 @@
     },
     {
       "path": "assets/js/dashboard.js",
-      "sizeBytes": 5528,
-      "sha256": "436334d48770e7f7e150f6de83943b11126244b886e958efa3e3c8b8f3c4d2c3"
+      "sizeBytes": 5632,
+      "sha256": "59c625e178398354ce1313d619f8535ca5f47dfacd8703e0abae04f0cb304e26"
+    },
+    {
+      "path": "assets/js/dashboard.js.bak-0-7-3",
+      "sizeBytes": 4283,
+      "sha256": "1d53051f0d1e8d929180f9530a1084815bab4206cae3bd4ad6aa40dfd37b7783"
+    },
+    {
+      "path": "assets/js/dashboard.js.bak-1-0-5",
+      "sizeBytes": 3126,
+      "sha256": "9ac0f25c616f84a636ec25d17a9fd65da9c0a4064e5b349a51ad2db274025f5e"
     },
     {
       "path": "assets/js/version.js",

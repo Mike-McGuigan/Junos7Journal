@@ -1,20 +1,22 @@
 #!/usr/bin/env python3
-from pathlib import Path
-from shutil import copytree, rmtree, ignore_patterns
+from __future__ import annotations
+
 from datetime import datetime, timezone
+from pathlib import Path
+from shutil import copytree, rmtree
 import hashlib
 import json
 import os
 import stat
 import time
 
-ROOT = Path(__file__).resolve().parents[1]
-SITE = ROOT / "site"
-DOCS = ROOT / "docs"
-VERSION_FILE = ROOT / "VERSION"
+from voyage_routing import enrich_route_file
 
-RELEASE = "Geographic Intelligence"
-PROJECT = "Juno's 7 Mediterranean Journal"
+ROOT = Path(__file__).resolve().parents[1]
+DOCS = ROOT / "docs"
+SITE = ROOT / "site"
+VERSION_FILE = ROOT / "VERSION"
+GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
 
 
 def sha256(path: Path) -> str:
@@ -30,74 +32,118 @@ def force_remove(func, path, exc_info):
     func(path)
 
 
-def remove_site() -> None:
-    if not SITE.exists():
+def remove_tree(path: Path) -> None:
+    if not path.exists():
         return
     for _ in range(5):
         try:
-            rmtree(SITE, onexc=force_remove)
+            rmtree(path, onexc=force_remove)
             return
         except TypeError:
             try:
-                rmtree(SITE, onerror=force_remove)
+                rmtree(path, onerror=force_remove)
                 return
             except PermissionError:
                 time.sleep(1)
         except PermissionError:
             time.sleep(1)
-    raise SystemExit("Could not remove site/. Close anything using site/ and try again.")
+    raise SystemExit(f"Could not remove {path}. Close anything using it and try again.")
 
 
-def read_version() -> str:
-    if VERSION_FILE.exists():
-        return VERSION_FILE.read_text(encoding="utf-8").strip()
-    return "2.1.1"
+def load_json(path: Path, fallback):
+    if not path.exists():
+        return fallback
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return fallback
 
 
-def read_release(default: str = RELEASE) -> str:
-    version_json = DOCS / "data" / "version.json"
-    if version_json.exists():
-        try:
-            data = json.loads(version_json.read_text(encoding="utf-8"))
-            return data.get("release") or default
-        except Exception:
-            pass
-    return default
+def count_journal_entries() -> int | None:
+    data = load_json(DOCS / "data" / "journal.json", None)
+    if isinstance(data, list):
+        return len(data)
+    if isinstance(data, dict):
+        for key in ("entries", "journal", "items"):
+            if isinstance(data.get(key), list):
+                return len(data[key])
+    journal_dir = ROOT / "content" / "journal"
+    if journal_dir.exists():
+        return len([p for p in journal_dir.rglob("*.md") if not p.name.startswith(".")])
+    return None
 
 
-def write_build_metadata(version: str, release: str, build_utc: str) -> None:
+def media_stats() -> dict:
+    data = load_json(DOCS / "data" / "media.json", None)
+    items = []
+    if isinstance(data, list):
+        items = data
+    elif isinstance(data, dict):
+        for key in ("items", "media"):
+            if isinstance(data.get(key), list):
+                items = data[key]
+                break
+
+    if items:
+        photos = sum(1 for item in items if str(item.get("type", "")).lower() in {"photo", "image"})
+        videos = sum(1 for item in items if str(item.get("type", "")).lower() == "video")
+        return {"mediaItems": len(items), "photos": photos, "videos": videos}
+
+    media_root = DOCS / "media"
+    photo_count = len(list((media_root / "photos").glob("*"))) if (media_root / "photos").exists() else None
+    video_count = len(list((media_root / "videos").glob("*"))) if (media_root / "videos").exists() else None
+    out = {}
+    if photo_count is not None:
+        out["photos"] = photo_count
+    if video_count is not None:
+        out["videos"] = video_count
+    if out:
+        out["mediaItems"] = out.get("photos", 0) + out.get("videos", 0)
+    return out
+
+
+def update_dashboard_stats(route_stats: dict) -> None:
+    path = DOCS / "data" / "dashboard.json"
+    data = load_json(path, {})
+    stats = data.setdefault("stats", {})
+    stats.update(route_stats)
+
+    journal_entries = count_journal_entries()
+    if journal_entries is not None:
+        stats["journalEntries"] = journal_entries
+    stats.update(media_stats())
+
+    path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def write_build_metadata(version: str, build_utc: str) -> None:
     info = {
         "version": version,
-        "release": release,
+        "release": "Geographic Intelligence",
         "buildUtc": build_utc,
-        "project": PROJECT,
-        "pagesSource": "site",
-        "sourceFolder": "docs",
-        "outputFolder": "site",
+        "project": "Juno's 7 Mediterranean Journal",
+        "pagesSource": "docs",
+        "siteOutput": "site",
     }
+    (DOCS / "data").mkdir(parents=True, exist_ok=True)
+    (DOCS / "data" / "version.json").write_text(json.dumps(info, indent=2), encoding="utf-8")
+    (DOCS / "build-info.json").write_text(json.dumps(info, indent=2), encoding="utf-8")
 
-    (SITE / "data").mkdir(parents=True, exist_ok=True)
-    (SITE / "data" / "version.json").write_text(json.dumps(info, indent=2), encoding="utf-8")
-    (SITE / "build-info.json").write_text(json.dumps(info, indent=2), encoding="utf-8")
-
-
-def write_manifest(version: str, release: str, build_utc: str) -> int:
     manifest = []
-    for path in SITE.rglob("*"):
+    for path in DOCS.rglob("*"):
         if path.is_file():
             manifest.append(
                 {
-                    "path": path.relative_to(SITE).as_posix(),
+                    "path": path.relative_to(DOCS).as_posix(),
                     "sizeBytes": path.stat().st_size,
                     "sha256": sha256(path),
                 }
             )
-
-    (SITE / "build-manifest.json").write_text(
+    (DOCS / "build-manifest.json").write_text(
         json.dumps(
             {
                 "version": version,
-                "release": release,
+                "release": "Geographic Intelligence",
                 "buildUtc": build_utc,
                 "fileCount": len(manifest),
                 "files": manifest,
@@ -106,30 +152,28 @@ def write_manifest(version: str, release: str, build_utc: str) -> int:
         ),
         encoding="utf-8",
     )
-    return len(manifest)
 
 
 def main() -> None:
     if not DOCS.exists():
-        raise SystemExit("docs/ does not exist. docs/ is now the source folder for the generated site.")
+        raise SystemExit("docs/ does not exist. Nothing to build.")
 
-    version = read_version()
-    release = read_release()
+    version = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "2.1.1"
     build_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
-    remove_site()
-    copytree(
-        DOCS,
-        SITE,
-        ignore=ignore_patterns("*.bak-*", "*.bak-geo-*"),
-    )
+    route_stats = enrich_route_file(DOCS / "data" / "route.json", GEOMETRY_FILE)
+    update_dashboard_stats(route_stats)
+    write_build_metadata(version, build_utc)
 
-    write_build_metadata(version, release, build_utc)
-    file_count = write_manifest(version, release, build_utc)
+    remove_tree(SITE)
+    copytree(DOCS, SITE, ignore=lambda _dir, names: [name for name in names if ".bak" in name])
 
+    file_count = sum(1 for p in SITE.rglob("*") if p.is_file())
     print(f"Built site/ from docs/ for version {version}")
-    print(f"Release: {release}")
     print(f"Files: {file_count}")
+    if route_stats:
+        print(f"Estimated voyage distance: {route_stats.get('distanceEstimatedNm')} NM")
+        print(f"Manual sea-route legs: {route_stats.get('manualSeaRouteLegs')}")
 
 
 if __name__ == "__main__":

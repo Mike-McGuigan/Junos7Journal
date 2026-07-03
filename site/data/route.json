@@ -1149,9 +1149,9 @@
     "date": "1 Jul",
     "title": "East Coast Corfu",
     "name": "East Coast Corfu",
-    "phase": "current",
-    "lat": 42.591692,
-    "lng": 18.198638,
+    "phase": "onboard",
+    "lat": 39.712667,
+    "lng": 19.870877,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
@@ -1174,8 +1174,8 @@
     "legFromPrevious": {
       "fromTitle": "Paxi / Paxos",
       "toTitle": "East Coast Corfu",
-      "distanceDirectNm": 222.6,
-      "distanceEstimatedNm": 223.0,
+      "distanceDirectNm": 34.0,
+      "distanceEstimatedNm": 34.6,
       "usesManualSeaRoute": true,
       "geometry": [
         [
@@ -1203,8 +1203,8 @@
           19.943533
         ],
         [
-          42.591692,
-          18.198638
+          39.712667,
+          19.870877
         ]
       ]
     }
@@ -1241,13 +1241,13 @@
     "legFromPrevious": {
       "fromTitle": "East Coast Corfu",
       "toTitle": "East Coast Corfu",
-      "distanceDirectNm": 194.8,
-      "distanceEstimatedNm": 195.9,
+      "distanceDirectNm": 6.1,
+      "distanceEstimatedNm": 7.3,
       "usesManualSeaRoute": true,
       "geometry": [
         [
-          42.591692,
-          18.198638
+          39.712667,
+          19.870877
         ],
         [
           39.663559,
@@ -1331,6 +1331,50 @@
         [
           40.004344,
           19.667587
+        ]
+      ]
+    }
+  },
+  {
+    "date": "2 Jul",
+    "title": "Cavtat Area",
+    "name": "Cavtat Area",
+    "phase": "current",
+    "lat": 42.591376,
+    "lng": 18.198895,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Heading towards Cavtat, Croatia",
+      "toTitle": "Cavtat Area",
+      "distanceDirectNm": 168.9,
+      "distanceEstimatedNm": 168.9,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          40.004344,
+          19.667587
+        ],
+        [
+          42.591376,
+          18.198895
         ]
       ]
     }

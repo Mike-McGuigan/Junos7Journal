@@ -1,7 +1,7 @@
 {
   "version": "2.1.1",
   "release": "Geographic Intelligence",
-  "buildUtc": "2026-07-03 06:51:38 UTC",
+  "buildUtc": "2026-07-03 07:40:53 UTC",
   "fileCount": 96,
   "files": [
     {
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 208,
-      "sha256": "88a934a6cb9e2b85245632577e7b4e85dbc6d208ef58b5ad5334341d58f7c533"
+      "sha256": "b8e60292970edf411ccf91e4cc4d78d5d4d0c0c2164d4917cf37cca0f13d39aa"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 16681,
-      "sha256": "a9e5d22767fceb6bf672c90454375cc370501ecf354f689b3e8560114c5c5878"
+      "sha256": "8582038dbeb2fd9b4325a97bacf046dcb41c008343cf5c944f2d06961d6fb0b8"
     },
     {
       "path": "crew.html",
@@ -121,8 +121,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1761,
-      "sha256": "4547bcf1ff7ffd6a23ba62388dc6f3f8dff005f9967efc2ecf86f543dc84dc42"
+      "sizeBytes": 1762,
+      "sha256": "7b066fe6a6d4efdcf79033a892117502998bd499aa6fad014700a4512a16eb7c"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 12734,
-      "sha256": "ee58a51441e219978f493483d4a25af41c9dd37b8cda7f635521267e4f42bf05"
+      "sizeBytes": 13138,
+      "sha256": "f81af5088f43fd0e542cc1c5043c1864a35ed7587a2542024e0a8283093b27e5"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 29355,
-      "sha256": "7a70911bae5e3ef18bcf2f7b18b2edab8f85636216e4ee3a10b12f96881a3bb1"
+      "sizeBytes": 29342,
+      "sha256": "7015574988368b756f353b85e0a598c94896b47cd948be68a7b3775582fc3e27"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -272,7 +272,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 208,
-      "sha256": "88a934a6cb9e2b85245632577e7b4e85dbc6d208ef58b5ad5334341d58f7c533"
+      "sha256": "b8e60292970edf411ccf91e4cc4d78d5d4d0c0c2164d4917cf37cca0f13d39aa"
     },
     {
       "path": "data/version.json.bak-1-0-1",

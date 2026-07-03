@@ -1146,6 +1146,70 @@
     }
   },
   {
+    "date": "1 Jul",
+    "title": "East Coast Corfu",
+    "name": "East Coast Corfu",
+    "phase": "current",
+    "lat": 42.591692,
+    "lng": 18.198638,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Paxi / Paxos",
+      "toTitle": "East Coast Corfu",
+      "distanceDirectNm": 222.6,
+      "distanceEstimatedNm": 223.0,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.202978,
+          20.191176
+        ],
+        [
+          39.20309,
+          20.191734
+        ],
+        [
+          39.207309,
+          20.193257
+        ],
+        [
+          39.38193,
+          20.138197
+        ],
+        [
+          39.471053,
+          20.085068
+        ],
+        [
+          39.64309,
+          19.943533
+        ],
+        [
+          42.591692,
+          18.198638
+        ]
+      ]
+    }
+  },
+  {
     "date": "1 Jul PM",
     "title": "East Coast Corfu",
     "name": "East Coast Corfu",
@@ -1175,35 +1239,27 @@
       "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
     },
     "legFromPrevious": {
-      "fromTitle": "Paxi / Paxos",
+      "fromTitle": "East Coast Corfu",
       "toTitle": "East Coast Corfu",
-      "distanceDirectNm": 27.9,
-      "distanceEstimatedNm": 30.8,
+      "distanceDirectNm": 194.8,
+      "distanceEstimatedNm": 195.9,
       "usesManualSeaRoute": true,
       "geometry": [
         [
-          39.202978,
-          20.191176
+          42.591692,
+          18.198638
         ],
         [
-          39.20309,
-          20.191734
+          39.663559,
+          19.921474
         ],
         [
-          39.207309,
-          20.193257
+          39.636332,
+          19.94276
         ],
         [
-          39.38193,
-          20.138197
-        ],
-        [
-          39.471053,
-          20.085068
-        ],
-        [
-          39.64309,
-          19.943533
+          39.622846,
+          19.94482
         ],
         [
           39.620394,
@@ -1245,68 +1301,12 @@
       "fromTitle": "East Coast Corfu",
       "toTitle": "Heading towards Cavtat, Croatia",
       "distanceDirectNm": 26.0,
-      "distanceEstimatedNm": 31.6,
+      "distanceEstimatedNm": 30.9,
       "usesManualSeaRoute": true,
       "geometry": [
         [
           39.620394,
           19.926473
-        ],
-        [
-          39.663559,
-          19.921474
-        ],
-        [
-          39.636332,
-          19.94276
-        ],
-        [
-          39.622846,
-          19.94482
-        ],
-        [
-          40.004344,
-          19.667587
-        ]
-      ]
-    }
-  },
-  {
-    "date": "1 Jul",
-    "title": "East Coast Corfu",
-    "name": "East Coast Corfu",
-    "phase": "current",
-    "lat": 42.591692,
-    "lng": 18.198638,
-    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "location": {
-      "lookupStatus": "ok",
-      "lookupProvider": "OpenStreetMap Nominatim",
-      "osmType": "relation",
-      "osmId": 226750,
-      "displayName": "Near Dubrovnik-Neretva County, Croatia",
-      "shortName": "Dubrovnik-Neretva County",
-      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
-      "country": "Croatia",
-      "countryCode": "HR",
-      "region": null,
-      "county": "Dubrovnik-Neretva County",
-      "municipality": null,
-      "island": null,
-      "nearestPlace": "Dubrovnik-Neretva County",
-      "localArea": null,
-      "lookupSource": "OpenStreetMap Nominatim"
-    },
-    "legFromPrevious": {
-      "fromTitle": "Heading towards Cavtat, Croatia",
-      "toTitle": "East Coast Corfu",
-      "distanceDirectNm": 168.9,
-      "distanceEstimatedNm": 223.2,
-      "usesManualSeaRoute": true,
-      "geometry": [
-        [
-          40.004344,
-          19.667587
         ],
         [
           39.621541,
@@ -1329,8 +1329,8 @@
           19.961472
         ],
         [
-          42.591692,
-          18.198638
+          40.004344,
+          19.667587
         ]
       ]
     }

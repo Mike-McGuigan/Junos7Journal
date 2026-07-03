@@ -5,18 +5,18 @@
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: East Coast Corfu",
+    "latestStatus": "Manual location: Cavtat Area",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-03T06:51:35.195Z",
+    "lastManualLookupUtc": "2026-07-03T07:53:11.711Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 42.591692,
-      "lng": 18.198638,
+      "lat": 42.591376,
+      "lng": 18.198895,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "East Coast Corfu",
+    "latestLocationName": "Cavtat Area",
     "latestFriendlyLocation": "Near Dubrovnik-Neretva County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,13 +36,13 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "East Coast Corfu"
+    "latestLocationTitle": "Cavtat Area"
   },
   "stats": {
-    "routeStops": 20,
-    "distanceDirectNm": 604.1,
-    "distanceEstimatedNm": 727.9,
-    "manualSeaRouteLegs": 17,
+    "routeStops": 21,
+    "distanceDirectNm": 773.0,
+    "distanceEstimatedNm": 900.5,
+    "manualSeaRouteLegs": 18,
     "journalEntries": 11,
     "mediaItems": 17,
     "photos": 11,

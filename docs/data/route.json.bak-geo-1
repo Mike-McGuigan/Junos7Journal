@@ -1149,7 +1149,7 @@
     "date": "1 Jul",
     "title": "East Coast Corfu",
     "name": "East Coast Corfu",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 39.712667,
     "lng": 19.870877,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -1331,6 +1331,94 @@
         [
           40.004344,
           19.667587
+        ]
+      ]
+    }
+  },
+  {
+    "date": "3 Jul",
+    "title": "Cavtat Area",
+    "name": "Cavtat Area",
+    "phase": "current",
+    "lat": 42.591376,
+    "lng": 18.198895,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Heading towards Cavtat, Croatia",
+      "toTitle": "Cavtat Area",
+      "distanceDirectNm": 168.9,
+      "distanceEstimatedNm": 172.6,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          40.004344,
+          19.667587
+        ],
+        [
+          40.32744,
+          19.216461
+        ],
+        [
+          40.458964,
+          19.096985
+        ],
+        [
+          40.917145,
+          18.970642
+        ],
+        [
+          41.103674,
+          18.849792
+        ],
+        [
+          42.452056,
+          18.259449
+        ],
+        [
+          42.533319,
+          18.219967
+        ],
+        [
+          42.55357,
+          18.213358
+        ],
+        [
+          42.565843,
+          18.214002
+        ],
+        [
+          42.574882,
+          18.206534
+        ],
+        [
+          42.584923,
+          18.198423
+        ],
+        [
+          42.588722,
+          18.197951
+        ],
+        [
+          42.591376,
+          18.198895
         ]
       ]
     }

@@ -1,7 +1,7 @@
 {
   "version": "2.1.1",
   "release": "Geographic Intelligence",
-  "buildUtc": "2026-07-03 08:12:14 UTC",
+  "buildUtc": "2026-07-03 08:50:07 UTC",
   "fileCount": 96,
   "files": [
     {
@@ -21,18 +21,18 @@
     },
     {
       "path": "admin.html",
-      "sizeBytes": 5341,
-      "sha256": "37d281c0aca8069ad8aff76d2da1fba3859339803417ba330c15c9d8279d77f1"
+      "sizeBytes": 5381,
+      "sha256": "efc3ed270cc0b1ef10986dbf9e1e6756d8694f2fd1dc95f56c8bcf445a5c07d8"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 208,
-      "sha256": "4024e97334763a40fe5f1e46e48d1ca242d2f4fce0e320a21df83da80bf91832"
+      "sha256": "63d8913ce12091d90bdbdf9a818f39cdb82c5d2b31c2cf447b881603f64860a7"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 16681,
-      "sha256": "a1b3f535831ea765e1ffa61a3fc827f075589691bf7d2d211f1343a21ad8078b"
+      "sha256": "2e7df680917e60f4a54d08fbf8967d386fb33e6fa72c3ed874cfdd4f54362953"
     },
     {
       "path": "crew.html",
@@ -122,7 +122,7 @@
     {
       "path": "data/dashboard.json",
       "sizeBytes": 1754,
-      "sha256": "19088cda91ec1e6b504c867fa618fa6b67315befe2f3e3910655c07a61fc6ef5"
+      "sha256": "a9934309918487fd92257a02b11f596ad126ca85d480aea87e99d95c7ccad8f4"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 33096,
-      "sha256": "9d9bdbe30ec04e883c7b0d1b75ee05d02ab644bca31571de9670b4ffb0855510"
+      "sizeBytes": 31857,
+      "sha256": "0aa4e0b0f17a7a8582bfb5c8bd9abe52d4f9df0257dd1bcf84054e617e5a4e87"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -272,7 +272,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 208,
-      "sha256": "4024e97334763a40fe5f1e46e48d1ca242d2f4fce0e320a21df83da80bf91832"
+      "sha256": "63d8913ce12091d90bdbdf9a818f39cdb82c5d2b31c2cf447b881603f64860a7"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -426,8 +426,8 @@
     },
     {
       "path": "assets/css/admin-map.css",
-      "sizeBytes": 2714,
-      "sha256": "7738bb6b481661f9a7a8f986c3c188512bd16a86c0141bd7e8c15897c2aedb36"
+      "sizeBytes": 2838,
+      "sha256": "6ac251f9a2f702dca259fb5779ecefe0b1ca20004dde542272e7ea0da6164fad"
     },
     {
       "path": "assets/css/companion.css",
@@ -456,8 +456,8 @@
     },
     {
       "path": "assets/js/admin-map.js",
-      "sizeBytes": 21208,
-      "sha256": "54c8c10343d33853bd4afe1bf2910b55ec730c3458e3190c1f57cc5b94f177b2"
+      "sizeBytes": 25107,
+      "sha256": "90a19841a7af15ad8709625e9245749951788434dc30e9fc63ca2536c96e396f"
     },
     {
       "path": "assets/js/app.js",

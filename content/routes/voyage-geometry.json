@@ -834,7 +834,7 @@
       "fromDate": "2 Jul",
       "toDate": "3 Jul",
       "fromTitle": "Heading towards Cavtat, Croatia",
-      "toTitle": "Cavtat Area",
+      "toTitle": "Cavtat Harbour",
       "waypoints": [
         [
           40.32744,
@@ -879,17 +879,11 @@
         [
           42.588722,
           18.197951
-        ]
-      ]
-    },
-    {
-      "fromIndex": 20,
-      "toIndex": 21,
-      "fromDate": "3 Jul",
-      "toDate": "3 Jul",
-      "fromTitle": "Cavtat Area",
-      "toTitle": "Cavtat Harbour",
-      "waypoints": [
+        ],
+        [
+          42.591376,
+          18.198895
+        ],
         [
           42.591556,
           18.200129

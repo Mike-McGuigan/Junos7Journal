@@ -31,3 +31,6 @@ code{background:rgba(6,25,40,.08);padding:.1rem .25rem;border-radius:4px}
 .stop-editor-panel{border-top:1px solid rgba(6,25,40,.12);padding-top:1rem}
 .stop-move-marker{filter:drop-shadow(0 2px 5px rgba(0,0,0,.35))}
 .stop-editor-status strong{color:#0f6f91}
+
+.route-editor-buttons .danger-button{background:#7f1d1d;border-color:#b91c1c}
+.route-editor-buttons .danger-button:disabled{opacity:.45;cursor:not-allowed}

@@ -303,7 +303,7 @@
     "date": "1 Jul PM",
     "title": "East Coast Corfu",
     "name": "East Coast Corfu",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 39.620394,
     "lng": 19.926473,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -326,6 +326,36 @@
       "nearestKnownPlace": "Corfu Town",
       "nearestKnownPlaceDistanceKm": 0.6,
       "nearestKnownPlaceDistanceNm": 0.3,
+      "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
+    }
+  },
+  {
+    "date": "2 Jul",
+    "title": "Heading towards Cavtat, Croatia",
+    "name": "Heading towards Cavtat, Croatia",
+    "phase": "current",
+    "lat": 40.004344,
+    "lng": 19.667587,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 53292,
+      "displayName": "Near Kassiopi, Corfu, Greece",
+      "shortName": "Kassiopi, Corfu",
+      "rawDisplayName": "Albania",
+      "country": "Albania",
+      "countryCode": "AL",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": "Corfu",
+      "nearestPlace": "Kassiopi",
+      "localArea": null,
+      "nearestKnownPlace": "Kassiopi",
+      "nearestKnownPlaceDistanceKm": 32.3,
+      "nearestKnownPlaceDistanceNm": 17.4,
       "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
     }
   }

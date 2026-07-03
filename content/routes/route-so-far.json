@@ -270,36 +270,6 @@
     "title": "Paxi / Paxos"
   },
   {
-    "date": "1 Jul",
-    "title": "East Coast Corfu",
-    "name": "East Coast Corfu",
-    "phase": "onboard",
-    "lat": 39.712731,
-    "lng": 19.867734,
-    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "location": {
-      "lookupStatus": "ok",
-      "lookupProvider": "OpenStreetMap Nominatim",
-      "osmType": "node",
-      "osmId": 1827940532,
-      "displayName": "Near Gouvia, Corfu, Greece",
-      "shortName": "Gouvia, Corfu",
-      "rawDisplayName": "Corfu, Municipality of Central Corfu and Diapontia Islands, Corfu Regional Unit, Ioanian Islands, Peloponnese, Western Greece and the Ionian, 491 00, Greece",
-      "country": "Greece",
-      "countryCode": "GR",
-      "region": "Ioanian Islands",
-      "county": "Corfu Regional Unit",
-      "municipality": "Municipality of Central Corfu and Diapontia Islands",
-      "island": "Corfu",
-      "nearestPlace": "Gouvia",
-      "localArea": null,
-      "nearestKnownPlace": "Gouvia",
-      "nearestKnownPlaceDistanceKm": 6.9,
-      "nearestKnownPlaceDistanceNm": 3.7,
-      "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
-    }
-  },
-  {
     "date": "1 Jul PM",
     "title": "East Coast Corfu",
     "name": "East Coast Corfu",
@@ -333,7 +303,7 @@
     "date": "2 Jul",
     "title": "Heading towards Cavtat, Croatia",
     "name": "Heading towards Cavtat, Croatia",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 40.004344,
     "lng": 19.667587,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -357,6 +327,33 @@
       "nearestKnownPlaceDistanceKm": 32.3,
       "nearestKnownPlaceDistanceNm": 17.4,
       "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
+    }
+  },
+  {
+    "date": "1 Jul",
+    "title": "East Coast Corfu",
+    "name": "East Coast Corfu",
+    "phase": "current",
+    "lat": 42.591692,
+    "lng": 18.198638,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
     }
   }
 ]

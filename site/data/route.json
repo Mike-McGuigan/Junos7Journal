@@ -1453,12 +1453,36 @@
       "fromTitle": "Cavtat Area",
       "toTitle": "Cavtat Harbour",
       "distanceDirectNm": 0.9,
-      "distanceEstimatedNm": 0.9,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 1.0,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           42.591376,
           18.198895
+        ],
+        [
+          42.591556,
+          18.200129
+        ],
+        [
+          42.590276,
+          18.201395
+        ],
+        [
+          42.587923,
+          18.20309
+        ],
+        [
+          42.583957,
+          18.208412
+        ],
+        [
+          42.582045,
+          18.213884
+        ],
+        [
+          42.582062,
+          18.215155
         ],
         [
           42.582292,

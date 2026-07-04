@@ -1337,11 +1337,11 @@
   },
   {
     "date": "3 Jul",
-    "title": "Cavtat Area",
-    "name": "Cavtat Area",
+    "title": "Cavtat Harbour",
+    "name": "Cavtat Harbour",
     "phase": "current",
-    "lat": 42.591376,
-    "lng": 18.198895,
+    "lat": 42.582292,
+    "lng": 18.21644,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
@@ -1363,9 +1363,9 @@
     },
     "legFromPrevious": {
       "fromTitle": "Heading towards Cavtat, Croatia",
-      "toTitle": "Cavtat Area",
-      "distanceDirectNm": 168.9,
-      "distanceEstimatedNm": 172.6,
+      "toTitle": "Cavtat Harbour",
+      "distanceDirectNm": 168.0,
+      "distanceEstimatedNm": 173.6,
       "usesManualSeaRoute": true,
       "geometry": [
         [
@@ -1419,6 +1419,34 @@
         [
           42.591376,
           18.198895
+        ],
+        [
+          42.591556,
+          18.200129
+        ],
+        [
+          42.590276,
+          18.201395
+        ],
+        [
+          42.587923,
+          18.20309
+        ],
+        [
+          42.583957,
+          18.208412
+        ],
+        [
+          42.582045,
+          18.213884
+        ],
+        [
+          42.582062,
+          18.215155
+        ],
+        [
+          42.582292,
+          18.21644
         ]
       ]
     }

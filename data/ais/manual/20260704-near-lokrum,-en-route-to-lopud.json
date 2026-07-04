@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-07-04T14:51:59.355Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "4 Jul",
+    "title": "Near Lokrum, en route to Lopud",
+    "name": "Near Lokrum, en route to Lopud",
+    "phase": "current",
+    "lat": 42.634586,
+    "lng": 18.122871,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-07-04T14:51:59.355Z",
+    "status": "At anchor",
+    "title": "Near Lokrum, en route to Lopud",
+    "area": "Near Lokrum, en route to Lopud",
+    "position": {
+      "lat": 42.634586,
+      "lng": 18.122871,
+      "precision": "user-confirmed area marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

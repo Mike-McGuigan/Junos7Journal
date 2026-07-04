@@ -1481,12 +1481,36 @@
       "fromTitle": "Cavtat Harbour",
       "toTitle": "Near Lokrum, en route to Lopud",
       "distanceDirectNm": 5.2,
-      "distanceEstimatedNm": 5.2,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 5.4,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           42.582292,
           18.21644
+        ],
+        [
+          42.582156,
+          18.215064
+        ],
+        [
+          42.582344,
+          18.213422
+        ],
+        [
+          42.585535,
+          18.207157
+        ],
+        [
+          42.606911,
+          18.15568
+        ],
+        [
+          42.612343,
+          18.140745
+        ],
+        [
+          42.632534,
+          18.122742
         ],
         [
           42.634586,

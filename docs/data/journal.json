@@ -139,6 +139,19 @@
         "underway-cavtat"
       ],
       "body": "Juno's 7 is making one of the longest passages of the season, heading north-west from Corfu towards Cavtat on Croatia's southern coast. Two hours into the eighteen-hour crossing, the Adriatic stretches away beneath clear skies while the yacht leaves a broad white wake behind her. Faithfully following in that wake is SETE, the chase boat, keeping station astern as both vessels make their way towards Croatia together."
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Very Pretty Here",
+      "location": "Cavtat, Croatia",
+      "type": "destination",
+      "person": "Sophie & Cameron",
+      "quote": "Very pretty here! / Yeah just been able to come off for lunch with two of the other deck crew.",
+      "media": [
+        "cavtat-waterfront",
+        "cavtat-bay"
+      ],
+      "body": "After the long passage north-west from Corfu, Juno's 7 has arrived in Cavtat, the first Croatian chapter of the season. The contrast with the overnight crossing could hardly be stronger: clear Adriatic water against the stone waterfront, shaded trees along the promenade, terracotta roofs, and mountains rising behind the bay.\n\nSophie summed up the first impression perfectly: \"Very pretty here!\"\n\nFor the crew, arrival also brought the chance to step ashore. Cameron was able to get off the yacht for lunch with two of the other deck crew, a small but welcome pause after the rhythm of a long sea passage. These are the moments that make the journal feel real: not just the places Juno's 7 visits, but the brief windows of time when the crew can enjoy them too.\n\nWith Juno's 7 lying off the waterfront and Cavtat opening around them, the voyage has moved from the Greek islands into a new stretch of the Adriatic story."
     }
   ],
   "media": [
@@ -285,6 +298,22 @@
       "url": "media/photos/2026-07-02-underway-cavtat.jpg",
       "title": "Underway to Cavtat",
       "caption": "Looking aft during the passage from Corfu to Cavtat, with SETE following faithfully in Juno's 7 wake."
+    },
+    {
+      "id": "cavtat-waterfront",
+      "type": "photo",
+      "date": "2026-07-03",
+      "url": "media/photos/2026-07-04-cavtat-waterfront.jpg",
+      "title": "Cavtat waterfront",
+      "caption": "Clear Adriatic water beside Cavtat's stone waterfront, with the shaded promenade and Croatian hills beyond."
+    },
+    {
+      "id": "cavtat-bay",
+      "type": "photo",
+      "date": "2026-07-03",
+      "url": "media/photos/2026-07-04-cavtat-bay.jpg",
+      "title": "Moored in Cavtat",
+      "caption": "Looking across Cavtat Bay towards Juno's 7, lying off the waterfront beneath the mountains of southern Croatia."
     }
   ],
   "route": [

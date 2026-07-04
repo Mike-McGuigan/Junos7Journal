@@ -1,8 +1,8 @@
 {
   "version": "2.1.1",
   "release": "Geographic Intelligence",
-  "buildUtc": "2026-07-03 08:50:07 UTC",
-  "fileCount": 96,
+  "buildUtc": "2026-07-04 14:17:09 UTC",
+  "fileCount": 98,
   "files": [
     {
       "path": ".gitkeep",
@@ -21,18 +21,18 @@
     },
     {
       "path": "admin.html",
-      "sizeBytes": 5381,
-      "sha256": "efc3ed270cc0b1ef10986dbf9e1e6756d8694f2fd1dc95f56c8bcf445a5c07d8"
+      "sizeBytes": 5430,
+      "sha256": "c5e3da7c788d6216c35994bf387cb1253629f2eb507afc45df45dc1ccef7487d"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 208,
-      "sha256": "63d8913ce12091d90bdbdf9a818f39cdb82c5d2b31c2cf447b881603f64860a7"
+      "sha256": "292b5cb177f57c73749624aa656de4e13b9c36e2bdfbaa2605df311a3d2d4b55"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 16681,
-      "sha256": "2e7df680917e60f4a54d08fbf8967d386fb33e6fa72c3ed874cfdd4f54362953"
+      "sizeBytes": 17056,
+      "sha256": "8f595824576ffeaa295b2b0ef0a1c96d538128a0c0d924da654ea2ab7a588939"
     },
     {
       "path": "crew.html",
@@ -122,7 +122,7 @@
     {
       "path": "data/dashboard.json",
       "sizeBytes": 1754,
-      "sha256": "a9934309918487fd92257a02b11f596ad126ca85d480aea87e99d95c7ccad8f4"
+      "sha256": "700891cf46a9a0a7e77c6e467cc5db0897140b7cc9e003a46df1ad358e6870ac"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 13138,
-      "sha256": "f81af5088f43fd0e542cc1c5043c1864a35ed7587a2542024e0a8283093b27e5"
+      "sizeBytes": 14678,
+      "sha256": "7cf79b92aa68d06b33814a49b07661ee36341ddd09baee831e26def988592591"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -272,7 +272,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 208,
-      "sha256": "63d8913ce12091d90bdbdf9a818f39cdb82c5d2b31c2cf447b881603f64860a7"
+      "sha256": "292b5cb177f57c73749624aa656de4e13b9c36e2bdfbaa2605df311a3d2d4b55"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -390,6 +390,16 @@
       "sha256": "f1104bfacaae2f8438bd2c655f4802075210f2e80bc9fb023969efcea225ec75"
     },
     {
+      "path": "media/photos/2026-07-04-cavtat-bay.jpg",
+      "sizeBytes": 677142,
+      "sha256": "e935e4c65c7c6603cdc121bd059ca8248f483bb7892854eab44a0be877e6482f"
+    },
+    {
+      "path": "media/photos/2026-07-04-cavtat-waterfront.jpg",
+      "sizeBytes": 717473,
+      "sha256": "eafd9139e516d7097ee9b2363a1a431f48dc3d6a49855f1df8d5d14c4ef893b8"
+    },
+    {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",
       "sizeBytes": 3003718,
       "sha256": "dc8dcfc478078d3d2e748cb0f27213df88a91714eacaff1a08b40ac9e4375db3"
@@ -426,8 +436,8 @@
     },
     {
       "path": "assets/css/admin-map.css",
-      "sizeBytes": 2838,
-      "sha256": "6ac251f9a2f702dca259fb5779ecefe0b1ca20004dde542272e7ea0da6164fad"
+      "sizeBytes": 2874,
+      "sha256": "0c99f96063a34fdfa88606bc508d19d077327d369350c0f48a03df01c0c4510c"
     },
     {
       "path": "assets/css/companion.css",
@@ -456,8 +466,8 @@
     },
     {
       "path": "assets/js/admin-map.js",
-      "sizeBytes": 25107,
-      "sha256": "90a19841a7af15ad8709625e9245749951788434dc30e9fc63ca2536c96e396f"
+      "sizeBytes": 25175,
+      "sha256": "86b37bd2129b1d6e0160a40ded197250b6c9cd43b1914ba23b2344f1c5f1ff96"
     },
     {
       "path": "assets/js/app.js",

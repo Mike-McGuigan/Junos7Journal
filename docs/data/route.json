@@ -1524,8 +1524,8 @@
     "title": "En route to Mljet",
     "name": "En route to Mljet",
     "phase": "current",
-    "lat": 42.721259,
-    "lng": 17.766438,
+    "lat": 42.718768,
+    "lng": 17.762833,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
@@ -1548,17 +1548,45 @@
     "legFromPrevious": {
       "fromTitle": "Near Lokrum, en route to Lopud",
       "toTitle": "En route to Mljet",
-      "distanceDirectNm": 16.6,
-      "distanceEstimatedNm": 16.6,
-      "usesManualSeaRoute": false,
+      "distanceDirectNm": 16.7,
+      "distanceEstimatedNm": 16.9,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           42.634586,
           18.122871
         ],
         [
-          42.721259,
-          17.766438
+          42.63503,
+          18.122152
+        ],
+        [
+          42.635849,
+          18.119867
+        ],
+        [
+          42.635533,
+          18.110211
+        ],
+        [
+          42.634113,
+          18.103821
+        ],
+        [
+          42.632435,
+          18.080629
+        ],
+        [
+          42.652631,
+          17.995022
+        ],
+        [
+          42.683303,
+          17.877605
+        ],
+        [
+          42.718768,
+          17.762833
         ]
       ]
     }

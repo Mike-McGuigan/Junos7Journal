@@ -1455,7 +1455,7 @@
     "date": "4 Jul",
     "title": "Near Lokrum, en route to Lopud",
     "name": "Near Lokrum, en route to Lopud",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 42.634586,
     "lng": 18.122871,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -1515,6 +1515,50 @@
         [
           42.634586,
           18.122871
+        ]
+      ]
+    }
+  },
+  {
+    "date": "5 Jul",
+    "title": "En route to Mljet",
+    "name": "En route to Mljet",
+    "phase": "current",
+    "lat": 42.721259,
+    "lng": 17.766438,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Near Lokrum, en route to Lopud",
+      "toTitle": "En route to Mljet",
+      "distanceDirectNm": 16.6,
+      "distanceEstimatedNm": 16.6,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          42.634586,
+          18.122871
+        ],
+        [
+          42.721259,
+          17.766438
         ]
       ]
     }

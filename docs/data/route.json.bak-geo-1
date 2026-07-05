@@ -1339,7 +1339,7 @@
     "date": "3 Jul",
     "title": "Cavtat Harbour",
     "name": "Cavtat Harbour",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 42.582292,
     "lng": 18.21644,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -1447,6 +1447,74 @@
         [
           42.582292,
           18.21644
+        ]
+      ]
+    }
+  },
+  {
+    "date": "4 Jul",
+    "title": "Near Lokrum, en route to Lopud",
+    "name": "Near Lokrum, en route to Lopud",
+    "phase": "current",
+    "lat": 42.634586,
+    "lng": 18.122871,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Cavtat Harbour",
+      "toTitle": "Near Lokrum, en route to Lopud",
+      "distanceDirectNm": 5.2,
+      "distanceEstimatedNm": 5.4,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          42.582292,
+          18.21644
+        ],
+        [
+          42.582156,
+          18.215064
+        ],
+        [
+          42.582344,
+          18.213422
+        ],
+        [
+          42.585535,
+          18.207157
+        ],
+        [
+          42.606911,
+          18.15568
+        ],
+        [
+          42.612343,
+          18.140745
+        ],
+        [
+          42.632534,
+          18.122742
+        ],
+        [
+          42.634586,
+          18.122871
         ]
       ]
     }

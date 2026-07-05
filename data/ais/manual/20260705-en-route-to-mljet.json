@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-07-05T08:11:26.318Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "5 Jul",
+    "title": "En route to Mljet",
+    "name": "En route to Mljet",
+    "phase": "current",
+    "lat": 42.721259,
+    "lng": 17.766438,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-07-05T08:11:26.318Z",
+    "status": "Under way",
+    "title": "En route to Mljet",
+    "area": "En route to Mljet",
+    "position": {
+      "lat": 42.721259,
+      "lng": 17.766438,
+      "precision": "user-confirmed area marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

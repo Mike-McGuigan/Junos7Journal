@@ -1,7 +1,7 @@
 {
   "version": "2.1.1",
   "release": "Geographic Intelligence",
-  "buildUtc": "2026-07-05 08:24:12 UTC",
+  "buildUtc": "2026-07-05 08:29:35 UTC",
   "fileCount": 98,
   "files": [
     {
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 208,
-      "sha256": "f9457bf9f4b6ea2f13e45cb1ea0b6d017c1144fd42508c053e9a639eafae2cef"
+      "sha256": "c1974e346e5d74d0416221ab150b66654d6d7f0765cda0343b6dcb26b0390af9"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 17056,
-      "sha256": "31ca7feaf91058470183531f12412c4b08c6d6d64350a09f1e672a80c1c0f4eb"
+      "sha256": "a942928d3ba45ad3277f397a38557c00c2a3ce6fc1085c7c9eef60ed06ead51c"
     },
     {
       "path": "crew.html",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 35421,
-      "sha256": "b58a9184ec7a733ddcf70490dc8546f74495824ebcfe0bd8b8fa07df0fe60139"
+      "sizeBytes": 35345,
+      "sha256": "d8f7d01151cb0f10052b8ea31c8f99f8060edcd7828a99a85f0785060f7c32ef"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -272,7 +272,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 208,
-      "sha256": "f9457bf9f4b6ea2f13e45cb1ea0b6d017c1144fd42508c053e9a639eafae2cef"
+      "sha256": "c1974e346e5d74d0416221ab150b66654d6d7f0765cda0343b6dcb26b0390af9"
     },
     {
       "path": "data/version.json.bak-1-0-1",

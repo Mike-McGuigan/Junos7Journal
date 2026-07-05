@@ -1453,8 +1453,8 @@
   },
   {
     "date": "4 Jul",
-    "title": "Near Lokrum, en route to Lopud",
-    "name": "Near Lokrum, en route to Lopud",
+    "title": "Near Lokrum",
+    "name": "Near Lokrum",
     "phase": "onboard",
     "lat": 42.634586,
     "lng": 18.122871,
@@ -1479,7 +1479,7 @@
     },
     "legFromPrevious": {
       "fromTitle": "Cavtat Harbour",
-      "toTitle": "Near Lokrum, en route to Lopud",
+      "toTitle": "Near Lokrum",
       "distanceDirectNm": 5.2,
       "distanceEstimatedNm": 5.4,
       "usesManualSeaRoute": true,
@@ -1546,7 +1546,7 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "legFromPrevious": {
-      "fromTitle": "Near Lokrum, en route to Lopud",
+      "fromTitle": "Near Lokrum",
       "toTitle": "En route to Mljet",
       "distanceDirectNm": 16.7,
       "distanceEstimatedNm": 16.9,

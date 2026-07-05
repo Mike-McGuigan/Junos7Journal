@@ -1,7 +1,7 @@
 {
   "version": "2.1.1",
   "release": "Geographic Intelligence",
-  "buildUtc": "2026-07-05 08:16:08 UTC",
+  "buildUtc": "2026-07-05 08:24:12 UTC",
   "fileCount": 98,
   "files": [
     {
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 208,
-      "sha256": "c113aeda1101251987b437607daae80529b8a6e9d091345775ba184d9fb0fb2a"
+      "sha256": "f9457bf9f4b6ea2f13e45cb1ea0b6d017c1144fd42508c053e9a639eafae2cef"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 17056,
-      "sha256": "d699752d118af28964d2d97dcdeabaf107565922cc224829d6231026a60e3d35"
+      "sha256": "31ca7feaf91058470183531f12412c4b08c6d6d64350a09f1e672a80c1c0f4eb"
     },
     {
       "path": "crew.html",
@@ -272,7 +272,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 208,
-      "sha256": "c113aeda1101251987b437607daae80529b8a6e9d091345775ba184d9fb0fb2a"
+      "sha256": "f9457bf9f4b6ea2f13e45cb1ea0b6d017c1144fd42508c053e9a639eafae2cef"
     },
     {
       "path": "data/version.json.bak-1-0-1",

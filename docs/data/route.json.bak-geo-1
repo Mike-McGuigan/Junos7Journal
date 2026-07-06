@@ -1595,9 +1595,9 @@
     "date": "5 Jul",
     "title": "Polace, Mljet",
     "name": "Polace, Mljet",
-    "phase": "current",
-    "lat": 42.7885,
-    "lng": 17.383311,
+    "phase": "onboard",
+    "lat": 42.789039,
+    "lng": 17.383375,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
@@ -1620,17 +1620,149 @@
     "legFromPrevious": {
       "fromTitle": "En route to Mljet",
       "toTitle": "Polace, Mljet",
-      "distanceDirectNm": 17.2,
-      "distanceEstimatedNm": 17.2,
-      "usesManualSeaRoute": false,
+      "distanceDirectNm": 17.3,
+      "distanceEstimatedNm": 17.5,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           42.718768,
           17.762833
         ],
         [
-          42.7885,
-          17.383311
+          42.73565,
+          17.698374
+        ],
+        [
+          42.757537,
+          17.617607
+        ],
+        [
+          42.771652,
+          17.53315
+        ],
+        [
+          42.785039,
+          17.473927
+        ],
+        [
+          42.793251,
+          17.422042
+        ],
+        [
+          42.792061,
+          17.412268
+        ],
+        [
+          42.793633,
+          17.401292
+        ],
+        [
+          42.793728,
+          17.398846
+        ],
+        [
+          42.791964,
+          17.393267
+        ],
+        [
+          42.788549,
+          17.384588
+        ],
+        [
+          42.789039,
+          17.383375
+        ]
+      ]
+    }
+  },
+  {
+    "date": "6 Jul",
+    "title": "Gubavac, Korcula",
+    "name": "Gubavac, Korcula",
+    "phase": "current",
+    "lat": 42.929496,
+    "lng": 17.183282,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Polace, Mljet",
+      "toTitle": "Gubavac, Korcula",
+      "distanceDirectNm": 12.2,
+      "distanceEstimatedNm": 13.4,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          42.789039,
+          17.383375
+        ],
+        [
+          42.789289,
+          17.385982
+        ],
+        [
+          42.793377,
+          17.392859
+        ],
+        [
+          42.797005,
+          17.393664
+        ],
+        [
+          42.798123,
+          17.39448
+        ],
+        [
+          42.799364,
+          17.397988
+        ],
+        [
+          42.800872,
+          17.399039
+        ],
+        [
+          42.802909,
+          17.397655
+        ],
+        [
+          42.921093,
+          17.215319
+        ],
+        [
+          42.923364,
+          17.212272
+        ],
+        [
+          42.927549,
+          17.190481
+        ],
+        [
+          42.929136,
+          17.185611
+        ],
+        [
+          42.92945,
+          17.184623
+        ],
+        [
+          42.929496,
+          17.183282
         ]
       ]
     }

@@ -5,18 +5,18 @@
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Polace, Mljet",
+    "latestStatus": "Manual location: Gubavac, Korcula",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-06T07:44:46.037Z",
+    "lastManualLookupUtc": "2026-07-06T07:49:43.467Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 42.7885,
-      "lng": 17.383311,
+      "lat": 42.929496,
+      "lng": 17.183282,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Polace, Mljet",
+    "latestLocationName": "Gubavac, Korcula",
     "latestFriendlyLocation": "Near Dubrovnik-Neretva County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,13 +36,13 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Polace, Mljet"
+    "latestLocationTitle": "Gubavac, Korcula"
   },
   "stats": {
-    "routeStops": 24,
-    "distanceDirectNm": 811.2,
-    "distanceEstimatedNm": 941.0,
-    "manualSeaRouteLegs": 20,
+    "routeStops": 25,
+    "distanceDirectNm": 823.5,
+    "distanceEstimatedNm": 954.7,
+    "manualSeaRouteLegs": 22,
     "journalEntries": 12,
     "mediaItems": 17,
     "photos": 11,

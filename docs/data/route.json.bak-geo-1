@@ -1453,9 +1453,9 @@
   },
   {
     "date": "4 Jul",
-    "title": "Near Lokrum, en route to Lopud",
-    "name": "Near Lokrum, en route to Lopud",
-    "phase": "current",
+    "title": "Near Lokrum",
+    "name": "Near Lokrum",
+    "phase": "onboard",
     "lat": 42.634586,
     "lng": 18.122871,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -1479,7 +1479,7 @@
     },
     "legFromPrevious": {
       "fromTitle": "Cavtat Harbour",
-      "toTitle": "Near Lokrum, en route to Lopud",
+      "toTitle": "Near Lokrum",
       "distanceDirectNm": 5.2,
       "distanceEstimatedNm": 5.4,
       "usesManualSeaRoute": true,
@@ -1515,6 +1515,78 @@
         [
           42.634586,
           18.122871
+        ]
+      ]
+    }
+  },
+  {
+    "date": "5 Jul",
+    "title": "En route to Mljet",
+    "name": "En route to Mljet",
+    "phase": "current",
+    "lat": 42.718768,
+    "lng": 17.762833,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Near Lokrum",
+      "toTitle": "En route to Mljet",
+      "distanceDirectNm": 16.7,
+      "distanceEstimatedNm": 16.9,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          42.634586,
+          18.122871
+        ],
+        [
+          42.63503,
+          18.122152
+        ],
+        [
+          42.635849,
+          18.119867
+        ],
+        [
+          42.635533,
+          18.110211
+        ],
+        [
+          42.634113,
+          18.103821
+        ],
+        [
+          42.632435,
+          18.080629
+        ],
+        [
+          42.652631,
+          17.995022
+        ],
+        [
+          42.683303,
+          17.877605
+        ],
+        [
+          42.718768,
+          17.762833
         ]
       ]
     }

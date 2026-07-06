@@ -5,7 +5,7 @@
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Gubavc, Korcula",
+    "latestStatus": "Manual location: Gubavac, Korcula",
     "latestSource": "captains dashboard",
     "lastManualLookupUtc": "2026-07-06T07:49:43.467Z",
     "latestPrecisePosition": null,
@@ -16,7 +16,7 @@
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Gubavc, Korcula",
+    "latestLocationName": "Gubavac, Korcula",
     "latestFriendlyLocation": "Near Dubrovnik-Neretva County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,13 +36,13 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Gubavc, Korcula"
+    "latestLocationTitle": "Gubavac, Korcula"
   },
   "stats": {
     "routeStops": 25,
-    "distanceDirectNm": 823.4,
-    "distanceEstimatedNm": 953.2,
-    "manualSeaRouteLegs": 20,
+    "distanceDirectNm": 823.5,
+    "distanceEstimatedNm": 954.7,
+    "manualSeaRouteLegs": 22,
     "journalEntries": 12,
     "mediaItems": 17,
     "photos": 11,

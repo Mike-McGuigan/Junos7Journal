@@ -1523,7 +1523,7 @@
     "date": "5 Jul",
     "title": "En route to Mljet",
     "name": "En route to Mljet",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 42.718768,
     "lng": 17.762833,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -1587,6 +1587,50 @@
         [
           42.718768,
           17.762833
+        ]
+      ]
+    }
+  },
+  {
+    "date": "5 Jul",
+    "title": "Polace, Mljet",
+    "name": "Polace, Mljet",
+    "phase": "current",
+    "lat": 42.7885,
+    "lng": 17.383311,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226750,
+      "displayName": "Near Dubrovnik-Neretva County, Croatia",
+      "shortName": "Dubrovnik-Neretva County",
+      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Dubrovnik-Neretva County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "En route to Mljet",
+      "toTitle": "Polace, Mljet",
+      "distanceDirectNm": 17.2,
+      "distanceEstimatedNm": 17.2,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          42.718768,
+          17.762833
+        ],
+        [
+          42.7885,
+          17.383311
         ]
       ]
     }

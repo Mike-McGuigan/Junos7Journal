@@ -1,17 +1,17 @@
 {
   "schemaVersion": 5,
-  "generatedUtc": "2026-07-07T11:55:28.477Z",
+  "generatedUtc": "2026-07-07T11:58:17.775Z",
   "vesselKey": "junos7",
   "displayName": "JUNOS 7",
   "mmsi": "319303300",
   "imo": "1109712",
   "routePoint": {
-    "date": "7 Jul Stop",
-    "title": "Palmizana anchorage",
-    "name": "Palmizana anchorage",
+    "date": "7 Jul",
+    "title": "Palmizana Anchorage",
+    "name": "Palmizana Anchorage",
     "phase": "current",
-    "lat": 43.161083,
-    "lng": 16.402191,
+    "lat": 43.161098,
+    "lng": 16.402105,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
@@ -33,13 +33,13 @@
     }
   },
   "tracker": {
-    "timestampUtc": "2026-07-07T11:55:28.477Z",
+    "timestampUtc": "2026-07-07T11:58:17.775Z",
     "status": "At anchor",
-    "title": "Palmizana anchorage",
-    "area": "Palmizana anchorage",
+    "title": "Palmizana Anchorage",
+    "area": "Palmizana Anchorage",
     "position": {
-      "lat": 43.161083,
-      "lng": 16.402191,
+      "lat": 43.161098,
+      "lng": 16.402105,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },

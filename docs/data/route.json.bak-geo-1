@@ -1887,7 +1887,7 @@
     "date": "7 Jul AM",
     "title": "En route to Hvar",
     "name": "En route to Hvar",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.0613,
     "lng": 16.718102,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",

@@ -1884,7 +1884,7 @@
     }
   },
   {
-    "date": "7 Jul",
+    "date": "7 Jul AM",
     "title": "En route to Hvar",
     "name": "En route to Hvar",
     "phase": "current",
@@ -1913,12 +1913,44 @@
       "fromTitle": "Korcula Port",
       "toTitle": "En route to Hvar",
       "distanceDirectNm": 19.2,
-      "distanceEstimatedNm": 19.2,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 19.4,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           42.961848,
           17.134524
+        ],
+        [
+          42.962004,
+          17.134053
+        ],
+        [
+          42.962937,
+          17.133147
+        ],
+        [
+          42.963488,
+          17.132744
+        ],
+        [
+          42.964427,
+          17.132814
+        ],
+        [
+          42.982137,
+          17.059944
+        ],
+        [
+          42.998558,
+          16.947441
+        ],
+        [
+          43.030188,
+          16.841698
+        ],
+        [
+          43.048036,
+          16.764622
         ],
         [
           43.0613,

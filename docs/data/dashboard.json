@@ -5,18 +5,18 @@
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: En route to Hvar",
+    "latestStatus": "Manual location: Palmizana anchorage",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-07T07:38:30.424Z",
+    "lastManualLookupUtc": "2026-07-07T11:55:28.477Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 43.0613,
-      "lng": 16.718102,
+      "lat": 43.161083,
+      "lng": 16.402191,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "En route to Hvar",
+    "latestLocationName": "Palmizana anchorage",
     "latestFriendlyLocation": "Near Split-Dalmatia County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,12 +36,12 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "En route to Hvar"
+    "latestLocationTitle": "Palmizana anchorage"
   },
   "stats": {
-    "routeStops": 27,
-    "distanceDirectNm": 845.6,
-    "distanceEstimatedNm": 977.7,
+    "routeStops": 28,
+    "distanceDirectNm": 860.7,
+    "distanceEstimatedNm": 992.8,
     "manualSeaRouteLegs": 24,
     "journalEntries": 12,
     "mediaItems": 17,

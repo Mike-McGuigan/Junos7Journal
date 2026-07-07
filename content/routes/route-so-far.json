@@ -549,7 +549,7 @@
     "date": "6 Jul",
     "title": "Korcula Port",
     "name": "Korcula Port",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 42.961848,
     "lng": 17.134524,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -568,6 +568,33 @@
       "municipality": null,
       "island": null,
       "nearestPlace": "Dubrovnik-Neretva County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  {
+    "date": "7 Jul",
+    "title": "En route to Hvar",
+    "name": "En route to Hvar",
+    "phase": "current",
+    "lat": 43.0613,
+    "lng": 16.718102,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     }

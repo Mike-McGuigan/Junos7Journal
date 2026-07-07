@@ -1768,12 +1768,12 @@
     }
   },
   {
-    "date": "6 Jul PM",
+    "date": "6 Jul",
     "title": "Korcula Port",
     "name": "Korcula Port",
     "phase": "current",
-    "lat": 42.961918,
-    "lng": 17.134587,
+    "lat": 42.961848,
+    "lng": 17.134524,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
@@ -1797,72 +1797,16 @@
       "fromTitle": "Gubavac, Korcula",
       "toTitle": "Korcula Port",
       "distanceDirectNm": 2.9,
-      "distanceEstimatedNm": 3.9,
-      "usesManualSeaRoute": true,
+      "distanceEstimatedNm": 2.9,
+      "usesManualSeaRoute": false,
       "geometry": [
         [
           42.929496,
           17.183282
         ],
         [
-          42.928769,
-          17.17854
-        ],
-        [
-          42.938576,
-          17.176158
-        ],
-        [
-          42.938258,
-          17.171416
-        ],
-        [
-          42.939326,
-          17.168498
-        ],
-        [
-          42.939326,
-          17.166009
-        ],
-        [
-          42.940196,
-          17.161449
-        ],
-        [
-          42.948122,
-          17.158198
-        ],
-        [
-          42.953327,
-          17.151514
-        ],
-        [
-          42.955148,
-          17.149519
-        ],
-        [
-          42.95943,
-          17.146783
-        ],
-        [
-          42.965208,
-          17.140517
-        ],
-        [
-          42.966779,
-          17.133651
-        ],
-        [
-          42.964078,
-          17.132106
-        ],
-        [
-          42.962774,
-          17.133074
-        ],
-        [
-          42.961918,
-          17.134587
+          42.961848,
+          17.134524
         ]
       ]
     }

@@ -916,7 +916,7 @@
       "fromDate": "3 Jul",
       "toDate": "4 Jul",
       "fromTitle": "Cavtat Harbour",
-      "toTitle": "Near Lokrum, en route to Lopud",
+      "toTitle": "Near Lokrum",
       "waypoints": [
         [
           42.582156,
@@ -949,7 +949,7 @@
       "toIndex": 22,
       "fromDate": "4 Jul",
       "toDate": "5 Jul",
-      "fromTitle": "Near Lokrum, en route to Lopud",
+      "fromTitle": "Near Lokrum",
       "toTitle": "En route to Mljet",
       "waypoints": [
         [
@@ -1087,72 +1087,6 @@
         [
           42.92945,
           17.184623
-        ]
-      ]
-    },
-    {
-      "fromIndex": 24,
-      "toIndex": 25,
-      "fromDate": "6 Jul",
-      "toDate": "6 Jul PM",
-      "fromTitle": "Gubavac, Korcula",
-      "toTitle": "Korcula Port",
-      "waypoints": [
-        [
-          42.928769,
-          17.17854
-        ],
-        [
-          42.938576,
-          17.176158
-        ],
-        [
-          42.938258,
-          17.171416
-        ],
-        [
-          42.939326,
-          17.168498
-        ],
-        [
-          42.939326,
-          17.166009
-        ],
-        [
-          42.940196,
-          17.161449
-        ],
-        [
-          42.948122,
-          17.158198
-        ],
-        [
-          42.953327,
-          17.151514
-        ],
-        [
-          42.955148,
-          17.149519
-        ],
-        [
-          42.95943,
-          17.146783
-        ],
-        [
-          42.965208,
-          17.140517
-        ],
-        [
-          42.966779,
-          17.133651
-        ],
-        [
-          42.964078,
-          17.132106
-        ],
-        [
-          42.962774,
-          17.133074
         ]
       ]
     }

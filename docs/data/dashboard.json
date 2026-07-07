@@ -7,11 +7,11 @@
     "liveAis": false,
     "latestStatus": "Manual location: Korcula Port",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-06T19:16:21.904Z",
+    "lastManualLookupUtc": "2026-07-07T07:34:34.896Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 42.961918,
-      "lng": 17.134587,
+      "lat": 42.961848,
+      "lng": 17.134524,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
@@ -41,8 +41,8 @@
   "stats": {
     "routeStops": 26,
     "distanceDirectNm": 826.4,
-    "distanceEstimatedNm": 958.6,
-    "manualSeaRouteLegs": 23,
+    "distanceEstimatedNm": 957.6,
+    "manualSeaRouteLegs": 22,
     "journalEntries": 12,
     "mediaItems": 17,
     "photos": 11,

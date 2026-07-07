@@ -1679,7 +1679,7 @@
     "date": "6 Jul",
     "title": "Gubavac, Korcula",
     "name": "Gubavac, Korcula",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 42.929496,
     "lng": 17.183282,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",

@@ -1,27 +1,27 @@
 {
   "schemaVersion": 5,
-  "generatedUtc": "2026-07-06T19:16:21.904Z",
+  "generatedUtc": "2026-07-07T07:34:34.896Z",
   "vesselKey": "junos7",
   "displayName": "JUNOS 7",
   "mmsi": "319303300",
   "imo": "1109712",
   "routePoint": {
-    "date": "6 Jul PM",
+    "date": "6 Jul",
     "title": "Korcula Port",
     "name": "Korcula Port",
     "phase": "current",
-    "lat": 42.961918,
-    "lng": 17.134587,
+    "lat": 42.961848,
+    "lng": 17.134524,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
   },
   "tracker": {
-    "timestampUtc": "2026-07-06T19:16:21.904Z",
+    "timestampUtc": "2026-07-07T07:34:34.896Z",
     "status": "Moored",
     "title": "Korcula Port",
     "area": "Korcula Port",
     "position": {
-      "lat": 42.961918,
-      "lng": 17.134587,
+      "lat": 42.961848,
+      "lng": 17.134524,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },

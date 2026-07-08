@@ -2173,12 +2173,28 @@
       "fromTitle": "En route to Split",
       "toTitle": "Approaching Split",
       "distanceDirectNm": 13.6,
-      "distanceEstimatedNm": 13.6,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 14.7,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           43.172564,
           16.396708
+        ],
+        [
+          43.188125,
+          16.360188
+        ],
+        [
+          43.194899,
+          16.361132
+        ],
+        [
+          43.219126,
+          16.365852
+        ],
+        [
+          43.306662,
+          16.398296
         ],
         [
           43.398297,

@@ -1329,6 +1329,32 @@
           16.40115
         ]
       ]
+    },
+    {
+      "fromIndex": 28,
+      "toIndex": 29,
+      "fromDate": "8 Jul Late afternoon",
+      "toDate": "8 Jul - Early evening",
+      "fromTitle": "En route to Split",
+      "toTitle": "Approaching Split",
+      "waypoints": [
+        [
+          43.188125,
+          16.360188
+        ],
+        [
+          43.194899,
+          16.361132
+        ],
+        [
+          43.219126,
+          16.365852
+        ],
+        [
+          43.306662,
+          16.398296
+        ]
+      ]
     }
   ]
 }

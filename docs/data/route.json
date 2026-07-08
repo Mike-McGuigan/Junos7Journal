@@ -1963,7 +1963,7 @@
     "date": "7 Jul",
     "title": "Palmizana Anchorage",
     "name": "Palmizana Anchorage",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.161098,
     "lng": 16.402105,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -2063,6 +2063,50 @@
         [
           43.161098,
           16.402105
+        ]
+      ]
+    }
+  },
+  {
+    "date": "8 Jul Late afternoon",
+    "title": "En route to Split",
+    "name": "En route to Split",
+    "phase": "current",
+    "lat": 43.172564,
+    "lng": 16.396708,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Palmizana Anchorage",
+      "toTitle": "En route to Split",
+      "distanceDirectNm": 0.7,
+      "distanceEstimatedNm": 0.7,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          43.161098,
+          16.402105
+        ],
+        [
+          43.172564,
+          16.396708
         ]
       ]
     }

@@ -5,18 +5,18 @@
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Palmizana Anchorage",
+    "latestStatus": "Manual location: En route to Split",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-07T11:58:17.775Z",
+    "lastManualLookupUtc": "2026-07-08T15:00:08.417Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 43.161098,
-      "lng": 16.402105,
+      "lat": 43.172564,
+      "lng": 16.396708,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Palmizana Anchorage",
+    "latestLocationName": "En route to Split",
     "latestFriendlyLocation": "Near Split-Dalmatia County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,13 +36,13 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Palmizana Anchorage"
+    "latestLocationTitle": "En route to Split"
   },
   "stats": {
-    "routeStops": 28,
-    "distanceDirectNm": 860.7,
-    "distanceEstimatedNm": 995.3,
-    "manualSeaRouteLegs": 25,
+    "routeStops": 29,
+    "distanceDirectNm": 861.4,
+    "distanceEstimatedNm": 996.2,
+    "manualSeaRouteLegs": 26,
     "journalEntries": 12,
     "mediaItems": 17,
     "photos": 11,

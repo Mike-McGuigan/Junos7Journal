@@ -2147,7 +2147,7 @@
     "date": "8 Jul - Early evening",
     "title": "Approaching Split",
     "name": "Approaching Split",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.398297,
     "lng": 16.415548,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -2199,6 +2199,50 @@
         [
           43.398297,
           16.415548
+        ]
+      ]
+    }
+  },
+  {
+    "date": "8 Jul - Evening",
+    "title": "Split - near Riva waterfront",
+    "name": "Split - near Riva waterfront",
+    "phase": "current",
+    "lat": 43.505694,
+    "lng": 16.431906,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Approaching Split",
+      "toTitle": "Split - near Riva waterfront",
+      "distanceDirectNm": 6.5,
+      "distanceEstimatedNm": 6.5,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          43.398297,
+          16.415548
+        ],
+        [
+          43.505694,
+          16.431906
         ]
       ]
     }

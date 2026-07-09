@@ -2071,7 +2071,7 @@
     "date": "8 Jul Late afternoon",
     "title": "En route to Split",
     "name": "En route to Split",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.172564,
     "lng": 16.396708,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -2139,6 +2139,66 @@
         [
           43.172564,
           16.396708
+        ]
+      ]
+    }
+  },
+  {
+    "date": "8 Jul - Early evening",
+    "title": "Approaching Split",
+    "name": "Approaching Split",
+    "phase": "current",
+    "lat": 43.398297,
+    "lng": 16.415548,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "En route to Split",
+      "toTitle": "Approaching Split",
+      "distanceDirectNm": 13.6,
+      "distanceEstimatedNm": 14.7,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          43.172564,
+          16.396708
+        ],
+        [
+          43.188125,
+          16.360188
+        ],
+        [
+          43.194899,
+          16.361132
+        ],
+        [
+          43.219126,
+          16.365852
+        ],
+        [
+          43.306662,
+          16.398296
+        ],
+        [
+          43.398297,
+          16.415548
         ]
       ]
     }

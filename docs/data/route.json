@@ -2234,11 +2234,31 @@
       "toTitle": "Split - near Riva waterfront",
       "distanceDirectNm": 6.5,
       "distanceEstimatedNm": 6.5,
-      "usesManualSeaRoute": false,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           43.398297,
           16.415548
+        ],
+        [
+          43.457639,
+          16.427565
+        ],
+        [
+          43.4962,
+          16.433787
+        ],
+        [
+          43.501731,
+          16.434034
+        ],
+        [
+          43.503083,
+          16.433551
+        ],
+        [
+          43.5049,
+          16.432567
         ],
         [
           43.505694,

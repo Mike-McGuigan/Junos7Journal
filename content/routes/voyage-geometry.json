@@ -1355,6 +1355,36 @@
           16.398296
         ]
       ]
+    },
+    {
+      "fromIndex": 29,
+      "toIndex": 30,
+      "fromDate": "8 Jul - Early evening",
+      "toDate": "8 Jul - Evening",
+      "fromTitle": "Approaching Split",
+      "toTitle": "Split - near Riva waterfront",
+      "waypoints": [
+        [
+          43.457639,
+          16.427565
+        ],
+        [
+          43.4962,
+          16.433787
+        ],
+        [
+          43.501731,
+          16.434034
+        ],
+        [
+          43.503083,
+          16.433551
+        ],
+        [
+          43.5049,
+          16.432567
+        ]
+      ]
     }
   ]
 }

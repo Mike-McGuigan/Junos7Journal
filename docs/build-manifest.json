@@ -1,7 +1,7 @@
 {
   "version": "2.1.1",
   "release": "Geographic Intelligence",
-  "buildUtc": "2026-07-11 09:02:46 UTC",
+  "buildUtc": "2026-07-11 18:18:14 UTC",
   "fileCount": 98,
   "files": [
     {
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 208,
-      "sha256": "1d20c39e2f745c65d6b5c607a8da46d526039b2b7564ce4e94f0854c69eec5f5"
+      "sha256": "4d5cab1ae3b789f36f9cbbb13eabba07fbf1e8c3c31e4538e268c5094e842998"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 17056,
-      "sha256": "31bd9805db2117b5e8d7cacb4b8679513b543b5660264b04eccccff92afe63ef"
+      "sha256": "77f82d0764c3f257b88fe1c63480c2889c50ac108aea6ea9e97a0162349f8400"
     },
     {
       "path": "crew.html",
@@ -121,8 +121,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1730,
-      "sha256": "726b8e129919c42df4b4fe497b775d7672243ce565275f047620516cb5992530"
+      "sizeBytes": 1769,
+      "sha256": "71bd2d3c49bf652e723a10956be62709036d927e19652b81d50dfa9800e78f80"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -161,8 +161,8 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 1741,
-      "sha256": "89be593d01e116d7b0add4657e88ecb0f993dd5ee4b55fd12afc10a9c6aac90b"
+      "sizeBytes": 1730,
+      "sha256": "726b8e129919c42df4b4fe497b775d7672243ce565275f047620516cb5992530"
     },
     {
       "path": "data/dashboard.json.bak-geo-2",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 56750,
-      "sha256": "c3dd83b7918b908c5a601120baa15f15e81b9ef254d4737b31cffb42dc1f5629"
+      "sizeBytes": 58090,
+      "sha256": "b68bcc734733a7f75155120ef36fdfa9dc09f4a84f917aa2d21f07de76993ac5"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -251,8 +251,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 55174,
-      "sha256": "02c5df8f44212a7a194f53ea914c3dc51bccb08dd182a5e1b3145b74cc1bf8ed"
+      "sizeBytes": 56750,
+      "sha256": "c3dd83b7918b908c5a601120baa15f15e81b9ef254d4737b31cffb42dc1f5629"
     },
     {
       "path": "data/route.json.bak-geo-2",
@@ -272,7 +272,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 208,
-      "sha256": "1d20c39e2f745c65d6b5c607a8da46d526039b2b7564ce4e94f0854c69eec5f5"
+      "sha256": "4d5cab1ae3b789f36f9cbbb13eabba07fbf1e8c3c31e4538e268c5094e842998"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -317,7 +317,7 @@
     {
       "path": "data/version.json.bak-geo-1",
       "sizeBytes": 208,
-      "sha256": "a1668ee0fb016a0626d519fa4728ef9b291ae975530fa3a40b332762a38a95a4"
+      "sha256": "1d20c39e2f745c65d6b5c607a8da46d526039b2b7564ce4e94f0854c69eec5f5"
     },
     {
       "path": "data/version.json.bak-geo-2",

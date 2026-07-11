@@ -2359,7 +2359,7 @@
     "date": "11 Jul - AM",
     "title": "Enr route to Vis",
     "name": "Enr route to Vis",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.118966,
     "lng": 16.22921,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -2427,6 +2427,66 @@
         [
           43.118966,
           16.22921
+        ]
+      ]
+    }
+  },
+  {
+    "date": "11 Jul - late morning",
+    "title": "Vis, Croatia",
+    "name": "Vis, Croatia",
+    "phase": "current",
+    "lat": 43.063962,
+    "lng": 16.195414,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Enr route to Vis",
+      "toTitle": "Vis, Croatia",
+      "distanceDirectNm": 3.6,
+      "distanceEstimatedNm": 3.7,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          43.118966,
+          16.22921
+        ],
+        [
+          43.087178,
+          16.20286
+        ],
+        [
+          43.079154,
+          16.198397
+        ],
+        [
+          43.073085,
+          16.200006
+        ],
+        [
+          43.065937,
+          16.195672
+        ],
+        [
+          43.063962,
+          16.195414
         ]
       ]
     }

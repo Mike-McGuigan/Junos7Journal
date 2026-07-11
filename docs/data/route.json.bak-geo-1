@@ -2207,7 +2207,7 @@
     "date": "8 Jul - Evening",
     "title": "Split - near Riva waterfront",
     "name": "Split - near Riva waterfront",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.505694,
     "lng": 16.431906,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -2263,6 +2263,94 @@
         [
           43.505694,
           16.431906
+        ]
+      ]
+    }
+  },
+  {
+    "date": "10 Jul",
+    "title": "Off Milna, Croatia",
+    "name": "Off Milna, Croatia",
+    "phase": "current",
+    "lat": 43.326235,
+    "lng": 16.428273,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Split - near Riva waterfront",
+      "toTitle": "Off Milna, Croatia",
+      "distanceDirectNm": 10.8,
+      "distanceEstimatedNm": 10.9,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          43.505694,
+          16.431906
+        ],
+        [
+          43.504953,
+          16.43279
+        ],
+        [
+          43.503242,
+          16.433685
+        ],
+        [
+          43.501402,
+          16.434624
+        ],
+        [
+          43.495614,
+          16.432317
+        ],
+        [
+          43.439942,
+          16.428423
+        ],
+        [
+          43.395927,
+          16.423788
+        ],
+        [
+          43.384825,
+          16.423788
+        ],
+        [
+          43.36798,
+          16.422243
+        ],
+        [
+          43.353128,
+          16.420527
+        ],
+        [
+          43.339272,
+          16.42293
+        ],
+        [
+          43.331905,
+          16.424131
+        ],
+        [
+          43.326235,
+          16.428273
         ]
       ]
     }

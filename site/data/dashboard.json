@@ -5,18 +5,18 @@
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Off Milna, Croatia",
+    "latestStatus": "Manual location: Enr route to Vis",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-10T13:32:54.827Z",
+    "lastManualLookupUtc": "2026-07-11T07:54:34.059Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 43.326235,
-      "lng": 16.428273,
+      "lat": 43.118966,
+      "lng": 16.22921,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Off Milna, Croatia",
+    "latestLocationName": "Enr route to Vis",
     "latestFriendlyLocation": "Near Split-Dalmatia County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,12 +36,12 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Off Milna, Croatia"
+    "latestLocationTitle": "Enr route to Vis"
   },
   "stats": {
-    "routeStops": 32,
-    "distanceDirectNm": 892.3,
-    "distanceEstimatedNm": 1028.3,
+    "routeStops": 33,
+    "distanceDirectNm": 907.5,
+    "distanceEstimatedNm": 1043.5,
     "manualSeaRouteLegs": 29,
     "journalEntries": 12,
     "mediaItems": 17,

@@ -2271,7 +2271,7 @@
     "date": "10 Jul",
     "title": "Off Milna, Croatia",
     "name": "Off Milna, Croatia",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.326235,
     "lng": 16.428273,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -2351,6 +2351,50 @@
         [
           43.326235,
           16.428273
+        ]
+      ]
+    }
+  },
+  {
+    "date": "11 Jul - AM",
+    "title": "Enr route to Vis",
+    "name": "Enr route to Vis",
+    "phase": "current",
+    "lat": 43.118966,
+    "lng": 16.22921,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Off Milna, Croatia",
+      "toTitle": "Enr route to Vis",
+      "distanceDirectNm": 15.2,
+      "distanceEstimatedNm": 15.2,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          43.326235,
+          16.428273
+        ],
+        [
+          43.118966,
+          16.22921
         ]
       ]
     }

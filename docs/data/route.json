@@ -2385,12 +2385,44 @@
       "fromTitle": "Off Milna, Croatia",
       "toTitle": "Enr route to Vis",
       "distanceDirectNm": 15.2,
-      "distanceEstimatedNm": 15.2,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 16.5,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           43.326235,
           16.428273
+        ],
+        [
+          43.326035,
+          16.427849
+        ],
+        [
+          43.333883,
+          16.419432
+        ],
+        [
+          43.335944,
+          16.409261
+        ],
+        [
+          43.328292,
+          16.400313
+        ],
+        [
+          43.307801,
+          16.384649
+        ],
+        [
+          43.285641,
+          16.376152
+        ],
+        [
+          43.241139,
+          16.314354
+        ],
+        [
+          43.140514,
+          16.23745
         ],
         [
           43.118966,

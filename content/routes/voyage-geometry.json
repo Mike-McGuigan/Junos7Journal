@@ -1507,6 +1507,20 @@
           16.195672
         ]
       ]
+    },
+    {
+      "fromIndex": 33,
+      "toIndex": 34,
+      "fromDate": "11 Jul - late morning",
+      "toDate": "11 Jul - PM",
+      "fromTitle": "Vis, Croatia",
+      "toTitle": "Alongside in Vis, Croatia",
+      "waypoints": [
+        [
+          43.059465,
+          16.188177
+        ]
+      ]
     }
   ]
 }

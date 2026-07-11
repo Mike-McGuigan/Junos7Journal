@@ -2522,11 +2522,15 @@
       "toTitle": "Alongside in Vis, Croatia",
       "distanceDirectNm": 0.4,
       "distanceEstimatedNm": 0.4,
-      "usesManualSeaRoute": false,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           43.063962,
           16.195414
+        ],
+        [
+          43.059465,
+          16.188177
         ],
         [
           43.059156,

@@ -5,18 +5,18 @@
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Enr route to Vis",
+    "latestStatus": "Manual location: Vis, Croatia",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-11T07:54:34.059Z",
+    "lastManualLookupUtc": "2026-07-11T08:58:43.409Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 43.118966,
-      "lng": 16.22921,
+      "lat": 43.063962,
+      "lng": 16.195414,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Enr route to Vis",
+    "latestLocationName": "Vis, Croatia",
     "latestFriendlyLocation": "Near Split-Dalmatia County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,12 +36,12 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Enr route to Vis"
+    "latestLocationTitle": "Vis, Croatia"
   },
   "stats": {
-    "routeStops": 33,
-    "distanceDirectNm": 907.5,
-    "distanceEstimatedNm": 1044.8,
+    "routeStops": 34,
+    "distanceDirectNm": 911.1,
+    "distanceEstimatedNm": 1048.4,
     "manualSeaRouteLegs": 30,
     "journalEntries": 12,
     "mediaItems": 17,

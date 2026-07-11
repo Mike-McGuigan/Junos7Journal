@@ -1481,6 +1481,32 @@
           16.23745
         ]
       ]
+    },
+    {
+      "fromIndex": 32,
+      "toIndex": 33,
+      "fromDate": "11 Jul - AM",
+      "toDate": "11 Jul - late morning",
+      "fromTitle": "Enr route to Vis",
+      "toTitle": "Vis, Croatia",
+      "waypoints": [
+        [
+          43.087178,
+          16.20286
+        ],
+        [
+          43.079154,
+          16.198397
+        ],
+        [
+          43.073085,
+          16.200006
+        ],
+        [
+          43.065937,
+          16.195672
+        ]
+      ]
     }
   ]
 }

@@ -2461,12 +2461,28 @@
       "fromTitle": "Enr route to Vis",
       "toTitle": "Vis, Croatia",
       "distanceDirectNm": 3.6,
-      "distanceEstimatedNm": 3.6,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 3.7,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           43.118966,
           16.22921
+        ],
+        [
+          43.087178,
+          16.20286
+        ],
+        [
+          43.079154,
+          16.198397
+        ],
+        [
+          43.073085,
+          16.200006
+        ],
+        [
+          43.065937,
+          16.195672
         ],
         [
           43.063962,

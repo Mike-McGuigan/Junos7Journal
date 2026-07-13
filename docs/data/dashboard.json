@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
-  "release": "Journal Experience",
+  "version": "2.2.1",
+  "release": "Journal Experience Patch",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Komiza",
+    "latestStatus": "At anchor off Komiža",
     "latestSource": "captains dashboard",
     "lastManualLookupUtc": "2026-07-13T12:11:27.592Z",
     "latestPrecisePosition": null,
@@ -16,7 +16,7 @@
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Komiza",
+    "latestLocationName": "Komiža",
     "latestFriendlyLocation": "Near Split-Dalmatia County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,16 +36,16 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Komiza"
+    "latestLocationTitle": "Komiža"
   },
   "stats": {
     "routeStops": 36,
     "distanceDirectNm": 916.2,
     "distanceEstimatedNm": 1068.9,
     "manualSeaRouteLegs": 33,
-    "journalEntries": 22,
-    "mediaItems": 38,
+    "journalEntries": 23,
+    "mediaItems": 40,
     "photos": 28,
-    "videos": 10
+    "videos": 12
   }
 }

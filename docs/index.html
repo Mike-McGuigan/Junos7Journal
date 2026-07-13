@@ -39,6 +39,13 @@
   </section>
   <section id="journal" class="section" aria-labelledby="journal-title">
     <div class="section-header"><div><p class="kicker">The journal</p><h2 id="journal-title">Chapters, not check-ins</h2></div><p class="lead">Work, passages, anchorages and the small crew moments that might otherwise disappear into a message thread.</p></div>
+    <div class="journal-toolbar">
+      <p class="journal-order-label">Read the full journey</p>
+      <div class="journal-order" role="group" aria-label="Journal order">
+        <button type="button" data-journal-order="oldest" aria-pressed="true">Oldest <span aria-hidden="true">→</span> Newest</button>
+        <button type="button" data-journal-order="newest" aria-pressed="false">Newest <span aria-hidden="true">→</span> Oldest</button>
+      </div>
+    </div>
     <nav id="chapterIndex" class="chapter-index" aria-label="Journal chapters"></nav>
     <div id="timeline" class="timeline"><div class="empty-note">Loading the journal…</div></div>
   </section>

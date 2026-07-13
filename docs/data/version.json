@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "release": "Journal Experience",
-  "buildUtc": "2026-07-13 12:17:56 UTC",
+  "version": "2.2.1",
+  "release": "Journal Experience Patch",
+  "buildUtc": "2026-07-13 12:51:47 UTC",
   "project": "Juno's 7 Mediterranean Journal",
   "pagesSource": "docs",
   "siteOutput": "site"

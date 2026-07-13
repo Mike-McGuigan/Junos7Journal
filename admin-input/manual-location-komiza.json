@@ -6,19 +6,20 @@
   "mmsi": "319303300",
   "imo": "1109712",
   "routePoint": {
-    "date": "13 Jul - At anchor off Komiza (Mamma Mia 2 Town)",
-    "title": "Komiza",
-    "name": "Komiza",
+    "date": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
+    "title": "Komiža",
+    "name": "Komiža",
     "phase": "current",
     "lat": 43.044893,
     "lng": 16.0826,
-    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "status": "At anchor"
   },
   "tracker": {
     "timestampUtc": "2026-07-13T12:11:27.592Z",
     "status": "At anchor",
-    "title": "Komiza",
-    "area": "Komiza",
+    "title": "Komiža",
+    "area": "Komiža",
     "position": {
       "lat": 43.044893,
       "lng": 16.0826,

@@ -41,11 +41,11 @@ collector/                  Future Collector's Edition workspace
 archive/                    Preserved project material
 ```
 
-## Version 2.2.0
+## Version 2.2.1
 
-**Journal Experience** introduces a magazine-style chapter layout, structured rich sections, improved media presentation, full-screen viewing, J7 branding, voyage-map polish and non-destructive enhanced-media support.
+The journal experience patch corrects the J7 mark, adds a remembered journal-order toggle, fixes explicit media sequencing and adds the 13 July passage to Komiža with both dolphin videos.
 
-See `RELEASE_2_2_0.md` for the full release notes and the recommended release-branch installation steps.
+See `RELEASE_2_2_1.md` for the full release notes and the recommended release-branch installation steps.
 
 ## Guiding principle
 

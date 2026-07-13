@@ -777,9 +777,9 @@
     "status": "Moored"
   },
   {
-    "date": "13 Jul - At anchor off Komiza (Mamma Mia 2 Town)",
-    "title": "Komiza",
-    "name": "Komiza",
+    "date": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
+    "title": "Komiža",
+    "name": "Komiža",
     "phase": "current",
     "lat": 43.044893,
     "lng": 16.0826,
@@ -801,6 +801,7 @@
       "nearestPlace": "Split-Dalmatia County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "status": "At anchor"
   }
 ]

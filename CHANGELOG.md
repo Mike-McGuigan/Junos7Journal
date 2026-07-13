@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.2.1 - Journal Experience Patch
+
+- Replaced the incorrect mark with the approved J7 yacht logo supplied by Mike, including the ivory monogram, gold bow accent and wake.
+- Added a remembered Oldest → Newest / Newest → Oldest journal-order toggle.
+- Kept the latest chapter featured at the top and retained it in the full journal with a Latest badge.
+- Honoured explicit entry media order, placing the rainy video before the clearer-weather photograph in “Much Nicer”.
+- Added the 13 July roundabout passage towards Biševo and back to Komiža.
+- Added Cameron and Sophie’s two dolphin-at-the-bow videos, including the owner’s child’s delighted reaction.
+- Updated route, dashboard, journal, media and build metadata to v2.2.1.
+
 ## 2.2.0 - Journal Experience
 
 - Rebuilt the public journal as a magazine-style chapter experience.

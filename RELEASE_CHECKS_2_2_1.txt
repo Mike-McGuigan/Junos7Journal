@@ -1,0 +1,26 @@
+Juno's 7 Journal v2.2.1 validation
+===========================================
+
+[PASS] JSON parsing — 15 JSON files checked
+[PASS] Unique media IDs — 40
+[PASS] Unique journal IDs — 23
+[PASS] Journal media references — 41 references resolved
+[PASS] Media files — 40 indexed items; all local paths present
+[PASS] 13 July latest entry — Both dolphin videos in intended order
+[PASS] Much Nicer media order — Rain/choppy video before clearer-weather photograph
+[PASS] Komiža route — Roundabout 20.0 NM manual route retained; status At anchor
+[PASS] J7 mark — Corrected clear J / 7-as-bow SVG installed
+[PASS] Built output parity: index.html
+[PASS] Built output parity: assets/js/app.js
+[PASS] Built output parity: assets/css/style.css
+[PASS] Built output parity: assets/icons/j7-mark.svg
+[PASS] Built output parity: data/journal.json
+[PASS] Built output parity: data/route.json
+[PASS] Static HTML IDs — No duplicates
+[PASS] JavaScript syntax — node --check
+[PASS] Python syntax — tools/ compiled
+[PASS] Video readable: 2026-07-13-dolphin-on-bow-cameron.mp4 — 23.8s, 720x1280, h264
+[PASS] Video readable: 2026-07-13-dolphin-on-bow-sophie.mp4 — 9.4s, 720x1280, h264
+[PASS] Version metadata — 2.2.1
+
+Summary: 21 passed, 0 failed.

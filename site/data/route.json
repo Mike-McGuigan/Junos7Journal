@@ -2555,9 +2555,9 @@
     "status": "Moored"
   },
   {
-    "date": "13 Jul - At anchor off Komiza (Mamma Mia 2 Town)",
-    "title": "Komiza",
-    "name": "Komiza",
+    "date": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
+    "title": "Komiža",
+    "name": "Komiža",
     "phase": "current",
     "lat": 43.044893,
     "lng": 16.0826,
@@ -2582,7 +2582,7 @@
     },
     "legFromPrevious": {
       "fromTitle": "Alongside in Vis, Croatia",
-      "toTitle": "Komiza",
+      "toTitle": "Komiža",
       "distanceDirectNm": 4.7,
       "distanceEstimatedNm": 20.0,
       "usesManualSeaRoute": true,
@@ -2660,6 +2660,7 @@
           16.0826
         ]
       ]
-    }
+    },
+    "status": "At anchor"
   }
 ]

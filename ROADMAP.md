@@ -30,3 +30,9 @@
 - Statistics
 - Website export
 - Printable PDF
+
+## v2.3.0 – Contextual Discovery
+- Curated nearby stories tied to actual route stops
+- Strict proximity and evidence filtering
+- Source-backed discovery page, journal cards and voyage-map integration
+- Build-time validation and documented editorial workflow

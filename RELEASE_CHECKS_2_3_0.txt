@@ -1,0 +1,35 @@
+Juno's 7 Journal v2.3.0 — Release checks
+================================================
+
+Build and data validation:
+[PASS] VERSION is 2.3.0
+[PASS] Eight approved source discoveries
+[PASS] Eight published discoveries
+[PASS] All discovery sources use HTTPS
+[PASS] All route indices valid
+[PASS] All linked journal IDs exist
+[PASS] No duplicate discovery IDs
+[PASS] Maximum one discovery per journal entry
+[PASS] Policy has strict stop radii
+[PASS] Underway automatic search disabled
+[PASS] Dashboard reports eight contextual discoveries
+[PASS] Dedicated discoveries page exists in docs
+[PASS] Dedicated discoveries page exists in site
+[PASS] Generated discovery JSON copied to site
+[PASS] Discovery JS copied to site
+[PASS] Home app loads discoveries
+[PASS] Voyage app loads discoveries
+[PASS] index.html navigation includes Discoveries
+[PASS] voyage.html navigation includes Discoveries
+[PASS] about.html navigation includes Discoveries
+[PASS] crew.html navigation includes Discoveries
+[PASS] admin.html navigation includes Discoveries
+[PASS] Site output mirrors docs discovery count
+[PASS] Build fallback updated to 2.3.0
+
+[PASS] tools/contextual_discovery.py --check
+[PASS] tools/build_site.py
+[PASS] JavaScript syntax: app.js, dashboard.js, discoveries.js
+[PASS] Python compilation: build_site.py, contextual_discovery.py, voyage_routing.py
+
+Automated browser screenshot testing was not counted as passed because the container browser policy blocks local pages. Static build, data, syntax and patch-application checks are included instead.

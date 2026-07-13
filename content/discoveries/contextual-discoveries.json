@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "title": "Contextual Discovery",
+  "principle": "One great story beats five interesting facts.",
+  "policy": {
+    "mooredRadiusMetres": 300,
+    "anchoredRadiusMetres": 500,
+    "exceptionalRadiusMetres": 1000,
+    "underwayAutomaticSearch": false,
+    "evidenceOverrides": [
+      "visible-from-yacht",
+      "appears-in-media",
+      "route-passed-feature",
+      "place-defining"
+    ],
+    "editorialRule": "Include a discovery only when it is close, exceptional, visible, or directly connected to Cameron and Sophie's experience. No discovery is better than forced trivia."
+  },
+  "discoveries": [
+    {
+      "id": "kos-neratzia-castle",
+      "approved": true,
+      "routeStopTitle": "Kos",
+      "journalEntryId": "the-beginning",
+      "date": "2026-06-17",
+      "category": "Maritime history",
+      "title": "The season began beside a harbour fortress",
+      "featureName": "Neratzia Castle",
+      "body": "At the entrance to Kos harbour stands Neratzia Castle, the coastal fortress built by the Knights Hospitallers. Its walls reuse stone from the ancient city and the Asklepieion, layering the island’s classical and medieval history beside the place where Cameron and Sophie joined the yacht.",
+      "proximity": "At the entrance to Kos harbour",
+      "distanceMetres": 430,
+      "exceptional": false,
+      "evidence": [
+        "place-defining"
+      ],
+      "whyIncluded": "It is part of the harbour setting where the shared season began and falls within the immediate discovery radius.",
+      "source": {
+        "title": "Castle of the Knights & Phoinikon Street",
+        "publisher": "Kos Island official tourism portal",
+        "url": "https://kos.gr/historical-monuments-and-museums/castle-of-the-knights-and-phoinikon-street"
+      },
+      "distanceApproximate": true
+    },
+    {
+      "id": "cavtat-ancient-epidaurum",
+      "approved": true,
+      "routeStopTitle": "Cavtat Harbour",
+      "journalEntryId": "very-pretty-here",
+      "date": "2026-07-03",
+      "category": "History",
+      "title": "A Roman town beneath the waterfront",
+      "featureName": "Ancient Epidaurum",
+      "body": "Cavtat occupies the site of ancient Epidaurum, an important Roman colony. The harbour that looked so peaceful in the photographs sits within a town whose story reaches back to the ancient Adriatic.",
+      "proximity": "The town itself",
+      "contextualArea": true,
+      "exceptional": true,
+      "evidence": [
+        "place-defining"
+      ],
+      "whyIncluded": "The discovery explains the place they were actually moored in, rather than pointing to a distant attraction.",
+      "source": {
+        "title": "Cavtat – the urban centre of Konavle",
+        "publisher": "Cavtat-Konavle Tourist Board",
+        "url": "https://visit.cavtat-konavle.com/en/cavtat"
+      }
+    },
+    {
+      "id": "polace-late-antique-palace",
+      "approved": true,
+      "routeStopTitle": "Polače, Mljet",
+      "journalEntryId": "black-pearl-mljet",
+      "date": "2026-07-05",
+      "category": "History",
+      "title": "Anchored beside a late Roman palace",
+      "featureName": "Late Antiquity palace at Polače",
+      "body": "Polače takes its name from the palace whose remains still stand within the settlement. The complex was built around the end of the fifth century, so Juno’s 7 was anchored beside one of Mljet’s most remarkable layers of Roman history.",
+      "proximity": "Harbour-side",
+      "distanceMetres": 180,
+      "exceptional": true,
+      "evidence": [
+        "visible-from-yacht"
+      ],
+      "whyIncluded": "The ruins are part of the harbour scene itself and sit beside the anchorage rather than elsewhere on Mljet.",
+      "source": {
+        "title": "Settlements",
+        "publisher": "Mljet National Park",
+        "url": "https://np-mljet.hr/settlements/?lang=en"
+      },
+      "distanceApproximate": true
+    },
+    {
+      "id": "korcula-wind-shaped-streets",
+      "approved": true,
+      "routeStopTitle": "Korčula Port",
+      "date": "2026-07-06",
+      "category": "Architecture",
+      "title": "A town designed around the wind",
+      "featureName": "Korčula Old Town street plan",
+      "body": "Korčula’s old town uses a distinctive herringbone street plan. The angled lanes were designed to draw cooling air through the town while offering protection from stronger prevailing winds.",
+      "proximity": "Beside the port",
+      "distanceMetres": 140,
+      "exceptional": true,
+      "evidence": [
+        "place-defining"
+      ],
+      "whyIncluded": "The street plan shaped the old town immediately beside the yacht’s berth and offers a memorable explanation for what they walked through.",
+      "source": {
+        "title": "Cultural heritage",
+        "publisher": "Korčula Tourist Board",
+        "url": "https://visitkorcula.eu/en/cultural-heritage/"
+      },
+      "distanceApproximate": true
+    },
+    {
+      "id": "pakleni-paklina-resin",
+      "approved": true,
+      "routeStopTitle": "Palmizana Anchorage",
+      "journalEntryId": "pakleni-anchorage",
+      "date": "2026-07-07",
+      "category": "Maritime",
+      "title": "Not named after hell after all",
+      "featureName": "Pakleni Islands maritime name",
+      "body": "The islands’ name comes from paklina, a pine resin once used in shipbuilding to protect and seal wooden vessels. The name is a piece of maritime history, not a warning about the beautiful anchorage.",
+      "proximity": "All around the anchorage",
+      "contextualArea": true,
+      "evidence": [
+        "place-defining"
+      ],
+      "whyIncluded": "It connects the islands directly to traditional boatbuilding and explains a name that is often mistranslated.",
+      "source": {
+        "title": "General information – Pakleni otoci",
+        "publisher": "Pakleni Otoci",
+        "url": "https://pakleniotoci.eu/PakleniIslands/GeneralInfo?lang=en"
+      }
+    },
+    {
+      "id": "split-living-roman-palace",
+      "approved": true,
+      "routeStopTitle": "Split - near Riva waterfront",
+      "journalEntryId": "triumph-in-split",
+      "date": "2026-07-08",
+      "category": "Architecture",
+      "title": "A Roman palace still living as a city",
+      "featureName": "Diocletian’s Palace",
+      "body": "A short walk from the Riva berth, Diocletian’s Palace is not an isolated ruin: homes, lanes, shops and public life still occupy the Roman complex. Split’s historic centre and the palace have been on UNESCO’s World Heritage List since 1979.",
+      "proximity": "A short walk from the Riva berth",
+      "distanceMetres": 730,
+      "exceptional": true,
+      "evidence": [
+        "place-defining"
+      ],
+      "whyIncluded": "It lies outside the ordinary marina radius, but its exceptional significance and direct relationship to the Riva justify the wider search.",
+      "source": {
+        "title": "Split – a city of UNESCO",
+        "publisher": "Split Tourist Board",
+        "url": "https://visitsplit.com/en/2569/split-a-city-of-unesco"
+      },
+      "distanceApproximate": false,
+      "featureLocation": {
+        "lat": 43.508286,
+        "lng": 16.44006
+      }
+    },
+    {
+      "id": "vis-st-jerome-roman-theatre",
+      "approved": true,
+      "routeStopTitle": "Alongside in Vis, Croatia",
+      "journalEntryId": "working-aloft-vis",
+      "date": "2026-07-12",
+      "category": "History",
+      "title": "The church in the photographs stands over a Roman theatre",
+      "featureName": "Church and Monastery of St Jerome, Prirovo",
+      "body": "The Church and Monastery of St Jerome on Prirovo was built in the early sixteenth century over the remains of a Roman theatre. Marble from ancient Issa was reused in the church, and parts of the theatre survive beneath the monastery.",
+      "proximity": "Across the harbour and visible in their photographs",
+      "distanceMetres": 760,
+      "exceptional": true,
+      "evidence": [
+        "visible-from-yacht",
+        "appears-in-media"
+      ],
+      "whyIncluded": "This is the discovery that defined the feature: a landmark present in their own photographs with an extraordinary story beneath it.",
+      "source": {
+        "title": "The Church and Monastery of St Jerome",
+        "publisher": "Vis Tourist Board",
+        "url": "https://www.vis-tourism.com/en/discover/the-church-and-monastery-of-st-jerome/"
+      },
+      "distanceApproximate": true
+    },
+    {
+      "id": "komiza-kalokairi",
+      "approved": true,
+      "routeStopTitle": "Komiža",
+      "journalEntryId": "another-dolphin-to-komiza",
+      "date": "2026-07-13",
+      "category": "Film and culture",
+      "title": "They anchored off Kalokairi",
+      "featureName": "Mamma Mia! Here We Go Again filming locations",
+      "body": "Komiža and other locations on Vis played the imaginary Greek island of Kalokairi in Mamma Mia! Here We Go Again. After the looping passage towards Biševo, Juno’s 7 finished the day anchored off one of the film’s most recognisable settings.",
+      "proximity": "The town facing the anchorage",
+      "contextualArea": true,
+      "exceptional": true,
+      "evidence": [
+        "place-defining",
+        "visible-from-yacht"
+      ],
+      "whyIncluded": "The film connection was already meaningful to the family and is directly tied to the town in front of the yacht.",
+      "source": {
+        "title": "Mamma Mia! Here We Go Again",
+        "publisher": "Filming in Croatia / Croatian Audiovisual Centre",
+        "url": "https://filmingincroatia.hr/movies/mamma-mia-here-we-go-again/"
+      }
+    }
+  ]
+}

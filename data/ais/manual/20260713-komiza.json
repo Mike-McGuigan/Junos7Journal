@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-07-13T12:11:27.592Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "13 Jul - At anchor off Komiza (Mamma Mia 2 Town)",
+    "title": "Komiza",
+    "name": "Komiza",
+    "phase": "current",
+    "lat": 43.044893,
+    "lng": 16.0826,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-07-13T12:11:27.592Z",
+    "status": "At anchor",
+    "title": "Komiza",
+    "area": "Komiza",
+    "position": {
+      "lat": 43.044893,
+      "lng": 16.0826,
+      "precision": "user-confirmed area marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

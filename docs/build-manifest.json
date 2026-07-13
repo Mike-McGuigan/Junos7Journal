@@ -1,7 +1,7 @@
 {
   "version": "2.2.0",
   "release": "Journal Experience",
-  "buildUtc": "2026-07-13 10:55:29 UTC",
+  "buildUtc": "2026-07-13 12:11:32 UTC",
   "fileCount": 134,
   "files": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "path": "about.html",
-      "sizeBytes": 4111,
-      "sha256": "8c38bf5694474ff2199d40f475b2492e6c34c2ce4255ed1aaf5e0b534e85c9f6"
+      "sizeBytes": 4118,
+      "sha256": "d880bdd1dcc91c62d5bdd91e18c2f852da2c9edcfb799ac945a3b196ad2c9dc0"
     },
     {
       "path": "about.html.bak-2-0-0-nav",
@@ -21,23 +21,23 @@
     },
     {
       "path": "admin.html",
-      "sizeBytes": 5494,
-      "sha256": "2e1ba0db323f6d7174d09ce2aac2c2421def0f212fd0e8f985ff64860085c9e5"
+      "sizeBytes": 5544,
+      "sha256": "640c9b0f2554e6634237214a23ba5521afce660ac3cc680d1c530de1a61bdb3a"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 203,
-      "sha256": "fb0aa7a5384fd2d45a018c5f95e94c41bef9be03bc858de5e32c4880dd39f569"
+      "sha256": "c74ae5c0f6d321fea2302e3706981a81fe471935037b043977d833cbc3e5131b"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 23534,
-      "sha256": "10ea00e38f8d88d930c3126e47113cedb23dc7dd20e59cc110151a1c5e29f476"
+      "sizeBytes": 24211,
+      "sha256": "b4c5be0066b35962faf89e8dcc07f1eadb8de4a9adca3dbeb60f9aa411e84dec"
     },
     {
       "path": "crew.html",
-      "sizeBytes": 1995,
-      "sha256": "7c6c2ca2832440c1d5b8a88659e62e80e3861b673139671254ab345c3f4849d6"
+      "sizeBytes": 1999,
+      "sha256": "637044bb55716705130c48b4920c11acaaa410d83f89f6c8562b8396a5f13c05"
     },
     {
       "path": "crew.html.bak-2-0-0-nav",
@@ -46,8 +46,8 @@
     },
     {
       "path": "index.html",
-      "sizeBytes": 4445,
-      "sha256": "df0ae4cd35ad000e286872f4c875f80fbeb403b9019b04b2e0ce116aa1f677bf"
+      "sizeBytes": 4506,
+      "sha256": "1ec5c48819e06526eb4e1ed3310b97f6f22b2390a60dbd11012f5067f3d80587"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -91,23 +91,23 @@
     },
     {
       "path": "route.html",
-      "sizeBytes": 445,
-      "sha256": "09a039d6641e36526a5984ba26a7f579e00a423a1c58b07f06a03b40c1d5df9d"
+      "sizeBytes": 446,
+      "sha256": "80ccd2bc30b24f155c32a503d482240bd678831cc11e22464964dc94cc0e458d"
     },
     {
       "path": "site.webmanifest",
-      "sizeBytes": 286,
-      "sha256": "8e5494307aae5e790bb112d14fa2a0cabfb24f8906cd27cdc4e8b310753e87ef"
+      "sizeBytes": 297,
+      "sha256": "f1a8df5d929b3c87849605887673b358af4bf7d94f567e030c720b3fcff0bd82"
     },
     {
       "path": "timeline.html",
-      "sizeBytes": 452,
-      "sha256": "04e6db8b29bef956c4aa241a611c458c6148800277705ef6f4eb4cafe2dd6d96"
+      "sizeBytes": 453,
+      "sha256": "e3cd762f92a5c2d6b4c24e1c33eb3d1b47922375a316f4238358e9ae891afa74"
     },
     {
       "path": "voyage.html",
-      "sizeBytes": 2053,
-      "sha256": "b2f3b9c480942a6de8f56a9f471ebc190f9393cfe681d69395e2b772cc0fca83"
+      "sizeBytes": 2068,
+      "sha256": "bcddec4770d63727dbd75751dfadcee8ec0a22b9f4c9ddf928f1f651c5e0d6ac"
     },
     {
       "path": "voyage.html.bak-1-2-0-dashboard-nav",
@@ -126,8 +126,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1758,
-      "sha256": "1102b7fa10b4eff7d2a9a2630cf5c795371cefd16d87edc52f4326bb594b039d"
+      "sizeBytes": 1699,
+      "sha256": "d609f31260d42f8cc00c44554757c7cac220d590ae2dd84dcca6277f344e1298"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -166,8 +166,8 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 1680,
-      "sha256": "92675306f3de46b2518b61e653621614558aa14be1767e7e47867c1d5bd8f3b0"
+      "sizeBytes": 1758,
+      "sha256": "1102b7fa10b4eff7d2a9a2630cf5c795371cefd16d87edc52f4326bb594b039d"
     },
     {
       "path": "data/dashboard.json.bak-geo-2",
@@ -181,8 +181,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 106776,
-      "sha256": "8ce776d6ac0be4bb431b52f0f19d31915daf7e79dde270567a56889003c6d987"
+      "sizeBytes": 110379,
+      "sha256": "6605c40066230e312773b55c86c0f97106c2c74a0e0331c5037c2f5fbabc909a"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -206,8 +206,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 15791,
-      "sha256": "15bedda74aefc6c1047c4ef30e514eeea248f7c2cabcc481fae62dff8b736852"
+      "sizeBytes": 16209,
+      "sha256": "3a973b9ae451aeee64cfad1097e96dd5b6881c17d22532d77d29fed20f002fc0"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 58566,
-      "sha256": "c6fe2e91d42398087b4b0649b176cd11aad77040b5768d03d76d9eea55ebbb51"
+      "sizeBytes": 59895,
+      "sha256": "6e6d9f045bfd79b619743e6e16cc3659eb3752b90f607d243fcf918551a99b9c"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -256,8 +256,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 54257,
-      "sha256": "d159b31f1d948a708b840ef5b133d5c1dd5a064d400f60bf811c845f2bfb8fa7"
+      "sizeBytes": 58566,
+      "sha256": "c6fe2e91d42398087b4b0649b176cd11aad77040b5768d03d76d9eea55ebbb51"
     },
     {
       "path": "data/route.json.bak-geo-2",
@@ -277,7 +277,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 203,
-      "sha256": "fb0aa7a5384fd2d45a018c5f95e94c41bef9be03bc858de5e32c4880dd39f569"
+      "sha256": "c74ae5c0f6d321fea2302e3706981a81fe471935037b043977d833cbc3e5131b"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -321,8 +321,8 @@
     },
     {
       "path": "data/version.json.bak-geo-1",
-      "sizeBytes": 201,
-      "sha256": "939b819fc9587182205e6faee2aca58e2f9e8cab616c357bddd8977f1fb1093a"
+      "sizeBytes": 203,
+      "sha256": "fb0aa7a5384fd2d45a018c5f95e94c41bef9be03bc858de5e32c4880dd39f569"
     },
     {
       "path": "data/version.json.bak-geo-2",
@@ -626,8 +626,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 12057,
-      "sha256": "c30ba0ae8fc8539177206ca0dc447776e95603c5e4f358dd34b0c2831c424a1f"
+      "sizeBytes": 12086,
+      "sha256": "bc7f71ea0dd7b306f0506c8ef7524364177a342eabe1b09d3214febfa2a200a5"
     },
     {
       "path": "assets/css/version.css",
@@ -636,8 +636,8 @@
     },
     {
       "path": "assets/icons/j7-mark.svg",
-      "sizeBytes": 743,
-      "sha256": "d6aab318b5535376b1f6aaefabceb027b1f18f0db36f79c12754aba5f58af953"
+      "sizeBytes": 755,
+      "sha256": "7c7bf99ad8f219e07996ef4ffaa68bf26b7fd26103d8af59d1f3aa94a7746db3"
     },
     {
       "path": "assets/images/.gitkeep",
@@ -651,13 +651,13 @@
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 6758,
-      "sha256": "afc5e5b5dc83596efef2ec824c4ed5682bd7cfd3e237b59163920121e424117e"
+      "sizeBytes": 6774,
+      "sha256": "8d660336c0c535b2e0f9721a8dade8f34965d29167de56f3e244000dd6a421ff"
     },
     {
       "path": "assets/js/dashboard.js",
-      "sizeBytes": 6964,
-      "sha256": "8ab7e1c95342a3b425015decc7d13cb01fe42606f3d3074cedc4058645aa8665"
+      "sizeBytes": 6979,
+      "sha256": "f95c25c32e9872266b1ad2d8b980ac7e8bcbdec2e2619868e2f25615d5da08ea"
     },
     {
       "path": "assets/js/dashboard.js.bak-0-7-3",

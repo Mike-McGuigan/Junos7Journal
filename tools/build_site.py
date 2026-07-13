@@ -158,7 +158,7 @@ def main() -> None:
     if not DOCS.exists():
         raise SystemExit("docs/ does not exist. Nothing to build.")
 
-    version = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "2.2.1"
+    version = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "2.2.2"
     build_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
     route_stats = enrich_route_file(DOCS / "data" / "route.json", GEOMETRY_FILE)

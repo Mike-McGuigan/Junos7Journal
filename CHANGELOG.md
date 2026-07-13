@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.2.2 - Journal Experience Polish
+
+- Identified Kos immediately in the opening chapter and changed its displayed location to Kos, Greece.
+- Rebuilt the supplied J7 logo with the exact site navy and removed white corner/rim artefacts.
+- Removed gallery-card ivory gaps and corner slivers by using a complete navy card surface.
+- Increased gallery title contrast and strengthened description weight and readability.
+- Restored the lightweight changed-files patch workflow for point releases.
+
 ## 2.2.1 - Journal Experience Patch
 
 - Replaced the incorrect mark with the approved J7 yacht logo supplied by Mike, including the ivory monogram, gold bow accent and wake.

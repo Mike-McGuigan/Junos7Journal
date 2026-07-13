@@ -29,7 +29,14 @@
     "date": "2026-06-20",
     "url": "media/photos/2026-06-20-sundeck-black.jpg",
     "title": "Giving the sun deck black some love",
-    "caption": "Deck work with the Greek islands beyond."
+    "caption": "Deck work with the Greek islands beyond.",
+    "originalUrl": "media/photos/2026-06-20-sundeck-black.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-06-20-sundeck-black-enhanced.jpg",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
   },
   {
     "id": "junos-lipsi",
@@ -134,5 +141,278 @@
     "url": "media/videos/2026-06-30-cam-towing-toys.mp4",
     "title": "Cam on a mission",
     "caption": "Cameron towing the yacht's inflatable water toys from the tender during livelier conditions. No-one was on the toys at the time."
+  },
+  {
+    "id": "underway-cavtat",
+    "type": "photo",
+    "date": "2026-07-02",
+    "url": "media/photos/2026-07-02-underway-cavtat.jpg",
+    "title": "Underway to Cavtat",
+    "caption": "Looking aft during the passage from Corfu to Cavtat, with SETE following faithfully in Juno's 7 wake.",
+    "originalUrl": "media/photos/2026-07-02-underway-cavtat.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-02-underway-cavtat-enhanced.jpg",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "cavtat-waterfront",
+    "type": "photo",
+    "date": "2026-07-03",
+    "url": "media/photos/2026-07-04-cavtat-waterfront.jpg",
+    "title": "Cavtat waterfront",
+    "caption": "Clear Adriatic water beside Cavtat's stone waterfront, with the shaded promenade and Croatian hills beyond."
+  },
+  {
+    "id": "cavtat-bay",
+    "type": "photo",
+    "date": "2026-07-03",
+    "url": "media/photos/2026-07-04-cavtat-bay.jpg",
+    "title": "Moored in Cavtat",
+    "caption": "Looking across Cavtat Bay towards Juno's 7, lying off the waterfront beneath the mountains of southern Croatia."
+  },
+  {
+    "id": "cameron-working-aloft-vis",
+    "type": "photo",
+    "date": "2026-07-12",
+    "url": "media/photos/2026-07-12-cameron-working-aloft-portrait.jpg",
+    "originalUrl": "media/photos/2026-07-12-cameron-working-aloft-portrait.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-12-cameron-working-aloft-portrait-enhanced.jpg",
+    "title": "Ready for the climb",
+    "caption": "Cameron in full working-at-height gear in Vis harbour, with the Prirovo waterfront behind him.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "black-pearl-polace-photo",
+    "type": "photo",
+    "date": "2026-07-05",
+    "url": "media/photos/2026-07-05-black-pearl-polace.jpg",
+    "originalUrl": "media/photos/2026-07-05-black-pearl-polace.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-05-black-pearl-polace-enhanced.jpg",
+    "title": "Black Pearl at Polače",
+    "caption": "Black Pearl’s unmistakable three-masted silhouette beyond Juno’s 7 at Polače — prompting Sophie’s perfectly concise verdict: “She’s a biggie!”",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "pakleni-approach-bow",
+    "type": "photo",
+    "date": "2026-07-07",
+    "url": "media/photos/2026-07-07-pakleni-approach-bow.jpg",
+    "originalUrl": "media/photos/2026-07-07-pakleni-approach-bow.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-07-pakleni-approach-bow-enhanced.jpg",
+    "title": "Approaching the Pakleni Islands",
+    "caption": "The Pakleni Islands opening ahead from the bow as Juno’s 7 came in towards the anchorage.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "pakleni-anchorage-view",
+    "type": "photo",
+    "date": "2026-07-07",
+    "url": "media/photos/2026-07-07-pakleni-anchorage-view.jpg",
+    "originalUrl": "media/photos/2026-07-07-pakleni-anchorage-view.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-07-pakleni-anchorage-view-enhanced.jpg",
+    "title": "Clear water off Hvar",
+    "caption": "A second view across the calm blue water while approaching the sheltered Pakleni anchorage.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "peaceful-night-shift-video",
+    "type": "video",
+    "date": "2026-07-08",
+    "url": "media/videos/2026-07-08-peaceful-night-shift.mp4",
+    "title": "Peaceful night shift",
+    "caption": "The sea glowing turquoise beneath Juno’s 7 during Cameron’s early-hours watch."
+  },
+  {
+    "id": "milna-aft-deck",
+    "type": "photo",
+    "date": "2026-07-10",
+    "url": "media/photos/2026-07-10-milna-aft-deck.jpg",
+    "originalUrl": "media/photos/2026-07-10-milna-aft-deck.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-10-milna-aft-deck-enhanced.jpg",
+    "title": "The view from the aft deck",
+    "caption": "A quiet view from Juno’s 7 while she lay at anchor off Milna.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "milna-anchorage",
+    "type": "photo",
+    "date": "2026-07-10",
+    "url": "media/photos/2026-07-10-milna-anchorage.jpg",
+    "originalUrl": "media/photos/2026-07-10-milna-anchorage.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-10-milna-anchorage-enhanced.jpg",
+    "title": "At anchor off Milna",
+    "caption": "The Croatian shore across the water from Juno’s 7 during the Milna anchorage.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "milna-bay",
+    "type": "photo",
+    "date": "2026-07-10",
+    "url": "media/photos/2026-07-10-milna-bay.jpg",
+    "originalUrl": "media/photos/2026-07-10-milna-bay.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-10-milna-bay-enhanced.jpg",
+    "title": "A quiet Croatian anchorage",
+    "caption": "Calm blue water and a sheltered shoreline near Milna.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "milna-sun-on-water",
+    "type": "photo",
+    "date": "2026-07-10",
+    "url": "media/photos/2026-07-10-milna-sun-on-water.jpg",
+    "originalUrl": "media/photos/2026-07-10-milna-sun-on-water.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-10-milna-sun-on-water-enhanced.jpg",
+    "title": "Sunlight off Milna",
+    "caption": "The afternoon sun stretching across the water beside the yacht.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "dolphins-from-deck",
+    "type": "video",
+    "date": "2026-07-10",
+    "url": "media/videos/2026-07-10-dolphins-from-deck.mp4",
+    "title": "A dolphin breach",
+    "caption": "Cameron’s footage caught a lovely dolphin breach beside the yacht while Juno’s 7 was anchored near Milna."
+  },
+  {
+    "id": "dolphin-drone-footage",
+    "type": "video",
+    "date": "2026-07-10",
+    "url": "media/videos/2026-07-10-dolphin-drone-footage.mp4",
+    "title": "Dolphins from above",
+    "caption": "The captain’s drone follows the dolphins from above — the best view of the encounter."
+  },
+  {
+    "id": "teak-dent-repair",
+    "type": "photo",
+    "date": "2026-07-11",
+    "url": "media/photos/2026-07-11-teak-dent-repair.jpg",
+    "originalUrl": "media/photos/2026-07-11-teak-dent-repair.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-11-teak-dent-repair-enhanced.jpg",
+    "title": "Getting the dents out",
+    "caption": "An iron over a damp towel helps steam dents from the teak after a heavy fender hook was dropped onto the deck.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "vis-sunset-ash-1",
+    "type": "photo",
+    "date": "2026-07-11",
+    "url": "media/photos/2026-07-11-vis-sunset-ash-1.jpg",
+    "originalUrl": "media/photos/2026-07-11-vis-sunset-ash-1.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-11-vis-sunset-ash-1-enhanced.jpg",
+    "title": "Sunset over Vis",
+    "caption": "Evening settling over Vis on the day fine ash from the Korčula wildfire began reaching the yacht.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "vis-sunset-ash-2",
+    "type": "photo",
+    "date": "2026-07-11",
+    "url": "media/photos/2026-07-11-vis-sunset-ash-2.jpg",
+    "originalUrl": "media/photos/2026-07-11-vis-sunset-ash-2.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-11-vis-sunset-ash-2-enhanced.jpg",
+    "title": "A smoky Adriatic sky",
+    "caption": "A second sunset view from Juno’s 7 while ash drifted across the Adriatic from the Korčula wildfire.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "rainy-start-to-shift",
+    "type": "video",
+    "date": "2026-07-12",
+    "url": "media/videos/2026-07-12-rainy-start-to-shift.mp4",
+    "title": "A wet start in Vis",
+    "caption": "Cameron’s 6am view: steady rain and a noticeably choppy sea at the start of his shift."
+  },
+  {
+    "id": "vis-weather-cleared",
+    "type": "photo",
+    "date": "2026-07-12",
+    "url": "media/photos/2026-07-12-vis-weather-cleared.jpg",
+    "originalUrl": "media/photos/2026-07-12-vis-weather-cleared.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-12-vis-weather-cleared-enhanced.jpg",
+    "title": "Much nicer",
+    "caption": "Blue skies returning over Vis harbour later that morning — “Much nicer hahahaa.”",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "cameron-working-aloft-side",
+    "type": "photo",
+    "date": "2026-07-12",
+    "url": "media/photos/2026-07-12-cameron-working-aloft-side.jpg",
+    "originalUrl": "media/photos/2026-07-12-cameron-working-aloft-side.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-12-cameron-working-aloft-side-enhanced.jpg",
+    "title": "Working over the side",
+    "caption": "Cameron suspended safely over the side of Juno’s 7 during deck work in Vis.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "afternoon-off-feet",
+    "type": "photo",
+    "date": "2026-07-12",
+    "url": "media/photos/2026-07-12-afternoon-off-feet.jpg",
+    "originalUrl": "media/photos/2026-07-12-afternoon-off-feet.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-12-afternoon-off-feet-enhanced.jpg",
+    "title": "Afternoon off",
+    "caption": "Cameron and Sophie cooling their feet in the clear Adriatic during Cameron’s afternoon off.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "gentle upscale, contrast recovery and sharpening",
+      "originalPreserved": true
+    }
   }
 ]

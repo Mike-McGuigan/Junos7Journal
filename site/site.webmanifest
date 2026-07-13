@@ -1,0 +1,11 @@
+{
+  "name": "Juno's 7 Mediterranean Journal",
+  "short_name": "Juno's 7",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#061928",
+  "theme_color": "#061928",
+  "icons": [
+    {"src":"assets/icons/j7-mark.svg","sizes":"any","type":"image/svg+xml"}
+  ]
+}

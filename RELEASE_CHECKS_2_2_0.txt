@@ -1,0 +1,35 @@
+Juno's 7 Journal v2.2.0 — Corrected release checks
+
+Build
+- tools/build_site.py completed successfully
+- Version: 2.2.0
+- Release: Journal Experience
+- docs/ rebuilt cleanly into site/
+
+Data
+- 35 deduplicated route stops
+- Latest/current stop: Alongside in Vis, Croatia
+- 32 manual sea-aware route legs
+- Estimated route distance: 1048.9 NM
+- 22 journal chapters
+- 38 indexed media items (28 photos, 10 videos)
+
+Recent media reconciliation
+- All 13 photographs and 4 videos from Re-provide images.zip are present
+- The separately supplied working-aloft portrait is present
+- Black Pearl, Pakleni, night shift, Milna dolphins, teak repair, Vis sunset/ash,
+  changing weather, working aloft and the afternoon off are linked to chapters
+- Triumph remains intentionally text-only because the bundle contained no
+  matching Triumph photograph
+
+Validation
+- All JSON files parse successfully
+- All 38 indexed media items are referenced by the journal
+- All original/enhanced media paths resolve
+- All re-provided source items map to stable descriptive output filenames
+- Route geometry indexes are valid
+- Exactly one current route marker exists
+- Local HTML asset links resolve
+- JavaScript syntax checks pass
+- Python tools compile successfully
+- ZIP archive integrity and SHA-256 verified after packaging

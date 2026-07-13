@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
-  "release": "Geographic Intelligence",
-  "buildUtc": "2026-07-11 18:20:51 UTC",
-  "fileCount": 98,
+  "version": "2.2.0",
+  "release": "Journal Experience",
+  "buildUtc": "2026-07-13 10:55:29 UTC",
+  "fileCount": 134,
   "files": [
     {
       "path": ".gitkeep",
@@ -11,58 +11,58 @@
     },
     {
       "path": "about.html",
+      "sizeBytes": 4111,
+      "sha256": "8c38bf5694474ff2199d40f475b2492e6c34c2ce4255ed1aaf5e0b534e85c9f6"
+    },
+    {
+      "path": "about.html.bak-2-0-0-nav",
       "sizeBytes": 3953,
       "sha256": "8722b09c2373db0f15ce7d1d2377ab358fa76c3aaa7155f86f3ad08b08298fa5"
     },
     {
-      "path": "about.html.bak-2-0-0-nav",
-      "sizeBytes": 3960,
-      "sha256": "2f527c6958cf1ef280d5d25a0079bebbf5a4ed6829826129fe2633f24da73fb3"
-    },
-    {
       "path": "admin.html",
-      "sizeBytes": 5430,
-      "sha256": "c5e3da7c788d6216c35994bf387cb1253629f2eb507afc45df45dc1ccef7487d"
+      "sizeBytes": 5494,
+      "sha256": "2e1ba0db323f6d7174d09ce2aac2c2421def0f212fd0e8f985ff64860085c9e5"
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 208,
-      "sha256": "9322a68b76b4f4347d2bdd37fcae6ea7e269139a3cf252548f2c819d1cf770c8"
+      "sizeBytes": 203,
+      "sha256": "fb0aa7a5384fd2d45a018c5f95e94c41bef9be03bc858de5e32c4880dd39f569"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 17056,
-      "sha256": "fef93e7bf1ce63c33f6fdee8fba3a3f87550e15101d886b18aa9c89f28bb5e40"
+      "sizeBytes": 23534,
+      "sha256": "10ea00e38f8d88d930c3126e47113cedb23dc7dd20e59cc110151a1c5e29f476"
     },
     {
       "path": "crew.html",
+      "sizeBytes": 1995,
+      "sha256": "7c6c2ca2832440c1d5b8a88659e62e80e3861b673139671254ab345c3f4849d6"
+    },
+    {
+      "path": "crew.html.bak-2-0-0-nav",
       "sizeBytes": 1837,
       "sha256": "4dfb98088de9f8fab899b746ad2d4f9c57a1345cae6b852b89658193af871f68"
     },
     {
-      "path": "crew.html.bak-2-0-0-nav",
-      "sizeBytes": 1841,
-      "sha256": "ab899d7e9e96e0e6c6088feca424f9a4287750c3c5b8166bdf064907424ca099"
-    },
-    {
       "path": "index.html",
-      "sizeBytes": 2884,
-      "sha256": "3cc664967b15ab101d04dee9a83e9ec572fa75a20a5d6fb4f9e3b75eaba1a132"
+      "sizeBytes": 4445,
+      "sha256": "df0ae4cd35ad000e286872f4c875f80fbeb403b9019b04b2e0ce116aa1f677bf"
     },
     {
       "path": "index.html.bak-0-7-1",
-      "sizeBytes": 3082,
-      "sha256": "8cb3c82b96e4264db98ca166291902e35b79a93d56d47e060043f44e41371f55"
+      "sizeBytes": 3072,
+      "sha256": "fe11de55487cf5dcd958ca78d26ed403179c288e064f9342af619b35aeb58a02"
     },
     {
       "path": "index.html.bak-0-7-2",
-      "sizeBytes": 3391,
-      "sha256": "a8adbf989d7acbfb67840bc84454df529fd67c972f17353c9ddf775a3bf9e5f5"
+      "sizeBytes": 3373,
+      "sha256": "d149fab3e20539e816fcf83513c3238585ebe1138efa5ca5f449d97251e3cadd"
     },
     {
       "path": "index.html.bak-0-7-5",
-      "sizeBytes": 4014,
-      "sha256": "fd9ddd9e8297bf12e168046c95b0a91b9b58303fb441a152474519b0b1b09813"
+      "sizeBytes": 3981,
+      "sha256": "4fdfd5f4d963edf539368f3c88b4a66f1621b878c31a06a245fb466b14a131ce"
     },
     {
       "path": "index.html.bak-1-0-0-nav",
@@ -86,23 +86,28 @@
     },
     {
       "path": "index.html.bak-before-0-7-6-restore",
-      "sizeBytes": 2068,
-      "sha256": "aa47d11cef650e6d3edc3a999d3f08f7fb2d493608e9887c3cb44337d4aa0c47"
+      "sizeBytes": 2051,
+      "sha256": "f64a4b3de01c63e6cd7528acb2dd28aba9c0576608a9e521298220686a04c2bc"
     },
     {
       "path": "route.html",
-      "sizeBytes": 1061,
-      "sha256": "5b6b9a4c34b2811eb57646e3716383452700fdefb3b5650a7925ab7a8cb6ed47"
+      "sizeBytes": 445,
+      "sha256": "09a039d6641e36526a5984ba26a7f579e00a423a1c58b07f06a03b40c1d5df9d"
+    },
+    {
+      "path": "site.webmanifest",
+      "sizeBytes": 286,
+      "sha256": "8e5494307aae5e790bb112d14fa2a0cabfb24f8906cd27cdc4e8b310753e87ef"
     },
     {
       "path": "timeline.html",
-      "sizeBytes": 1495,
-      "sha256": "5f374eb5e1f1b2722ab818f90b982dc8ce3825177b76ea2f5c5080798e359966"
+      "sizeBytes": 452,
+      "sha256": "04e6db8b29bef956c4aa241a611c458c6148800277705ef6f4eb4cafe2dd6d96"
     },
     {
       "path": "voyage.html",
-      "sizeBytes": 1005,
-      "sha256": "61d83c235dd357852117b34d063e0765c943b3c6fe9f9f227c6967491eac6468"
+      "sizeBytes": 2053,
+      "sha256": "b2f3b9c480942a6de8f56a9f471ebc190f9393cfe681d69395e2b772cc0fca83"
     },
     {
       "path": "voyage.html.bak-1-2-0-dashboard-nav",
@@ -121,53 +126,53 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1769,
-      "sha256": "0aca6fb2f0816a86b7652a0e96b61524b734f9d17ea44b5805bf89b532409b25"
+      "sizeBytes": 1758,
+      "sha256": "1102b7fa10b4eff7d2a9a2630cf5c795371cefd16d87edc52f4326bb594b039d"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
-      "sizeBytes": 486,
-      "sha256": "2fda1e1d54a5b75b059b7c20603b9492d4dab3e162f32e83f0566675751e7f6b"
+      "sizeBytes": 468,
+      "sha256": "8df5e9707150df81c1ceeb881701141cbcb5ad5052cab818dcc7062acb166a9f"
     },
     {
       "path": "data/dashboard.json.bak-1-0-3",
-      "sizeBytes": 878,
-      "sha256": "0e2aa8f958ba59e5f3def5f50bd1e38d3d882e31b3370ed8472346e8892435cd"
+      "sizeBytes": 852,
+      "sha256": "5cca5acd3074ad093c61710ff998eb2641c43966b3c00bfdf5b7a79b2a619321"
     },
     {
       "path": "data/dashboard.json.bak-1-0-5",
-      "sizeBytes": 965,
-      "sha256": "7df9a4dea9f921a32cc38e3be1d45e0413110859da605064648e534bd445cdbf"
+      "sizeBytes": 938,
+      "sha256": "4fd11a6290eadf13dae571fc1f2f4782397ca47345c59c8892dc497f85d5b62e"
     },
     {
       "path": "data/dashboard.json.bak-1-2-0",
-      "sizeBytes": 933,
-      "sha256": "c87c675a4f5a4ae6fadfe215684c2bc27a98bfbeefc4c042f0c65724922654ff"
+      "sizeBytes": 906,
+      "sha256": "7b655a13224a5e4e5477b07d41a9d5e0346e9009fe01f982e496da8304011ded"
     },
     {
       "path": "data/dashboard.json.bak-1-2-1-current-fix",
-      "sizeBytes": 887,
-      "sha256": "5ae311dc9a424db7fa8c65931ef63d24b424db62ade6d0be0cc8681b5b938c6b"
+      "sizeBytes": 860,
+      "sha256": "830ff6d72fd0d12f083d02403840309df6e488889f5fc0603e899ef9cd82beb4"
     },
     {
       "path": "data/dashboard.json.bak-2-0-0",
-      "sizeBytes": 734,
-      "sha256": "e72e448f2927cc7dadd48ab20c1ff075b44f665cfbbc7779db0b31c6e1061dc3"
+      "sizeBytes": 712,
+      "sha256": "e412d6e56b9edb01866e0a027961caf7e2e0e611fd8cdc4b30a8d739b61a84fb"
     },
     {
       "path": "data/dashboard.json.bak-2-0-1",
-      "sizeBytes": 758,
-      "sha256": "635e8932aabf3e038a0a0c5eb8b971982a8002acf6b1e4dc1a0d90610c614868"
+      "sizeBytes": 736,
+      "sha256": "aab1ccdeffc1144cccd498dfb070836bb10870fe82bbfd62ac3907971f0dd8e3"
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 1730,
-      "sha256": "726b8e129919c42df4b4fe497b775d7672243ce565275f047620516cb5992530"
+      "sizeBytes": 1680,
+      "sha256": "92675306f3de46b2518b61e653621614558aa14be1767e7e47867c1d5bd8f3b0"
     },
     {
       "path": "data/dashboard.json.bak-geo-2",
-      "sizeBytes": 2157,
-      "sha256": "70cf5bd84e936206e5c80b659e076ba6fdb4ff4249494f6e8967921ccb4b01b6"
+      "sizeBytes": 2116,
+      "sha256": "ea3fbda15286519a43535bb670ce02ef24ecdaf4f9d60b7e03b7e3f5828a49bb"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,23 +181,23 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 15110,
-      "sha256": "7666f1e7d7a0154b70b9224684d9cff3415ee45fb7ba5db962862e4237dfb5f2"
+      "sizeBytes": 106776,
+      "sha256": "8ce776d6ac0be4bb431b52f0f19d31915daf7e79dde270567a56889003c6d987"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
-      "sizeBytes": 9617,
-      "sha256": "21a5cb3125a8074f0f8eea3c3ea6eed8670d7f109d46e16edd51b6677027a8a1"
+      "sizeBytes": 9302,
+      "sha256": "58725bf20c5df5c1edbbf0f44b21079400639c53931b7c94941458a002a58b75"
     },
     {
       "path": "data/journal.json.bak-0-7-5",
-      "sizeBytes": 9639,
-      "sha256": "3afe57af47ced6c4bd73b9286c00772f245e6740427ea6ada33c5f6a7546fa88"
+      "sizeBytes": 9324,
+      "sha256": "13f01db05ee95d792170b674066e9437d0951475c69fe81e739dd6198a62f568"
     },
     {
       "path": "data/journal.json.bak-1-0-1",
-      "sizeBytes": 11367,
-      "sha256": "cd18d5e2e2e022b15a03841b87908e8c981b95f833b3cfc68fae2321edaceec0"
+      "sizeBytes": 10993,
+      "sha256": "bf17931f0c7872567bfc90fb5faae3dfb7e9cbf0ee615114a349c92eeda023a0"
     },
     {
       "path": "data/media-update-2026-06-30-cam-on-a-mission.json",
@@ -201,63 +206,63 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 4513,
-      "sha256": "d8262ab18ee37e025caa0d55ad0b95ce03ac03eb64bd685285cb330489e1fd07"
+      "sizeBytes": 15791,
+      "sha256": "15bedda74aefc6c1047c4ef30e514eeea248f7c2cabcc481fae62dff8b736852"
     },
     {
       "path": "data/media.json.bak-1-0-1",
-      "sizeBytes": 4183,
-      "sha256": "cca345b44c0162ef21e6b79858c495843262c67cee3d7f82c4a39687f480fe3b"
+      "sizeBytes": 4054,
+      "sha256": "93df0c5bcf11a7dc2c2b253bcfdad96b30685b1df0afc58b359672dda5ce79c9"
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 58155,
-      "sha256": "94e519cfd96612df5fe6eebc88e0591498649dcc5821ba79a5cbe10cabcfc5f0"
+      "sizeBytes": 58566,
+      "sha256": "c6fe2e91d42398087b4b0649b176cd11aad77040b5768d03d76d9eea55ebbb51"
     },
     {
       "path": "data/route.json.bak-1-0-2",
-      "sizeBytes": 2073,
-      "sha256": "f570c59fa1bfc24b40b5b53c4adfb03aa28e95f7a451eb85934ef664106e378a"
+      "sizeBytes": 1960,
+      "sha256": "78149916af299057f5153f4d79744d494df7177e57cb99f76cdebe43e9759b23"
     },
     {
       "path": "data/route.json.bak-1-0-3",
-      "sizeBytes": 2506,
-      "sha256": "806f396cfe2ed8278752b77c5426281d2097174acbd6248e55e6592e866d538b"
+      "sizeBytes": 2385,
+      "sha256": "4e6dcad7ce54dbe41b9c98017d5154db758328ad3942314abe635466651ca0b2"
     },
     {
       "path": "data/route.json.bak-1-0-5",
-      "sizeBytes": 2369,
-      "sha256": "06e11dfb9b39320852380d412c82da121b38c222b22e6cb0b18cabde8bc27206"
+      "sizeBytes": 2248,
+      "sha256": "d7da0dd58a097eae85606d7b86d2587be47b32d10ac12148e2f065b5af55efbd"
     },
     {
       "path": "data/route.json.bak-1-2-0",
-      "sizeBytes": 2646,
-      "sha256": "7292cca4fe7935c2f89639609934a4dd88873258b68d594a6782fc48d6abed35"
+      "sizeBytes": 2517,
+      "sha256": "f31eb99a0f71bde5613339f881c047ebbf91ed1366b3d6d999f2ed944046c4fb"
     },
     {
       "path": "data/route.json.bak-1-2-1-current-fix",
-      "sizeBytes": 2923,
-      "sha256": "faaf63453b69b1d9f372fdc66b7ff1497446b078da2656c195dc37e001bed1fc"
+      "sizeBytes": 2786,
+      "sha256": "48ce647f49ff0a84116355ab164b86772cb700702e5877a7447c330e9266f529"
     },
     {
       "path": "data/route.json.bak-2-0-0",
-      "sizeBytes": 2339,
-      "sha256": "62358a90adbe1febb941670b803e32feb4cfb59c76225462b222e41eb9e5b707"
+      "sizeBytes": 2212,
+      "sha256": "5170084d11022c2b0f97e63616a7d7851d0734a2e827af8720ce30535c9dcf0f"
     },
     {
       "path": "data/route.json.bak-2-0-1",
-      "sizeBytes": 2339,
-      "sha256": "62358a90adbe1febb941670b803e32feb4cfb59c76225462b222e41eb9e5b707"
+      "sizeBytes": 2212,
+      "sha256": "5170084d11022c2b0f97e63616a7d7851d0734a2e827af8720ce30535c9dcf0f"
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 56750,
-      "sha256": "c3dd83b7918b908c5a601120baa15f15e81b9ef254d4737b31cffb42dc1f5629"
+      "sizeBytes": 54257,
+      "sha256": "d159b31f1d948a708b840ef5b133d5c1dd5a064d400f60bf811c845f2bfb8fa7"
     },
     {
       "path": "data/route.json.bak-geo-2",
-      "sizeBytes": 9138,
-      "sha256": "d9fb9e6bd4bc6457c46a775031ef8ed71f8ad5fc40a15ae260f3f0325d6bd3c4"
+      "sizeBytes": 8859,
+      "sha256": "428e042d898287df6e1a74bd357835b7706e53f5f3d4c3b994697af0eb27731b"
     },
     {
       "path": "data/site.json",
@@ -266,63 +271,63 @@
     },
     {
       "path": "data/tracker.json",
-      "sizeBytes": 1025,
-      "sha256": "0d2d2084165a546534d28f0f36b0ce40ecf85c5adb1a3759fa966787d1d93ae5"
+      "sizeBytes": 992,
+      "sha256": "bd72c45920ca2fe42ae0589e3de84646cf7974c472adf6a7be086fe02b4953a5"
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 208,
-      "sha256": "9322a68b76b4f4347d2bdd37fcae6ea7e269139a3cf252548f2c819d1cf770c8"
+      "sizeBytes": 203,
+      "sha256": "fb0aa7a5384fd2d45a018c5f95e94c41bef9be03bc858de5e32c4880dd39f569"
     },
     {
       "path": "data/version.json.bak-1-0-1",
-      "sizeBytes": 155,
-      "sha256": "5764f17f10d457ba2247fe6b961ef75ddcd004e716ad9610096c3877a65729d0"
+      "sizeBytes": 150,
+      "sha256": "387fb21b8a750a71a5f98cc5e22b8389172f23e0fc2b068eb0d60b39c6593451"
     },
     {
       "path": "data/version.json.bak-1-0-2",
-      "sizeBytes": 153,
-      "sha256": "8206b68780b5bd51a7d3b07186556a32d95c19509cd1d6abee97713a9675ecbd"
+      "sizeBytes": 148,
+      "sha256": "4bbc703097834db577666fe903704b5bcb5dbb1a0ec20a819892cf8847102600"
     },
     {
       "path": "data/version.json.bak-1-0-3",
-      "sizeBytes": 156,
-      "sha256": "17d21230944a136b2b7566800efad795290bd0a70614a9137c6d775de6a17638"
+      "sizeBytes": 151,
+      "sha256": "cdf3ab9002fd430b6f82d112071dd0a59570a4df4367398d3c10338f9b1b1702"
     },
     {
       "path": "data/version.json.bak-1-0-5",
-      "sizeBytes": 158,
-      "sha256": "417be75accda6d007ba2f3fae380ee0ab8016f0c2bd4483bb6917026d7ec370c"
+      "sizeBytes": 153,
+      "sha256": "9e92e7cf9c0e4cd3a4e46158b645d31a385f42361418ec7b84c5df7ddfc2f211"
     },
     {
       "path": "data/version.json.bak-1-2-0",
-      "sizeBytes": 161,
-      "sha256": "d157d1dbb2cb8b165a53cf92c275d1aafe69a944cbb2236d553e3edcf37da4bf"
+      "sizeBytes": 156,
+      "sha256": "4da661018b0789b2409284e5406e4fbc04d5db5c23d0d060600091e484c998ec"
     },
     {
       "path": "data/version.json.bak-1-2-1-current-fix",
-      "sizeBytes": 153,
-      "sha256": "3ca49ddf3fd653fa45343b9a5ba3c4cb5da2b51b9f1a96d67f8ed38f3d2a6c98"
+      "sizeBytes": 148,
+      "sha256": "ce12f39ba69289596aaf27a9bfd40dabc7dbbad0424b1d7d02348cbde6b87ba5"
     },
     {
       "path": "data/version.json.bak-2-0-0",
-      "sizeBytes": 68,
-      "sha256": "294d68cbafeba3eb7d705176a98d9931fea62862bb4aabd300c0afc60ff5d22b"
+      "sizeBytes": 65,
+      "sha256": "2de460e8d63faf046376182e439fc97ff298989ae66a26629d52f348515d5f3a"
     },
     {
       "path": "data/version.json.bak-2-0-1",
-      "sizeBytes": 64,
-      "sha256": "49fca29f46e1495522f9a43a2dbfce8db7844e1ce01c06ffd41b1d30794280de"
+      "sizeBytes": 61,
+      "sha256": "fbb660c031eb53387055ede947b59658b898eecc9269e5294f14ec549699dced"
     },
     {
       "path": "data/version.json.bak-geo-1",
-      "sizeBytes": 208,
-      "sha256": "1d20c39e2f745c65d6b5c607a8da46d526039b2b7564ce4e94f0854c69eec5f5"
+      "sizeBytes": 201,
+      "sha256": "939b819fc9587182205e6faee2aca58e2f9e8cab616c357bddd8977f1fb1093a"
     },
     {
       "path": "data/version.json.bak-geo-2",
-      "sizeBytes": 74,
-      "sha256": "cd8dda0f2e887dcc219af1747de1c0673e26407432b7bc1401f8054e6b3ec215"
+      "sizeBytes": 71,
+      "sha256": "93bf9e6a411b011640fa0479057f2211cdaf858cce70dd06259a33db16821f31"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -400,6 +405,76 @@
       "sha256": "eafd9139e516d7097ee9b2363a1a431f48dc3d6a49855f1df8d5d14c4ef893b8"
     },
     {
+      "path": "media/photos/2026-07-05-black-pearl-polace.jpg",
+      "sizeBytes": 258445,
+      "sha256": "0523dee63fab9cdbf206de848d142b7c4a4f2ea23443d64e3ca05dba42f3973c"
+    },
+    {
+      "path": "media/photos/2026-07-07-pakleni-anchorage-view.jpg",
+      "sizeBytes": 182893,
+      "sha256": "1d69528c246ff813ce2ba863ce3ed9332b6e8f8efc5d98437c9ed53a83f6b4b2"
+    },
+    {
+      "path": "media/photos/2026-07-07-pakleni-approach-bow.jpg",
+      "sizeBytes": 165904,
+      "sha256": "a5763dab0d2138298f11c90eddd3d4769a19bcadbdb003657d68d80fde958e59"
+    },
+    {
+      "path": "media/photos/2026-07-10-milna-aft-deck.jpg",
+      "sizeBytes": 204296,
+      "sha256": "d3964ae20a20981b4ccf016c0a1cfc3ba5f410eb4c4d7bf53588c086f43e6e47"
+    },
+    {
+      "path": "media/photos/2026-07-10-milna-anchorage.jpg",
+      "sizeBytes": 236728,
+      "sha256": "95f2c39159f03c066151a9d56088a978f90e54c5b194ecbedb1e93b157b6f1fd"
+    },
+    {
+      "path": "media/photos/2026-07-10-milna-bay.jpg",
+      "sizeBytes": 260230,
+      "sha256": "8f3401dc2f4ee3209da5c34edb1d7268e56ddf060b2899fd40bf63dc6f77f664"
+    },
+    {
+      "path": "media/photos/2026-07-10-milna-sun-on-water.jpg",
+      "sizeBytes": 246170,
+      "sha256": "ea9c2147e46aaa717f90a636aba9936adfbbef04c9bf5b4201f321c3ec2eab1c"
+    },
+    {
+      "path": "media/photos/2026-07-11-teak-dent-repair.jpg",
+      "sizeBytes": 454961,
+      "sha256": "89d29ed1db706368def75db0fae63dbc8c0a8c5d8886b89b596cad5925b23e53"
+    },
+    {
+      "path": "media/photos/2026-07-11-vis-sunset-ash-1.jpg",
+      "sizeBytes": 162947,
+      "sha256": "4b4f62d6467ed53f54cf37f878dcebb2d8370203b317de8cd85db9b710c2fbf3"
+    },
+    {
+      "path": "media/photos/2026-07-11-vis-sunset-ash-2.jpg",
+      "sizeBytes": 139980,
+      "sha256": "c927c7dad45434acb61db46e223ac4c57c8c648c8806c9029c2d227c3f17e7f9"
+    },
+    {
+      "path": "media/photos/2026-07-12-afternoon-off-feet.jpg",
+      "sizeBytes": 472938,
+      "sha256": "2acc5c46f615f9a2c2a2c2267032510345afba0f7583e841763882f8408383e7"
+    },
+    {
+      "path": "media/photos/2026-07-12-cameron-working-aloft-portrait.jpg",
+      "sizeBytes": 254752,
+      "sha256": "cef1a038045b0153b99c3171f80fb23c99e91b0f4b0f9f310dfef9d708e04985"
+    },
+    {
+      "path": "media/photos/2026-07-12-cameron-working-aloft-side.jpg",
+      "sizeBytes": 333204,
+      "sha256": "80097194e35b41c2610383b54dbcfd94315eb2eb0b2e65585a0d7eca13d1cc34"
+    },
+    {
+      "path": "media/photos/2026-07-12-vis-weather-cleared.jpg",
+      "sizeBytes": 178206,
+      "sha256": "4aa0ae71cd13f7e144534963f44c1fef1b439ede26be9ffaab53313cf2902cf0"
+    },
+    {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",
       "sizeBytes": 3003718,
       "sha256": "dc8dcfc478078d3d2e748cb0f27213df88a91714eacaff1a08b40ac9e4375db3"
@@ -430,14 +505,114 @@
       "sha256": "f06999f796bc450615e940a39275e72137fbe2edb7d941c673b9051bd6aa814e"
     },
     {
+      "path": "media/videos/2026-07-08-peaceful-night-shift.mp4",
+      "sizeBytes": 2822698,
+      "sha256": "af714b2c8ece4a125100bbe663899c2a40fac5b585b5810bb36c82449b51ea9b"
+    },
+    {
+      "path": "media/videos/2026-07-10-dolphin-drone-footage.mp4",
+      "sizeBytes": 11185932,
+      "sha256": "c18fb785856524bbb72f50e6d429e81f7fcd82feca13aa5ceb7d08e2970a101c"
+    },
+    {
+      "path": "media/videos/2026-07-10-dolphins-from-deck.mp4",
+      "sizeBytes": 9033569,
+      "sha256": "7fc2b445b9f3eb6954bedf050ae4527d34f330707669f3e260e1c7e382c2da22"
+    },
+    {
+      "path": "media/videos/2026-07-12-rainy-start-to-shift.mp4",
+      "sizeBytes": 2357056,
+      "sha256": "263bac5f9247f0cc656c9a872f30a030bbd8a64afc3b7189412b3eab26036516"
+    },
+    {
       "path": "media/webcam/2026-06-17-first-boarding-webcam.mp4",
       "sizeBytes": 11579714,
       "sha256": "70a221c8f03c336c6f1ce461ec43bf70fe00b089257110995d4801eed04633c4"
     },
     {
+      "path": "media/photos/enhanced/2026-06-20-sundeck-black-enhanced.jpg",
+      "sizeBytes": 705514,
+      "sha256": "1e81cecfa00e72f9a6db475cb6c96558eb5e1716adae223972a25410faefd8f0"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-02-underway-cavtat-enhanced.jpg",
+      "sizeBytes": 569456,
+      "sha256": "c8c8b8b3d82cd11c7afed9965832c91a46fd27f236ffbeef6e336a580308e462"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-05-black-pearl-polace-enhanced.jpg",
+      "sizeBytes": 959721,
+      "sha256": "266dc2128b3bb98295b3db04984a6d643e2973445cae63e424c60aa62b694668"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-07-pakleni-anchorage-view-enhanced.jpg",
+      "sizeBytes": 680619,
+      "sha256": "8761d7bb6ccea5739723ce3d4cb23d494b7d328a447212508e4c0a84d815f187"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-07-pakleni-approach-bow-enhanced.jpg",
+      "sizeBytes": 611295,
+      "sha256": "e1ea34ab0a42c00f9f5666161d23480838984e494c07778906fe81384bd847f6"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-10-milna-aft-deck-enhanced.jpg",
+      "sizeBytes": 677143,
+      "sha256": "2c4fe571cdf3bc56a8631743f886f66737ba93c9080486e8cbe2b7367d8e34d0"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-10-milna-anchorage-enhanced.jpg",
+      "sizeBytes": 805103,
+      "sha256": "5a3d24ee5f00597a49a9652ac7e4baf5812f0cc1ce5e0e883b20819fd46e175d"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-10-milna-bay-enhanced.jpg",
+      "sizeBytes": 935955,
+      "sha256": "2f247e0b00043e2a87379c7f633fa8631818b6ca4df55d402670fde329ec7e60"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-10-milna-sun-on-water-enhanced.jpg",
+      "sizeBytes": 765518,
+      "sha256": "f00309261f9071fc12877f74de09ea25b408c4d203bd519776a379ec2f0392d4"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-11-teak-dent-repair-enhanced.jpg",
+      "sizeBytes": 1326779,
+      "sha256": "c78c78c39d078c268e43b66db7039c217cb0fb9c97dd6a775f49d6c576db8fc2"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-11-vis-sunset-ash-1-enhanced.jpg",
+      "sizeBytes": 638925,
+      "sha256": "091db77d71b44d79a65a3cb338b83ae740e7a6ed28485b0668cb31ff57677767"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-11-vis-sunset-ash-2-enhanced.jpg",
+      "sizeBytes": 534102,
+      "sha256": "fcca2ce75fd109798a55cf8947463ead0e8214d7857da6971e866754d002ee78"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-12-afternoon-off-feet-enhanced.jpg",
+      "sizeBytes": 1457766,
+      "sha256": "8bffe31797aad59e85b5020ddd0a00b2e2d3a5b4be5fd96015245a29fb00dd25"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-12-cameron-working-aloft-portrait-enhanced.jpg",
+      "sizeBytes": 1036943,
+      "sha256": "7f6527aa5579411696b3907972f017807bd021895a9d3a532aff345c68ca719c"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-12-cameron-working-aloft-side-enhanced.jpg",
+      "sizeBytes": 995323,
+      "sha256": "3cac319acc174cfe14504fb3c2d0c238a764457955a595a69dbae4d456095ba4"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-12-vis-weather-cleared-enhanced.jpg",
+      "sizeBytes": 567329,
+      "sha256": "60238fc88e44bf2dbbef2c86f1906dbbaac2140e6f4023400f4b315b4f6d6406"
+    },
+    {
       "path": "assets/css/admin-map.css",
-      "sizeBytes": 2874,
-      "sha256": "0c99f96063a34fdfa88606bc508d19d077327d369350c0f48a03df01c0c4510c"
+      "sizeBytes": 2838,
+      "sha256": "6ac251f9a2f702dca259fb5779ecefe0b1ca20004dde542272e7ea0da6164fad"
     },
     {
       "path": "assets/css/companion.css",
@@ -451,13 +626,18 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 4164,
-      "sha256": "360fddf5dc8425f29e995f2556feb902709b45d3f5a56484c4b4cc1cb2e523fc"
+      "sizeBytes": 12057,
+      "sha256": "c30ba0ae8fc8539177206ca0dc447776e95603c5e4f358dd34b0c2831c424a1f"
     },
     {
       "path": "assets/css/version.css",
       "sizeBytes": 836,
       "sha256": "13574efb008adf89f18ce276fc725874a1a9ae41f4e4f6c98bda1347888feb00"
+    },
+    {
+      "path": "assets/icons/j7-mark.svg",
+      "sizeBytes": 743,
+      "sha256": "d6aab318b5535376b1f6aaefabceb027b1f18f0db36f79c12754aba5f58af953"
     },
     {
       "path": "assets/images/.gitkeep",
@@ -466,23 +646,23 @@
     },
     {
       "path": "assets/js/admin-map.js",
-      "sizeBytes": 25175,
-      "sha256": "86b37bd2129b1d6e0160a40ded197250b6c9cd43b1914ba23b2344f1c5f1ff96"
+      "sizeBytes": 25107,
+      "sha256": "90a19841a7af15ad8709625e9245749951788434dc30e9fc63ca2536c96e396f"
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 2422,
-      "sha256": "c37819e7607af2fd83a8519a3ad610418b7dc92b9f3ea10183bff313cd3da3ae"
+      "sizeBytes": 6758,
+      "sha256": "afc5e5b5dc83596efef2ec824c4ed5682bd7cfd3e237b59163920121e424117e"
     },
     {
       "path": "assets/js/dashboard.js",
-      "sizeBytes": 5645,
-      "sha256": "de730e1ace48c762b7331457f755068685ca0eb2bac13ecc72ce95383a694651"
+      "sizeBytes": 6964,
+      "sha256": "8ab7e1c95342a3b425015decc7d13cb01fe42606f3d3074cedc4058645aa8665"
     },
     {
       "path": "assets/js/dashboard.js.bak-0-7-3",
-      "sizeBytes": 4283,
-      "sha256": "1d53051f0d1e8d929180f9530a1084815bab4206cae3bd4ad6aa40dfd37b7783"
+      "sizeBytes": 4221,
+      "sha256": "8c5d1a9b019df533ba1bd4ed69065beaefab46518b9b1be45168611ee94d0e9c"
     },
     {
       "path": "assets/js/dashboard.js.bak-1-0-5",

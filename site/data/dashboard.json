@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "release": "Geographic Intelligence polish",
+  "version": "2.2.0",
+  "release": "Journal Experience",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
@@ -43,9 +43,9 @@
     "distanceDirectNm": 911.5,
     "distanceEstimatedNm": 1048.9,
     "manualSeaRouteLegs": 32,
-    "journalEntries": 12,
-    "mediaItems": 17,
-    "photos": 11,
-    "videos": 6
+    "journalEntries": 22,
+    "mediaItems": 38,
+    "photos": 28,
+    "videos": 10
   }
 }

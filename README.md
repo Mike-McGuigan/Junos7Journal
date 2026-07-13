@@ -4,39 +4,50 @@
 
 This repository contains the source for an interactive and printable journal documenting Cameron and Sophie's first Mediterranean season working together aboard **Juno's 7**.
 
-The project is designed to produce:
+The project produces:
 
-- an interactive website
-- a printable collector's edition
-- a permanent media archive
-- structured route and journal data
+- an interactive journal website
+- a voyage dashboard and route map
+- a local Captain's Dashboard for publishing route updates
+- a permanent, structured media archive
+- source material for a future printed Collector's Edition
 
-## Quick Start
+## Quick start
 
-Open:
+For the public journal, run a local web server from the repository root and open `docs/index.html`, or use the GitHub Pages deployment from `/docs`.
 
-```text
-website/index.html
-```
-
-This is currently a static prototype and can be hosted directly with GitHub Pages.
-
-## Project Structure
+For route updates, launch:
 
 ```text
-docs/                       Project notes, roadmap and design documentation
-website/                    Static interactive journal
-journal/                    Source journal entries in Markdown
-media/originals/            Untouched original photographs and videos
-media/processed/            Web-optimised media
-media/thumbnails/           Generated thumbnails
-maps/                       Route and GeoJSON map data
-print/                      Collector's edition and PDF layouts
-tools/                      Future build/export utilities
-archive/                    Source material and conversation notes
+Start Captains Dashboard.bat
 ```
 
-## Guiding Principle
+After source changes, rebuild the clean output with:
+
+```bash
+python tools/build_site.py
+```
+
+## Project structure
+
+```text
+content/                    Source journal, route and media-index content
+docs/                       Source website and GitHub Pages output
+site/                       Clean build copied from docs/
+admin-input/                Latest and archived manual location updates
+tools/                      Build, publishing, routing and media utilities
+tracker/                    Experimental vessel-tracking utilities
+collector/                  Future Collector's Edition workspace
+archive/                    Preserved project material
+```
+
+## Version 2.2.0
+
+**Journal Experience** introduces a magazine-style chapter layout, structured rich sections, improved media presentation, full-screen viewing, J7 branding, voyage-map polish and non-destructive enhanced-media support.
+
+See `RELEASE_2_2_0.md` for the full release notes and the recommended release-branch installation steps.
+
+## Guiding principle
 
 This is not primarily a yacht tracker. It is a family journal.
 
@@ -48,6 +59,4 @@ Recommended setting:
 
 - Repository: `Junos7Journal`
 - Branch: `main`
-- Folder: `/website`
-
-If GitHub Pages does not allow `/website` directly on your account, copy the contents of `website/` into `/docs` and publish from `/docs` instead.
+- Folder: `/docs`

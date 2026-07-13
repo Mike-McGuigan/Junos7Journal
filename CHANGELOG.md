@@ -1,5 +1,18 @@
 # Changelog
 
+## 2.2.0 - Journal Experience
+
+- Rebuilt the public journal as a magazine-style chapter experience.
+- Added structured Crew Moment, Did You Know?, Flavour and Notable Encounter sections.
+- Added uncropped story media, cropped gallery browsing and a full-screen media viewer.
+- Added non-destructive enhanced-media support and selected enhanced working copies.
+- Added J7 favicon branding and responsive polish across the site.
+- Enabled mouse-wheel map zoom and improved voyage-map exploration.
+- Standardised Underway / Moored / At anchor terminology and date labels.
+- Preserved and aligned the supplied route and manual voyage geometry through Vis.
+- Added the complete re-provided July media set: Black Pearl, Pakleni, the night shift, dolphins off Milna, teak repair, Vis sunset/ash, changing weather, Cameron working aloft and the afternoon off.
+- Expanded the journal to 22 chapters and 38 indexed media items.
+
 ## 2.1.1 - Geographic Intelligence polish
 
 - Display enriched location metadata on the Captain's Dashboard admin map popups.

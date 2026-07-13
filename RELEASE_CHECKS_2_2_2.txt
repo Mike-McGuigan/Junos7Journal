@@ -1,0 +1,20 @@
+Juno's 7 Journal v2.2.2 validation
+===========================================
+
+[PASS] JSON parsing — 21 JSON files checked
+[PASS] Opening chapter — Kos named in location and body
+[PASS] Gallery card styling — navy fill, higher contrast titles, medium-weight descriptions
+[PASS] J7 logo — transparent outer corner; exact site navy #061928
+[PASS] Version metadata — 2.2.2
+[PASS] Built output parity: assets/css/style.css
+[PASS] Built output parity: assets/icons/j7-mark.svg
+[PASS] Built output parity: assets/icons/j7-mark-source.png
+[PASS] Built output parity: data/journal.json
+[PASS] Built output parity: data/dashboard.json
+[PASS] Built output parity: data/version.json
+[PASS] Built output parity: build-info.json
+[PASS] Built output parity: build-manifest.json
+[PASS] Python syntax — tools/ compiled
+[PASS] JavaScript syntax — node --check
+
+Summary: 15 passed, 0 failed.

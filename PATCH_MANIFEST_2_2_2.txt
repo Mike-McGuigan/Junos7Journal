@@ -1,0 +1,31 @@
+Juno's 7 Journal v2.2.2 changed-file patch
+============================================
+
+Extract this ZIP over the root of an existing v2.2.1 repository.
+Allow folders to merge and these files to replace the existing versions.
+
+Files included:
+- CHANGELOG.md
+- README.md
+- RELEASE_2_2_2.md
+- RELEASE_CHECKS_2_2_2.txt
+- VERSION
+- tools/build_site.py
+- content/journal/2026/2026-06-17-the-beginning.md
+- content/journal/2026/2026-06-17.md
+- docs/assets/css/style.css
+- docs/assets/icons/j7-mark-source.png
+- docs/assets/icons/j7-mark.svg
+- docs/build-info.json
+- docs/build-manifest.json
+- docs/data/dashboard.json
+- docs/data/journal.json
+- docs/data/version.json
+- site/assets/css/style.css
+- site/assets/icons/j7-mark-source.png
+- site/assets/icons/j7-mark.svg
+- site/build-info.json
+- site/build-manifest.json
+- site/data/dashboard.json
+- site/data/journal.json
+- site/data/version.json

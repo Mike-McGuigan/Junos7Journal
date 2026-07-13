@@ -1,7 +1,7 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "release": "Journal Experience Patch",
-  "buildUtc": "2026-07-13 12:51:47 UTC",
+  "buildUtc": "2026-07-13 14:30:02 UTC",
   "fileCount": 137,
   "files": [
     {
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 202,
-      "sha256": "5ea79ebbc545fcdf21ae77f6b8523689d4509437c4fddd69729cb27b7ffaf952"
+      "sizeBytes": 209,
+      "sha256": "b8c0794de08a4ecb7769f01038ccc4c613a195727f2c49a46bb227d8aef830b5"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 23924,
-      "sha256": "10e9fb5a423b0d84a3fa196af9ff00b74276b6e8f29b5eca1a068323d41e4c6e"
+      "sizeBytes": 24096,
+      "sha256": "190db778417e3f7a6e95dbe2de4f9321c23bb69334261861b096ddc9e0ddd885"
     },
     {
       "path": "crew.html",
@@ -126,8 +126,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1655,
-      "sha256": "2c39f2da826426789bfa557b3d75ff99e09f7932c5da947a99a552c826d64d79"
+      "sizeBytes": 1706,
+      "sha256": "cc1088b94d1b5930b94eb30cfed7bc20168ce80a2d157101e29e7aee8a3a71a9"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -181,8 +181,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 111505,
-      "sha256": "f79e7268517a47d0622b16c435c03e99ce942619e9fdaf1ee300f65c38c0aa95"
+      "sizeBytes": 111516,
+      "sha256": "581d84dc7693ef8b890f0901ca21323c87b855be480e058127e5ea46d11bab87"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 58313,
-      "sha256": "1f27167c95dec58fee57a943d9e25eae14537b539a252f6d6f4db7b1130e4309"
+      "sizeBytes": 60978,
+      "sha256": "d09fc641b4a115e525bbd6a5ddc2e1067ea4891f54b8ab5651fb1821a674bfcf"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -276,8 +276,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 202,
-      "sha256": "5ea79ebbc545fcdf21ae77f6b8523689d4509437c4fddd69729cb27b7ffaf952"
+      "sizeBytes": 209,
+      "sha256": "b8c0794de08a4ecb7769f01038ccc4c613a195727f2c49a46bb227d8aef830b5"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -636,8 +636,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 13272,
-      "sha256": "5a521bbb771ebae0036b41f10907eb9b480c397ec0611fd410b3186d7cc40875"
+      "sizeBytes": 13487,
+      "sha256": "31e29c46366e5edf623e44cb6b5cddbbbb275bec4a0fada3b8ddb5e5023d0593"
     },
     {
       "path": "assets/css/version.css",
@@ -645,14 +645,14 @@
       "sha256": "13574efb008adf89f18ce276fc725874a1a9ae41f4e4f6c98bda1347888feb00"
     },
     {
-      "path": "assets/icons/j7-mark.svg",
-      "sizeBytes": 489403,
-      "sha256": "4ba99a2d4654a16d5633f4d7d215f90e088264a443dc3ac5f45282fc163676bd"
+      "path": "assets/icons/j7-mark-source.png",
+      "sizeBytes": 46614,
+      "sha256": "967c7208fd1d198396dfc88c09647c31fe94c25824a4edb1e2124ba9ec14d2fd"
     },
     {
-      "path": "assets/icons/j7-mark-source.png",
-      "sizeBytes": 366759,
-      "sha256": "95fa3ead9829766e6818113aa2d38902d643137a20d73a574bd1ac16114a7264"
+      "path": "assets/icons/j7-mark.svg",
+      "sizeBytes": 62334,
+      "sha256": "578d0e75a140a51e4329f77adbf1205944623f165e1e01d7afcc2bf9e7b0911d"
     },
     {
       "path": "assets/images/.gitkeep",

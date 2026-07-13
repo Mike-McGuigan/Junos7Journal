@@ -41,11 +41,11 @@ collector/                  Future Collector's Edition workspace
 archive/                    Preserved project material
 ```
 
-## Version 2.2.1
+## Version 2.2.2
 
-The journal experience patch corrects the J7 mark, adds a remembered journal-order toggle, fixes explicit media sequencing and adds the 13 July passage to Komiža with both dolphin videos.
+This small polish patch clarifies Kos in the opening chapter, cleans the J7 logo against the site navy and improves gallery card backgrounds and typography.
 
-See `RELEASE_2_2_1.md` for the full release notes and the recommended release-branch installation steps.
+See `RELEASE_2_2_2.md` for the full release notes and changed-file installation steps.
 
 ## Guiding principle
 

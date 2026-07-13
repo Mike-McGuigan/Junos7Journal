@@ -1,7 +1,7 @@
 {
   "version": "2.2.0",
   "release": "Journal Experience",
-  "buildUtc": "2026-07-13 12:11:32 UTC",
+  "buildUtc": "2026-07-13 12:17:56 UTC",
   "fileCount": 134,
   "files": [
     {
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 203,
-      "sha256": "c74ae5c0f6d321fea2302e3706981a81fe471935037b043977d833cbc3e5131b"
+      "sha256": "d0cc660414f15b95edf0b82505e71336ac611ec3a951ed08468bddc4fa0f6e77"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 24211,
-      "sha256": "b4c5be0066b35962faf89e8dcc07f1eadb8de4a9adca3dbeb60f9aa411e84dec"
+      "sha256": "8573795f58a4a81f5073c44bbff04f77d466679f62bb98d12ee83498813e39d4"
     },
     {
       "path": "crew.html",
@@ -127,7 +127,7 @@
     {
       "path": "data/dashboard.json",
       "sizeBytes": 1699,
-      "sha256": "d609f31260d42f8cc00c44554757c7cac220d590ae2dd84dcca6277f344e1298"
+      "sha256": "26c723c9d86ccfb5d6c90c2535dd27bca4014980f5effff3d0faa13cc4412cee"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 59895,
-      "sha256": "6e6d9f045bfd79b619743e6e16cc3659eb3752b90f607d243fcf918551a99b9c"
+      "sizeBytes": 60946,
+      "sha256": "bb6c18d15ffcd6e58cecb683d5ca3e425b79bc548eaef30171a60e48ccd729ef"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -277,7 +277,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 203,
-      "sha256": "c74ae5c0f6d321fea2302e3706981a81fe471935037b043977d833cbc3e5131b"
+      "sha256": "d0cc660414f15b95edf0b82505e71336ac611ec3a951ed08468bddc4fa0f6e77"
     },
     {
       "path": "data/version.json.bak-1-0-1",

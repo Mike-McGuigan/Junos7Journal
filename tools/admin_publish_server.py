@@ -12,8 +12,8 @@ import webbrowser
 
 ROOT = Path(__file__).resolve().parents[1]
 PORT = 8765
-VERSION = "2.1.1"
-RELEASE = "Geographic Intelligence polish"
+VERSION = "2.2.0"
+RELEASE = "Journal Experience"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
 ROUTE_FILE = ROOT / "docs" / "data" / "route.json"
 

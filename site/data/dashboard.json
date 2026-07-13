@@ -1,22 +1,22 @@
 {
-  "version": "2.1.1",
-  "release": "Geographic Intelligence polish",
+  "version": "2.2.0",
+  "release": "Journal Experience",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: En route to Mezuporat, Bisevo, Croatia",
+    "latestStatus": "Manual location: Alongside in Vis, Croatia",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-13T09:37:05.516Z",
+    "lastManualLookupUtc": "2026-07-11T18:18:10.701Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 42.981289,
-      "lng": 16.025984,
+      "lat": 43.059156,
+      "lng": 16.188047,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "En route to Mezuporat, Bisevo, Croatia",
+    "latestLocationName": "Alongside in Vis, Croatia",
     "latestFriendlyLocation": "Near Split-Dalmatia County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,16 +36,16 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "En route to Mezuporat, Bisevo, Croatia"
+    "latestLocationTitle": "Alongside in Vis, Croatia"
   },
   "stats": {
-    "routeStops": 36,
-    "distanceDirectNm": 920.0,
-    "distanceEstimatedNm": 1057.4,
+    "routeStops": 35,
+    "distanceDirectNm": 911.5,
+    "distanceEstimatedNm": 1048.9,
     "manualSeaRouteLegs": 32,
-    "journalEntries": 12,
-    "mediaItems": 17,
-    "photos": 11,
-    "videos": 6
+    "journalEntries": 22,
+    "mediaItems": 38,
+    "photos": 28,
+    "videos": 10
   }
 }

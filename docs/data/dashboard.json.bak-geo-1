@@ -5,18 +5,18 @@
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Alongside in Vis, Croatia",
+    "latestStatus": "Manual location: Vis, Croatia",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-11T18:18:10.701Z",
+    "lastManualLookupUtc": "2026-07-11T08:58:43.409Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 43.059156,
-      "lng": 16.188047,
+      "lat": 43.063962,
+      "lng": 16.195414,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Alongside in Vis, Croatia",
+    "latestLocationName": "Vis, Croatia",
     "latestFriendlyLocation": "Near Split-Dalmatia County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,13 +36,13 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Alongside in Vis, Croatia"
+    "latestLocationTitle": "Vis, Croatia"
   },
   "stats": {
-    "routeStops": 35,
-    "distanceDirectNm": 911.5,
-    "distanceEstimatedNm": 1048.9,
-    "manualSeaRouteLegs": 32,
+    "routeStops": 34,
+    "distanceDirectNm": 911.1,
+    "distanceEstimatedNm": 1048.5,
+    "manualSeaRouteLegs": 31,
     "journalEntries": 12,
     "mediaItems": 17,
     "photos": 11,

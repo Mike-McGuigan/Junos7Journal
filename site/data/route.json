@@ -1062,7 +1062,8 @@
           20.58843
         ]
       ]
-    }
+    },
+    "status": "Underway"
   },
   {
     "date": "30 Jun",
@@ -1333,7 +1334,8 @@
           19.667587
         ]
       ]
-    }
+    },
+    "status": "Underway"
   },
   {
     "date": "3 Jul",
@@ -1449,7 +1451,8 @@
           18.21644
         ]
       ]
-    }
+    },
+    "status": "Moored"
   },
   {
     "date": "4 Jul",
@@ -1589,12 +1592,13 @@
           17.762833
         ]
       ]
-    }
+    },
+    "status": "Underway"
   },
   {
     "date": "5 Jul",
-    "title": "Polace, Mljet",
-    "name": "Polace, Mljet",
+    "title": "Polače, Mljet",
+    "name": "Polače, Mljet",
     "phase": "onboard",
     "lat": 42.789039,
     "lng": 17.383375,
@@ -1619,7 +1623,7 @@
     },
     "legFromPrevious": {
       "fromTitle": "En route to Mljet",
-      "toTitle": "Polace, Mljet",
+      "toTitle": "Polače, Mljet",
       "distanceDirectNm": 17.3,
       "distanceEstimatedNm": 17.5,
       "usesManualSeaRoute": true,
@@ -1673,12 +1677,13 @@
           17.383375
         ]
       ]
-    }
+    },
+    "status": "At anchor"
   },
   {
     "date": "6 Jul",
-    "title": "Gubavac, Korcula",
-    "name": "Gubavac, Korcula",
+    "title": "Gubavac, Korčula",
+    "name": "Gubavac, Korčula",
     "phase": "onboard",
     "lat": 42.929496,
     "lng": 17.183282,
@@ -1702,8 +1707,8 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "legFromPrevious": {
-      "fromTitle": "Polace, Mljet",
-      "toTitle": "Gubavac, Korcula",
+      "fromTitle": "Polače, Mljet",
+      "toTitle": "Gubavac, Korčula",
       "distanceDirectNm": 12.2,
       "distanceEstimatedNm": 13.4,
       "usesManualSeaRoute": true,
@@ -1765,12 +1770,13 @@
           17.183282
         ]
       ]
-    }
+    },
+    "status": "At anchor"
   },
   {
     "date": "6 Jul",
-    "title": "Korcula Port",
-    "name": "Korcula Port",
+    "title": "Korčula Port",
+    "name": "Korčula Port",
     "phase": "onboard",
     "lat": 42.961848,
     "lng": 17.134524,
@@ -1794,8 +1800,8 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "legFromPrevious": {
-      "fromTitle": "Gubavac, Korcula",
-      "toTitle": "Korcula Port",
+      "fromTitle": "Gubavac, Korčula",
+      "toTitle": "Korčula Port",
       "distanceDirectNm": 2.9,
       "distanceEstimatedNm": 3.6,
       "usesManualSeaRoute": true,
@@ -1881,7 +1887,8 @@
           17.134524
         ]
       ]
-    }
+    },
+    "status": "Moored"
   },
   {
     "date": "7 Jul AM",
@@ -1910,7 +1917,7 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "legFromPrevious": {
-      "fromTitle": "Korcula Port",
+      "fromTitle": "Korčula Port",
       "toTitle": "En route to Hvar",
       "distanceDirectNm": 19.2,
       "distanceEstimatedNm": 19.4,
@@ -1957,7 +1964,8 @@
           16.718102
         ]
       ]
-    }
+    },
+    "status": "Underway"
   },
   {
     "date": "7 Jul",
@@ -2065,10 +2073,11 @@
           16.402105
         ]
       ]
-    }
+    },
+    "status": "At anchor"
   },
   {
-    "date": "8 Jul Late afternoon",
+    "date": "8 Jul - Late afternoon",
     "title": "En route to Split",
     "name": "En route to Split",
     "phase": "onboard",
@@ -2141,7 +2150,8 @@
           16.396708
         ]
       ]
-    }
+    },
+    "status": "Underway"
   },
   {
     "date": "8 Jul - Early evening",
@@ -2201,7 +2211,8 @@
           16.415548
         ]
       ]
-    }
+    },
+    "status": "Underway"
   },
   {
     "date": "8 Jul - Evening",
@@ -2265,7 +2276,8 @@
           16.431906
         ]
       ]
-    }
+    },
+    "status": "Moored"
   },
   {
     "date": "10 Jul",
@@ -2353,12 +2365,13 @@
           16.428273
         ]
       ]
-    }
+    },
+    "status": "At anchor"
   },
   {
     "date": "11 Jul - AM",
-    "title": "Enr route to Vis",
-    "name": "Enr route to Vis",
+    "title": "En route to Vis",
+    "name": "En route to Vis",
     "phase": "onboard",
     "lat": 43.118966,
     "lng": 16.22921,
@@ -2383,7 +2396,7 @@
     },
     "legFromPrevious": {
       "fromTitle": "Off Milna, Croatia",
-      "toTitle": "Enr route to Vis",
+      "toTitle": "En route to Vis",
       "distanceDirectNm": 15.2,
       "distanceEstimatedNm": 16.5,
       "usesManualSeaRoute": true,
@@ -2429,10 +2442,11 @@
           16.22921
         ]
       ]
-    }
+    },
+    "status": "Underway"
   },
   {
-    "date": "11 Jul - late morning",
+    "date": "11 Jul - Late morning",
     "title": "Vis, Croatia",
     "name": "Vis, Croatia",
     "phase": "onboard",
@@ -2458,7 +2472,7 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "legFromPrevious": {
-      "fromTitle": "Enr route to Vis",
+      "fromTitle": "En route to Vis",
       "toTitle": "Vis, Croatia",
       "distanceDirectNm": 3.6,
       "distanceEstimatedNm": 3.7,
@@ -2495,7 +2509,7 @@
     "date": "11 Jul - PM",
     "title": "Alongside in Vis, Croatia",
     "name": "Alongside in Vis, Croatia",
-    "phase": "onboard",
+    "phase": "current",
     "lat": 43.059156,
     "lng": 16.188047,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -2537,50 +2551,7 @@
           16.188047
         ]
       ]
-    }
-  },
-  {
-    "date": "13 Jul - AM",
-    "title": "En route to Mezuporat, Bisevo, Croatia",
-    "name": "En route to Mezuporat, Bisevo, Croatia",
-    "phase": "current",
-    "lat": 42.981289,
-    "lng": 16.025984,
-    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "location": {
-      "lookupStatus": "ok",
-      "lookupProvider": "OpenStreetMap Nominatim",
-      "osmType": "relation",
-      "osmId": 226749,
-      "displayName": "Near Split-Dalmatia County, Croatia",
-      "shortName": "Split-Dalmatia County",
-      "rawDisplayName": "Split-Dalmatia County, Croatia",
-      "country": "Croatia",
-      "countryCode": "HR",
-      "region": null,
-      "county": "Split-Dalmatia County",
-      "municipality": null,
-      "island": null,
-      "nearestPlace": "Split-Dalmatia County",
-      "localArea": null,
-      "lookupSource": "OpenStreetMap Nominatim"
     },
-    "legFromPrevious": {
-      "fromTitle": "Alongside in Vis, Croatia",
-      "toTitle": "En route to Mezuporat, Bisevo, Croatia",
-      "distanceDirectNm": 8.5,
-      "distanceEstimatedNm": 8.5,
-      "usesManualSeaRoute": false,
-      "geometry": [
-        [
-          43.059156,
-          16.188047
-        ],
-        [
-          42.981289,
-          16.025984
-        ]
-      ]
-    }
+    "status": "Moored"
   }
 ]

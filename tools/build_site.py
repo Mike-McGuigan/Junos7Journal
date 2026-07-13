@@ -119,7 +119,7 @@ def update_dashboard_stats(route_stats: dict) -> None:
 def write_build_metadata(version: str, build_utc: str) -> None:
     info = {
         "version": version,
-        "release": "Geographic Intelligence",
+        "release": "Journal Experience",
         "buildUtc": build_utc,
         "project": "Juno's 7 Mediterranean Journal",
         "pagesSource": "docs",
@@ -143,7 +143,7 @@ def write_build_metadata(version: str, build_utc: str) -> None:
         json.dumps(
             {
                 "version": version,
-                "release": "Geographic Intelligence",
+                "release": "Journal Experience",
                 "buildUtc": build_utc,
                 "fileCount": len(manifest),
                 "files": manifest,
@@ -158,7 +158,7 @@ def main() -> None:
     if not DOCS.exists():
         raise SystemExit("docs/ does not exist. Nothing to build.")
 
-    version = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "2.1.1"
+    version = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "2.2.0"
     build_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
     route_stats = enrich_route_file(DOCS / "data" / "route.json", GEOMETRY_FILE)

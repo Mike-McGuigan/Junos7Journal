@@ -17,8 +17,8 @@ import time
 from geo_lookup import reverse_lookup
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "2.1.1"
-RELEASE = "Geographic Intelligence polish"
+VERSION = "2.2.0"
+RELEASE = "Journal Experience"
 
 def configure_console() -> None:
     """Avoid Windows cp1252 crashes if lookup text contains accented characters."""

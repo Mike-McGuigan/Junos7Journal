@@ -1,4 +1,6 @@
 {
+  "schemaVersion": 2,
+  "release": "Journal Experience",
   "entries": [
     {
       "date": "2026-06-17",
@@ -12,7 +14,29 @@
         "join-selfie",
         "junos-marina"
       ],
-      "body": "Cameron and Sophie stepped aboard Juno's 7 to begin their first season working together on the same yacht. A grainy marina webcam captured the start of the story."
+      "body": "Cameron and Sophie stepped aboard Juno's 7 to begin their first season working together on the same yacht. A grainy marina webcam captured the start of the story.",
+      "id": "the-beginning",
+      "summary": "The moment Cameron and Sophie stepped aboard together and the season became their shared story.",
+      "crewMoment": {
+        "title": "First day aboard",
+        "body": "A grainy marina webcam preserved something no polished photograph could recreate: the unrepeatable moment the two of them arrived to begin their first season on the same yacht."
+      },
+      "didYouKnow": {
+        "title": "Kos and the sea routes of the Dodecanese",
+        "body": "Kos sits beside sea lanes that have linked the Greek islands with Asia Minor for centuries. The modern marina is part of a much older pattern of people arriving, departing and moving between islands."
+      },
+      "flavourOf": {
+        "title": "Flavour of Kos",
+        "body": "Kos is known for relaxed island cooking: grilled fish, tomato-rich stews, honey, soft cheeses and mezze shared beside the water."
+      },
+      "photos": [
+        "join-selfie",
+        "junos-marina"
+      ],
+      "videos": [
+        "webcam-boarding"
+      ],
+      "heroMedia": "join-selfie"
     },
     {
       "date": "2026-06-19",
@@ -24,7 +48,22 @@
       "media": [
         "mooring-lines"
       ],
-      "body": "Cameron settled into the rhythm of deck work: lines, fenders, washdowns and the careful details behind every smooth arrival."
+      "body": "Cameron settled into the rhythm of deck work: lines, fenders, washdowns and the careful details behind every smooth arrival.",
+      "id": "learning-the-ropes",
+      "summary": "The calm arrivals begin with lines, fenders and the work that happens before anyone steps ashore.",
+      "crewMoment": {
+        "title": "The work behind the view",
+        "body": "Cameron settled into the deck routine: preparing lines, handling fenders, washdowns and the dozens of small tasks that make a yacht appear effortless from the quay."
+      },
+      "didYouKnow": {
+        "title": "A polished yacht never stays finished",
+        "body": "Salt, sun and spray begin undoing a washdown almost as soon as it is complete. Exterior maintenance is a continuous rhythm rather than a job that is ever truly finished."
+      },
+      "photos": [
+        "mooring-lines"
+      ],
+      "videos": [],
+      "heroMedia": "mooring-lines"
     },
     {
       "date": "2026-06-20",
@@ -37,7 +76,27 @@
         "sundeck-black",
         "junos-lipsi"
       ],
-      "body": "The early days aboard quickly became a cycle of cleaning, polishing and keeping the yacht looking immaculate beneath the Mediterranean sun."
+      "body": "The early days aboard quickly became a cycle of cleaning, polishing and keeping the yacht looking immaculate beneath the Mediterranean sun.",
+      "id": "first-days-on-deck",
+      "summary": "Mediterranean scenery in the background; cleaning and polishing in the foreground.",
+      "crewMoment": {
+        "title": "Giving the sun deck black some love",
+        "body": "The photographs show the contrast at the heart of the season: beautiful anchorages surrounding very practical, physical work."
+      },
+      "didYouKnow": {
+        "title": "Lipsi's quiet place in the Dodecanese",
+        "body": "Lipsi lies between Patmos and Leros. Its sheltered harbour and slower pace make it a favourite with sailors looking for quieter island stops."
+      },
+      "flavourOf": {
+        "title": "Flavour of Lipsi",
+        "body": "Harbour tables tend towards grilled octopus, fresh fish, local cheeses and small plates made for long, unhurried meals."
+      },
+      "photos": [
+        "sundeck-black",
+        "junos-lipsi"
+      ],
+      "videos": [],
+      "heroMedia": "sundeck-black"
     },
     {
       "date": "2026-06-20",
@@ -49,7 +108,18 @@
       "media": [
         "junos-lipsi"
       ],
-      "body": "A perfectly honest summary of life on deck: however beautiful the setting, salt, sun and dust never stop working against the crew."
+      "body": "A perfectly honest summary of life on deck: however beautiful the setting, salt, sun and dust never stop working against the crew.",
+      "id": "still-filthy",
+      "summary": "Three days of cleaning, followed by Cameron's perfectly honest verdict.",
+      "crewMoment": {
+        "title": "Salt never sleeps",
+        "body": "However immaculate the yacht looks from shore, light catches every dried drop and salt mark. The crew can work for days and still see the next job immediately."
+      },
+      "photos": [
+        "junos-lipsi"
+      ],
+      "videos": [],
+      "heroMedia": "junos-lipsi"
     },
     {
       "date": "2026-06-21",
@@ -61,7 +131,18 @@
       "media": [
         "rather-rocky"
       ],
-      "body": "The sea showed a livelier side during the late morning passage."
+      "body": "The sea showed a livelier side during the late morning passage.",
+      "id": "rather-rocky",
+      "summary": "A short video that preserves the movement and mood of the sea better than a still photograph could.",
+      "didYouKnow": {
+        "title": "Aegean moods",
+        "body": "A short passage between islands can change character quickly. Calm water can become lively within the same watch, making even a few seconds of video an important part of the story."
+      },
+      "photos": [],
+      "videos": [
+        "rather-rocky"
+      ],
+      "heroMedia": "rather-rocky"
     },
     {
       "date": "2026-06-21",
@@ -73,7 +154,22 @@
       "media": [
         "cameron-jetski"
       ],
-      "body": "The captain invited Cameron to take Sophie out on a jet ski. It became Sophie's first time on one."
+      "body": "The captain invited Cameron to take Sophie out on a jet ski. It became Sophie's first time on one.",
+      "id": "sophies-first-jet-ski",
+      "summary": "Fifteen minutes on the water became one of Sophie's first memorable moments of the season.",
+      "crewMoment": {
+        "title": "A first together",
+        "body": "The captain invited Cameron to take Sophie out while he used the other jet ski. It was Sophie's first time on one and a rare little pocket of shared fun inside a working day."
+      },
+      "didYouKnow": {
+        "title": "Water toys are also deck work",
+        "body": "Launching, recovering, cleaning and securing jet skis and inflatable toys is part of everyday guest operations for the deck team."
+      },
+      "photos": [
+        "cameron-jetski"
+      ],
+      "videos": [],
+      "heroMedia": "cameron-jetski"
     },
     {
       "date": "2026-06-23",
@@ -85,7 +181,18 @@
       "media": [
         "future-house"
       ],
-      "body": "Passing a beautiful hillside house above the water, Sophie captured one of those light-hearted travel moments that instantly becomes part of the shared story."
+      "body": "Passing a beautiful hillside house above the water, Sophie captured one of those light-hearted travel moments that instantly becomes part of the shared story.",
+      "id": "my-future-house",
+      "summary": "One passing hillside villa and a message that instantly became part of the family story.",
+      "crewMoment": {
+        "title": "A shared joke worth keeping",
+        "body": "The line matters because it sounds exactly like Sophie. Small messages like this stop the journal becoming too polished and preserve how the season actually felt."
+      },
+      "photos": [
+        "future-house"
+      ],
+      "videos": [],
+      "heroMedia": "future-house"
     },
     {
       "date": "2026-06-26",
@@ -97,7 +204,18 @@
       "media": [
         "sophie-june26"
       ],
-      "body": "A moving postcard from the season: a small video memory that belongs alongside the route and photographs."
+      "body": "A moving postcard from the season: a small video memory that belongs alongside the route and photographs.",
+      "id": "short-video-from-sophie",
+      "summary": "A moving postcard: water, wind and atmosphere that would be difficult to describe later.",
+      "didYouKnow": {
+        "title": "Why the small clips matter",
+        "body": "Video keeps the sound and movement around a moment. Years later, those few seconds may restore the atmosphere more vividly than a carefully composed photograph."
+      },
+      "photos": [],
+      "videos": [
+        "sophie-june26"
+      ],
+      "heroMedia": "sophie-june26"
     },
     {
       "date": "2026-06-27",
@@ -112,7 +230,30 @@
         "nice-spot-3",
         "sophie-june27"
       ],
-      "body": "A quiet anchorage surrounded by clear water and green hills. The toys were out, the tender was alongside, and the day had the stillness that makes the Greek islands unforgettable."
+      "body": "A quiet anchorage surrounded by clear water and green hills. The toys were out, the tender was alongside, and the day had the stillness that makes the Greek islands unforgettable.",
+      "id": "nice-spot-for-today",
+      "summary": "Clear water, green hills and the quiet satisfaction of a good anchorage.",
+      "crewMoment": {
+        "title": "A simple message home",
+        "body": "Cameron's four words did not need embellishment. The photographs and video show exactly why the place earned them."
+      },
+      "didYouKnow": {
+        "title": "Zakynthos from the water",
+        "body": "The island is best known for dramatic limestone coasts and intensely blue coves. From a yacht, the quieter sheltered bays can be every bit as memorable as the famous viewpoints."
+      },
+      "flavourOf": {
+        "title": "Flavour of Zakynthos",
+        "body": "Island cooking brings together olive oil, local cheeses, grilled meat and fish, sweet pastries and long meals close to the sea."
+      },
+      "photos": [
+        "nice-spot-1",
+        "nice-spot-2",
+        "nice-spot-3"
+      ],
+      "videos": [
+        "sophie-june27"
+      ],
+      "heroMedia": "nice-spot-2"
     },
     {
       "date": "2026-06-30",
@@ -126,7 +267,25 @@
         "sophie-stormy",
         "cam-towing-toys"
       ],
-      "body": "The day began with a calmer underway view from Cameron: open sea ahead, teak decks in the sun and around two and a half hours still to run. Later, Sophie sent a different side of the same passage: a little stormier, more unsettled, and a reminder of how quickly conditions can change at sea.\n\nSophie also captured Cameron towing the yacht's inflatable water toys from the tender. It was one of those practical deck-crew moments that sits behind the guest experience: getting equipment safely into position and managing it in livelier conditions. It has since been confirmed that no-one was on the toys at the time."
+      "body": "The day began with a calmer underway view from Cameron: open sea ahead, teak decks in the sun and around two and a half hours still to run. Later, Sophie sent a different side of the same passage: a little stormier, more unsettled, and a reminder of how quickly conditions can change at sea.\n\nSophie also captured Cameron towing the yacht's inflatable water toys from the tender. It was one of those practical deck-crew moments that sits behind the guest experience: getting equipment safely into position and managing it in livelier conditions. It has since been confirmed that no-one was on the toys at the time.",
+      "id": "changing-conditions",
+      "summary": "The same day told from two sides: calm teak and open water, then livelier conditions and deck work.",
+      "crewMoment": {
+        "title": "Cam on a mission",
+        "body": "Sophie captured Cameron towing the yacht's inflatable toys from the tender. No-one was riding them; this was the practical work of moving equipment safely in changing conditions."
+      },
+      "didYouKnow": {
+        "title": "Passage days are still working days",
+        "body": "Being underway does not pause the deck routine. Equipment must stay secure, weather is watched continuously and jobs change with the sea state."
+      },
+      "photos": [
+        "underway-aft-deck"
+      ],
+      "videos": [
+        "sophie-stormy",
+        "cam-towing-toys"
+      ],
+      "heroMedia": "underway-aft-deck"
     },
     {
       "date": "2026-07-02",
@@ -138,7 +297,22 @@
       "media": [
         "underway-cavtat"
       ],
-      "body": "Juno's 7 is making one of the longest passages of the season, heading north-west from Corfu towards Cavtat on Croatia's southern coast. Two hours into the eighteen-hour crossing, the Adriatic stretches away beneath clear skies while the yacht leaves a broad white wake behind her. Faithfully following in that wake is SETE, the chase boat, keeping station astern as both vessels make their way towards Croatia together."
+      "body": "Juno's 7 is making one of the longest passages of the season, heading north-west from Corfu towards Cavtat on Croatia's southern coast. Two hours into the eighteen-hour crossing, the Adriatic stretches away beneath clear skies while the yacht leaves a broad white wake behind her. Faithfully following in that wake is SETE, the chase boat, keeping station astern as both vessels make their way towards Croatia together.",
+      "id": "underway-to-cavtat",
+      "summary": "Eighteen hours across the Adriatic, with SETE holding station astern in the wake.",
+      "crewMoment": {
+        "title": "Two hours into eighteen",
+        "body": "Cameron sent the update early in one of the longest passages of the season. The broad white wake and the chase boat behind turn the simple message into a real sense of distance."
+      },
+      "didYouKnow": {
+        "title": "Crossing into a new chapter",
+        "body": "The passage from Corfu to Cavtat carried Juno’s 7 from the Greek islands into the Croatian Adriatic, changing both the landscape and the character of the voyage."
+      },
+      "photos": [
+        "underway-cavtat"
+      ],
+      "videos": [],
+      "heroMedia": "underway-cavtat"
     },
     {
       "date": "2026-07-03",
@@ -151,7 +325,304 @@
         "cavtat-waterfront",
         "cavtat-bay"
       ],
-      "body": "After the long passage north-west from Corfu, Juno's 7 has arrived in Cavtat, the first Croatian chapter of the season. The contrast with the overnight crossing could hardly be stronger: clear Adriatic water against the stone waterfront, shaded trees along the promenade, terracotta roofs, and mountains rising behind the bay.\n\nSophie summed up the first impression perfectly: \"Very pretty here!\"\n\nFor the crew, arrival also brought the chance to step ashore. Cameron was able to get off the yacht for lunch with two of the other deck crew, a small but welcome pause after the rhythm of a long sea passage. These are the moments that make the journal feel real: not just the places Juno's 7 visits, but the brief windows of time when the crew can enjoy them too.\n\nWith Juno's 7 lying off the waterfront and Cavtat opening around them, the voyage has moved from the Greek islands into a new stretch of the Adriatic story."
+      "body": "After the long passage north-west from Corfu, Juno's 7 has arrived in Cavtat, the first Croatian chapter of the season. The contrast with the overnight crossing could hardly be stronger: clear Adriatic water against the stone waterfront, shaded trees along the promenade, terracotta roofs, and mountains rising behind the bay.\n\nSophie summed up the first impression perfectly: \"Very pretty here!\"\n\nFor the crew, arrival also brought the chance to step ashore. Cameron was able to get off the yacht for lunch with two of the other deck crew, a small but welcome pause after the rhythm of a long sea passage. These are the moments that make the journal feel real: not just the places Juno's 7 visits, but the brief windows of time when the crew can enjoy them too.\n\nWith Juno's 7 lying off the waterfront and Cavtat opening around them, the voyage has moved from the Greek islands into a new stretch of the Adriatic story.",
+      "id": "very-pretty-here",
+      "summary": "Sophie’s first impression of Cavtat, followed by Cameron’s welcome chance to get ashore for lunch.",
+      "crewMoment": {
+        "title": "Lunch with the deck crew",
+        "body": "After the long passage, Cameron was able to step ashore with two of the other deck crew. That small window away from the yacht is part of the destination story too."
+      },
+      "didYouKnow": {
+        "title": "Cavtat before Cavtat",
+        "body": "The modern town stands close to the site of ancient Epidaurum. Its sheltered bay has welcomed travellers and sailors for far longer than the stone waterfront suggests."
+      },
+      "flavourOf": {
+        "title": "Flavour of Cavtat",
+        "body": "The southern Dalmatian table centres on grilled Adriatic fish, black risotto, olive oil, figs, citrus and crisp local white wine."
+      },
+      "photos": [
+        "cavtat-waterfront",
+        "cavtat-bay"
+      ],
+      "videos": [],
+      "heroMedia": "cavtat-waterfront"
+    },
+    {
+      "id": "black-pearl-mljet",
+      "date": "2026-07-05",
+      "title": "She’s a Biggie!",
+      "location": "Polače, Mljet",
+      "type": "notable-encounter",
+      "person": "Sophie",
+      "quote": "She’s a biggie!",
+      "body": "While Juno's 7 was in the sheltered waters around Polače, Black Pearl appeared nearby. Her three masts and unmistakable silhouette made this the first true notable encounter of the journal.",
+      "summary": "A quiet Mljet anchorage shared with one of the most recognisable sailing yachts in the world.",
+      "photos": [
+        "black-pearl-polace-photo"
+      ],
+      "videos": [],
+      "media": [
+        "black-pearl-polace-photo"
+      ],
+      "notableEncounter": {
+        "title": "Black Pearl",
+        "body": "Black Pearl is a 106.7 metre three-masted sailing yacht. Her DynaRig sail plan gives her a silhouette unlike almost anything else in the Mediterranean."
+      },
+      "didYouKnow": {
+        "title": "A Roman palace beside the anchorage",
+        "body": "Polače takes its name from the substantial late-Roman palace remains beside the harbour. Juno’s 7 was anchored within sight of history built into the modern village."
+      },
+      "flavourOf": {
+        "title": "Flavour of Mljet",
+        "body": "Seafood, olive oil, herbs and local white wine suit the island’s quiet, forested setting."
+      },
+      "heroMedia": "black-pearl-polace-photo"
+    },
+    {
+      "id": "pakleni-anchorage",
+      "date": "2026-07-07",
+      "title": "Coming Into Anchorage",
+      "location": "Pakleni Islands, near Hvar",
+      "type": "anchorage",
+      "person": "Cameron",
+      "quote": "Coming in to anchorage today.",
+      "body": "After Korčula, Juno’s 7 approached the Pakleni Islands and settled into the sheltered water around Palmižana. The route shifted from open passage back to the close detail of an island anchorage.",
+      "summary": "An approach through the Pakleni Islands and a peaceful anchorage off Hvar.",
+      "photos": [
+        "pakleni-approach-bow",
+        "pakleni-anchorage-view"
+      ],
+      "videos": [],
+      "media": [
+        "pakleni-approach-bow",
+        "pakleni-anchorage-view"
+      ],
+      "didYouKnow": {
+        "title": "The name is not really about hell",
+        "body": "Pakleni is often translated as “hellish”, but the name is linked to paklina, the pine resin once used for waterproofing wooden boats."
+      },
+      "flavourOf": {
+        "title": "Flavour of Hvar",
+        "body": "Hvar brings grilled fish, octopus salad, olive oil, herbs and local wines into an island setting known for both glamour and quiet coves."
+      },
+      "heroMedia": "pakleni-approach-bow"
+    },
+    {
+      "id": "peaceful-night-shift",
+      "date": "2026-07-08",
+      "title": "Peaceful Night Shift",
+      "location": "Underway to Split",
+      "type": "crew-view",
+      "person": "Cameron",
+      "quote": "Peaceful night shift.",
+      "body": "The photograph and message arrived in the early hours while Juno’s 7 was underway. Later that day the yacht continued towards Split and moored near the Riva waterfront.",
+      "summary": "A quiet watch at sea before the next busy harbour chapter.",
+      "photos": [],
+      "videos": [
+        "peaceful-night-shift-video"
+      ],
+      "media": [
+        "peaceful-night-shift-video"
+      ],
+      "crewMoment": {
+        "title": "The view from watch",
+        "body": "The glamorous destinations sit around watches, handovers and long working days. A peaceful night shift is still a night at work, but occasionally the sea gives something back."
+      },
+      "didYouKnow": {
+        "title": "Split grew inside a Roman palace",
+        "body": "Diocletian’s Palace was built around the beginning of the fourth century. Rather than remaining an isolated ruin, its streets and buildings became part of the living city."
+      },
+      "heroMedia": "peaceful-night-shift-video"
+    },
+    {
+      "id": "triumph-in-split",
+      "date": "2026-07-08",
+      "title": "A Familiar Family Resemblance",
+      "location": "Split, Croatia",
+      "type": "notable-encounter",
+      "person": "",
+      "quote": "",
+      "body": "Moored in Split, Juno’s 7 found herself beside Triumph. The connection made the encounter especially personal: Triumph is a sister ship of Calex, the yacht on which Cameron completed his first season.",
+      "summary": "A notable neighbour connected directly to Cameron’s own yachting story.",
+      "photos": [],
+      "videos": [],
+      "media": [],
+      "notableEncounter": {
+        "title": "Triumph",
+        "body": "The encounter mattered less because of fame and more because of familiarity. Triumph’s connection to Calex quietly linked Cameron’s first yacht season with the season now unfolding aboard Juno’s 7."
+      },
+      "crewMoment": {
+        "title": "Two seasons connected",
+        "body": "The owner of Juno’s 7 has known the owner of Calex for many years, adding another small thread between the yachts and Cameron’s route into the industry."
+      }
+    },
+    {
+      "id": "dolphins-off-milna",
+      "date": "2026-07-10",
+      "title": "Dolphins off Milna",
+      "location": "Off Milna, Croatia",
+      "type": "wildlife",
+      "person": "Cameron",
+      "quote": "",
+      "body": "While Juno’s 7 lay at anchor near Milna, dolphins appeared beside the yacht. Cameron’s own footage caught a lovely breach, while the captain’s drone supplied the best view from above.\n\nThe accompanying photographs hold the calm setting around the encounter: blue water, quiet decks and the Croatian coast beyond.",
+      "summary": "Dolphins beside the yacht, then the captain’s drone lifting the view above the anchorage.",
+      "photos": [
+        "milna-aft-deck",
+        "milna-anchorage",
+        "milna-bay",
+        "milna-sun-on-water"
+      ],
+      "videos": [
+        "dolphins-from-deck",
+        "dolphin-drone-footage"
+      ],
+      "media": [
+        "milna-aft-deck",
+        "milna-anchorage",
+        "milna-bay",
+        "milna-sun-on-water",
+        "dolphins-from-deck",
+        "dolphin-drone-footage"
+      ],
+      "heroMedia": "dolphins-from-deck",
+      "crewMoment": {
+        "title": "A lovely breach",
+        "body": "Cameron’s phone footage captured the close-up moment; the captain’s drone then turned it into a wider memory of dolphins moving through the anchorage."
+      }
+    },
+    {
+      "id": "teak-dent-repair-entry",
+      "date": "2026-07-11",
+      "title": "Getting the Dents Out",
+      "location": "On board Juno’s 7",
+      "type": "work",
+      "person": "Cameron",
+      "quote": "Getting dents out the teak (Because some idiot dropped a fender hook onto it — they weigh about 5kg 'ish).",
+      "body": "A damp towel, a hot iron and a little patience became the repair kit after a heavy fender hook landed on the teak. The steam encourages the compressed wood fibres to rise again — a small, careful job that says a great deal about the standards expected on deck.",
+      "summary": "A five-kilogram fender hook, a dented teak deck and a practical lesson in putting things right.",
+      "photos": [
+        "teak-dent-repair"
+      ],
+      "videos": [],
+      "media": [
+        "teak-dent-repair"
+      ],
+      "heroMedia": "teak-dent-repair",
+      "crewMoment": {
+        "title": "The less glamorous side of yacht life",
+        "body": "The spectacular locations come with painstaking maintenance. Even a small dent in the teak becomes a job to solve properly."
+      }
+    },
+    {
+      "id": "vis-film-set-and-ash",
+      "date": "2026-07-11",
+      "title": "A Film Set — and Ash on the Deck",
+      "location": "Vis, Croatia",
+      "type": "destination",
+      "person": "Sophie",
+      "quote": "Mamma Mia 2 was filmed in the place we are docked right now.",
+      "body": "Vis brought one of those family-chat discoveries that instantly changes how a place feels. Sophie’s message prompted Ellis to reply: “you’re joking me and dad need to go”.\n\nLater, the day gained a more sobering detail. Fine ash from the wildfire on Korčula was drifting across the Adriatic and landing on Juno’s 7, connecting the calm sunset above Vis with events unfolding on another island.",
+      "summary": "A famous film location, a family reaction and ash arriving across the Adriatic from Korčula.",
+      "photos": [
+        "vis-sunset-ash-1",
+        "vis-sunset-ash-2"
+      ],
+      "videos": [],
+      "media": [
+        "vis-sunset-ash-1",
+        "vis-sunset-ash-2"
+      ],
+      "heroMedia": "vis-sunset-ash-1",
+      "didYouKnow": {
+        "title": "Vis on screen",
+        "body": "Much of Mamma Mia! Here We Go Again was filmed on Vis, with the island standing in for the fictional Greek setting of Kalokairi."
+      },
+      "crewMoment": {
+        "title": "Ellis had an immediate plan",
+        "body": "The family-chat response was instant: “you’re joking me and dad need to go”."
+      }
+    },
+    {
+      "id": "much-nicer-vis",
+      "date": "2026-07-12",
+      "title": "Much Nicer",
+      "location": "Vis, Croatia",
+      "type": "crew-view",
+      "person": "Cameron",
+      "quote": "Much nicer hahahaa.",
+      "body": "Cameron’s 6am video showed steady rain and a noticeably choppy sea near the start of his shift. A little later, the view had transformed: blue skies over Vis harbour, the church on the left, the harbour entrance ahead and teak decks in the foreground.\n\nThe day delivered another surprise too: “I finish at 14:00 today!?! Unreal”. For someone accustomed to early starts and much longer days, an afternoon finish was a genuine bonus.",
+      "summary": "A wet and choppy 6am start gave way to blue skies — and an unexpectedly early finish.",
+      "photos": [
+        "vis-weather-cleared"
+      ],
+      "videos": [
+        "rainy-start-to-shift"
+      ],
+      "media": [
+        "rainy-start-to-shift",
+        "vis-weather-cleared"
+      ],
+      "heroMedia": "vis-weather-cleared",
+      "crewMoment": {
+        "title": "Finished by 14:00",
+        "body": "“I finish at 14:00 today!?! Unreal” was a rare bonus after the long days that normally define the working rhythm aboard."
+      }
+    },
+    {
+      "id": "working-aloft-vis",
+      "date": "2026-07-12",
+      "title": "Ready for the Climb",
+      "location": "Vis, Croatia",
+      "type": "work",
+      "person": "",
+      "quote": "",
+      "body": "Helmet on, radio checked and harness secured: Cameron was photographed in full working-at-height gear in Vis harbour. It is one of the clearest glimpses yet of the practical skill and safety discipline behind everyday deck work.",
+      "summary": "A proper day-at-work portrait, with Vis harbour and two thousand years of history behind it.",
+      "media": [
+        "cameron-working-aloft-vis",
+        "cameron-working-aloft-side"
+      ],
+      "photos": [
+        "cameron-working-aloft-vis",
+        "cameron-working-aloft-side"
+      ],
+      "videos": [],
+      "heroMedia": "cameron-working-aloft-vis",
+      "crewMoment": {
+        "title": "Not every office has a view like this",
+        "body": "The setting is spectacular, but the equipment tells the real story: helmet, lifejacket, radio, harness and working lines all in place before the task begins."
+      },
+      "didYouKnow": {
+        "title": "A Roman theatre beneath the monastery",
+        "body": "Across the harbour, the Church and Franciscan Monastery of St Jerome on the Prirovo Peninsula stand over the remains of a Roman theatre dating to around the first century AD."
+      },
+      "flavourOf": {
+        "title": "Flavour of Vis",
+        "body": "Vis is known for seafood, slow-cooked island dishes, local wine and the kind of harbour meals that feel rooted in the landscape."
+      }
+    },
+    {
+      "id": "afternoon-off-vis",
+      "date": "2026-07-12",
+      "title": "Afternoon Off",
+      "location": "Vis, Croatia",
+      "type": "small-moment",
+      "person": "",
+      "quote": "",
+      "body": "During his afternoon off, Cameron shared a photograph of his and Sophie’s feet splashing in the clear water. It was a simple pause together after a busy stretch aboard.",
+      "summary": "No itinerary and no grand event — just a few hours together beside the Adriatic.",
+      "photos": [
+        "afternoon-off-feet"
+      ],
+      "videos": [],
+      "media": [
+        "afternoon-off-feet"
+      ],
+      "crewMoment": {
+        "title": "Capture moments, not just movements",
+        "body": "The route map records where the yacht went. This quiet photograph records how an afternoon off felt, which may matter even more when the season is remembered years later."
+      },
+      "heroMedia": "afternoon-off-feet"
     }
   ],
   "media": [
@@ -185,7 +656,14 @@
       "date": "2026-06-20",
       "url": "media/photos/2026-06-20-sundeck-black.jpg",
       "title": "Giving the sun deck black some love",
-      "caption": "Deck work with the Greek islands beyond."
+      "caption": "Deck work with the Greek islands beyond.",
+      "originalUrl": "media/photos/2026-06-20-sundeck-black.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-06-20-sundeck-black-enhanced.jpg",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
     },
     {
       "id": "junos-lipsi",
@@ -297,7 +775,14 @@
       "date": "2026-07-02",
       "url": "media/photos/2026-07-02-underway-cavtat.jpg",
       "title": "Underway to Cavtat",
-      "caption": "Looking aft during the passage from Corfu to Cavtat, with SETE following faithfully in Juno's 7 wake."
+      "caption": "Looking aft during the passage from Corfu to Cavtat, with SETE following faithfully in Juno's 7 wake.",
+      "originalUrl": "media/photos/2026-07-02-underway-cavtat.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-02-underway-cavtat-enhanced.jpg",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
     },
     {
       "id": "cavtat-waterfront",
@@ -314,120 +799,2805 @@
       "url": "media/photos/2026-07-04-cavtat-bay.jpg",
       "title": "Moored in Cavtat",
       "caption": "Looking across Cavtat Bay towards Juno's 7, lying off the waterfront beneath the mountains of southern Croatia."
+    },
+    {
+      "id": "cameron-working-aloft-vis",
+      "type": "photo",
+      "date": "2026-07-12",
+      "url": "media/photos/2026-07-12-cameron-working-aloft-portrait.jpg",
+      "originalUrl": "media/photos/2026-07-12-cameron-working-aloft-portrait.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-12-cameron-working-aloft-portrait-enhanced.jpg",
+      "title": "Ready for the climb",
+      "caption": "Cameron in full working-at-height gear in Vis harbour, with the Prirovo waterfront behind him.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "black-pearl-polace-photo",
+      "type": "photo",
+      "date": "2026-07-05",
+      "url": "media/photos/2026-07-05-black-pearl-polace.jpg",
+      "originalUrl": "media/photos/2026-07-05-black-pearl-polace.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-05-black-pearl-polace-enhanced.jpg",
+      "title": "Black Pearl at Polače",
+      "caption": "Black Pearl’s unmistakable three-masted silhouette beyond Juno’s 7 at Polače — prompting Sophie’s perfectly concise verdict: “She’s a biggie!”",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "pakleni-approach-bow",
+      "type": "photo",
+      "date": "2026-07-07",
+      "url": "media/photos/2026-07-07-pakleni-approach-bow.jpg",
+      "originalUrl": "media/photos/2026-07-07-pakleni-approach-bow.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-07-pakleni-approach-bow-enhanced.jpg",
+      "title": "Approaching the Pakleni Islands",
+      "caption": "The Pakleni Islands opening ahead from the bow as Juno’s 7 came in towards the anchorage.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "pakleni-anchorage-view",
+      "type": "photo",
+      "date": "2026-07-07",
+      "url": "media/photos/2026-07-07-pakleni-anchorage-view.jpg",
+      "originalUrl": "media/photos/2026-07-07-pakleni-anchorage-view.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-07-pakleni-anchorage-view-enhanced.jpg",
+      "title": "Clear water off Hvar",
+      "caption": "A second view across the calm blue water while approaching the sheltered Pakleni anchorage.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "peaceful-night-shift-video",
+      "type": "video",
+      "date": "2026-07-08",
+      "url": "media/videos/2026-07-08-peaceful-night-shift.mp4",
+      "title": "Peaceful night shift",
+      "caption": "The sea glowing turquoise beneath Juno’s 7 during Cameron’s early-hours watch."
+    },
+    {
+      "id": "milna-aft-deck",
+      "type": "photo",
+      "date": "2026-07-10",
+      "url": "media/photos/2026-07-10-milna-aft-deck.jpg",
+      "originalUrl": "media/photos/2026-07-10-milna-aft-deck.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-10-milna-aft-deck-enhanced.jpg",
+      "title": "The view from the aft deck",
+      "caption": "A quiet view from Juno’s 7 while she lay at anchor off Milna.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "milna-anchorage",
+      "type": "photo",
+      "date": "2026-07-10",
+      "url": "media/photos/2026-07-10-milna-anchorage.jpg",
+      "originalUrl": "media/photos/2026-07-10-milna-anchorage.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-10-milna-anchorage-enhanced.jpg",
+      "title": "At anchor off Milna",
+      "caption": "The Croatian shore across the water from Juno’s 7 during the Milna anchorage.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "milna-bay",
+      "type": "photo",
+      "date": "2026-07-10",
+      "url": "media/photos/2026-07-10-milna-bay.jpg",
+      "originalUrl": "media/photos/2026-07-10-milna-bay.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-10-milna-bay-enhanced.jpg",
+      "title": "A quiet Croatian anchorage",
+      "caption": "Calm blue water and a sheltered shoreline near Milna.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "milna-sun-on-water",
+      "type": "photo",
+      "date": "2026-07-10",
+      "url": "media/photos/2026-07-10-milna-sun-on-water.jpg",
+      "originalUrl": "media/photos/2026-07-10-milna-sun-on-water.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-10-milna-sun-on-water-enhanced.jpg",
+      "title": "Sunlight off Milna",
+      "caption": "The afternoon sun stretching across the water beside the yacht.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "dolphins-from-deck",
+      "type": "video",
+      "date": "2026-07-10",
+      "url": "media/videos/2026-07-10-dolphins-from-deck.mp4",
+      "title": "A dolphin breach",
+      "caption": "Cameron’s footage caught a lovely dolphin breach beside the yacht while Juno’s 7 was anchored near Milna."
+    },
+    {
+      "id": "dolphin-drone-footage",
+      "type": "video",
+      "date": "2026-07-10",
+      "url": "media/videos/2026-07-10-dolphin-drone-footage.mp4",
+      "title": "Dolphins from above",
+      "caption": "The captain’s drone follows the dolphins from above — the best view of the encounter."
+    },
+    {
+      "id": "teak-dent-repair",
+      "type": "photo",
+      "date": "2026-07-11",
+      "url": "media/photos/2026-07-11-teak-dent-repair.jpg",
+      "originalUrl": "media/photos/2026-07-11-teak-dent-repair.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-11-teak-dent-repair-enhanced.jpg",
+      "title": "Getting the dents out",
+      "caption": "An iron over a damp towel helps steam dents from the teak after a heavy fender hook was dropped onto the deck.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "vis-sunset-ash-1",
+      "type": "photo",
+      "date": "2026-07-11",
+      "url": "media/photos/2026-07-11-vis-sunset-ash-1.jpg",
+      "originalUrl": "media/photos/2026-07-11-vis-sunset-ash-1.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-11-vis-sunset-ash-1-enhanced.jpg",
+      "title": "Sunset over Vis",
+      "caption": "Evening settling over Vis on the day fine ash from the Korčula wildfire began reaching the yacht.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "vis-sunset-ash-2",
+      "type": "photo",
+      "date": "2026-07-11",
+      "url": "media/photos/2026-07-11-vis-sunset-ash-2.jpg",
+      "originalUrl": "media/photos/2026-07-11-vis-sunset-ash-2.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-11-vis-sunset-ash-2-enhanced.jpg",
+      "title": "A smoky Adriatic sky",
+      "caption": "A second sunset view from Juno’s 7 while ash drifted across the Adriatic from the Korčula wildfire.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "rainy-start-to-shift",
+      "type": "video",
+      "date": "2026-07-12",
+      "url": "media/videos/2026-07-12-rainy-start-to-shift.mp4",
+      "title": "A wet start in Vis",
+      "caption": "Cameron’s 6am view: steady rain and a noticeably choppy sea at the start of his shift."
+    },
+    {
+      "id": "vis-weather-cleared",
+      "type": "photo",
+      "date": "2026-07-12",
+      "url": "media/photos/2026-07-12-vis-weather-cleared.jpg",
+      "originalUrl": "media/photos/2026-07-12-vis-weather-cleared.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-12-vis-weather-cleared-enhanced.jpg",
+      "title": "Much nicer",
+      "caption": "Blue skies returning over Vis harbour later that morning — “Much nicer hahahaa.”",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "cameron-working-aloft-side",
+      "type": "photo",
+      "date": "2026-07-12",
+      "url": "media/photos/2026-07-12-cameron-working-aloft-side.jpg",
+      "originalUrl": "media/photos/2026-07-12-cameron-working-aloft-side.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-12-cameron-working-aloft-side-enhanced.jpg",
+      "title": "Working over the side",
+      "caption": "Cameron suspended safely over the side of Juno’s 7 during deck work in Vis.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
+    },
+    {
+      "id": "afternoon-off-feet",
+      "type": "photo",
+      "date": "2026-07-12",
+      "url": "media/photos/2026-07-12-afternoon-off-feet.jpg",
+      "originalUrl": "media/photos/2026-07-12-afternoon-off-feet.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-12-afternoon-off-feet-enhanced.jpg",
+      "title": "Afternoon off",
+      "caption": "Cameron and Sophie cooling their feet in the clear Adriatic during Cameron’s afternoon off.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      }
     }
   ],
   "route": [
     {
       "date": "11 Jun",
       "name": "Lindos, Rhodes",
-      "phase": "before",
-      "lat": 36.091,
-      "lng": 28.086
+      "phase": "onboard",
+      "lat": 36.096464,
+      "lng": 28.08893,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "island": "Rhodes",
+        "nearestSettlement": "Lindos",
+        "displayName": "Rhodes, near Lindos, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Lindos, Rhodes"
     },
     {
       "date": "11-12 Jun",
       "name": "Chalki",
-      "phase": "before",
-      "lat": 36.222,
-      "lng": 27.611
+      "phase": "onboard",
+      "lat": 36.221634,
+      "lng": 27.615895,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "island": "Chalki",
+        "nearestSettlement": "Emporio / Chalki Harbour",
+        "displayName": "Chalki, near Emporio / Chalki Harbour, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Chalki",
+      "legFromPrevious": {
+        "fromTitle": "Lindos, Rhodes",
+        "toTitle": "Chalki",
+        "distanceDirectNm": 24.1,
+        "distanceEstimatedNm": 52.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.096464,
+            28.08893
+          ],
+          [
+            36.094189,
+            28.096483
+          ],
+          [
+            36.042367,
+            28.106117
+          ],
+          [
+            36.007416,
+            28.034534
+          ],
+          [
+            35.949037,
+            27.956429
+          ],
+          [
+            35.869508,
+            27.880211
+          ],
+          [
+            35.843352,
+            27.79644
+          ],
+          [
+            35.825469,
+            27.712326
+          ],
+          [
+            35.908935,
+            27.647781
+          ],
+          [
+            36.034525,
+            27.671127
+          ],
+          [
+            36.177202,
+            27.639713
+          ],
+          [
+            36.21308,
+            27.622622
+          ],
+          [
+            36.217955,
+            27.621474
+          ],
+          [
+            36.221634,
+            27.615895
+          ]
+        ]
+      }
     },
     {
       "date": "12-13 Jun",
       "name": "Symi",
-      "phase": "before",
-      "lat": 36.617,
-      "lng": 27.838
+      "phase": "onboard",
+      "lat": 36.616574,
+      "lng": 27.838722,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "island": "Symi",
+        "nearestSettlement": "Symi Harbour / Gialos",
+        "displayName": "Symi, near Symi Harbour / Gialos, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Symi",
+      "legFromPrevious": {
+        "fromTitle": "Chalki",
+        "toTitle": "Symi",
+        "distanceDirectNm": 26.0,
+        "distanceEstimatedNm": 31.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.221634,
+            27.615895
+          ],
+          [
+            36.222844,
+            27.624789
+          ],
+          [
+            36.225092,
+            27.629178
+          ],
+          [
+            36.248946,
+            27.630787
+          ],
+          [
+            36.358234,
+            27.691555
+          ],
+          [
+            36.52726,
+            27.83987
+          ],
+          [
+            36.539769,
+            27.868237
+          ],
+          [
+            36.545975,
+            27.882056
+          ],
+          [
+            36.576447,
+            27.882743
+          ],
+          [
+            36.606907,
+            27.885146
+          ],
+          [
+            36.612763,
+            27.884889
+          ],
+          [
+            36.630949,
+            27.878108
+          ],
+          [
+            36.63457,
+            27.87298
+          ],
+          [
+            36.634641,
+            27.86636
+          ],
+          [
+            36.630949,
+            27.856393
+          ],
+          [
+            36.628539,
+            27.850986
+          ],
+          [
+            36.62475,
+            27.845836
+          ],
+          [
+            36.616574,
+            27.838722
+          ]
+        ]
+      }
     },
     {
       "date": "15-16 Jun",
       "name": "Nisyros",
-      "phase": "before",
-      "lat": 36.611,
-      "lng": 27.133
+      "phase": "onboard",
+      "lat": 36.613099,
+      "lng": 27.131488,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "island": "Nisyros",
+        "nearestSettlement": "Mandraki",
+        "displayName": "Nisyros, near Mandraki, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Nisyros",
+      "legFromPrevious": {
+        "fromTitle": "Symi",
+        "toTitle": "Nisyros",
+        "distanceDirectNm": 34.1,
+        "distanceEstimatedNm": 36.2,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.616574,
+            27.838722
+          ],
+          [
+            36.617127,
+            27.839066
+          ],
+          [
+            36.626954,
+            27.842832
+          ],
+          [
+            36.637561,
+            27.84472
+          ],
+          [
+            36.641349,
+            27.843261
+          ],
+          [
+            36.643213,
+            27.840793
+          ],
+          [
+            36.644143,
+            27.837746
+          ],
+          [
+            36.645275,
+            27.831845
+          ],
+          [
+            36.643966,
+            27.811761
+          ],
+          [
+            36.635332,
+            27.359905
+          ],
+          [
+            36.628168,
+            27.235966
+          ],
+          [
+            36.626791,
+            27.179317
+          ],
+          [
+            36.624466,
+            27.156229
+          ],
+          [
+            36.620892,
+            27.137475
+          ],
+          [
+            36.613099,
+            27.131488
+          ]
+        ]
+      }
     },
     {
       "date": "16-18 Jun",
       "name": "Kos",
-      "phase": "before",
-      "lat": 36.893,
-      "lng": 27.289
+      "phase": "onboard",
+      "lat": 36.894668,
+      "lng": 27.288634,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "island": "Kos",
+        "nearestSettlement": "Kos Town",
+        "displayName": "Kos, near Kos Town, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Kos",
+      "legFromPrevious": {
+        "fromTitle": "Nisyros",
+        "toTitle": "Kos",
+        "distanceDirectNm": 18.5,
+        "distanceEstimatedNm": 26.0,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.613099,
+            27.131488
+          ],
+          [
+            36.63974,
+            27.148075
+          ],
+          [
+            36.67551,
+            27.221031
+          ],
+          [
+            36.795471,
+            27.377586
+          ],
+          [
+            36.867468,
+            27.374153
+          ],
+          [
+            36.896062,
+            27.355099
+          ],
+          [
+            36.900549,
+            27.299094
+          ],
+          [
+            36.898918,
+            27.289765
+          ],
+          [
+            36.897743,
+            27.289079
+          ],
+          [
+            36.89691,
+            27.288671
+          ],
+          [
+            36.896593,
+            27.288553
+          ],
+          [
+            36.894668,
+            27.288634
+          ]
+        ]
+      }
     },
     {
       "date": "17 Jun",
       "name": "Cameron & Sophie join",
       "phase": "milestone",
-      "lat": 36.893,
-      "lng": 27.289
+      "lat": 36.894672,
+      "lng": 27.288634,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "island": "Kos",
+        "nearestSettlement": "Kos Town",
+        "displayName": "Kos, near Kos Town, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Cameron & Sophie join",
+      "legFromPrevious": {
+        "fromTitle": "Kos",
+        "toTitle": "Cameron & Sophie join",
+        "distanceDirectNm": 0.0,
+        "distanceEstimatedNm": 0.0,
+        "usesManualSeaRoute": false,
+        "geometry": [
+          [
+            36.894668,
+            27.288634
+          ],
+          [
+            36.894672,
+            27.288634
+          ]
+        ]
+      }
     },
     {
       "date": "18-19 Jun",
       "name": "Lipsi",
       "phase": "onboard",
       "lat": 37.295,
-      "lng": 26.766
+      "lng": 26.766,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "island": "Lipsi",
+        "nearestSettlement": "Lipsi Harbour",
+        "displayName": "Lipsi, near Lipsi Harbour, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Lipsi",
+      "legFromPrevious": {
+        "fromTitle": "Cameron & Sophie join",
+        "toTitle": "Lipsi",
+        "distanceDirectNm": 34.7,
+        "distanceEstimatedNm": 36.1,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.894672,
+            27.288634
+          ],
+          [
+            36.896678,
+            27.28844
+          ],
+          [
+            36.899098,
+            27.289487
+          ],
+          [
+            36.916304,
+            27.285168
+          ],
+          [
+            37.059527,
+            27.114773
+          ],
+          [
+            37.268845,
+            26.782694
+          ],
+          [
+            37.27623,
+            26.762137
+          ],
+          [
+            37.287012,
+            26.754198
+          ],
+          [
+            37.293307,
+            26.757224
+          ],
+          [
+            37.295,
+            26.766
+          ]
+        ]
+      }
     },
     {
       "date": "19-21 Jun",
       "name": "Patmos",
       "phase": "onboard",
       "lat": 37.324,
-      "lng": 26.545
+      "lng": 26.545,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "island": "Patmos",
+        "nearestSettlement": "Skala",
+        "displayName": "Patmos, near Skala, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Patmos",
+      "legFromPrevious": {
+        "fromTitle": "Lipsi",
+        "toTitle": "Patmos",
+        "distanceDirectNm": 10.7,
+        "distanceEstimatedNm": 10.9,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            37.295,
+            26.766
+          ],
+          [
+            37.2936,
+            26.757025
+          ],
+          [
+            37.289041,
+            26.750668
+          ],
+          [
+            37.318835,
+            26.572194
+          ],
+          [
+            37.322521,
+            26.562581
+          ],
+          [
+            37.321224,
+            26.553311
+          ],
+          [
+            37.324,
+            26.545
+          ]
+        ]
+      }
     },
     {
       "date": "22 Jun",
       "name": "Katapola, Amorgos",
       "phase": "onboard",
-      "lat": 36.827,
-      "lng": 25.863
+      "lat": 36.827768,
+      "lng": 25.86261,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "island": "Amorgos",
+        "nearestSettlement": "Katapola",
+        "displayName": "Amorgos, near Katapola, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Katapola, Amorgos",
+      "legFromPrevious": {
+        "fromTitle": "Patmos",
+        "toTitle": "Katapola, Amorgos",
+        "distanceDirectNm": 44.2,
+        "distanceEstimatedNm": 51.0,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            37.324,
+            26.545
+          ],
+          [
+            37.320376,
+            26.556594
+          ],
+          [
+            37.320201,
+            26.565843
+          ],
+          [
+            37.313921,
+            26.57434
+          ],
+          [
+            37.300258,
+            26.585455
+          ],
+          [
+            37.280848,
+            26.589146
+          ],
+          [
+            37.264729,
+            26.583652
+          ],
+          [
+            37.255439,
+            26.56889
+          ],
+          [
+            36.941592,
+            25.974083
+          ],
+          [
+            36.919285,
+            25.945287
+          ],
+          [
+            36.893608,
+            25.88851
+          ],
+          [
+            36.883723,
+            25.869284
+          ],
+          [
+            36.85818,
+            25.841131
+          ],
+          [
+            36.847406,
+            25.833793
+          ],
+          [
+            36.838064,
+            25.833879
+          ],
+          [
+            36.831813,
+            25.838771
+          ],
+          [
+            36.828038,
+            25.862353
+          ],
+          [
+            36.82748,
+            25.862668
+          ],
+          [
+            36.827768,
+            25.86261
+          ]
+        ]
+      }
     },
     {
       "date": "22-23 Jun",
       "name": "Ios",
       "phase": "onboard",
-      "lat": 36.722,
-      "lng": 25.272
+      "lat": 36.722263,
+      "lng": 25.271489,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "island": "Ios",
+        "nearestSettlement": "Ios Port / Ormos",
+        "displayName": "Ios, near Ios Port / Ormos, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Ios",
+      "legFromPrevious": {
+        "fromTitle": "Katapola, Amorgos",
+        "toTitle": "Ios",
+        "distanceDirectNm": 29.1,
+        "distanceEstimatedNm": 36.1,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.827768,
+            25.86261
+          ],
+          [
+            36.828282,
+            25.862069
+          ],
+          [
+            36.825209,
+            25.743456
+          ],
+          [
+            36.804182,
+            25.317392
+          ],
+          [
+            36.794835,
+            25.264177
+          ],
+          [
+            36.758261,
+            25.241003
+          ],
+          [
+            36.724834,
+            25.235167
+          ],
+          [
+            36.718857,
+            25.235639
+          ],
+          [
+            36.713972,
+            25.239844
+          ],
+          [
+            36.71088,
+            25.249693
+          ],
+          [
+            36.711495,
+            25.260444
+          ],
+          [
+            36.718002,
+            25.263255
+          ],
+          [
+            36.721014,
+            25.265347
+          ],
+          [
+            36.723024,
+            25.268319
+          ],
+          [
+            36.722263,
+            25.271489
+          ]
+        ]
+      }
     },
     {
       "date": "23 Jun",
       "name": "Ios departure AIS",
       "phase": "ais",
       "lat": 36.71285,
-      "lng": 25.28499
+      "lng": 25.28499,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "island": "Ios",
+        "nearestSettlement": "Ios Port / Ormos",
+        "displayName": "Ios, near Ios Port / Ormos, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Ios departure AIS",
+      "legFromPrevious": {
+        "fromTitle": "Ios",
+        "toTitle": "Ios departure AIS",
+        "distanceDirectNm": 0.9,
+        "distanceEstimatedNm": 2.2,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.722263,
+            25.271489
+          ],
+          [
+            36.722699,
+            25.268415
+          ],
+          [
+            36.720773,
+            25.265604
+          ],
+          [
+            36.717658,
+            25.263727
+          ],
+          [
+            36.713082,
+            25.262096
+          ],
+          [
+            36.709435,
+            25.262268
+          ],
+          [
+            36.708162,
+            25.270078
+          ],
+          [
+            36.709775,
+            25.280356
+          ],
+          [
+            36.71285,
+            25.28499
+          ]
+        ]
+      }
     },
     {
       "date": "24 Jun",
       "name": "Sea of Crete AIS marker",
       "phase": "ais",
       "lat": 36.6513,
-      "lng": 24.3377
+      "lng": 24.3377,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "seaArea": "Sea of Crete / Cyclades area",
+        "displayName": "Underway in the Sea of Crete / Cyclades area, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Sea of Crete AIS marker",
+      "legFromPrevious": {
+        "fromTitle": "Ios departure AIS",
+        "toTitle": "Sea of Crete AIS marker",
+        "distanceDirectNm": 45.8,
+        "distanceEstimatedNm": 47.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.71285,
+            25.28499
+          ],
+          [
+            36.709229,
+            25.280807
+          ],
+          [
+            36.706954,
+            25.270143
+          ],
+          [
+            36.722779,
+            25.185599
+          ],
+          [
+            36.720294,
+            25.130968
+          ],
+          [
+            36.701389,
+            25.060158
+          ],
+          [
+            36.661672,
+            24.987717
+          ],
+          [
+            36.67995,
+            24.857769
+          ],
+          [
+            36.654339,
+            24.61607
+          ],
+          [
+            36.619799,
+            24.518051
+          ],
+          [
+            36.639834,
+            24.373298
+          ],
+          [
+            36.6513,
+            24.3377
+          ]
+        ]
+      }
     },
     {
       "date": "25 Jun",
       "name": "Sea of Crete / Cyclades area",
       "phase": "ais",
       "lat": 36.6473,
-      "lng": 24.3392
+      "lng": 24.3392,
+      "location": {
+        "country": "Greece",
+        "region": "South Aegean",
+        "seaArea": "Sea of Crete / Cyclades area",
+        "displayName": "Underway in the Sea of Crete / Cyclades area, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Sea of Crete / Cyclades area",
+      "legFromPrevious": {
+        "fromTitle": "Sea of Crete AIS marker",
+        "toTitle": "Sea of Crete / Cyclades area",
+        "distanceDirectNm": 0.3,
+        "distanceEstimatedNm": 0.3,
+        "usesManualSeaRoute": false,
+        "geometry": [
+          [
+            36.6513,
+            24.3377
+          ],
+          [
+            36.6473,
+            24.3392
+          ]
+        ]
+      }
     },
     {
       "date": "26-27 Jun",
       "name": "Zakynthos",
       "phase": "onboard",
-      "lat": 37.788,
-      "lng": 20.899
+      "lat": 37.784249,
+      "lng": 20.904086,
+      "location": {
+        "country": "Greece",
+        "region": "Ionian Islands",
+        "island": "Zakynthos",
+        "nearestSettlement": "Zakynthos Town",
+        "displayName": "Zakynthos, near Zakynthos Town, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Zakynthos",
+      "legFromPrevious": {
+        "fromTitle": "Sea of Crete / Cyclades area",
+        "toTitle": "Zakynthos",
+        "distanceDirectNm": 177.9,
+        "distanceEstimatedNm": 223.9,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.6473,
+            24.3392
+          ],
+          [
+            36.639757,
+            24.330168
+          ],
+          [
+            36.636589,
+            24.283476
+          ],
+          [
+            36.526053,
+            23.915176
+          ],
+          [
+            36.381352,
+            23.185959
+          ],
+          [
+            36.387502,
+            23.057213
+          ],
+          [
+            36.432021,
+            22.904949
+          ],
+          [
+            36.333796,
+            22.600937
+          ],
+          [
+            36.357025,
+            22.415543
+          ],
+          [
+            36.515983,
+            22.042694
+          ],
+          [
+            36.667868,
+            21.568909
+          ],
+          [
+            37.143761,
+            21.353989
+          ],
+          [
+            37.522525,
+            21.108856
+          ],
+          [
+            37.726058,
+            21.150742
+          ],
+          [
+            37.808563,
+            21.009293
+          ],
+          [
+            37.784249,
+            20.904086
+          ]
+        ]
+      }
     },
     {
       "date": "28 Jun",
       "name": "Sami, Kefalonia",
       "phase": "onboard",
       "lat": 38.253,
-      "lng": 20.647
+      "lng": 20.647,
+      "location": {
+        "country": "Greece",
+        "region": "Ionian Islands",
+        "island": "Kefalonia",
+        "nearestSettlement": "Sami",
+        "displayName": "Kefalonia, near Sami, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Sami, Kefalonia",
+      "legFromPrevious": {
+        "fromTitle": "Zakynthos",
+        "toTitle": "Sami, Kefalonia",
+        "distanceDirectNm": 30.7,
+        "distanceEstimatedNm": 36.8,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            37.784249,
+            20.904086
+          ],
+          [
+            37.793436,
+            20.909836
+          ],
+          [
+            37.818328,
+            20.913162
+          ],
+          [
+            37.920232,
+            20.917282
+          ],
+          [
+            38.118217,
+            20.854111
+          ],
+          [
+            38.217548,
+            20.759354
+          ],
+          [
+            38.285608,
+            20.695925
+          ],
+          [
+            38.289255,
+            20.690475
+          ],
+          [
+            38.289996,
+            20.684295
+          ],
+          [
+            38.288303,
+            20.667257
+          ],
+          [
+            38.281305,
+            20.660949
+          ],
+          [
+            38.253,
+            20.647
+          ]
+        ]
+      }
     },
     {
       "date": "29-30 Jun",
       "name": "East Coast Ithaca / Underway",
-      "phase": "current",
+      "phase": "onboard",
       "lat": 38.43164,
-      "lng": 20.58843
+      "lng": 20.58843,
+      "location": {
+        "country": "Greece",
+        "region": "Ionian Islands",
+        "island": "Ithaca",
+        "nearestSettlement": "Vathy / Frikes area",
+        "displayName": "Ithaca, near Vathy / Frikes area, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "East Coast Ithaca / Underway",
+      "legFromPrevious": {
+        "fromTitle": "Sami, Kefalonia",
+        "toTitle": "East Coast Ithaca / Underway",
+        "distanceDirectNm": 11.1,
+        "distanceEstimatedNm": 11.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            38.253,
+            20.647
+          ],
+          [
+            38.292025,
+            20.645714
+          ],
+          [
+            38.392767,
+            20.627346
+          ],
+          [
+            38.414291,
+            20.618076
+          ],
+          [
+            38.429529,
+            20.594725
+          ],
+          [
+            38.43164,
+            20.58843
+          ]
+        ]
+      },
+      "status": "Underway"
+    },
+    {
+      "date": "30 Jun",
+      "name": "Paxi / Paxos",
+      "phase": "onboard",
+      "lat": 39.202978,
+      "lng": 20.191176,
+      "location": {
+        "country": "Greece",
+        "region": "Ionian Islands",
+        "island": "Paxos",
+        "nearestSettlement": "Gaios",
+        "displayName": "Paxos, near Gaios, Greece",
+        "lookupSource": "manual backfill for v2.1.0; future entries can be generated by reverse geocoding"
+      },
+      "title": "Paxi / Paxos",
+      "legFromPrevious": {
+        "fromTitle": "East Coast Ithaca / Underway",
+        "toTitle": "Paxi / Paxos",
+        "distanceDirectNm": 49.9,
+        "distanceEstimatedNm": 52.2,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            38.43164,
+            20.58843
+          ],
+          [
+            38.431419,
+            20.592896
+          ],
+          [
+            38.437283,
+            20.594881
+          ],
+          [
+            38.455168,
+            20.599537
+          ],
+          [
+            38.493218,
+            20.573359
+          ],
+          [
+            38.571723,
+            20.498772
+          ],
+          [
+            39.145905,
+            20.284195
+          ],
+          [
+            39.197906,
+            20.224628
+          ],
+          [
+            39.204308,
+            20.216475
+          ],
+          [
+            39.207309,
+            20.208707
+          ],
+          [
+            39.208344,
+            20.197699
+          ],
+          [
+            39.206781,
+            20.193622
+          ],
+          [
+            39.202843,
+            20.192174
+          ],
+          [
+            39.202978,
+            20.191176
+          ]
+        ]
+      }
+    },
+    {
+      "date": "1 Jul",
+      "title": "East Coast Corfu",
+      "name": "East Coast Corfu",
+      "phase": "onboard",
+      "lat": 39.712667,
+      "lng": 19.870877,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226750,
+        "displayName": "Near Dubrovnik-Neretva County, Croatia",
+        "shortName": "Dubrovnik-Neretva County",
+        "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Dubrovnik-Neretva County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Dubrovnik-Neretva County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Paxi / Paxos",
+        "toTitle": "East Coast Corfu",
+        "distanceDirectNm": 34.0,
+        "distanceEstimatedNm": 34.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.202978,
+            20.191176
+          ],
+          [
+            39.20309,
+            20.191734
+          ],
+          [
+            39.207309,
+            20.193257
+          ],
+          [
+            39.38193,
+            20.138197
+          ],
+          [
+            39.471053,
+            20.085068
+          ],
+          [
+            39.64309,
+            19.943533
+          ],
+          [
+            39.712667,
+            19.870877
+          ]
+        ]
+      }
+    },
+    {
+      "date": "1 Jul PM",
+      "title": "East Coast Corfu",
+      "name": "East Coast Corfu",
+      "phase": "onboard",
+      "lat": 39.620394,
+      "lng": 19.926473,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "node",
+        "osmId": 1827940532,
+        "displayName": "Near Corfu Town, Corfu, Greece",
+        "shortName": "Corfu Town, Corfu",
+        "rawDisplayName": "Corfu, Municipality of Central Corfu and Diapontia Islands, Corfu Regional Unit, Ioanian Islands, Peloponnese, Western Greece and the Ionian, 491 00, Greece",
+        "country": "Greece",
+        "countryCode": "GR",
+        "region": "Ioanian Islands",
+        "county": "Corfu Regional Unit",
+        "municipality": "Municipality of Central Corfu and Diapontia Islands",
+        "island": "Corfu",
+        "nearestPlace": "Corfu Town",
+        "localArea": null,
+        "nearestKnownPlace": "Corfu Town",
+        "nearestKnownPlaceDistanceKm": 0.6,
+        "nearestKnownPlaceDistanceNm": 0.3,
+        "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
+      },
+      "legFromPrevious": {
+        "fromTitle": "East Coast Corfu",
+        "toTitle": "East Coast Corfu",
+        "distanceDirectNm": 6.1,
+        "distanceEstimatedNm": 7.3,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.712667,
+            19.870877
+          ],
+          [
+            39.663559,
+            19.921474
+          ],
+          [
+            39.636332,
+            19.94276
+          ],
+          [
+            39.622846,
+            19.94482
+          ],
+          [
+            39.620394,
+            19.926473
+          ]
+        ]
+      }
+    },
+    {
+      "date": "2 Jul",
+      "title": "Heading towards Cavtat, Croatia",
+      "name": "Heading towards Cavtat, Croatia",
+      "phase": "onboard",
+      "lat": 40.004344,
+      "lng": 19.667587,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 53292,
+        "displayName": "Near Kassiopi, Corfu, Greece",
+        "shortName": "Kassiopi, Corfu",
+        "rawDisplayName": "Albania",
+        "country": "Albania",
+        "countryCode": "AL",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": "Corfu",
+        "nearestPlace": "Kassiopi",
+        "localArea": null,
+        "nearestKnownPlace": "Kassiopi",
+        "nearestKnownPlaceDistanceKm": 32.3,
+        "nearestKnownPlaceDistanceNm": 17.4,
+        "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
+      },
+      "legFromPrevious": {
+        "fromTitle": "East Coast Corfu",
+        "toTitle": "Heading towards Cavtat, Croatia",
+        "distanceDirectNm": 26.0,
+        "distanceEstimatedNm": 30.9,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.620394,
+            19.926473
+          ],
+          [
+            39.621541,
+            19.947653
+          ],
+          [
+            39.667408,
+            19.945421
+          ],
+          [
+            39.742273,
+            19.9613
+          ],
+          [
+            39.783081,
+            19.982071
+          ],
+          [
+            39.826336,
+            19.961472
+          ],
+          [
+            40.004344,
+            19.667587
+          ]
+        ]
+      },
+      "status": "Underway"
+    },
+    {
+      "date": "3 Jul",
+      "title": "Cavtat Harbour",
+      "name": "Cavtat Harbour",
+      "phase": "onboard",
+      "lat": 42.582292,
+      "lng": 18.21644,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226750,
+        "displayName": "Near Dubrovnik-Neretva County, Croatia",
+        "shortName": "Dubrovnik-Neretva County",
+        "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Dubrovnik-Neretva County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Dubrovnik-Neretva County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Heading towards Cavtat, Croatia",
+        "toTitle": "Cavtat Harbour",
+        "distanceDirectNm": 168.0,
+        "distanceEstimatedNm": 173.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            40.004344,
+            19.667587
+          ],
+          [
+            40.32744,
+            19.216461
+          ],
+          [
+            40.458964,
+            19.096985
+          ],
+          [
+            40.917145,
+            18.970642
+          ],
+          [
+            41.103674,
+            18.849792
+          ],
+          [
+            42.452056,
+            18.259449
+          ],
+          [
+            42.533319,
+            18.219967
+          ],
+          [
+            42.55357,
+            18.213358
+          ],
+          [
+            42.565843,
+            18.214002
+          ],
+          [
+            42.574882,
+            18.206534
+          ],
+          [
+            42.584923,
+            18.198423
+          ],
+          [
+            42.588722,
+            18.197951
+          ],
+          [
+            42.591376,
+            18.198895
+          ],
+          [
+            42.591556,
+            18.200129
+          ],
+          [
+            42.590276,
+            18.201395
+          ],
+          [
+            42.587923,
+            18.20309
+          ],
+          [
+            42.583957,
+            18.208412
+          ],
+          [
+            42.582045,
+            18.213884
+          ],
+          [
+            42.582062,
+            18.215155
+          ],
+          [
+            42.582292,
+            18.21644
+          ]
+        ]
+      },
+      "status": "Moored"
+    },
+    {
+      "date": "4 Jul",
+      "title": "Near Lokrum",
+      "name": "Near Lokrum",
+      "phase": "onboard",
+      "lat": 42.634586,
+      "lng": 18.122871,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226750,
+        "displayName": "Near Dubrovnik-Neretva County, Croatia",
+        "shortName": "Dubrovnik-Neretva County",
+        "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Dubrovnik-Neretva County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Dubrovnik-Neretva County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Cavtat Harbour",
+        "toTitle": "Near Lokrum",
+        "distanceDirectNm": 5.2,
+        "distanceEstimatedNm": 5.4,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            42.582292,
+            18.21644
+          ],
+          [
+            42.582156,
+            18.215064
+          ],
+          [
+            42.582344,
+            18.213422
+          ],
+          [
+            42.585535,
+            18.207157
+          ],
+          [
+            42.606911,
+            18.15568
+          ],
+          [
+            42.612343,
+            18.140745
+          ],
+          [
+            42.632534,
+            18.122742
+          ],
+          [
+            42.634586,
+            18.122871
+          ]
+        ]
+      }
+    },
+    {
+      "date": "5 Jul",
+      "title": "En route to Mljet",
+      "name": "En route to Mljet",
+      "phase": "onboard",
+      "lat": 42.718768,
+      "lng": 17.762833,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226750,
+        "displayName": "Near Dubrovnik-Neretva County, Croatia",
+        "shortName": "Dubrovnik-Neretva County",
+        "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Dubrovnik-Neretva County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Dubrovnik-Neretva County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Near Lokrum",
+        "toTitle": "En route to Mljet",
+        "distanceDirectNm": 16.7,
+        "distanceEstimatedNm": 16.9,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            42.634586,
+            18.122871
+          ],
+          [
+            42.63503,
+            18.122152
+          ],
+          [
+            42.635849,
+            18.119867
+          ],
+          [
+            42.635533,
+            18.110211
+          ],
+          [
+            42.634113,
+            18.103821
+          ],
+          [
+            42.632435,
+            18.080629
+          ],
+          [
+            42.652631,
+            17.995022
+          ],
+          [
+            42.683303,
+            17.877605
+          ],
+          [
+            42.718768,
+            17.762833
+          ]
+        ]
+      },
+      "status": "Underway"
+    },
+    {
+      "date": "5 Jul",
+      "title": "Polače, Mljet",
+      "name": "Polače, Mljet",
+      "phase": "onboard",
+      "lat": 42.789039,
+      "lng": 17.383375,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226750,
+        "displayName": "Near Dubrovnik-Neretva County, Croatia",
+        "shortName": "Dubrovnik-Neretva County",
+        "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Dubrovnik-Neretva County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Dubrovnik-Neretva County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "En route to Mljet",
+        "toTitle": "Polace, Mljet",
+        "distanceDirectNm": 17.3,
+        "distanceEstimatedNm": 17.5,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            42.718768,
+            17.762833
+          ],
+          [
+            42.73565,
+            17.698374
+          ],
+          [
+            42.757537,
+            17.617607
+          ],
+          [
+            42.771652,
+            17.53315
+          ],
+          [
+            42.785039,
+            17.473927
+          ],
+          [
+            42.793251,
+            17.422042
+          ],
+          [
+            42.792061,
+            17.412268
+          ],
+          [
+            42.793633,
+            17.401292
+          ],
+          [
+            42.793728,
+            17.398846
+          ],
+          [
+            42.791964,
+            17.393267
+          ],
+          [
+            42.788549,
+            17.384588
+          ],
+          [
+            42.789039,
+            17.383375
+          ]
+        ]
+      },
+      "status": "At anchor"
+    },
+    {
+      "date": "6 Jul",
+      "title": "Gubavac, Korčula",
+      "name": "Gubavac, Korčula",
+      "phase": "onboard",
+      "lat": 42.929496,
+      "lng": 17.183282,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226750,
+        "displayName": "Near Dubrovnik-Neretva County, Croatia",
+        "shortName": "Dubrovnik-Neretva County",
+        "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Dubrovnik-Neretva County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Dubrovnik-Neretva County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Polace, Mljet",
+        "toTitle": "Gubavac, Korcula",
+        "distanceDirectNm": 12.2,
+        "distanceEstimatedNm": 13.4,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            42.789039,
+            17.383375
+          ],
+          [
+            42.789289,
+            17.385982
+          ],
+          [
+            42.793377,
+            17.392859
+          ],
+          [
+            42.797005,
+            17.393664
+          ],
+          [
+            42.798123,
+            17.39448
+          ],
+          [
+            42.799364,
+            17.397988
+          ],
+          [
+            42.800872,
+            17.399039
+          ],
+          [
+            42.802909,
+            17.397655
+          ],
+          [
+            42.921093,
+            17.215319
+          ],
+          [
+            42.923364,
+            17.212272
+          ],
+          [
+            42.927549,
+            17.190481
+          ],
+          [
+            42.929136,
+            17.185611
+          ],
+          [
+            42.92945,
+            17.184623
+          ],
+          [
+            42.929496,
+            17.183282
+          ]
+        ]
+      },
+      "status": "At anchor"
+    },
+    {
+      "date": "6 Jul",
+      "title": "Korčula Port",
+      "name": "Korčula Port",
+      "phase": "onboard",
+      "lat": 42.961848,
+      "lng": 17.134524,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226750,
+        "displayName": "Near Dubrovnik-Neretva County, Croatia",
+        "shortName": "Dubrovnik-Neretva County",
+        "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Dubrovnik-Neretva County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Dubrovnik-Neretva County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Gubavac, Korcula",
+        "toTitle": "Korcula Port",
+        "distanceDirectNm": 2.9,
+        "distanceEstimatedNm": 3.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            42.929496,
+            17.183282
+          ],
+          [
+            42.92912,
+            17.180997
+          ],
+          [
+            42.929963,
+            17.176909
+          ],
+          [
+            42.934613,
+            17.177081
+          ],
+          [
+            42.937824,
+            17.173058
+          ],
+          [
+            42.939112,
+            17.169818
+          ],
+          [
+            42.939518,
+            17.167146
+          ],
+          [
+            42.939075,
+            17.165151
+          ],
+          [
+            42.938949,
+            17.162662
+          ],
+          [
+            42.94429,
+            17.158971
+          ],
+          [
+            42.949881,
+            17.156739
+          ],
+          [
+            42.951456,
+            17.153113
+          ],
+          [
+            42.954457,
+            17.150162
+          ],
+          [
+            42.956415,
+            17.148499
+          ],
+          [
+            42.960812,
+            17.147727
+          ],
+          [
+            42.963346,
+            17.142953
+          ],
+          [
+            42.964037,
+            17.137159
+          ],
+          [
+            42.963691,
+            17.134606
+          ],
+          [
+            42.962561,
+            17.134284
+          ],
+          [
+            42.961848,
+            17.134524
+          ]
+        ]
+      },
+      "status": "Moored"
+    },
+    {
+      "date": "7 Jul AM",
+      "title": "En route to Hvar",
+      "name": "En route to Hvar",
+      "phase": "onboard",
+      "lat": 43.0613,
+      "lng": 16.718102,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226749,
+        "displayName": "Near Split-Dalmatia County, Croatia",
+        "shortName": "Split-Dalmatia County",
+        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Split-Dalmatia County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Split-Dalmatia County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Korcula Port",
+        "toTitle": "En route to Hvar",
+        "distanceDirectNm": 19.2,
+        "distanceEstimatedNm": 19.4,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            42.961848,
+            17.134524
+          ],
+          [
+            42.962004,
+            17.134053
+          ],
+          [
+            42.962937,
+            17.133147
+          ],
+          [
+            42.963488,
+            17.132744
+          ],
+          [
+            42.964427,
+            17.132814
+          ],
+          [
+            42.982137,
+            17.059944
+          ],
+          [
+            42.998558,
+            16.947441
+          ],
+          [
+            43.030188,
+            16.841698
+          ],
+          [
+            43.048036,
+            16.764622
+          ],
+          [
+            43.0613,
+            16.718102
+          ]
+        ]
+      },
+      "status": "Underway"
+    },
+    {
+      "date": "7 Jul",
+      "title": "Palmizana Anchorage",
+      "name": "Palmizana Anchorage",
+      "phase": "onboard",
+      "lat": 43.161098,
+      "lng": 16.402105,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226749,
+        "displayName": "Near Split-Dalmatia County, Croatia",
+        "shortName": "Split-Dalmatia County",
+        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Split-Dalmatia County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Split-Dalmatia County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "En route to Hvar",
+        "toTitle": "Palmizana Anchorage",
+        "distanceDirectNm": 15.1,
+        "distanceEstimatedNm": 17.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            43.0613,
+            16.718102
+          ],
+          [
+            43.087304,
+            16.631327
+          ],
+          [
+            43.107437,
+            16.582832
+          ],
+          [
+            43.128489,
+            16.495628
+          ],
+          [
+            43.142315,
+            16.432886
+          ],
+          [
+            43.147525,
+            16.417243
+          ],
+          [
+            43.149579,
+            16.410913
+          ],
+          [
+            43.154538,
+            16.405828
+          ],
+          [
+            43.158451,
+            16.403854
+          ],
+          [
+            43.161192,
+            16.403843
+          ],
+          [
+            43.162646,
+            16.405914
+          ],
+          [
+            43.164493,
+            16.411622
+          ],
+          [
+            43.165776,
+            16.418273
+          ],
+          [
+            43.166277,
+            16.422994
+          ],
+          [
+            43.16612,
+            16.427715
+          ],
+          [
+            43.167055,
+            16.41602
+          ],
+          [
+            43.164426,
+            16.40821
+          ],
+          [
+            43.161098,
+            16.402105
+          ]
+        ]
+      },
+      "status": "At anchor"
+    },
+    {
+      "date": "8 Jul - Late afternoon",
+      "title": "En route to Split",
+      "name": "En route to Split",
+      "phase": "onboard",
+      "lat": 43.172564,
+      "lng": 16.396708,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226749,
+        "displayName": "Near Split-Dalmatia County, Croatia",
+        "shortName": "Split-Dalmatia County",
+        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Split-Dalmatia County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Split-Dalmatia County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Palmizana Anchorage",
+        "toTitle": "En route to Split",
+        "distanceDirectNm": 0.7,
+        "distanceEstimatedNm": 0.9,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            43.161098,
+            16.402105
+          ],
+          [
+            43.162145,
+            16.403382
+          ],
+          [
+            43.16274,
+            16.404154
+          ],
+          [
+            43.16346,
+            16.404283
+          ],
+          [
+            43.164305,
+            16.404068
+          ],
+          [
+            43.1649,
+            16.404026
+          ],
+          [
+            43.165526,
+            16.403854
+          ],
+          [
+            43.166277,
+            16.403511
+          ],
+          [
+            43.171066,
+            16.40115
+          ],
+          [
+            43.172564,
+            16.396708
+          ]
+        ]
+      },
+      "status": "Underway"
+    },
+    {
+      "date": "8 Jul - Early evening",
+      "title": "Approaching Split",
+      "name": "Approaching Split",
+      "phase": "onboard",
+      "lat": 43.398297,
+      "lng": 16.415548,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226749,
+        "displayName": "Near Split-Dalmatia County, Croatia",
+        "shortName": "Split-Dalmatia County",
+        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Split-Dalmatia County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Split-Dalmatia County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "En route to Split",
+        "toTitle": "Approaching Split",
+        "distanceDirectNm": 13.6,
+        "distanceEstimatedNm": 14.7,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            43.172564,
+            16.396708
+          ],
+          [
+            43.188125,
+            16.360188
+          ],
+          [
+            43.194899,
+            16.361132
+          ],
+          [
+            43.219126,
+            16.365852
+          ],
+          [
+            43.306662,
+            16.398296
+          ],
+          [
+            43.398297,
+            16.415548
+          ]
+        ]
+      },
+      "status": "Underway"
+    },
+    {
+      "date": "8 Jul - Evening",
+      "title": "Split - near Riva waterfront",
+      "name": "Split - near Riva waterfront",
+      "phase": "onboard",
+      "lat": 43.505694,
+      "lng": 16.431906,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226749,
+        "displayName": "Near Split-Dalmatia County, Croatia",
+        "shortName": "Split-Dalmatia County",
+        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Split-Dalmatia County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Split-Dalmatia County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Approaching Split",
+        "toTitle": "Split - near Riva waterfront",
+        "distanceDirectNm": 6.5,
+        "distanceEstimatedNm": 6.5,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            43.398297,
+            16.415548
+          ],
+          [
+            43.457639,
+            16.427565
+          ],
+          [
+            43.4962,
+            16.433787
+          ],
+          [
+            43.501731,
+            16.434034
+          ],
+          [
+            43.503083,
+            16.433551
+          ],
+          [
+            43.5049,
+            16.432567
+          ],
+          [
+            43.505694,
+            16.431906
+          ]
+        ]
+      },
+      "status": "Moored"
+    },
+    {
+      "date": "10 Jul",
+      "title": "Off Milna, Croatia",
+      "name": "Off Milna, Croatia",
+      "phase": "onboard",
+      "lat": 43.326235,
+      "lng": 16.428273,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226749,
+        "displayName": "Near Split-Dalmatia County, Croatia",
+        "shortName": "Split-Dalmatia County",
+        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Split-Dalmatia County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Split-Dalmatia County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Split - near Riva waterfront",
+        "toTitle": "Off Milna, Croatia",
+        "distanceDirectNm": 10.8,
+        "distanceEstimatedNm": 10.9,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            43.505694,
+            16.431906
+          ],
+          [
+            43.504953,
+            16.43279
+          ],
+          [
+            43.503242,
+            16.433685
+          ],
+          [
+            43.501402,
+            16.434624
+          ],
+          [
+            43.495614,
+            16.432317
+          ],
+          [
+            43.439942,
+            16.428423
+          ],
+          [
+            43.395927,
+            16.423788
+          ],
+          [
+            43.384825,
+            16.423788
+          ],
+          [
+            43.36798,
+            16.422243
+          ],
+          [
+            43.353128,
+            16.420527
+          ],
+          [
+            43.339272,
+            16.42293
+          ],
+          [
+            43.331905,
+            16.424131
+          ],
+          [
+            43.326235,
+            16.428273
+          ]
+        ]
+      },
+      "status": "At anchor"
+    },
+    {
+      "date": "11 Jul - AM",
+      "title": "En route to Vis",
+      "name": "En route to Vis",
+      "phase": "onboard",
+      "lat": 43.118966,
+      "lng": 16.22921,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226749,
+        "displayName": "Near Split-Dalmatia County, Croatia",
+        "shortName": "Split-Dalmatia County",
+        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Split-Dalmatia County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Split-Dalmatia County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Off Milna, Croatia",
+        "toTitle": "Enr route to Vis",
+        "distanceDirectNm": 15.2,
+        "distanceEstimatedNm": 16.5,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            43.326235,
+            16.428273
+          ],
+          [
+            43.326035,
+            16.427849
+          ],
+          [
+            43.333883,
+            16.419432
+          ],
+          [
+            43.335944,
+            16.409261
+          ],
+          [
+            43.328292,
+            16.400313
+          ],
+          [
+            43.307801,
+            16.384649
+          ],
+          [
+            43.285641,
+            16.376152
+          ],
+          [
+            43.241139,
+            16.314354
+          ],
+          [
+            43.140514,
+            16.23745
+          ],
+          [
+            43.118966,
+            16.22921
+          ]
+        ]
+      },
+      "status": "Underway"
+    },
+    {
+      "date": "11 Jul - Late morning",
+      "title": "Vis, Croatia",
+      "name": "Vis, Croatia",
+      "phase": "onboard",
+      "lat": 43.063962,
+      "lng": 16.195414,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226749,
+        "displayName": "Near Split-Dalmatia County, Croatia",
+        "shortName": "Split-Dalmatia County",
+        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Split-Dalmatia County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Split-Dalmatia County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Enr route to Vis",
+        "toTitle": "Vis, Croatia",
+        "distanceDirectNm": 3.6,
+        "distanceEstimatedNm": 3.7,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            43.118966,
+            16.22921
+          ],
+          [
+            43.087178,
+            16.20286
+          ],
+          [
+            43.079154,
+            16.198397
+          ],
+          [
+            43.073085,
+            16.200006
+          ],
+          [
+            43.065937,
+            16.195672
+          ],
+          [
+            43.063962,
+            16.195414
+          ]
+        ]
+      }
+    },
+    {
+      "date": "11 Jul - PM",
+      "title": "Alongside in Vis, Croatia",
+      "name": "Alongside in Vis, Croatia",
+      "phase": "current",
+      "lat": 43.059156,
+      "lng": 16.188047,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 226749,
+        "displayName": "Near Split-Dalmatia County, Croatia",
+        "shortName": "Split-Dalmatia County",
+        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "country": "Croatia",
+        "countryCode": "HR",
+        "region": null,
+        "county": "Split-Dalmatia County",
+        "municipality": null,
+        "island": null,
+        "nearestPlace": "Split-Dalmatia County",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Vis, Croatia",
+        "toTitle": "Alongside in Vis, Croatia",
+        "distanceDirectNm": 0.4,
+        "distanceEstimatedNm": 0.4,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            43.063962,
+            16.195414
+          ],
+          [
+            43.059465,
+            16.188177
+          ],
+          [
+            43.059156,
+            16.188047
+          ]
+        ]
+      },
+      "status": "Moored"
     }
   ]
 }

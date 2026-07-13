@@ -1,6 +1,6 @@
 {
-  "version": "2.2.2",
-  "release": "Journal Experience Polish",
+  "version": "2.3.0",
+  "release": "Contextual Discovery",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
@@ -46,6 +46,7 @@
     "journalEntries": 23,
     "mediaItems": 40,
     "photos": 28,
-    "videos": 12
+    "videos": 12,
+    "contextualDiscoveries": 8
   }
 }

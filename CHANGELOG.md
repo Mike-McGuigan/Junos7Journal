@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.3.0 - Contextual Discovery
+
+- Added a curated, source-backed discovery layer tied to exact route stops.
+- Added eight initial discoveries selected by proximity, significance and connection to the actual voyage.
+- Added discovery cards to matching journal chapters and a dedicated discovery page.
+- Added discovery markers, badges and selected-stop context to the voyage dashboard.
+- Added build-time validation for route matching, journal matching, distance policy and source URLs.
+- Documented the editorial rule that no discovery is better than forced trivia.
+
 ## 2.2.2 - Journal Experience Polish
 
 - Identified Kos immediately in the opening chapter and changed its displayed location to Kos, Greece.

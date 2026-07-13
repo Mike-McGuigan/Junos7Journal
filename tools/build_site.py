@@ -11,12 +11,14 @@ import stat
 import time
 
 from voyage_routing import enrich_route_file
+from contextual_discovery import build as build_contextual_discovery
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 SITE = ROOT / "site"
 VERSION_FILE = ROOT / "VERSION"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
+RELEASE_NAME = "Contextual Discovery"
 
 
 def sha256(path: Path) -> str:
@@ -102,7 +104,7 @@ def media_stats() -> dict:
     return out
 
 
-def update_dashboard_stats(route_stats: dict) -> None:
+def update_dashboard_stats(route_stats: dict, discovery_stats: dict | None = None) -> None:
     path = DOCS / "data" / "dashboard.json"
     data = load_json(path, {})
     stats = data.setdefault("stats", {})
@@ -112,6 +114,10 @@ def update_dashboard_stats(route_stats: dict) -> None:
     if journal_entries is not None:
         stats["journalEntries"] = journal_entries
     stats.update(media_stats())
+    if discovery_stats is not None:
+        stats["contextualDiscoveries"] = int(discovery_stats.get("count", 0))
+    data["version"] = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else data.get("version")
+    data["release"] = RELEASE_NAME
 
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
@@ -119,7 +125,7 @@ def update_dashboard_stats(route_stats: dict) -> None:
 def write_build_metadata(version: str, build_utc: str) -> None:
     info = {
         "version": version,
-        "release": "Journal Experience Patch",
+        "release": RELEASE_NAME,
         "buildUtc": build_utc,
         "project": "Juno's 7 Mediterranean Journal",
         "pagesSource": "docs",
@@ -143,7 +149,7 @@ def write_build_metadata(version: str, build_utc: str) -> None:
         json.dumps(
             {
                 "version": version,
-                "release": "Journal Experience Patch",
+                "release": RELEASE_NAME,
                 "buildUtc": build_utc,
                 "fileCount": len(manifest),
                 "files": manifest,
@@ -158,11 +164,12 @@ def main() -> None:
     if not DOCS.exists():
         raise SystemExit("docs/ does not exist. Nothing to build.")
 
-    version = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "2.2.2"
+    version = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "2.3.0"
     build_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
     route_stats = enrich_route_file(DOCS / "data" / "route.json", GEOMETRY_FILE)
-    update_dashboard_stats(route_stats)
+    discovery_stats = build_contextual_discovery()
+    update_dashboard_stats(route_stats, discovery_stats)
     write_build_metadata(version, build_utc)
 
     remove_tree(SITE)

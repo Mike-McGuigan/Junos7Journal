@@ -41,11 +41,11 @@ collector/                  Future Collector's Edition workspace
 archive/                    Preserved project material
 ```
 
-## Version 2.2.2
+## Version 2.3.0
 
-This small polish patch clarifies Kos in the opening chapter, cleans the J7 logo against the site navy and improves gallery card backgrounds and typography.
+Contextual Discovery adds a curated, source-backed layer of nearby stories tied to the yacht’s actual stops. Discoveries appear in matching journal chapters, on the voyage map and on a dedicated “What They Almost Missed” page.
 
-See `RELEASE_2_2_2.md` for the full release notes and changed-file installation steps.
+See `RELEASE_2_3_0.md` and `CONTEXTUAL_DISCOVERY.md`.
 
 ## Guiding principle
 

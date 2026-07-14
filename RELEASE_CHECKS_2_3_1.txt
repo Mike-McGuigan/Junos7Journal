@@ -1,0 +1,18 @@
+Juno's 7 Journal v2.3.1 release checks
+
+PASS - VERSION is 2.3.1
+PASS - Contextual Discovery validation: 8 approved discoveries
+PASS - tools Python compile check
+PASS - public JSON parse check
+PASS - public JavaScript syntax checks
+PASS - docs build completed successfully
+PASS - site output rebuilt from docs
+PASS - hero pages use assets/icons/j7-hero-mark.svg
+PASS - favicon links continue to use assets/icons/j7-mark.svg
+PASS - hero mark has a transparent canvas
+PASS - hero mark artwork is tightened within its canvas
+PASS - hero mark responsive size increased to 170-250px
+PASS - docs and site hero assets match
+PASS - changed-files patch only; no full repository required
+
+Note: automated Chromium screenshot capture was unavailable in the build container; visual browser confirmation remains the final sea trial.

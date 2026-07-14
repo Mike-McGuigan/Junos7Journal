@@ -1,0 +1,36 @@
+Juno's 7 Journal v2.3.1 changed-files patch
+
+Root metadata
+- VERSION
+- CHANGELOG.md
+- README.md
+- RELEASE_2_3_1.md
+- PATCH_MANIFEST_2_3_1.txt
+- RELEASE_CHECKS_2_3_1.txt
+
+Build source
+- tools/build_site.py
+
+Public source (docs)
+- docs/assets/css/style.css
+- docs/assets/icons/j7-hero-mark.png
+- docs/assets/icons/j7-hero-mark.svg
+- docs/index.html
+- docs/voyage.html
+- docs/discoveries.html
+- docs/data/dashboard.json
+- docs/data/version.json
+- docs/build-info.json
+- docs/build-manifest.json
+
+Generated output (site)
+- site/assets/css/style.css
+- site/assets/icons/j7-hero-mark.png
+- site/assets/icons/j7-hero-mark.svg
+- site/index.html
+- site/voyage.html
+- site/discoveries.html
+- site/data/dashboard.json
+- site/data/version.json
+- site/build-info.json
+- site/build-manifest.json

@@ -2693,12 +2693,28 @@
       "fromTitle": "Komiža",
       "toTitle": "En route to Kaprije",
       "distanceDirectNm": 23.7,
-      "distanceEstimatedNm": 23.7,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 26.2,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           43.044893,
           16.0826
+        ],
+        [
+          43.038481,
+          16.071711
+        ],
+        [
+          43.033412,
+          16.044331
+        ],
+        [
+          43.054237,
+          16.003475
+        ],
+        [
+          43.065274,
+          15.995579
         ],
         [
           43.412623,

@@ -41,11 +41,11 @@ collector/                  Future Collector's Edition workspace
 archive/                    Preserved project material
 ```
 
-## Version 2.3.0
+## Version 2.3.1
 
 Contextual Discovery adds a curated, source-backed layer of nearby stories tied to the yacht’s actual stops. Discoveries appear in matching journal chapters, on the voyage map and on a dedicated “What They Almost Missed” page.
 
-See `RELEASE_2_3_0.md` and `CONTEXTUAL_DISCOVERY.md`.
+The v2.3.1 visual polish separates the transparent hero mark from the square app icon and gives the mark greater presence. See `RELEASE_2_3_1.md`, `RELEASE_2_3_0.md` and `CONTEXTUAL_DISCOVERY.md`.
 
 ## Guiding principle
 

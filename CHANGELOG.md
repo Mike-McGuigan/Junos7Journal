@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.3.1 - Contextual Discovery Polish
+
+- Separated the on-page hero mark from the square app/favicon icon.
+- Made the hero J7 artwork transparent so the live header gradient shows through without a mismatched tile.
+- Increased the hero mark substantially and tightened the artwork inside its canvas for stronger visual presence.
+- Retained the approved rounded-square logo for browser and installed-app icons.
+
 ## 2.3.0 - Contextual Discovery
 
 - Added a curated, source-backed discovery layer tied to exact route stops.

@@ -1595,6 +1595,32 @@
           16.081375
         ]
       ]
+    },
+    {
+      "fromIndex": 35,
+      "toIndex": 36,
+      "fromDate": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
+      "toDate": "14 Jul - AM",
+      "fromTitle": "Komiža",
+      "toTitle": "En route to Kaprije",
+      "waypoints": [
+        [
+          43.038481,
+          16.071711
+        ],
+        [
+          43.033412,
+          16.044331
+        ],
+        [
+          43.054237,
+          16.003475
+        ],
+        [
+          43.065274,
+          15.995579
+        ]
+      ]
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "release": "Contextual Discovery",
-  "buildUtc": "2026-07-14 07:25:32 UTC",
-  "fileCount": 140,
+  "version": "2.3.1",
+  "release": "Contextual Discovery Polish",
+  "buildUtc": "2026-07-14 07:40:38 UTC",
+  "fileCount": 142,
   "files": [
     {
       "path": ".gitkeep",
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 205,
-      "sha256": "9264f2feea2bfb6676315a68fd7ec160f822066142ea6072c4ebedb669adc1e9"
+      "sizeBytes": 212,
+      "sha256": "0a756b0639fab57e83f0180dcac46960c7121b61caa1b8dd09f3d87f6db3a147"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 25278,
-      "sha256": "faa07223c1b15a63cb71b12c312eb4ed91e932bd5690589e05c4652a32063cf8"
+      "sizeBytes": 24916,
+      "sha256": "f4b70f1641bd0989cd1c39633fccdc038842e56dd6d594b1054f0c411aff0ff6"
     },
     {
       "path": "crew.html",
@@ -46,13 +46,13 @@
     },
     {
       "path": "discoveries.html",
-      "sizeBytes": 2780,
-      "sha256": "c5cb517c8bcd7cf75eb33a650a0c05d56f574636bbd36c2ce61c78bb7e532390"
+      "sizeBytes": 2767,
+      "sha256": "0ef0b094dc59838e0bb8296b313c34a1a6d517dc5ec4ddc41a693509766865a1"
     },
     {
       "path": "index.html",
-      "sizeBytes": 5025,
-      "sha256": "d5c4fc8e58e6f4ecb986c229be5ef484e61b8e7224ee7b01bcb34bdc4d11c82a"
+      "sizeBytes": 4962,
+      "sha256": "febdd4286e579335f82fdd3a0ccd9a9999358bcfc4d050b1462dbb879d07ed52"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -111,8 +111,8 @@
     },
     {
       "path": "voyage.html",
-      "sizeBytes": 2110,
-      "sha256": "2e86ef4d04427de110c73f4b776caee5c9905a35916e004fedf903b47823a006"
+      "sizeBytes": 2100,
+      "sha256": "2e334dcd4b59dcb9927c8a87c72a803cb1c11fcac7f9b094328c8bc19d93f8cf"
     },
     {
       "path": "voyage.html.bak-1-2-0-dashboard-nav",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1769,
-      "sha256": "83cbc7b3180c8de345373d9ec98e5e8547a344db23f76f3e33e0f7132ed7643e"
+      "sizeBytes": 1741,
+      "sha256": "f407c81a16717e9e1f45c239b928d3d51495d5d39823ff3886e46ff97ef355e1"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "0ae4ed68ff8c3a8326cda4772d7fb48830facee060ee5cf9b8b3d9360fbde78d"
+      "sha256": "494837f8cd8260fad524486de5e9b331e366fe998551cb98eba0651a753006fd"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -226,8 +226,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 62290,
-      "sha256": "a5b08dd7099ed616f00325f07e6bcabdacdfa6425c5a3b3bd5baa034f808cd5a"
+      "sizeBytes": 62553,
+      "sha256": "432e1f68448321d3786fd2a785b89803a246af58c4ff0763ae76b5610b5bbfee"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -286,8 +286,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 205,
-      "sha256": "9264f2feea2bfb6676315a68fd7ec160f822066142ea6072c4ebedb669adc1e9"
+      "sizeBytes": 212,
+      "sha256": "0a756b0639fab57e83f0180dcac46960c7121b61caa1b8dd09f3d87f6db3a147"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -646,13 +646,23 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 17067,
-      "sha256": "6ae875ae0d5fff8d9400e19e99a6606378010537620eae3930a4ab9e22a641c4"
+      "sizeBytes": 17087,
+      "sha256": "a66b0d4cc4cbb569b9f6901da7f79fdf04fbd8bd6687b0888b316d3ee85b2b31"
     },
     {
       "path": "assets/css/version.css",
       "sizeBytes": 836,
       "sha256": "13574efb008adf89f18ce276fc725874a1a9ae41f4e4f6c98bda1347888feb00"
+    },
+    {
+      "path": "assets/icons/j7-hero-mark.png",
+      "sizeBytes": 59532,
+      "sha256": "90e255a52312d32f058e3b640393fd6f28b7a9ac92bae609ed1805e2f9e055ad"
+    },
+    {
+      "path": "assets/icons/j7-hero-mark.svg",
+      "sizeBytes": 79558,
+      "sha256": "7c72283e263d5e0534b91fd2e12caba007eb16974c24aad17b80c0dd86ce263f"
     },
     {
       "path": "assets/icons/j7-mark-source.png",

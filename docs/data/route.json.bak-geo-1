@@ -2509,7 +2509,7 @@
     "date": "11 Jul - PM",
     "title": "Alongside in Vis, Croatia",
     "name": "Alongside in Vis, Croatia",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.059156,
     "lng": 16.188047,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -2553,5 +2553,114 @@
       ]
     },
     "status": "Moored"
+  },
+  {
+    "date": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
+    "title": "Komiža",
+    "name": "Komiža",
+    "phase": "current",
+    "lat": 43.044893,
+    "lng": 16.0826,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Alongside in Vis, Croatia",
+      "toTitle": "Komiža",
+      "distanceDirectNm": 4.7,
+      "distanceEstimatedNm": 20.0,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          43.059156,
+          16.188047
+        ],
+        [
+          43.059616,
+          16.188215
+        ],
+        [
+          43.067057,
+          16.198761
+        ],
+        [
+          43.073107,
+          16.205842
+        ],
+        [
+          43.086892,
+          16.2111
+        ],
+        [
+          43.09128,
+          16.177626
+        ],
+        [
+          43.087269,
+          16.142778
+        ],
+        [
+          43.071219,
+          16.0427
+        ],
+        [
+          43.065525,
+          16.032658
+        ],
+        [
+          43.050976,
+          16.024075
+        ],
+        [
+          42.982554,
+          16.024906
+        ],
+        [
+          42.981726,
+          16.024557
+        ],
+        [
+          42.980074,
+          16.025319
+        ],
+        [
+          42.980204,
+          16.026253
+        ],
+        [
+          43.023763,
+          16.059823
+        ],
+        [
+          43.037202,
+          16.073835
+        ],
+        [
+          43.044357,
+          16.081375
+        ],
+        [
+          43.044893,
+          16.0826
+        ]
+      ]
+    },
+    "status": "At anchor"
   }
 ]

@@ -752,7 +752,7 @@
     "date": "11 Jul - PM",
     "title": "Alongside in Vis, Croatia",
     "name": "Alongside in Vis, Croatia",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.059156,
     "lng": 16.188047,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -775,5 +775,33 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "status": "Moored"
+  },
+  {
+    "date": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
+    "title": "Komiža",
+    "name": "Komiža",
+    "phase": "current",
+    "lat": 43.044893,
+    "lng": 16.0826,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "status": "At anchor"
   }
 ]

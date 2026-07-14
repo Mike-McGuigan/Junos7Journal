@@ -1,22 +1,22 @@
 {
-  "version": "2.2.0",
-  "release": "Journal Experience",
+  "version": "2.3.0",
+  "release": "Contextual Discovery",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Alongside in Vis, Croatia",
+    "latestStatus": "At anchor off Komiža",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-11T18:18:10.701Z",
+    "lastManualLookupUtc": "2026-07-13T12:11:27.592Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 43.059156,
-      "lng": 16.188047,
+      "lat": 43.044893,
+      "lng": 16.0826,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Alongside in Vis, Croatia",
+    "latestLocationName": "Komiža",
     "latestFriendlyLocation": "Near Split-Dalmatia County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,16 +36,17 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Alongside in Vis, Croatia"
+    "latestLocationTitle": "Komiža"
   },
   "stats": {
-    "routeStops": 35,
-    "distanceDirectNm": 911.5,
-    "distanceEstimatedNm": 1048.9,
-    "manualSeaRouteLegs": 32,
-    "journalEntries": 22,
-    "mediaItems": 38,
+    "routeStops": 36,
+    "distanceDirectNm": 916.2,
+    "distanceEstimatedNm": 1068.9,
+    "manualSeaRouteLegs": 33,
+    "journalEntries": 23,
+    "mediaItems": 40,
     "photos": 28,
-    "videos": 10
+    "videos": 12,
+    "contextualDiscoveries": 8
   }
 }

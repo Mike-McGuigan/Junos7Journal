@@ -5,18 +5,18 @@
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Kakan",
+    "latestStatus": "Manual location: Smokvica Vela, Kornati National Park",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-15T09:25:42.566Z",
+    "lastManualLookupUtc": "2026-07-15T09:33:10.262Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 43.69666,
-      "lng": 15.665452,
+      "lat": 43.722755,
+      "lng": 15.477794,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Kakan",
+    "latestLocationName": "Smokvica Vela, Kornati National Park",
     "latestFriendlyLocation": "Near Šibenik-Knin County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,12 +36,12 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Kakan"
+    "latestLocationTitle": "Smokvica Vela, Kornati National Park"
   },
   "stats": {
-    "routeStops": 38,
-    "distanceDirectNm": 959.4,
-    "distanceEstimatedNm": 1114.6,
+    "routeStops": 39,
+    "distanceDirectNm": 967.7,
+    "distanceEstimatedNm": 1122.9,
     "manualSeaRouteLegs": 34,
     "journalEntries": 23,
     "mediaItems": 40,

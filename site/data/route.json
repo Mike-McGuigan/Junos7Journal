@@ -2667,7 +2667,7 @@
     "date": "14 Jul - AM",
     "title": "En route to Kaprije",
     "name": "En route to Kaprije",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.412623,
     "lng": 15.884171,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -2719,6 +2719,50 @@
         [
           43.412623,
           15.884171
+        ]
+      ]
+    }
+  },
+  {
+    "date": "14 Jul - Kakan",
+    "title": "Kakan",
+    "name": "Kakan",
+    "phase": "current",
+    "lat": 43.69666,
+    "lng": 15.665452,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226741,
+      "displayName": "Near Šibenik-Knin County, Croatia",
+      "shortName": "Šibenik-Knin County",
+      "rawDisplayName": "Šibenik-Knin County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Šibenik-Knin County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Šibenik-Knin County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "En route to Kaprije",
+      "toTitle": "Kakan",
+      "distanceDirectNm": 19.5,
+      "distanceEstimatedNm": 19.5,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          43.412623,
+          15.884171
+        ],
+        [
+          43.69666,
+          15.665452
         ]
       ]
     }

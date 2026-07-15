@@ -2558,7 +2558,7 @@
     "date": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
     "title": "Komiža",
     "name": "Komiža",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.044893,
     "lng": 16.0826,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -2662,5 +2662,65 @@
       ]
     },
     "status": "At anchor"
+  },
+  {
+    "date": "14 Jul - AM",
+    "title": "En route to Kaprije",
+    "name": "En route to Kaprije",
+    "phase": "current",
+    "lat": 43.412623,
+    "lng": 15.884171,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226741,
+      "displayName": "Near Šibenik-Knin County, Croatia",
+      "shortName": "Šibenik-Knin County",
+      "rawDisplayName": "Šibenik-Knin County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Šibenik-Knin County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Šibenik-Knin County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Komiža",
+      "toTitle": "En route to Kaprije",
+      "distanceDirectNm": 23.7,
+      "distanceEstimatedNm": 26.2,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          43.044893,
+          16.0826
+        ],
+        [
+          43.038481,
+          16.071711
+        ],
+        [
+          43.033412,
+          16.044331
+        ],
+        [
+          43.054237,
+          16.003475
+        ],
+        [
+          43.065274,
+          15.995579
+        ],
+        [
+          43.412623,
+          15.884171
+        ]
+      ]
+    }
   }
 ]

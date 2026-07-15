@@ -1,6 +1,6 @@
 {
-  "version": "2.3.0",
-  "release": "Contextual Discovery",
+  "version": "2.3.1",
+  "release": "Contextual Discovery Polish",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
@@ -39,10 +39,10 @@
     "latestLocationTitle": "Komiža"
   },
   "stats": {
-    "routeStops": 36,
-    "distanceDirectNm": 916.2,
-    "distanceEstimatedNm": 1068.9,
-    "manualSeaRouteLegs": 33,
+    "routeStops": 37,
+    "distanceDirectNm": 939.9,
+    "distanceEstimatedNm": 1095.1,
+    "manualSeaRouteLegs": 34,
     "journalEntries": 23,
     "mediaItems": 40,
     "photos": 28,

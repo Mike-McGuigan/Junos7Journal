@@ -1,22 +1,22 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.1",
   "release": "Contextual Discovery Polish",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Smokvica Vela, Kornati National Park",
+    "latestStatus": "Manual location: Gujak, Kornat Island",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-15T09:33:10.262Z",
+    "lastManualLookupUtc": "2026-07-16T10:58:00.740Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 43.722755,
-      "lng": 15.477794,
+      "lat": 43.786667,
+      "lng": 15.339296,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Smokvica Vela, Kornati National Park",
+    "latestLocationName": "Gujak, Kornat Island",
     "latestFriendlyLocation": "Near Šibenik-Knin County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,12 +36,12 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Smokvica Vela, Kornati National Park"
+    "latestLocationTitle": "Gujak, Kornat Island"
   },
   "stats": {
-    "routeStops": 39,
-    "distanceDirectNm": 967.7,
-    "distanceEstimatedNm": 1125.2,
+    "routeStops": 40,
+    "distanceDirectNm": 974.8,
+    "distanceEstimatedNm": 1132.3,
     "manualSeaRouteLegs": 36,
     "journalEntries": 23,
     "mediaItems": 40,

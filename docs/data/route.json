@@ -2811,7 +2811,7 @@
     "date": "15 Jul - AM",
     "title": "Smokvica Vela, Kornati National Park",
     "name": "Smokvica Vela, Kornati National Park",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.722755,
     "lng": 15.477794,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -2903,6 +2903,50 @@
         [
           43.722755,
           15.477794
+        ]
+      ]
+    }
+  },
+  {
+    "date": "16 Jul - late morning",
+    "title": "Gujak, Kornat Island",
+    "name": "Gujak, Kornat Island",
+    "phase": "current",
+    "lat": 43.786667,
+    "lng": 15.339296,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226741,
+      "displayName": "Near Šibenik-Knin County, Croatia",
+      "shortName": "Šibenik-Knin County",
+      "rawDisplayName": "Šibenik-Knin County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Šibenik-Knin County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Šibenik-Knin County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Smokvica Vela, Kornati National Park",
+      "toTitle": "Gujak, Kornat Island",
+      "distanceDirectNm": 7.1,
+      "distanceEstimatedNm": 7.1,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          43.722755,
+          15.477794
+        ],
+        [
+          43.786667,
+          15.339296
         ]
       ]
     }

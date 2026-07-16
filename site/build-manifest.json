@@ -1,8 +1,8 @@
 {
-  "version": "2.3.1",
-  "release": "Contextual Discovery Polish",
-  "buildUtc": "2026-07-16 12:34:53 UTC",
-  "fileCount": 142,
+  "version": "2.3.2",
+  "release": "Captain's Dashboard Polish",
+  "buildUtc": "2026-07-16 13:55:17 UTC",
+  "fileCount": 146,
   "files": [
     {
       "path": ".gitkeep",
@@ -21,18 +21,18 @@
     },
     {
       "path": "admin.html",
-      "sizeBytes": 6108,
-      "sha256": "b461e0bc819eb6079e3db79d4b2516f22af0e16803faaa7ac4356a67d7c248a2"
+      "sizeBytes": 6704,
+      "sha256": "e317520708804c9743adc9bf8dc991ec0dfd3f599240b8788b4f808e79fac80b"
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 212,
-      "sha256": "93cc661a1dc33840631b2d610024f46454b1c14a830b32603b513a378a4713b2"
+      "sizeBytes": 211,
+      "sha256": "4d270797a31b9bdc9e37fa1863189ba73f3e9728195be0aa49cabdfbbe41a681"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 25633,
-      "sha256": "dbd16b49b48127275b189c3849722ea7cf108b153770b7d8dedd390e58f5c717"
+      "sizeBytes": 25687,
+      "sha256": "b60f5aaeed97717580fbfadffa4c7d52a9b0059e53134b5b77528a472f4ed3bd"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1779,
-      "sha256": "1d6bc355e155d3f1223f9e05364cee9320d80c8d215e192edf79f1e990c7c077"
+      "sizeBytes": 1778,
+      "sha256": "dc9ddc119a0febb256a965b907f6b9075976e92c3f326d4260ac441a49f15901"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "42c82ddfb8bd5dcfe9d6aef5309c07afa48a596b37a6f5412aea4591198c1365"
+      "sha256": "fdbc8faeb9a1faa41ecf23bac0ccecc20a6853cd9e897208c07daa5cbbd1fabe"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -191,8 +191,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 115273,
-      "sha256": "15c8ccbd3e7b037dc10863b524c5adae80928bac328c3d5c1beb7b381c0607e4"
+      "sizeBytes": 114568,
+      "sha256": "66fb405939a5d70320581fe1ab97ee857cffdb05038186f82bf194a95446911c"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 16443,
-      "sha256": "1e6daaacf9e991c8e790a06182c3ac5f02f61fb87ac42d330d34d8b28e65acb6"
+      "sizeBytes": 17710,
+      "sha256": "dec087cf84c74b17ecea1b634b012d3422008ba8240b25b4d15a576440253bac"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -286,8 +286,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 212,
-      "sha256": "93cc661a1dc33840631b2d610024f46454b1c14a830b32603b513a378a4713b2"
+      "sizeBytes": 211,
+      "sha256": "4d270797a31b9bdc9e37fa1863189ba73f3e9728195be0aa49cabdfbbe41a681"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -485,6 +485,16 @@
       "sha256": "4aa0ae71cd13f7e144534963f44c1fef1b439ede26be9ffaab53313cf2902cf0"
     },
     {
+      "path": "media/photos/2026-07-14-komiza-dawn.jpg",
+      "sizeBytes": 176225,
+      "sha256": "af260b275e6c5568e2528c1714f8929734a74dc3dd1f1e7951c77be4dc24cfed"
+    },
+    {
+      "path": "media/photos/2026-07-15-smokvica-storm-calm.jpg",
+      "sizeBytes": 206673,
+      "sha256": "567ee0ac81a094661834136c690f3902534542607add32d73ca6e0ada9e9ed63"
+    },
+    {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",
       "sizeBytes": 3003718,
       "sha256": "dc8dcfc478078d3d2e748cb0f27213df88a91714eacaff1a08b40ac9e4375db3"
@@ -630,9 +640,19 @@
       "sha256": "60238fc88e44bf2dbbef2c86f1906dbbaac2140e6f4023400f4b315b4f6d6406"
     },
     {
+      "path": "media/photos/enhanced/2026-07-14-komiza-dawn-enhanced.jpg",
+      "sizeBytes": 428935,
+      "sha256": "b2bbd31a2246913b930681cadb218ed7052ed064ec0bbe9630d33b69d5c92ce2"
+    },
+    {
+      "path": "media/photos/enhanced/2026-07-15-smokvica-storm-calm-enhanced.jpg",
+      "sizeBytes": 167268,
+      "sha256": "a8c858d6909bf9b377c41328cf8c4945d452e16503b86ff137144d535483abb1"
+    },
+    {
       "path": "assets/css/admin-map.css",
-      "sizeBytes": 2838,
-      "sha256": "6ac251f9a2f702dca259fb5779ecefe0b1ca20004dde542272e7ea0da6164fad"
+      "sizeBytes": 3878,
+      "sha256": "5fee78466c55bb9e1362454b0872e5d4bf9e53e2206c99e788ebb22892af0edf"
     },
     {
       "path": "assets/css/companion.css",
@@ -681,8 +701,8 @@
     },
     {
       "path": "assets/js/admin-map.js",
-      "sizeBytes": 25107,
-      "sha256": "90a19841a7af15ad8709625e9245749951788434dc30e9fc63ca2536c96e396f"
+      "sizeBytes": 26345,
+      "sha256": "c1be5b92bb9e18f6d81e319539d2455f1739bf8c9dc4a5aa6b4aa736117c0a25"
     },
     {
       "path": "assets/js/app.js",

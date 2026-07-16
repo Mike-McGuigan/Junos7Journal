@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "release": "2.2.2",
+  "release": "2.3.2",
   "entries": [
     {
       "date": "2026-06-17",
@@ -652,6 +652,66 @@
         "title": "Back into Mamma Mia country",
         "body": "Komiža was one of the Vis locations used in Mamma Mia! Here We Go Again — an especially fitting place to end the day’s looping passage."
       }
+    },
+    {
+      "id": "dawn-over-komiza",
+      "date": "2026-07-14",
+      "title": "Dawn over Komiža",
+      "location": "At anchor off Komiža, Vis",
+      "type": "crew-view",
+      "person": "Cameron",
+      "quote": "",
+      "body": "Before the harbour had properly woken, Cameron looked east across Komiža as the first light of day rose behind the hills of Vis. With Juno’s 7 lying quietly at anchor and the water almost mirror-calm, it was one of those peaceful Mediterranean mornings that few visitors experience from this viewpoint.",
+      "summary": "First light over Mamma Mia town, seen from the stillness of the anchorage.",
+      "photos": [
+        "komiza-dawn"
+      ],
+      "videos": [],
+      "media": [
+        "komiza-dawn"
+      ],
+      "heroMedia": "komiza-dawn",
+      "didYouKnow": {
+        "title": "Komiža became Kalokairi",
+        "body": "Komiža was one of the principal Vis locations used as the fictional Greek island of Kalokairi in Mamma Mia! Here We Go Again."
+      }
+    },
+    {
+      "id": "calm-before-storm-smokvica",
+      "date": "2026-07-15",
+      "title": "Calm Before the Storm",
+      "location": "At anchor, Smokvica Vela, Kornati",
+      "type": "weather",
+      "person": "Sophie",
+      "quote": "A storm is just about to hit us 🥴",
+      "body": "As evening settled over Smokvica Vela, the underwater lights beneath Juno’s 7 transformed the sea around the tender into a glowing turquoise pool. Beyond it, the anchorage faded into the deep blue of the Adriatic.\n\nThe apparent calm was deceptive. Sophie’s next update explained that the storm looked large on the radar and the crew were moving the yacht to find better shelter. The later AIS track showed only a short repositioning within the same anchorage rather than a move to another bay.",
+      "summary": "A luminous, almost perfectly calm anchorage — moments before the crew repositioned for an approaching storm.",
+      "photos": [
+        "smokvica-calm-before-storm"
+      ],
+      "videos": [],
+      "media": [
+        "smokvica-calm-before-storm"
+      ],
+      "heroMedia": "smokvica-calm-before-storm",
+      "crewMoment": {
+        "title": "Radar told a different story",
+        "body": "“Moving the boat now to find a bit of shelter apparently the storm is looking big on the radar!” The sea looked calm, but the captain was already acting on what the weather radar showed."
+      }
+    },
+    {
+      "id": "gujak-kornat-anchorage",
+      "date": "2026-07-16",
+      "title": "North through Kornati",
+      "location": "Gujak anchorage, Kornat Island",
+      "type": "anchorage",
+      "person": "",
+      "quote": "",
+      "body": "After the overnight weather watch at Smokvica Vela, Juno’s 7 headed north-west through the Kornati islands and anchored off Gujak on the south-west side of Kornat Island, opposite Piškera.",
+      "summary": "A purposeful morning departure and another quiet anchorage deeper in the Kornati archipelago.",
+      "photos": [],
+      "videos": [],
+      "media": []
     }
   ],
   "media": [

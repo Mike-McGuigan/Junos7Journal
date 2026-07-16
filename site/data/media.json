@@ -430,5 +430,35 @@
     "url": "media/videos/2026-07-13-dolphin-on-bow-sophie.mp4",
     "title": "A delighted reaction",
     "caption": "Sophie’s second view catches the dolphin alongside — and the lovely shriek of excitement from one of the owner’s children."
+  },
+  {
+    "id": "komiza-dawn",
+    "type": "photo",
+    "date": "2026-07-14",
+    "url": "media/photos/2026-07-14-komiza-dawn.jpg",
+    "originalUrl": "media/photos/2026-07-14-komiza-dawn.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-14-komiza-dawn-enhanced.jpg",
+    "title": "Dawn over Komiža",
+    "caption": "First light rising over the hills behind Komiža while Juno’s 7 lay quietly at anchor.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "light noise reduction, restrained contrast and sharpening",
+      "originalPreserved": true
+    }
+  },
+  {
+    "id": "smokvica-calm-before-storm",
+    "type": "photo",
+    "date": "2026-07-15",
+    "url": "media/photos/2026-07-15-smokvica-storm-calm.jpg",
+    "originalUrl": "media/photos/2026-07-15-smokvica-storm-calm.jpg",
+    "enhancedUrl": "media/photos/enhanced/2026-07-15-smokvica-storm-calm-enhanced.jpg",
+    "title": "Calm before the storm",
+    "caption": "Juno’s 7’s underwater lights turned the sea turquoise around the tender as a large storm approached Smokvica Vela.",
+    "enhancement": {
+      "status": "enhanced-working-copy",
+      "method": "light noise reduction with the deep-blue atmosphere preserved",
+      "originalPreserved": true
+    }
   }
 ]

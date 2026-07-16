@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "release": "Contextual Discovery Polish",
+  "version": "2.3.2",
+  "release": "Captain's Dashboard Polish",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
@@ -43,9 +43,9 @@
     "distanceDirectNm": 974.8,
     "distanceEstimatedNm": 1132.3,
     "manualSeaRouteLegs": 36,
-    "journalEntries": 23,
-    "mediaItems": 40,
-    "photos": 28,
+    "journalEntries": 26,
+    "mediaItems": 42,
+    "photos": 30,
     "videos": 12,
     "contextualDiscoveries": 8
   }

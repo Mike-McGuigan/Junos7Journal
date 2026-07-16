@@ -34,3 +34,18 @@ code{background:rgba(6,25,40,.08);padding:.1rem .25rem;border-radius:4px}
 
 .route-editor-buttons .danger-button{background:#7f1d1d;border-color:#b91c1c}
 .route-editor-buttons .danger-button:disabled{opacity:.45;cursor:not-allowed}
+
+
+/* v2.3.2 collapsible dashboard sections */
+.admin-collapsible{border:1px solid rgba(6,25,40,.16);border-radius:12px;margin:0 0 1rem;background:rgba(255,255,255,.34);overflow:hidden}
+.admin-collapsible>summary{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1rem 1.05rem;cursor:pointer;background:rgba(6,25,40,.045);user-select:none}
+.admin-collapsible>summary::-webkit-details-marker{display:none}
+.admin-collapsible>summary span:first-child{display:grid;gap:.15rem}
+.admin-collapsible>summary .kicker{margin:0;font-size:.78rem}
+.admin-collapsible>summary strong{font-family:Georgia,serif;font-size:1.35rem;color:#132333}
+.admin-collapsible-body{padding:1rem 1.05rem 1.1rem}
+.collapse-chevron{font-size:1.4rem;line-height:1;transition:transform .2s ease;color:#0f6f91}
+.admin-collapsible[open] .collapse-chevron{transform:rotate(180deg)}
+.admin-collapsible .route-editor-panel{margin-top:0}
+.admin-collapsible .stop-editor-panel{border-top:0;padding-top:0}
+#fitRouteBtn{background:#0f6f91}

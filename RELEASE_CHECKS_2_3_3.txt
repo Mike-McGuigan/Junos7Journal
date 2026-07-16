@@ -1,0 +1,13 @@
+Juno's 7 Journal v2.3.3 release checks
+
+PASS - VERSION source is 2.3.3
+PASS - build release name is Media Linking Fix
+PASS - docs/data/journal.json embeds 42 media records
+PASS - site/data/journal.json embeds 42 media records
+PASS - komiza-dawn is present in both embedded media catalogues
+PASS - smokvica-calm-before-storm is present in both embedded media catalogues
+PASS - tools/build_site.py synchronises journal media from docs/data/media.json
+PASS - all project JSON parsed successfully
+PASS - Python syntax check passed
+PASS - JavaScript syntax checks passed
+PASS - full site rebuild completed

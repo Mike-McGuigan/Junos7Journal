@@ -18,7 +18,7 @@ DOCS = ROOT / "docs"
 SITE = ROOT / "site"
 VERSION_FILE = ROOT / "VERSION"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
-RELEASE_NAME = "Captain's Dashboard Polish"
+RELEASE_NAME = "Media Linking Fix"
 
 
 def sha256(path: Path) -> str:
@@ -60,6 +60,25 @@ def load_json(path: Path, fallback):
     except Exception:
         return fallback
 
+
+
+def sync_embedded_journal_media() -> int:
+    """Keep journal.json's embedded media list aligned with the canonical media index."""
+    journal_path = DOCS / "data" / "journal.json"
+    media_path = DOCS / "data" / "media.json"
+    journal = load_json(journal_path, {})
+    media = load_json(media_path, [])
+
+    if not isinstance(journal, dict):
+        raise SystemExit(f"{journal_path} must contain a JSON object")
+    if isinstance(media, dict):
+        media = media.get("items") or media.get("media") or []
+    if not isinstance(media, list):
+        raise SystemExit(f"{media_path} must contain a media list")
+
+    journal["media"] = media
+    journal_path.write_text(json.dumps(journal, indent=2, ensure_ascii=False), encoding="utf-8")
+    return len(media)
 
 def count_journal_entries() -> int | None:
     data = load_json(DOCS / "data" / "journal.json", None)
@@ -167,6 +186,7 @@ def main() -> None:
     version = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "2.3.0"
     build_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
+    embedded_media_count = sync_embedded_journal_media()
     route_stats = enrich_route_file(DOCS / "data" / "route.json", GEOMETRY_FILE)
     discovery_stats = build_contextual_discovery()
     update_dashboard_stats(route_stats, discovery_stats)
@@ -178,6 +198,7 @@ def main() -> None:
     file_count = sum(1 for p in SITE.rglob("*") if p.is_file())
     print(f"Built site/ from docs/ for version {version}")
     print(f"Files: {file_count}")
+    print(f"Embedded journal media: {embedded_media_count}")
     if route_stats:
         print(f"Estimated voyage distance: {route_stats.get('distanceEstimatedNm')} NM")
         print(f"Manual sea-route legs: {route_stats.get('manualSeaRouteLegs')}")

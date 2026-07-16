@@ -57,3 +57,7 @@
 
 - Added publish-time reverse geocoding.
 - Added friendly location metadata to route and dashboard data.
+
+### 2.3.3 - Media Linking Fix
+- Synchronises the embedded journal media catalogue with the canonical media index during every site build.
+- Restores the Komiža dawn and Smokvica storm photographs in the journal and gallery.

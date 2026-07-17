@@ -8,6 +8,7 @@ This patch makes gallery classification durable and corrects the agreed terminol
 
 - Stores every gallery category in the canonical `content/media-index/media-index.json` source, preventing later publish/build activity from losing or reverting classifications.
 - Corrects the Cavtat passage photograph to `Juno's 7` and `Scenic`; it is no longer treated as a port or anchorage image.
+- Corrects the underway dolphin bow video to `Crew`, `Juno's 7`, `Wildlife` and `Scenic`; it is no longer treated as a port or anchorage item.
 - Corrects the Black Pearl photograph to `Ports & Anchorages` and `Scenic`; it is no longer classified as crew or Juno's 7.
 - Removes `Tenders & Toys` from the Smokvica storm photograph because no tender or toy is visible.
 - Removes the photograph caption's unsupported suggestion that SETE can be seen during the Cavtat passage.

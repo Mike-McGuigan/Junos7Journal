@@ -69,3 +69,10 @@
 ### 2.3.3 - Media Linking Fix
 - Synchronises the embedded journal media catalogue with the canonical media index during every site build.
 - Restores the Komiža dawn and Smokvica storm photographs in the journal and gallery.
+
+## 2.5.0 — Connected Storytelling
+- Audited all 42 gallery records and clarified the Crew Life taxonomy.
+- Added visible category badges and links from gallery media back to related journal chapters.
+- Labelled chapter media and persisted media-to-entry relationships in canonical data.
+- Added discovery category filtering and direct links to journal chapters and the voyage map.
+- Added longest passage, average passage, leg count and countries visited to route statistics.

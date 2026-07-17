@@ -153,10 +153,25 @@ def enrich_route(route: list[dict[str, Any]], geometry_data: dict[str, Any]) -> 
         if has_manual_geometry:
             routed_legs += 1
 
+    legs = [point.get("legFromPrevious") for point in route[1:] if point.get("legFromPrevious")]
+    longest = max(legs, key=lambda leg: float(leg.get("distanceEstimatedNm", 0)), default=None)
+    countries = []
+    for point in route:
+        country = (point.get("location") or {}).get("country")
+        if country and country not in countries:
+            countries.append(country)
+    completed_legs = len(legs)
     return {
         "routeStops": len(route),
+        "voyageLegs": completed_legs,
         "distanceDirectNm": round(total_direct, 1),
         "distanceEstimatedNm": round(total_estimated, 1),
+        "averageLegNm": round(total_estimated / completed_legs, 1) if completed_legs else 0,
+        "longestLegNm": longest.get("distanceEstimatedNm") if longest else 0,
+        "longestLegFrom": longest.get("fromTitle") if longest else None,
+        "longestLegTo": longest.get("toTitle") if longest else None,
+        "countriesVisited": len(countries),
+        "countryNames": countries,
         "manualSeaRouteLegs": routed_legs,
     }
 

@@ -9,6 +9,14 @@
     "categories": [
       "crew",
       "junos7"
+    ],
+    "journalEntries": [
+      {
+        "id": "the-beginning",
+        "title": "The Beginning",
+        "date": "2026-06-17",
+        "location": "Kos, Greece"
+      }
     ]
   },
   {
@@ -19,9 +27,16 @@
     "title": "Juno's 7 in the marina",
     "caption": "Juno's 7 in the marina shortly after Cameron and Sophie joined.",
     "categories": [
-      "crew",
       "junos7",
       "ports-anchorages"
+    ],
+    "journalEntries": [
+      {
+        "id": "the-beginning",
+        "title": "The Beginning",
+        "date": "2026-06-17",
+        "location": "Kos, Greece"
+      }
     ]
   },
   {
@@ -35,6 +50,14 @@
       "crew",
       "junos7",
       "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "learning-the-ropes",
+        "title": "Learning the Ropes",
+        "date": "2026-06-19",
+        "location": "Greek Islands"
+      }
     ]
   },
   {
@@ -52,8 +75,17 @@
       "originalPreserved": true
     },
     "categories": [
+      "crew",
       "junos7",
       "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "first-days-on-deck",
+        "title": "First Days on Deck",
+        "date": "2026-06-20",
+        "location": "Lipsi"
+      }
     ]
   },
   {
@@ -67,6 +99,20 @@
       "junos7",
       "ports-anchorages",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "first-days-on-deck",
+        "title": "First Days on Deck",
+        "date": "2026-06-20",
+        "location": "Lipsi"
+      },
+      {
+        "id": "still-filthy",
+        "title": "Still Filthy",
+        "date": "2026-06-20",
+        "location": "Lipsi"
+      }
     ]
   },
   {
@@ -80,6 +126,14 @@
       "crew",
       "junos7",
       "tenders-toys"
+    ],
+    "journalEntries": [
+      {
+        "id": "sophies-first-jet-ski",
+        "title": "Sophie's First Jet Ski",
+        "date": "2026-06-21",
+        "location": "At Anchor"
+      }
     ]
   },
   {
@@ -92,6 +146,14 @@
     "categories": [
       "crew",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "my-future-house",
+        "title": "My Future House",
+        "date": "2026-06-23",
+        "location": "Greek Islands"
+      }
     ]
   },
   {
@@ -104,6 +166,14 @@
     "categories": [
       "ports-anchorages",
       "tenders-toys"
+    ],
+    "journalEntries": [
+      {
+        "id": "nice-spot-for-today",
+        "title": "Nice Spot for Today",
+        "date": "2026-06-27",
+        "location": "Zakynthos"
+      }
     ]
   },
   {
@@ -117,6 +187,14 @@
       "ports-anchorages",
       "tenders-toys",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "nice-spot-for-today",
+        "title": "Nice Spot for Today",
+        "date": "2026-06-27",
+        "location": "Zakynthos"
+      }
     ]
   },
   {
@@ -130,6 +208,14 @@
       "junos7",
       "ports-anchorages",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "nice-spot-for-today",
+        "title": "Nice Spot for Today",
+        "date": "2026-06-27",
+        "location": "Zakynthos"
+      }
     ]
   },
   {
@@ -141,6 +227,14 @@
     "caption": "A quiet afternoon at sea aboard Juno's 7, with around two and a half hours remaining before the next destination.",
     "categories": [
       "junos7"
+    ],
+    "journalEntries": [
+      {
+        "id": "changing-conditions",
+        "title": "Underway — Changing Conditions",
+        "date": "2026-06-30",
+        "location": "At Sea"
+      }
     ]
   },
   {
@@ -153,6 +247,14 @@
     "categories": [
       "crew",
       "junos7"
+    ],
+    "journalEntries": [
+      {
+        "id": "the-beginning",
+        "title": "The Beginning",
+        "date": "2026-06-17",
+        "location": "Kos, Greece"
+      }
     ]
   },
   {
@@ -165,6 +267,14 @@
     "categories": [
       "crew",
       "weather"
+    ],
+    "journalEntries": [
+      {
+        "id": "rather-rocky",
+        "title": "Rather Rocky",
+        "date": "2026-06-21",
+        "location": "Greek Islands"
+      }
     ]
   },
   {
@@ -176,6 +286,14 @@
     "caption": "Short video sent by Sophie on 26 June.",
     "categories": [
       "crew"
+    ],
+    "journalEntries": [
+      {
+        "id": "short-video-from-sophie",
+        "title": "A Short Video from Sophie",
+        "date": "2026-06-26",
+        "location": "Greek Islands"
+      }
     ]
   },
   {
@@ -189,6 +307,14 @@
       "crew",
       "junos7",
       "ports-anchorages"
+    ],
+    "journalEntries": [
+      {
+        "id": "nice-spot-for-today",
+        "title": "Nice Spot for Today",
+        "date": "2026-06-27",
+        "location": "Zakynthos"
+      }
     ]
   },
   {
@@ -201,6 +327,14 @@
     "categories": [
       "crew",
       "weather"
+    ],
+    "journalEntries": [
+      {
+        "id": "changing-conditions",
+        "title": "Underway — Changing Conditions",
+        "date": "2026-06-30",
+        "location": "At Sea"
+      }
     ]
   },
   {
@@ -214,6 +348,14 @@
       "crew",
       "tenders-toys",
       "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "changing-conditions",
+        "title": "Underway — Changing Conditions",
+        "date": "2026-06-30",
+        "location": "At Sea"
+      }
     ]
   },
   {
@@ -233,6 +375,14 @@
     "categories": [
       "junos7",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "underway-to-cavtat",
+        "title": "Underway to Cavtat",
+        "date": "2026-07-02",
+        "location": "Adriatic Sea"
+      }
     ]
   },
   {
@@ -245,6 +395,14 @@
     "categories": [
       "ports-anchorages",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "very-pretty-here",
+        "title": "Very Pretty Here",
+        "date": "2026-07-03",
+        "location": "Cavtat, Croatia"
+      }
     ]
   },
   {
@@ -257,6 +415,14 @@
     "categories": [
       "junos7",
       "ports-anchorages"
+    ],
+    "journalEntries": [
+      {
+        "id": "very-pretty-here",
+        "title": "Very Pretty Here",
+        "date": "2026-07-03",
+        "location": "Cavtat, Croatia"
+      }
     ]
   },
   {
@@ -278,6 +444,14 @@
       "junos7",
       "ports-anchorages",
       "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "working-aloft-vis",
+        "title": "Ready for the Climb",
+        "date": "2026-07-12",
+        "location": "Vis, Croatia"
+      }
     ]
   },
   {
@@ -297,6 +471,14 @@
     "categories": [
       "ports-anchorages",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "black-pearl-mljet",
+        "title": "She’s a Biggie!",
+        "date": "2026-07-05",
+        "location": "Polače, Mljet"
+      }
     ]
   },
   {
@@ -316,6 +498,14 @@
     "categories": [
       "junos7",
       "ports-anchorages"
+    ],
+    "journalEntries": [
+      {
+        "id": "pakleni-anchorage",
+        "title": "Coming Into Anchorage",
+        "date": "2026-07-07",
+        "location": "Pakleni Islands, near Hvar"
+      }
     ]
   },
   {
@@ -335,6 +525,14 @@
     "categories": [
       "ports-anchorages",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "pakleni-anchorage",
+        "title": "Coming Into Anchorage",
+        "date": "2026-07-07",
+        "location": "Pakleni Islands, near Hvar"
+      }
     ]
   },
   {
@@ -349,6 +547,14 @@
       "junos7",
       "behind-scenes",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "peaceful-night-shift",
+        "title": "Peaceful Night Shift",
+        "date": "2026-07-08",
+        "location": "Underway to Split"
+      }
     ]
   },
   {
@@ -369,6 +575,14 @@
       "junos7",
       "ports-anchorages",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "dolphins-off-milna",
+        "title": "Dolphins off Milna",
+        "date": "2026-07-10",
+        "location": "Off Milna, Croatia"
+      }
     ]
   },
   {
@@ -389,6 +603,14 @@
       "junos7",
       "ports-anchorages",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "dolphins-off-milna",
+        "title": "Dolphins off Milna",
+        "date": "2026-07-10",
+        "location": "Off Milna, Croatia"
+      }
     ]
   },
   {
@@ -408,6 +630,14 @@
     "categories": [
       "ports-anchorages",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "dolphins-off-milna",
+        "title": "Dolphins off Milna",
+        "date": "2026-07-10",
+        "location": "Off Milna, Croatia"
+      }
     ]
   },
   {
@@ -427,6 +657,14 @@
     "categories": [
       "ports-anchorages",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "dolphins-off-milna",
+        "title": "Dolphins off Milna",
+        "date": "2026-07-10",
+        "location": "Off Milna, Croatia"
+      }
     ]
   },
   {
@@ -437,10 +675,17 @@
     "title": "A dolphin breach",
     "caption": "Cameron’s footage caught a lovely dolphin breach beside the yacht while Juno’s 7 was anchored near Milna.",
     "categories": [
-      "crew",
       "junos7",
       "ports-anchorages",
       "wildlife"
+    ],
+    "journalEntries": [
+      {
+        "id": "dolphins-off-milna",
+        "title": "Dolphins off Milna",
+        "date": "2026-07-10",
+        "location": "Off Milna, Croatia"
+      }
     ]
   },
   {
@@ -453,6 +698,14 @@
     "categories": [
       "wildlife",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "dolphins-off-milna",
+        "title": "Dolphins off Milna",
+        "date": "2026-07-10",
+        "location": "Off Milna, Croatia"
+      }
     ]
   },
   {
@@ -470,8 +723,17 @@
       "originalPreserved": true
     },
     "categories": [
+      "crew",
       "junos7",
       "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "teak-dent-repair-entry",
+        "title": "Getting the Dents Out",
+        "date": "2026-07-11",
+        "location": "On board Juno’s 7"
+      }
     ]
   },
   {
@@ -492,6 +754,14 @@
       "ports-anchorages",
       "weather",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "vis-film-set-and-ash",
+        "title": "A Film Set — and Ash on the Deck",
+        "date": "2026-07-11",
+        "location": "Vis, Croatia"
+      }
     ]
   },
   {
@@ -513,6 +783,14 @@
       "ports-anchorages",
       "weather",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "vis-film-set-and-ash",
+        "title": "A Film Set — and Ash on the Deck",
+        "date": "2026-07-11",
+        "location": "Vis, Croatia"
+      }
     ]
   },
   {
@@ -523,11 +801,18 @@
     "title": "A wet start in Vis",
     "caption": "Cameron’s 6am view: steady rain and a noticeably choppy sea at the start of his shift.",
     "categories": [
-      "crew",
       "ports-anchorages",
       "weather",
       "behind-scenes",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "much-nicer-vis",
+        "title": "Much Nicer",
+        "date": "2026-07-12",
+        "location": "Vis, Croatia"
+      }
     ]
   },
   {
@@ -547,6 +832,14 @@
     "categories": [
       "ports-anchorages",
       "weather"
+    ],
+    "journalEntries": [
+      {
+        "id": "much-nicer-vis",
+        "title": "Much Nicer",
+        "date": "2026-07-12",
+        "location": "Vis, Croatia"
+      }
     ]
   },
   {
@@ -568,6 +861,14 @@
       "junos7",
       "ports-anchorages",
       "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "working-aloft-vis",
+        "title": "Ready for the Climb",
+        "date": "2026-07-12",
+        "location": "Vis, Croatia"
+      }
     ]
   },
   {
@@ -586,6 +887,14 @@
     },
     "categories": [
       "crew"
+    ],
+    "journalEntries": [
+      {
+        "id": "afternoon-off-vis",
+        "title": "Afternoon Off",
+        "date": "2026-07-12",
+        "location": "Vis, Croatia"
+      }
     ]
   },
   {
@@ -600,6 +909,14 @@
       "junos7",
       "wildlife",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "another-dolphin-to-komiza",
+        "title": "Another Dolphin",
+        "date": "2026-07-13",
+        "location": "Underway off Biševo, later anchored off Komiža"
+      }
     ]
   },
   {
@@ -614,6 +931,14 @@
       "junos7",
       "wildlife",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "another-dolphin-to-komiza",
+        "title": "Another Dolphin",
+        "date": "2026-07-13",
+        "location": "Underway off Biševo, later anchored off Komiža"
+      }
     ]
   },
   {
@@ -634,6 +959,14 @@
       "junos7",
       "ports-anchorages",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "dawn-over-komiza",
+        "title": "Dawn over Komiža",
+        "date": "2026-07-14",
+        "location": "At anchor off Komiža, Vis"
+      }
     ]
   },
   {
@@ -655,6 +988,14 @@
       "ports-anchorages",
       "weather",
       "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "calm-before-storm-smokvica",
+        "title": "Calm Before the Storm",
+        "date": "2026-07-15",
+        "location": "At anchor, Smokvica Vela, Kornati"
+      }
     ]
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "version": "2.4.1",
-  "release": "Gallery Classification Fix",
+  "version": "2.5.0",
+  "release": "Connected Storytelling",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
@@ -47,6 +47,17 @@
     "mediaItems": 42,
     "photos": 30,
     "videos": 12,
-    "contextualDiscoveries": 8
+    "contextualDiscoveries": 8,
+    "voyageLegs": 40,
+    "averageLegNm": 28.5,
+    "longestLegNm": 223.9,
+    "longestLegFrom": "Sea of Crete / Cyclades area",
+    "longestLegTo": "Zakynthos",
+    "countriesVisited": 3,
+    "countryNames": [
+      "Greece",
+      "Croatia",
+      "Albania"
+    ]
   }
 }

@@ -37,3 +37,20 @@
 
 /* v2.4.0 Gallery Evolution */
 .gallery-filters{display:flex;flex-wrap:wrap;gap:.65rem;margin:0 0 .85rem}.gallery-filters button{appearance:none;border:1px solid rgba(240,213,148,.28);border-radius:999px;background:rgba(255,255,255,.04);color:var(--ivory);padding:.62rem .92rem;font:inherit;font-size:.86rem;font-weight:700;cursor:pointer;transition:background .2s ease,border-color .2s ease,transform .2s ease}.gallery-filters button:hover{transform:translateY(-1px);border-color:rgba(240,213,148,.65)}.gallery-filters button.active{background:var(--gold);border-color:var(--gold);color:var(--navy)}.gallery-count{margin:0 0 1.15rem;color:rgba(246,239,226,.68);font-size:.9rem}.gallery-card .media-button{position:relative}.video-play-badge{position:absolute;right:.8rem;top:.8rem;width:2.35rem;height:2.35rem;border-radius:50%;display:grid;place-items:center;padding-left:.12rem;background:rgba(6,25,40,.82);color:var(--ivory);border:1px solid rgba(240,213,148,.68);box-shadow:0 5px 18px rgba(0,0,0,.28);font-size:.9rem;pointer-events:none}.gallery-card[hidden]{display:none}
+
+/* v2.5.0 connected storytelling */
+.entry-media-label{grid-column:1/-1;padding:.75rem 1rem .55rem;color:var(--gold-light);background:var(--navy);font-size:.72rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;line-height:1.4}
+.media-category-badges{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.7rem}.media-category-badges span{display:inline-block;padding:.22rem .48rem;border-radius:999px;background:rgba(6,25,40,.08);font-size:.66rem;font-weight:800;letter-spacing:.03em}.dark .media-category-badges span{background:rgba(255,255,255,.1);color:#f6efe2}
+.media-story-links{margin-top:.7rem;padding-top:.65rem;border-top:1px solid rgba(201,164,92,.28)}.media-story-links a{display:block;color:inherit;font-weight:800;text-decoration-thickness:1px;text-underline-offset:3px}.media-story-links a+a{margin-top:.35rem}
+.discovery-filters{margin:0 0 .75rem}.discovery-filters button{background:var(--paper);color:var(--navy);border-color:rgba(6,25,40,.22)}.discovery-filters button:hover{background:#f2e7d5;color:var(--navy);border-color:var(--gold)}.discovery-filters button.active{background:var(--gold);color:var(--navy);border-color:var(--gold)}.discovery-actions{display:flex;flex-wrap:wrap;gap:.55rem;margin-top:1rem}.discovery-button,.discovery-button.secondary{background:var(--navy);color:var(--ivory);border-color:var(--navy)}.discovery-button:hover,.discovery-button.secondary:hover{background:var(--gold);color:var(--navy);border-color:var(--gold)}
+
+/* v2.5.0 voyage summary polish */
+#dashboardMetrics .summary-metric{position:relative;min-height:182px;padding-bottom:4.25rem;overflow:hidden}
+#dashboardMetrics .summary-metric .value{overflow-wrap:anywhere;word-break:normal}
+#dashboardMetrics .current-location-card{grid-column:span 2}
+#dashboardMetrics .current-location-card .value{font-size:clamp(1.75rem,3.1vw,2.35rem);max-width:18ch}
+#dashboardMetrics .summary-icon{position:absolute;left:1.15rem;bottom:.95rem;width:46px;height:46px;color:var(--sea-light);opacity:.48;pointer-events:none}
+#dashboardMetrics .summary-icon svg{display:block;width:100%;height:100%;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+#dashboardMetrics .longest-passage-card .summary-icon{left:auto;right:.8rem;bottom:.55rem;width:112px;height:48px;opacity:.72}
+#dashboardMetrics .longest-passage-card .summary-icon .juno-icon{display:block;width:100%;height:100%;object-fit:contain;object-position:right bottom;filter:none}
+@media(max-width:900px){#dashboardMetrics .current-location-card{grid-column:span 1}}

@@ -36,3 +36,9 @@
 - Strict proximity and evidence filtering
 - Source-backed discovery page, journal cards and voyage-map integration
 - Build-time validation and documented editorial workflow
+
+## v2.5.0 – Connected Storytelling
+- Full gallery classification audit and clearer **Crew Life** label
+- Journal-to-gallery and gallery-to-journal relationships
+- Filterable contextual discoveries with direct journal and voyage links
+- Longest passage, average passage and countries-visited statistics

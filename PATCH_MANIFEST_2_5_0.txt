@@ -1,0 +1,34 @@
+Juno's 7 Journal v2.5.0 changed-files package
+
+Generated site/ is intentionally excluded.
+Run: python tools/build_site.py
+
+Files included:
+- CHANGELOG.md
+- GALLERY_CLASSIFICATION_2_5_0.md
+- RELEASE_2_5_0.md
+- ROADMAP.md
+- VERSION
+- content/media-index/media-index.json
+- docs/assets/css/style.css
+- docs/assets/js/app.js
+- docs/assets/icons/junos7-summary.png
+- docs/assets/js/dashboard.js
+- docs/assets/js/discoveries.js
+- docs/build-info.json
+- docs/build-manifest.json
+- docs/data/dashboard.json
+- docs/data/discoveries.json
+- docs/data/journal.json
+- docs/data/media.json
+- docs/data/route.json
+- docs/data/version.json
+- docs/discoveries.html
+- docs/index.html
+- tools/build_site.py
+- tools/voyage_routing.py
+
+Final pre-commit polish:
+- Voyage summary Current Location overflow correction
+- Understated summary-card icon set
+- Exact approved filled Juno's 7 profile on Longest Passage

@@ -1,7 +1,7 @@
 {
   "version": "2.2.0",
   "release": "Media Linking Fix",
-  "buildUtc": "2026-07-17 08:22:04 UTC",
+  "buildUtc": "2026-07-17 08:25:00 UTC",
   "fileCount": 146,
   "files": [
     {
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 202,
-      "sha256": "6bd3d9f411af72f6b905c2e97a8a961bd297478f4344a7ec40f098b51ba31451"
+      "sha256": "ac03efa945e75105046e5d567864950002de4d4c1d2158809ea9bc81b91931f7"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 26415,
-      "sha256": "c52b5e3c95c8942280c340048d5c1dc12ff3907dcffcfb14e81cca1819a60581"
+      "sha256": "6d654ed129c1527ddc3c79a84c592c0a3229e816820b152dea4cad52ebe35bdc"
     },
     {
       "path": "crew.html",
@@ -132,7 +132,7 @@
     {
       "path": "data/dashboard.json",
       "sizeBytes": 1775,
-      "sha256": "deeb9ad73fc4c3451454f549a375fc401da7ddb08e4fff7cba017282a9cf1f68"
+      "sha256": "c6ae31b4a31a08b5988e5a2aba59a465d8838a98efb7bc634ed4235408a5cc2d"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "e1fb6cb6a54e588c434a019e9c5a8d5f421c007e96659f7b3b2cf4af514f3d23"
+      "sha256": "ae6816d808b4578634e18e8df3430668ba82fd9b57d3a437539b0aba927fdcfb"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -226,8 +226,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 70450,
-      "sha256": "8d74f56a8cdfa62e3918265f1185edc9ed1d728656766069759d155de14f6d55"
+      "sizeBytes": 71368,
+      "sha256": "af613734506d65da375c9d59d98fea7ebffb8dbcd3b9d24cb73914f3d470b769"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -287,7 +287,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 202,
-      "sha256": "6bd3d9f411af72f6b905c2e97a8a961bd297478f4344a7ec40f098b51ba31451"
+      "sha256": "ac03efa945e75105046e5d567864950002de4d4c1d2158809ea9bc81b91931f7"
     },
     {
       "path": "data/version.json.bak-1-0-1",

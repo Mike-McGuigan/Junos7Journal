@@ -1,7 +1,7 @@
 {
-  "version": "2.4.0",
-  "release": "Gallery Evolution",
-  "buildUtc": "2026-07-17 10:49:44 UTC",
+  "version": "2.4.1",
+  "release": "Gallery Classification Fix",
+  "buildUtc": "2026-07-17 12:08:31 UTC",
   "project": "Juno's 7 Mediterranean Journal",
   "pagesSource": "docs",
   "siteOutput": "site"

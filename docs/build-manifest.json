@@ -1,7 +1,7 @@
 {
-  "version": "2.4.0",
-  "release": "Gallery Evolution",
-  "buildUtc": "2026-07-17 10:49:44 UTC",
+  "version": "2.4.1",
+  "release": "Gallery Classification Fix",
+  "buildUtc": "2026-07-17 12:08:31 UTC",
   "fileCount": 146,
   "files": [
     {
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 202,
-      "sha256": "21c4b1705ea84cf62f956f7b2a3b6550cc825aa2813fff6f8454d1108bf26314"
+      "sizeBytes": 211,
+      "sha256": "a5c2c9251a592c7b0ae427901c2fd596cd26dd397b08f01fb10a5085fffd87a8"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 25679,
-      "sha256": "f1ea76eb6bf85299c9fd82828877bebd22e39dcf0b1efcf39d3c12e834066574"
+      "sizeBytes": 26425,
+      "sha256": "a2665d7ec9b332095712339e4277af500aed6471f5f94457ae84779f3c187d71"
     },
     {
       "path": "crew.html",
@@ -51,8 +51,8 @@
     },
     {
       "path": "index.html",
-      "sizeBytes": 6227,
-      "sha256": "0894b87e629bf969c889cd7dca9d35c54192f22c056663b0cb8e2a4e94053ebb"
+      "sizeBytes": 6309,
+      "sha256": "0e131dd5e5e14492612b272905213fea330e7e52287ea089f714948ecd2dae82"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1775,
-      "sha256": "ee82de9278d2b2bb39e829ca229b58b87e27df508bfda0302fb641c3a898657f"
+      "sizeBytes": 1784,
+      "sha256": "e792efc19a2fdffbb2d2e35216c4afb2ba6123a3d27fdc44f7d1a4d6274c25c0"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "5225c0869175358c7e5d938b926d1b80c674fd2fc9f493232382396b6a7403e5"
+      "sha256": "a5de971ef111aa579cb3452f9880149da6d42e1e4faa001e752ffa1c9e6525dd"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -191,8 +191,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 123591,
-      "sha256": "5da92ea7ce3df288e48f84ada559ed7bfd94bdd898a10180ef42c8a576fafe5c"
+      "sizeBytes": 123515,
+      "sha256": "139a0cc4294816b3195af96ee49409e2ae823e1648204034cd1e35fe64444801"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 20964,
-      "sha256": "67740f8e69fe8603adc0e87d7d08092aa09852930e6554f78fa81d2bc125ab83"
+      "sizeBytes": 20898,
+      "sha256": "3592cc33c3978728e54e600a8c68479c393713539ab8eb1a69d2da5eea138d3d"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -286,8 +286,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 202,
-      "sha256": "21c4b1705ea84cf62f956f7b2a3b6550cc825aa2813fff6f8454d1108bf26314"
+      "sizeBytes": 211,
+      "sha256": "a5c2c9251a592c7b0ae427901c2fd596cd26dd397b08f01fb10a5085fffd87a8"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -666,8 +666,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 18202,
-      "sha256": "27407d145a5c18b3b5334cefae5db9479ba1245f6167ce343944ba4d20e305cb"
+      "sizeBytes": 18205,
+      "sha256": "8394da621bffbb2d57ea5d679952afbdc391003b07348ca3da8f91ba26eb610c"
     },
     {
       "path": "assets/css/version.css",
@@ -706,8 +706,8 @@
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 10132,
-      "sha256": "01314158e237ebabd09b2854b85be873d3b08f23ff8460dfc95333c5bfec09c4"
+      "sizeBytes": 10152,
+      "sha256": "2dbc10c1df2d41196649002dcc5814a6b543ac02c6a6f538d8abfc240e4b97fd"
     },
     {
       "path": "assets/js/dashboard.js",

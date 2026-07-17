@@ -21,7 +21,7 @@ AIS_RECORD = {
     "displayName": "JUNOS 7",
     "mmsi": "319303300",
     "imo": "1109712",
-    "status": "Under way / recent AIS reception",
+    "status": "Underway / recent AIS reception",
     "area": "West Coast Greece / Ionian Sea",
     "latestPrecisePosition": {
         "lat": 39.01234,

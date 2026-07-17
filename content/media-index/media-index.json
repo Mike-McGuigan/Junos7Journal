@@ -5,7 +5,11 @@
     "date": "2026-06-17",
     "url": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
     "title": "Cameron and Sophie",
-    "caption": "Cameron and Sophie shortly after joining Juno's 7."
+    "caption": "Cameron and Sophie shortly after joining Juno's 7.",
+    "categories": [
+      "crew",
+      "junos7"
+    ]
   },
   {
     "id": "junos-marina",
@@ -13,7 +17,12 @@
     "date": "2026-06-17",
     "url": "media/photos/2026-06-17-junos7-marina.jpg",
     "title": "Juno's 7 in the marina",
-    "caption": "Juno's 7 in the marina shortly after Cameron and Sophie joined."
+    "caption": "Juno's 7 in the marina shortly after Cameron and Sophie joined.",
+    "categories": [
+      "crew",
+      "junos7",
+      "ports-anchorages"
+    ]
   },
   {
     "id": "mooring-lines",
@@ -21,7 +30,12 @@
     "date": "2026-06-19",
     "url": "media/photos/2026-06-19-cameron-lines.jpg",
     "title": "Learning the ropes",
-    "caption": "Cameron working with lines on deck."
+    "caption": "Cameron working with lines on deck.",
+    "categories": [
+      "crew",
+      "junos7",
+      "behind-scenes"
+    ]
   },
   {
     "id": "sundeck-black",
@@ -36,7 +50,11 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "junos7",
+      "behind-scenes"
+    ]
   },
   {
     "id": "junos-lipsi",
@@ -44,7 +62,12 @@
     "date": "2026-06-20",
     "url": "media/photos/2026-06-20-junos7-at-anchor.jpg",
     "title": "Juno's 7 at anchor",
-    "caption": "Juno's 7 sitting quietly against the Greek coastline."
+    "caption": "Juno's 7 sitting quietly against the Greek coastline.",
+    "categories": [
+      "junos7",
+      "ports-anchorages",
+      "scenic"
+    ]
   },
   {
     "id": "cameron-jetski",
@@ -52,7 +75,12 @@
     "date": "2026-06-21",
     "url": "media/photos/2026-06-21-cameron-jetski.jpg",
     "title": "Sophie's first jet ski day",
-    "caption": "A quiet moment around the swim platform and water toys."
+    "caption": "A quiet moment around the swim platform and water toys.",
+    "categories": [
+      "crew",
+      "junos7",
+      "tenders-toys"
+    ]
   },
   {
     "id": "future-house",
@@ -60,7 +88,11 @@
     "date": "2026-06-23",
     "url": "media/photos/2026-06-23-future-house.jpg",
     "title": "My future house",
-    "caption": "The hillside villa Sophie picked out from the water."
+    "caption": "The hillside villa Sophie picked out from the water.",
+    "categories": [
+      "crew",
+      "scenic"
+    ]
   },
   {
     "id": "nice-spot-1",
@@ -68,7 +100,11 @@
     "date": "2026-06-27",
     "url": "media/photos/2026-06-27-nice-spot-1.jpg",
     "title": "Nice spot for today",
-    "caption": "Tender and toys alongside in a peaceful anchorage."
+    "caption": "Tender and toys alongside in a peaceful anchorage.",
+    "categories": [
+      "ports-anchorages",
+      "tenders-toys"
+    ]
   },
   {
     "id": "nice-spot-2",
@@ -76,7 +112,12 @@
     "date": "2026-06-27",
     "url": "media/photos/2026-06-27-nice-spot-2.jpg",
     "title": "Green hills and clear water",
-    "caption": "A sheltered bay with water toys ready on the platform."
+    "caption": "A sheltered bay with water toys ready on the platform.",
+    "categories": [
+      "ports-anchorages",
+      "tenders-toys",
+      "scenic"
+    ]
   },
   {
     "id": "nice-spot-3",
@@ -84,7 +125,12 @@
     "date": "2026-06-27",
     "url": "media/photos/2026-06-27-nice-spot-3.jpg",
     "title": "Sun on the water",
-    "caption": "Sunlight across the anchorage from the swim platform."
+    "caption": "Sunlight across the anchorage from the swim platform.",
+    "categories": [
+      "junos7",
+      "ports-anchorages",
+      "scenic"
+    ]
   },
   {
     "id": "underway-aft-deck",
@@ -92,7 +138,10 @@
     "date": "2026-06-30",
     "url": "media/photos/2026-06-30-underway-aft-deck.jpg",
     "title": "Underway for another 2.5 hours",
-    "caption": "A quiet afternoon at sea aboard Juno's 7, with around two and a half hours remaining before the next destination."
+    "caption": "A quiet afternoon at sea aboard Juno's 7, with around two and a half hours remaining before the next destination.",
+    "categories": [
+      "junos7"
+    ]
   },
   {
     "id": "webcam-boarding",
@@ -100,7 +149,11 @@
     "date": "2026-06-17",
     "url": "media/webcam/2026-06-17-first-boarding-webcam.mp4",
     "title": "The Beginning",
-    "caption": "Webcam footage showing Cameron and Sophie boarding Juno's 7 for the first time."
+    "caption": "Webcam footage showing Cameron and Sophie boarding Juno's 7 for the first time.",
+    "categories": [
+      "crew",
+      "junos7"
+    ]
   },
   {
     "id": "rather-rocky",
@@ -108,7 +161,11 @@
     "date": "2026-06-21",
     "url": "media/videos/2026-06-21-rather-rocky.mp4",
     "title": "Rather rocky",
-    "caption": "Cameron's late-morning video: Rather rocky."
+    "caption": "Cameron's late-morning video: Rather rocky.",
+    "categories": [
+      "crew",
+      "weather"
+    ]
   },
   {
     "id": "sophie-june26",
@@ -116,7 +173,10 @@
     "date": "2026-06-26",
     "url": "media/videos/2026-06-26-sophie-video.mp4",
     "title": "Sophie video",
-    "caption": "Short video sent by Sophie on 26 June."
+    "caption": "Short video sent by Sophie on 26 June.",
+    "categories": [
+      "crew"
+    ]
   },
   {
     "id": "sophie-june27",
@@ -124,7 +184,12 @@
     "date": "2026-06-27",
     "url": "media/videos/2026-06-27-sophie-swim-platform.mp4",
     "title": "Sophie's swim platform video",
-    "caption": "Cameron and Sophie enjoying the swim platform in a calm Greek anchorage."
+    "caption": "Cameron and Sophie enjoying the swim platform in a calm Greek anchorage.",
+    "categories": [
+      "crew",
+      "junos7",
+      "ports-anchorages"
+    ]
   },
   {
     "id": "sophie-stormy",
@@ -132,7 +197,11 @@
     "date": "2026-06-30",
     "url": "media/videos/2026-06-30-sophie-stormy.mp4",
     "title": "A little stormy today",
-    "caption": "Stormier conditions later on 30 June, captured by Sophie while underway."
+    "caption": "Stormier conditions later on 30 June, captured by Sophie while underway.",
+    "categories": [
+      "crew",
+      "weather"
+    ]
   },
   {
     "id": "cam-towing-toys",
@@ -140,7 +209,12 @@
     "date": "2026-06-30",
     "url": "media/videos/2026-06-30-cam-towing-toys.mp4",
     "title": "Cam on a mission",
-    "caption": "Cameron towing the yacht's inflatable water toys from the tender during livelier conditions. No-one was on the toys at the time."
+    "caption": "Cameron towing the yacht's inflatable water toys from the tender during livelier conditions. No-one was on the toys at the time.",
+    "categories": [
+      "crew",
+      "tenders-toys",
+      "behind-scenes"
+    ]
   },
   {
     "id": "underway-cavtat",
@@ -148,14 +222,18 @@
     "date": "2026-07-02",
     "url": "media/photos/2026-07-02-underway-cavtat.jpg",
     "title": "Underway to Cavtat",
-    "caption": "Looking aft during the passage from Corfu to Cavtat, with SETE following faithfully in Juno's 7 wake.",
+    "caption": "Looking aft during the passage from Corfu to Cavtat, with Juno's 7 leaving a broad wake across the Adriatic.",
     "originalUrl": "media/photos/2026-07-02-underway-cavtat.jpg",
     "enhancedUrl": "media/photos/enhanced/2026-07-02-underway-cavtat-enhanced.jpg",
     "enhancement": {
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "junos7",
+      "scenic"
+    ]
   },
   {
     "id": "cavtat-waterfront",
@@ -163,7 +241,11 @@
     "date": "2026-07-03",
     "url": "media/photos/2026-07-04-cavtat-waterfront.jpg",
     "title": "Cavtat waterfront",
-    "caption": "Clear Adriatic water beside Cavtat's stone waterfront, with the shaded promenade and Croatian hills beyond."
+    "caption": "Clear Adriatic water beside Cavtat's stone waterfront, with the shaded promenade and Croatian hills beyond.",
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ]
   },
   {
     "id": "cavtat-bay",
@@ -171,7 +253,11 @@
     "date": "2026-07-03",
     "url": "media/photos/2026-07-04-cavtat-bay.jpg",
     "title": "Moored in Cavtat",
-    "caption": "Looking across Cavtat Bay towards Juno's 7, lying off the waterfront beneath the mountains of southern Croatia."
+    "caption": "Looking across Cavtat Bay towards Juno's 7, lying off the waterfront beneath the mountains of southern Croatia.",
+    "categories": [
+      "junos7",
+      "ports-anchorages"
+    ]
   },
   {
     "id": "cameron-working-aloft-vis",
@@ -186,7 +272,13 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "crew",
+      "junos7",
+      "ports-anchorages",
+      "behind-scenes"
+    ]
   },
   {
     "id": "black-pearl-polace-photo",
@@ -201,7 +293,11 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ]
   },
   {
     "id": "pakleni-approach-bow",
@@ -216,7 +312,11 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "junos7",
+      "ports-anchorages"
+    ]
   },
   {
     "id": "pakleni-anchorage-view",
@@ -231,7 +331,11 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ]
   },
   {
     "id": "peaceful-night-shift-video",
@@ -239,7 +343,13 @@
     "date": "2026-07-08",
     "url": "media/videos/2026-07-08-peaceful-night-shift.mp4",
     "title": "Peaceful night shift",
-    "caption": "The sea glowing turquoise beneath Juno’s 7 during Cameron’s early-hours watch."
+    "caption": "The sea glowing turquoise beneath Juno’s 7 during Cameron’s early-hours watch.",
+    "categories": [
+      "crew",
+      "junos7",
+      "behind-scenes",
+      "scenic"
+    ]
   },
   {
     "id": "milna-aft-deck",
@@ -254,7 +364,12 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "junos7",
+      "ports-anchorages",
+      "scenic"
+    ]
   },
   {
     "id": "milna-anchorage",
@@ -269,7 +384,12 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "junos7",
+      "ports-anchorages",
+      "scenic"
+    ]
   },
   {
     "id": "milna-bay",
@@ -284,7 +404,11 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ]
   },
   {
     "id": "milna-sun-on-water",
@@ -299,7 +423,11 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ]
   },
   {
     "id": "dolphins-from-deck",
@@ -307,7 +435,13 @@
     "date": "2026-07-10",
     "url": "media/videos/2026-07-10-dolphins-from-deck.mp4",
     "title": "A dolphin breach",
-    "caption": "Cameron’s footage caught a lovely dolphin breach beside the yacht while Juno’s 7 was anchored near Milna."
+    "caption": "Cameron’s footage caught a lovely dolphin breach beside the yacht while Juno’s 7 was anchored near Milna.",
+    "categories": [
+      "crew",
+      "junos7",
+      "ports-anchorages",
+      "wildlife"
+    ]
   },
   {
     "id": "dolphin-drone-footage",
@@ -315,7 +449,11 @@
     "date": "2026-07-10",
     "url": "media/videos/2026-07-10-dolphin-drone-footage.mp4",
     "title": "Dolphins from above",
-    "caption": "The captain’s drone follows the dolphins from above — the best view of the encounter."
+    "caption": "The captain’s drone follows the dolphins from above — the best view of the encounter.",
+    "categories": [
+      "wildlife",
+      "scenic"
+    ]
   },
   {
     "id": "teak-dent-repair",
@@ -330,7 +468,11 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "junos7",
+      "behind-scenes"
+    ]
   },
   {
     "id": "vis-sunset-ash-1",
@@ -345,7 +487,12 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "ports-anchorages",
+      "weather",
+      "scenic"
+    ]
   },
   {
     "id": "vis-sunset-ash-2",
@@ -360,7 +507,13 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "junos7",
+      "ports-anchorages",
+      "weather",
+      "scenic"
+    ]
   },
   {
     "id": "rainy-start-to-shift",
@@ -368,7 +521,14 @@
     "date": "2026-07-12",
     "url": "media/videos/2026-07-12-rainy-start-to-shift.mp4",
     "title": "A wet start in Vis",
-    "caption": "Cameron’s 6am view: steady rain and a noticeably choppy sea at the start of his shift."
+    "caption": "Cameron’s 6am view: steady rain and a noticeably choppy sea at the start of his shift.",
+    "categories": [
+      "crew",
+      "ports-anchorages",
+      "weather",
+      "behind-scenes",
+      "scenic"
+    ]
   },
   {
     "id": "vis-weather-cleared",
@@ -383,7 +543,11 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "ports-anchorages",
+      "weather"
+    ]
   },
   {
     "id": "cameron-working-aloft-side",
@@ -398,7 +562,13 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "crew",
+      "junos7",
+      "ports-anchorages",
+      "behind-scenes"
+    ]
   },
   {
     "id": "afternoon-off-feet",
@@ -413,7 +583,10 @@
       "status": "enhanced-working-copy",
       "method": "gentle upscale, contrast recovery and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "crew"
+    ]
   },
   {
     "id": "dolphin-on-bow-cameron",
@@ -421,7 +594,13 @@
     "date": "2026-07-13",
     "url": "media/videos/2026-07-13-dolphin-on-bow-cameron.mp4",
     "title": "Another dolphin on the bow",
-    "caption": "Cameron’s view of another dolphin riding beside the bow while Juno’s 7 was under way off Vis."
+    "caption": "Cameron’s view of another dolphin riding beside the bow while Juno’s 7 was underway off Vis.",
+    "categories": [
+      "crew",
+      "junos7",
+      "wildlife",
+      "scenic"
+    ]
   },
   {
     "id": "dolphin-on-bow-sophie",
@@ -429,7 +608,13 @@
     "date": "2026-07-13",
     "url": "media/videos/2026-07-13-dolphin-on-bow-sophie.mp4",
     "title": "A delighted reaction",
-    "caption": "Sophie’s second view catches the dolphin alongside — and the lovely shriek of excitement from one of the owner’s children."
+    "caption": "Sophie’s second view catches the dolphin alongside — and the lovely shriek of excitement from one of the owner’s children.",
+    "categories": [
+      "crew",
+      "junos7",
+      "wildlife",
+      "scenic"
+    ]
   },
   {
     "id": "komiza-dawn",
@@ -444,7 +629,12 @@
       "status": "enhanced-working-copy",
       "method": "light noise reduction, restrained contrast and sharpening",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "junos7",
+      "ports-anchorages",
+      "scenic"
+    ]
   },
   {
     "id": "smokvica-calm-before-storm",
@@ -459,6 +649,12 @@
       "status": "enhanced-working-copy",
       "method": "light noise reduction with the deep-blue atmosphere preserved",
       "originalPreserved": true
-    }
+    },
+    "categories": [
+      "junos7",
+      "ports-anchorages",
+      "weather",
+      "scenic"
+    ]
   }
 ]

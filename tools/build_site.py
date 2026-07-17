@@ -18,7 +18,7 @@ DOCS = ROOT / "docs"
 SITE = ROOT / "site"
 VERSION_FILE = ROOT / "VERSION"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
-RELEASE_NAME = "Media Linking Fix"
+RELEASE_NAME = "Gallery Evolution"
 
 
 def sha256(path: Path) -> str:
@@ -79,6 +79,49 @@ def sync_embedded_journal_media() -> int:
     journal["media"] = media
     journal_path.write_text(json.dumps(journal, indent=2, ensure_ascii=False), encoding="utf-8")
     return len(media)
+
+
+
+def validate_media_catalogue() -> dict:
+    media_path = DOCS / "data" / "media.json"
+    items = load_json(media_path, [])
+    if not isinstance(items, list):
+        raise SystemExit(f"{media_path} must contain a JSON list")
+    allowed_types = {"photo", "video"}
+    allowed_categories = {"scenic", "crew", "junos7", "ports-anchorages", "wildlife", "weather", "behind-scenes", "tenders-toys"}
+    seen = set()
+    errors = []
+    for index, item in enumerate(items):
+        media_id = item.get("id")
+        if not media_id:
+            errors.append(f"Media item {index + 1} has no id")
+        elif media_id in seen:
+            errors.append(f"Duplicate media id: {media_id}")
+        seen.add(media_id)
+        media_type = str(item.get("type", "")).lower()
+        if media_type not in allowed_types:
+            errors.append(f"{media_id}: invalid type {media_type!r}")
+        categories = item.get("categories")
+        if not isinstance(categories, list) or not categories:
+            errors.append(f"{media_id}: at least one category is required")
+        else:
+            unknown = sorted(set(categories) - allowed_categories)
+            if unknown:
+                errors.append(f"{media_id}: unknown categories {unknown}")
+        url = item.get("url")
+        if not url or not (DOCS / url).is_file():
+            errors.append(f"{media_id}: missing media file {url!r}")
+        enhanced = item.get("enhancedUrl")
+        if enhanced and not (DOCS / enhanced).is_file():
+            errors.append(f"{media_id}: missing enhanced file {enhanced!r}")
+    journal = load_json(DOCS / "data" / "journal.json", {})
+    for entry in journal.get("entries", []) if isinstance(journal, dict) else []:
+        for media_id in entry.get("media", []):
+            if media_id not in seen:
+                errors.append(f"Journal entry {entry.get('id')}: unknown media id {media_id}")
+    if errors:
+        raise SystemExit("Media validation failed:\n- " + "\n- ".join(errors))
+    return {"mediaItems": len(items), "categories": sorted({c for item in items for c in item.get("categories", [])})}
 
 def count_journal_entries() -> int | None:
     data = load_json(DOCS / "data" / "journal.json", None)
@@ -186,6 +229,7 @@ def main() -> None:
     version = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "2.3.0"
     build_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
+    media_validation = validate_media_catalogue()
     embedded_media_count = sync_embedded_journal_media()
     route_stats = enrich_route_file(DOCS / "data" / "route.json", GEOMETRY_FILE)
     discovery_stats = build_contextual_discovery()
@@ -199,6 +243,7 @@ def main() -> None:
     print(f"Built site/ from docs/ for version {version}")
     print(f"Files: {file_count}")
     print(f"Embedded journal media: {embedded_media_count}")
+    print(f"Gallery categories: {len(media_validation['categories'])}")
     if route_stats:
         print(f"Estimated voyage distance: {route_stats.get('distanceEstimatedNm')} NM")
         print(f"Manual sea-route legs: {route_stats.get('manualSeaRouteLegs')}")

@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.4.1 — Gallery Classification Fix
+
+- Makes gallery categories part of the canonical media index so later publishes preserve them.
+- Corrects category assignments for the Cavtat passage, Black Pearl and Smokvica media.
+- Removes the unsupported claim that SETE is visible in the Cavtat passage photograph.
+- Standardises current journal, route and dashboard wording from “under way” to “underway”.
+- Rebuilds and validates the generated site as version 2.4.1.
+
 ## 2.3.1 - Contextual Discovery Polish
 
 - Separated the on-page hero mark from the square app/favicon icon.

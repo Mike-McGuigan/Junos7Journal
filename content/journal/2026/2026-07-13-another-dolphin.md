@@ -3,7 +3,7 @@ date: 2026-07-13
 location: Underway off Biševo / Komiža, Vis
 chapter: Another Dolphin
 quotes:
-  Cameron: "Another dolphin — on the bow under way."
+  Cameron: "Another dolphin — on the bow underway."
 ---
 
 # Another Dolphin

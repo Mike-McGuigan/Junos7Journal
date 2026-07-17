@@ -631,7 +631,7 @@
       "location": "Underway off Biševo, later anchored off Komiža",
       "type": "wildlife",
       "person": "Cameron",
-      "quote": "Another dolphin — on the bow under way.",
+      "quote": "Another dolphin — on the bow underway.",
       "body": "Juno’s 7 left Vis and took a looping route south-west towards Biševo before turning back to anchor off Komiža. During the passage, another dolphin appeared beneath the bow.\n\nCameron captured it moving alongside the yacht, while Sophie’s second video preserved something just as memorable: the delighted shriek of one of the owner’s children as the dolphin came into view.",
       "summary": "A roundabout passage towards Biševo, another dolphin at the bow and an excited voice that says everything.",
       "photos": [],
@@ -938,7 +938,7 @@
       "date": "2026-07-02",
       "url": "media/photos/2026-07-02-underway-cavtat.jpg",
       "title": "Underway to Cavtat",
-      "caption": "Looking aft during the passage from Corfu to Cavtat, with SETE following faithfully in Juno's 7 wake.",
+      "caption": "Looking aft during the passage from Corfu to Cavtat, with Juno's 7 leaving a broad wake across the Adriatic.",
       "originalUrl": "media/photos/2026-07-02-underway-cavtat.jpg",
       "enhancedUrl": "media/photos/enhanced/2026-07-02-underway-cavtat-enhanced.jpg",
       "enhancement": {
@@ -948,7 +948,7 @@
       },
       "categories": [
         "junos7",
-        "ports-anchorages"
+        "scenic"
       ]
     },
     {
@@ -1011,9 +1011,8 @@
         "originalPreserved": true
       },
       "categories": [
-        "crew",
-        "junos7",
-        "ports-anchorages"
+        "ports-anchorages",
+        "scenic"
       ]
     },
     {
@@ -1311,7 +1310,7 @@
       "date": "2026-07-13",
       "url": "media/videos/2026-07-13-dolphin-on-bow-cameron.mp4",
       "title": "Another dolphin on the bow",
-      "caption": "Cameron’s view of another dolphin riding beside the bow while Juno’s 7 was under way off Vis.",
+      "caption": "Cameron’s view of another dolphin riding beside the bow while Juno’s 7 was underway off Vis.",
       "categories": [
         "crew",
         "junos7",
@@ -1372,7 +1371,6 @@
         "junos7",
         "ports-anchorages",
         "weather",
-        "tenders-toys",
         "scenic"
       ]
     }

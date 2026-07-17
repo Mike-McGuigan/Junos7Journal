@@ -1,7 +1,7 @@
 {
-  "version": "2.4.0",
-  "release": "Gallery Evolution",
-  "buildUtc": "2026-07-17 10:49:44 UTC",
+  "version": "2.4.1",
+  "release": "Gallery Classification Fix",
+  "buildUtc": "2026-07-17 11:51:00 UTC",
   "fileCount": 146,
   "files": [
     {
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 202,
-      "sha256": "21c4b1705ea84cf62f956f7b2a3b6550cc825aa2813fff6f8454d1108bf26314"
+      "sizeBytes": 204,
+      "sha256": "e93aa550773d5ba0a1fef518fead729d70fae65bc52545eac86c8d1450f9954d"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 25679,
-      "sha256": "f1ea76eb6bf85299c9fd82828877bebd22e39dcf0b1efcf39d3c12e834066574"
+      "sizeBytes": 25688,
+      "sha256": "7f5ce7a650e0de8465c08717d4acff3f488d371c76d04d5030e0da1e3054a297"
     },
     {
       "path": "crew.html",
@@ -51,8 +51,8 @@
     },
     {
       "path": "index.html",
-      "sizeBytes": 6227,
-      "sha256": "0894b87e629bf969c889cd7dca9d35c54192f22c056663b0cb8e2a4e94053ebb"
+      "sizeBytes": 6309,
+      "sha256": "0e131dd5e5e14492612b272905213fea330e7e52287ea089f714948ecd2dae82"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1775,
-      "sha256": "ee82de9278d2b2bb39e829ca229b58b87e27df508bfda0302fb641c3a898657f"
+      "sizeBytes": 1733,
+      "sha256": "1e77f44e854e73b1d54edbee7ab0a217203e1e2bf267ebf2c082c0006227da06"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -181,8 +181,8 @@
     },
     {
       "path": "data/discoveries.json",
-      "sizeBytes": 11381,
-      "sha256": "5225c0869175358c7e5d938b926d1b80c674fd2fc9f493232382396b6a7403e5"
+      "sizeBytes": 11131,
+      "sha256": "f198651d235333f93b8bc5f61963119953275e06f5fce56a2c5bd3343086d16f"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -191,8 +191,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 123591,
-      "sha256": "5da92ea7ce3df288e48f84ada559ed7bfd94bdd898a10180ef42c8a576fafe5c"
+      "sizeBytes": 119501,
+      "sha256": "351dda9b709ba415a9ce3b0850762172a74ace95e864ad647e2d9abf21675db2"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 20964,
-      "sha256": "67740f8e69fe8603adc0e87d7d08092aa09852930e6554f78fa81d2bc125ab83"
+      "sizeBytes": 20924,
+      "sha256": "c99f16fd10b6a35d1874d7a38715e9851edd80f144478952259360c54635579f"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -226,8 +226,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 71368,
-      "sha256": "af613734506d65da375c9d59d98fea7ebffb8dbcd3b9d24cb73914f3d470b769"
+      "sizeBytes": 68255,
+      "sha256": "4e7c9e42f041593f11b2f89db27029470f28f99ff75fbebaa2f48a750c0e9fa7"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -286,8 +286,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 202,
-      "sha256": "21c4b1705ea84cf62f956f7b2a3b6550cc825aa2813fff6f8454d1108bf26314"
+      "sizeBytes": 204,
+      "sha256": "e93aa550773d5ba0a1fef518fead729d70fae65bc52545eac86c8d1450f9954d"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -666,8 +666,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 18202,
-      "sha256": "27407d145a5c18b3b5334cefae5db9479ba1245f6167ce343944ba4d20e305cb"
+      "sizeBytes": 18205,
+      "sha256": "8394da621bffbb2d57ea5d679952afbdc391003b07348ca3da8f91ba26eb610c"
     },
     {
       "path": "assets/css/version.css",
@@ -706,8 +706,8 @@
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 10132,
-      "sha256": "01314158e237ebabd09b2854b85be873d3b08f23ff8460dfc95333c5bfec09c4"
+      "sizeBytes": 10152,
+      "sha256": "2dbc10c1df2d41196649002dcc5814a6b543ac02c6a6f538d8abfc240e4b97fd"
     },
     {
       "path": "assets/js/dashboard.js",

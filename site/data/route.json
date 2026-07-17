@@ -2911,7 +2911,7 @@
     "date": "16 Jul - late morning",
     "title": "Gujak, Kornat Island",
     "name": "Gujak, Kornat Island",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.786667,
     "lng": 15.339296,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -3007,6 +3007,50 @@
         [
           43.786667,
           15.339296
+        ]
+      ]
+    }
+  },
+  {
+    "date": "17 Jul - AM",
+    "title": "Anchorage off Levrnaka",
+    "name": "Anchorage off Levrnaka",
+    "phase": "current",
+    "lat": 43.823437,
+    "lng": 15.252854,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226741,
+      "displayName": "Near Šibenik-Knin County, Croatia",
+      "shortName": "Šibenik-Knin County",
+      "rawDisplayName": "Šibenik-Knin County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Šibenik-Knin County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Šibenik-Knin County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Gujak, Kornat Island",
+      "toTitle": "Anchorage off Levrnaka",
+      "distanceDirectNm": 4.3,
+      "distanceEstimatedNm": 4.3,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          43.786667,
+          15.339296
+        ],
+        [
+          43.823437,
+          15.252854
         ]
       ]
     }

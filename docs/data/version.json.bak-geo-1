@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "release": "Contextual Discovery Polish",
-  "buildUtc": "2026-07-15 09:39:29 UTC",
+  "version": "2.3.3",
+  "release": "Media Linking Fix",
+  "buildUtc": "2026-07-16 14:52:54 UTC",
   "project": "Juno's 7 Mediterranean Journal",
   "pagesSource": "docs",
   "siteOutput": "site"

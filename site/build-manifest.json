@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "release": "Media Linking Fix",
-  "buildUtc": "2026-07-17 08:25:00 UTC",
+  "version": "2.4.0",
+  "release": "Gallery Evolution",
+  "buildUtc": "2026-07-17 10:49:44 UTC",
   "fileCount": 146,
   "files": [
     {
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 202,
-      "sha256": "ac03efa945e75105046e5d567864950002de4d4c1d2158809ea9bc81b91931f7"
+      "sha256": "21c4b1705ea84cf62f956f7b2a3b6550cc825aa2813fff6f8454d1108bf26314"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 26415,
-      "sha256": "6d654ed129c1527ddc3c79a84c592c0a3229e816820b152dea4cad52ebe35bdc"
+      "sizeBytes": 25679,
+      "sha256": "f1ea76eb6bf85299c9fd82828877bebd22e39dcf0b1efcf39d3c12e834066574"
     },
     {
       "path": "crew.html",
@@ -51,8 +51,8 @@
     },
     {
       "path": "index.html",
-      "sizeBytes": 5030,
-      "sha256": "abed746a01f65300c69f1f0350df95bfa4f0d00ede41da83223f99c8c1374552"
+      "sizeBytes": 6227,
+      "sha256": "0894b87e629bf969c889cd7dca9d35c54192f22c056663b0cb8e2a4e94053ebb"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -132,7 +132,7 @@
     {
       "path": "data/dashboard.json",
       "sizeBytes": 1775,
-      "sha256": "c6ae31b4a31a08b5988e5a2aba59a465d8838a98efb7bc634ed4235408a5cc2d"
+      "sha256": "ee82de9278d2b2bb39e829ca229b58b87e27df508bfda0302fb641c3a898657f"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "ae6816d808b4578634e18e8df3430668ba82fd9b57d3a437539b0aba927fdcfb"
+      "sha256": "5225c0869175358c7e5d938b926d1b80c674fd2fc9f493232382396b6a7403e5"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -191,8 +191,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 119741,
-      "sha256": "16d78cc004afaf1131be26981aaa7ab8ebd9a2722c50149de9035626374edcad"
+      "sizeBytes": 123591,
+      "sha256": "5da92ea7ce3df288e48f84ada559ed7bfd94bdd898a10180ef42c8a576fafe5c"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 18173,
-      "sha256": "05aabbd46cd3caa97f3398cbf738cf199c5548cd0eecdfc07dafc0e03ebe7f55"
+      "sizeBytes": 20964,
+      "sha256": "67740f8e69fe8603adc0e87d7d08092aa09852930e6554f78fa81d2bc125ab83"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -287,7 +287,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 202,
-      "sha256": "ac03efa945e75105046e5d567864950002de4d4c1d2158809ea9bc81b91931f7"
+      "sha256": "21c4b1705ea84cf62f956f7b2a3b6550cc825aa2813fff6f8454d1108bf26314"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -666,8 +666,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 17123,
-      "sha256": "09c9acd6940cabbcac0cc79d79454359089bfed415a7b2970c319295e0ec44b6"
+      "sizeBytes": 18202,
+      "sha256": "27407d145a5c18b3b5334cefae5db9479ba1245f6167ce343944ba4d20e305cb"
     },
     {
       "path": "assets/css/version.css",
@@ -706,8 +706,8 @@
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 9180,
-      "sha256": "d34419cb42400205d54ba6ca7922e55294f8ac467423a6e7dab735e19333b166"
+      "sizeBytes": 10132,
+      "sha256": "01314158e237ebabd09b2854b85be873d3b08f23ff8460dfc95333c5bfec09c4"
     },
     {
       "path": "assets/js/dashboard.js",

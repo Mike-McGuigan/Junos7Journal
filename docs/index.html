@@ -51,6 +51,20 @@
   </section>
   <section id="gallery-section" class="section dark" aria-labelledby="gallery-title"><div class="wrap">
     <div class="section-header"><div><p class="kicker">Media archive</p><h2 id="gallery-title">Photographs and moving postcards</h2></div><p class="lead">Story images remain uncropped in the chapters. The gallery uses compact thumbnails for browsing.</p></div>
+    <div class="gallery-filters" role="group" aria-label="Filter gallery">
+      <button type="button" class="active" data-gallery-filter="all" aria-pressed="true">All</button>
+      <button type="button" data-gallery-filter="photos" aria-pressed="false">Photos</button>
+      <button type="button" data-gallery-filter="videos" aria-pressed="false">Videos</button>
+      <button type="button" data-gallery-filter="scenic" aria-pressed="false">Scenic</button>
+      <button type="button" data-gallery-filter="crew" aria-pressed="false">Crew</button>
+      <button type="button" data-gallery-filter="junos7" aria-pressed="false">Juno's 7</button>
+      <button type="button" data-gallery-filter="ports-anchorages" aria-pressed="false">Ports &amp; Anchorages</button>
+      <button type="button" data-gallery-filter="wildlife" aria-pressed="false">Wildlife</button>
+      <button type="button" data-gallery-filter="weather" aria-pressed="false">Weather</button>
+      <button type="button" data-gallery-filter="behind-scenes" aria-pressed="false">Behind the Scenes</button>
+      <button type="button" data-gallery-filter="tenders-toys" aria-pressed="false">Tenders &amp; Toys</button>
+    </div>
+    <p id="galleryCount" class="gallery-count" aria-live="polite"></p>
     <div id="gallery" class="media-grid"></div>
   </div></section>
   <section id="collector" class="section" aria-labelledby="collector-title">

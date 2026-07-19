@@ -1,6 +1,6 @@
 {
-  "version": "2.5.1",
-  "release": "Media Recovery & Route Update",
+  "version": "2.5.2",
+  "release": "Anchorage Journal Update",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
@@ -43,7 +43,7 @@
     "distanceDirectNm": 995.0,
     "distanceEstimatedNm": 1171.0,
     "manualSeaRouteLegs": 40,
-    "journalEntries": 27,
+    "journalEntries": 29,
     "mediaItems": 44,
     "photos": 32,
     "videos": 12,

@@ -1,7 +1,7 @@
 {
-  "version": "2.5.1",
-  "release": "Media Recovery & Route Update",
-  "buildUtc": "2026-07-19 09:39:18 UTC",
+  "version": "2.5.2",
+  "release": "Anchorage Journal Update",
+  "buildUtc": "2026-07-19 10:20:03 UTC",
   "fileCount": 149,
   "files": [
     {
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 214,
-      "sha256": "89dad2c70d52c7e9f237a2c7b91e0f19f56f14dd762260069a1dc3fabc050b47"
+      "sizeBytes": 209,
+      "sha256": "3b9dbdbe9e9e8ef53a5fc28b860762304570f2bfcbe2a3216bc596f5ddcf398a"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 26245,
-      "sha256": "c8497c53b553e71863f96764310bae73d9189cd80fa0570a9586adee9c10db31"
+      "sizeBytes": 26240,
+      "sha256": "7d4ca750359466c3d592002573ac25b265d08eb490873e7a22c872e99ff9317e"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2065,
-      "sha256": "5ff5b4daa34ca83e1cca47a3e916c869f71ca8373649604cba5dfd3ecccdcad3"
+      "sizeBytes": 2060,
+      "sha256": "e2cd133f11bb9f907059b04309654d54695f9f488336367f827b6abdcc079814"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "1712bb3f094f37b62fdaa054e5717d55921020a81b27d659a5c30e9a65b24d05"
+      "sha256": "bdcbefbfcc98ddc126eab14fb50f0a9692d4f6d41dd256cb862473e8b2ee8d79"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -191,8 +191,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 135249,
-      "sha256": "d1d2cc99f164b2d4216d45f7f8f178781c63f00baa0f0d7dbeeb0612ad73b294"
+      "sizeBytes": 136304,
+      "sha256": "4e86cd092a98c21c3025a8b74ba0a272aa8c9a48196dd90c9da15b44e05bb276"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 30197,
-      "sha256": "bd5c260569abfe87f4966be36cb50d3d08cf1af84e194652fd6e4bb79fc8d918"
+      "sizeBytes": 31237,
+      "sha256": "83f3422d018290cb84573b1b50f37a56c4d087c273bfbb531a7ee32aa03ddf3b"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -286,8 +286,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 214,
-      "sha256": "89dad2c70d52c7e9f237a2c7b91e0f19f56f14dd762260069a1dc3fabc050b47"
+      "sizeBytes": 209,
+      "sha256": "3b9dbdbe9e9e8ef53a5fc28b860762304570f2bfcbe2a3216bc596f5ddcf398a"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -726,8 +726,8 @@
     },
     {
       "path": "assets/js/dashboard.js",
-      "sizeBytes": 11674,
-      "sha256": "d1e6663492c1166ff8d9732365132ecbb69d85fe07e4845313a093c1643c4871"
+      "sizeBytes": 11716,
+      "sha256": "bdaffc29021340bac63f0a367c1625d4a496a48596384a4837a0619237e83d3d"
     },
     {
       "path": "assets/js/dashboard.js.bak-0-7-3",

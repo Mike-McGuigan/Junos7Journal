@@ -737,6 +737,34 @@
       "photos": [],
       "videos": [],
       "media": []
+    },
+    {
+      "id": "levrnaka-anchorage",
+      "date": "2026-07-17",
+      "title": "Anchorage off Levrnaka",
+      "location": "At anchor off Levrnaka, Kornati",
+      "type": "anchorage",
+      "person": "",
+      "quote": "",
+      "body": "Juno’s 7 spent time at anchor off Levrnaka as the yacht continued north through Croatia’s Kornati islands.",
+      "summary": "A quiet anchorage off Levrnaka as the voyage continued north through Kornati.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "zut-anchorage",
+      "date": "2026-07-18",
+      "title": "Anchorage off Žut",
+      "location": "At anchor off Žut, Croatia",
+      "type": "anchorage",
+      "person": "",
+      "quote": "",
+      "body": "The following day, Juno’s 7 anchored off Žut, continuing the voyage north through the islands of the Adriatic.",
+      "summary": "Another island anchorage as Juno’s 7 continued north through the Adriatic.",
+      "photos": [],
+      "videos": [],
+      "media": []
     }
   ],
   "media": [

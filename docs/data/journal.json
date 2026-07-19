@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "release": "2.3.2",
+  "release": "2.5.1",
   "entries": [
     {
       "date": "2026-06-17",
@@ -386,16 +386,18 @@
       "type": "anchorage",
       "person": "Cameron",
       "quote": "Coming in to anchorage today.",
-      "body": "After Korčula, Juno’s 7 approached the Pakleni Islands and settled into the sheltered water around Palmižana. The route shifted from open passage back to the close detail of an island anchorage.",
+      "body": "After Korčula, Juno’s 7 approached the Pakleni Islands and settled into the sheltered water around Palmižana. The route shifted from open passage back to the close detail of an island anchorage.\n\nA separate photograph from the day shows Cameron driving the small tender carried inside Juno's 7's internal garage.",
       "summary": "An approach through the Pakleni Islands and a peaceful anchorage off Hvar.",
       "photos": [
         "pakleni-approach-bow",
-        "pakleni-anchorage-view"
+        "pakleni-anchorage-view",
+        "cameron-garage-tender"
       ],
       "videos": [],
       "media": [
         "pakleni-approach-bow",
-        "pakleni-anchorage-view"
+        "pakleni-anchorage-view",
+        "cameron-garage-tender"
       ],
       "didYouKnow": {
         "title": "The name is not really about hell",
@@ -454,6 +456,29 @@
       "crewMoment": {
         "title": "Two seasons connected",
         "body": "The owner of Juno’s 7 has known the owner of Calex for many years, adding another small thread between the yachts and Cameron’s route into the industry."
+      }
+    },
+    {
+      "id": "cameron-sophie-ashore",
+      "date": "2026-07-10",
+      "title": "Together Ashore",
+      "location": "Croatia — exact marina unconfirmed",
+      "type": "small-moment",
+      "person": "",
+      "quote": "",
+      "body": "A photograph shared on 10 July captured Cameron and Sophie together on a quay, with yachts moored behind them. The exact marina is not confirmed, so the picture is kept as a simple record of the two of them ashore rather than tied to an uncertain location or occasion.",
+      "summary": "A straightforward photograph of Cameron and Sophie together ashore, preserved without guessing at the marina or occasion.",
+      "photos": [
+        "cameron-sophie-quayside"
+      ],
+      "videos": [],
+      "media": [
+        "cameron-sophie-quayside"
+      ],
+      "heroMedia": "cameron-sophie-quayside",
+      "crewMoment": {
+        "title": "Together, away from the working day",
+        "body": "The photograph matters because it records the two of them together. No extra story is needed where the details are not known."
       }
     },
     {
@@ -543,6 +568,29 @@
       }
     },
     {
+      "id": "afternoon-off-vis",
+      "date": "2026-07-12",
+      "title": "Afternoon Off",
+      "location": "Vis, Croatia",
+      "type": "small-moment",
+      "person": "",
+      "quote": "",
+      "body": "During his afternoon off, Cameron shared a photograph of his and Sophie’s feet splashing in the clear water. It was a simple pause together after a busy stretch aboard.",
+      "summary": "No itinerary and no grand event — just a few hours together beside the Adriatic.",
+      "photos": [
+        "afternoon-off-feet"
+      ],
+      "videos": [],
+      "media": [
+        "afternoon-off-feet"
+      ],
+      "crewMoment": {
+        "title": "Capture moments, not just movements",
+        "body": "The route map records where the yacht went. This quiet photograph records how an afternoon off felt, which may matter even more when the season is remembered years later."
+      },
+      "heroMedia": "afternoon-off-feet"
+    },
+    {
       "id": "much-nicer-vis",
       "date": "2026-07-12",
       "title": "Much Nicer",
@@ -600,29 +648,6 @@
         "title": "Flavour of Vis",
         "body": "Vis is known for seafood, slow-cooked island dishes, local wine and the kind of harbour meals that feel rooted in the landscape."
       }
-    },
-    {
-      "id": "afternoon-off-vis",
-      "date": "2026-07-12",
-      "title": "Afternoon Off",
-      "location": "Vis, Croatia",
-      "type": "small-moment",
-      "person": "",
-      "quote": "",
-      "body": "During his afternoon off, Cameron shared a photograph of his and Sophie’s feet splashing in the clear water. It was a simple pause together after a busy stretch aboard.",
-      "summary": "No itinerary and no grand event — just a few hours together beside the Adriatic.",
-      "photos": [
-        "afternoon-off-feet"
-      ],
-      "videos": [],
-      "media": [
-        "afternoon-off-feet"
-      ],
-      "crewMoment": {
-        "title": "Capture moments, not just movements",
-        "body": "The route map records where the yacht went. This quiet photograph records how an afternoon off felt, which may matter even more when the season is remembered years later."
-      },
-      "heroMedia": "afternoon-off-feet"
     },
     {
       "id": "another-dolphin-to-komiza",
@@ -756,6 +781,26 @@
       ]
     },
     {
+      "id": "webcam-boarding",
+      "type": "video",
+      "date": "2026-06-17",
+      "url": "media/webcam/2026-06-17-first-boarding-webcam.mp4",
+      "title": "The Beginning",
+      "caption": "Webcam footage showing Cameron and Sophie boarding Juno's 7 for the first time.",
+      "categories": [
+        "crew",
+        "junos7"
+      ],
+      "journalEntries": [
+        {
+          "id": "the-beginning",
+          "title": "The Beginning",
+          "date": "2026-06-17",
+          "location": "Kos, Greece"
+        }
+      ]
+    },
+    {
       "id": "mooring-lines",
       "type": "photo",
       "date": "2026-06-19",
@@ -773,6 +818,33 @@
           "title": "Learning the Ropes",
           "date": "2026-06-19",
           "location": "Greek Islands"
+        }
+      ]
+    },
+    {
+      "id": "junos-lipsi",
+      "type": "photo",
+      "date": "2026-06-20",
+      "url": "media/photos/2026-06-20-junos7-at-anchor.jpg",
+      "title": "Juno's 7 at anchor",
+      "caption": "Juno's 7 sitting quietly against the Greek coastline.",
+      "categories": [
+        "junos7",
+        "ports-anchorages",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "first-days-on-deck",
+          "title": "First Days on Deck",
+          "date": "2026-06-20",
+          "location": "Lipsi"
+        },
+        {
+          "id": "still-filthy",
+          "title": "Still Filthy",
+          "date": "2026-06-20",
+          "location": "Lipsi"
         }
       ]
     },
@@ -805,33 +877,6 @@
       ]
     },
     {
-      "id": "junos-lipsi",
-      "type": "photo",
-      "date": "2026-06-20",
-      "url": "media/photos/2026-06-20-junos7-at-anchor.jpg",
-      "title": "Juno's 7 at anchor",
-      "caption": "Juno's 7 sitting quietly against the Greek coastline.",
-      "categories": [
-        "junos7",
-        "ports-anchorages",
-        "scenic"
-      ],
-      "journalEntries": [
-        {
-          "id": "first-days-on-deck",
-          "title": "First Days on Deck",
-          "date": "2026-06-20",
-          "location": "Lipsi"
-        },
-        {
-          "id": "still-filthy",
-          "title": "Still Filthy",
-          "date": "2026-06-20",
-          "location": "Lipsi"
-        }
-      ]
-    },
-    {
       "id": "cameron-jetski",
       "type": "photo",
       "date": "2026-06-21",
@@ -853,6 +898,26 @@
       ]
     },
     {
+      "id": "rather-rocky",
+      "type": "video",
+      "date": "2026-06-21",
+      "url": "media/videos/2026-06-21-rather-rocky.mp4",
+      "title": "Rather rocky",
+      "caption": "Cameron's late-morning video: Rather rocky.",
+      "categories": [
+        "crew",
+        "weather"
+      ],
+      "journalEntries": [
+        {
+          "id": "rather-rocky",
+          "title": "Rather Rocky",
+          "date": "2026-06-21",
+          "location": "Greek Islands"
+        }
+      ]
+    },
+    {
       "id": "future-house",
       "type": "photo",
       "date": "2026-06-23",
@@ -868,6 +933,25 @@
           "id": "my-future-house",
           "title": "My Future House",
           "date": "2026-06-23",
+          "location": "Greek Islands"
+        }
+      ]
+    },
+    {
+      "id": "sophie-june26",
+      "type": "video",
+      "date": "2026-06-26",
+      "url": "media/videos/2026-06-26-sophie-video.mp4",
+      "title": "Sophie video",
+      "caption": "Short video sent by Sophie on 26 June.",
+      "categories": [
+        "crew"
+      ],
+      "journalEntries": [
+        {
+          "id": "short-video-from-sophie",
+          "title": "A Short Video from Sophie",
+          "date": "2026-06-26",
           "location": "Greek Islands"
         }
       ]
@@ -935,84 +1019,6 @@
       ]
     },
     {
-      "id": "underway-aft-deck",
-      "type": "photo",
-      "date": "2026-06-30",
-      "url": "media/photos/2026-06-30-underway-aft-deck.jpg",
-      "title": "Underway for another 2.5 hours",
-      "caption": "A quiet afternoon at sea aboard Juno's 7, with around two and a half hours remaining before the next destination.",
-      "categories": [
-        "junos7"
-      ],
-      "journalEntries": [
-        {
-          "id": "changing-conditions",
-          "title": "Underway — Changing Conditions",
-          "date": "2026-06-30",
-          "location": "At Sea"
-        }
-      ]
-    },
-    {
-      "id": "webcam-boarding",
-      "type": "video",
-      "date": "2026-06-17",
-      "url": "media/webcam/2026-06-17-first-boarding-webcam.mp4",
-      "title": "The Beginning",
-      "caption": "Webcam footage showing Cameron and Sophie boarding Juno's 7 for the first time.",
-      "categories": [
-        "crew",
-        "junos7"
-      ],
-      "journalEntries": [
-        {
-          "id": "the-beginning",
-          "title": "The Beginning",
-          "date": "2026-06-17",
-          "location": "Kos, Greece"
-        }
-      ]
-    },
-    {
-      "id": "rather-rocky",
-      "type": "video",
-      "date": "2026-06-21",
-      "url": "media/videos/2026-06-21-rather-rocky.mp4",
-      "title": "Rather rocky",
-      "caption": "Cameron's late-morning video: Rather rocky.",
-      "categories": [
-        "crew",
-        "weather"
-      ],
-      "journalEntries": [
-        {
-          "id": "rather-rocky",
-          "title": "Rather Rocky",
-          "date": "2026-06-21",
-          "location": "Greek Islands"
-        }
-      ]
-    },
-    {
-      "id": "sophie-june26",
-      "type": "video",
-      "date": "2026-06-26",
-      "url": "media/videos/2026-06-26-sophie-video.mp4",
-      "title": "Sophie video",
-      "caption": "Short video sent by Sophie on 26 June.",
-      "categories": [
-        "crew"
-      ],
-      "journalEntries": [
-        {
-          "id": "short-video-from-sophie",
-          "title": "A Short Video from Sophie",
-          "date": "2026-06-26",
-          "location": "Greek Islands"
-        }
-      ]
-    },
-    {
       "id": "sophie-june27",
       "type": "video",
       "date": "2026-06-27",
@@ -1030,6 +1036,27 @@
           "title": "Nice Spot for Today",
           "date": "2026-06-27",
           "location": "Zakynthos"
+        }
+      ]
+    },
+    {
+      "id": "cam-towing-toys",
+      "type": "video",
+      "date": "2026-06-30",
+      "url": "media/videos/2026-06-30-cam-towing-toys.mp4",
+      "title": "Cam on a mission",
+      "caption": "Cameron towing the yacht's inflatable water toys from the tender during livelier conditions. No-one was on the toys at the time.",
+      "categories": [
+        "crew",
+        "tenders-toys",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "changing-conditions",
+          "title": "Underway — Changing Conditions",
+          "date": "2026-06-30",
+          "location": "At Sea"
         }
       ]
     },
@@ -1054,16 +1081,14 @@
       ]
     },
     {
-      "id": "cam-towing-toys",
-      "type": "video",
+      "id": "underway-aft-deck",
+      "type": "photo",
       "date": "2026-06-30",
-      "url": "media/videos/2026-06-30-cam-towing-toys.mp4",
-      "title": "Cam on a mission",
-      "caption": "Cameron towing the yacht's inflatable water toys from the tender during livelier conditions. No-one was on the toys at the time.",
+      "url": "media/photos/2026-06-30-underway-aft-deck.jpg",
+      "title": "Underway for another 2.5 hours",
+      "caption": "A quiet afternoon at sea aboard Juno's 7, with around two and a half hours remaining before the next destination.",
       "categories": [
-        "crew",
-        "tenders-toys",
-        "behind-scenes"
+        "junos7"
       ],
       "journalEntries": [
         {
@@ -1102,26 +1127,6 @@
       ]
     },
     {
-      "id": "cavtat-waterfront",
-      "type": "photo",
-      "date": "2026-07-03",
-      "url": "media/photos/2026-07-04-cavtat-waterfront.jpg",
-      "title": "Cavtat waterfront",
-      "caption": "Clear Adriatic water beside Cavtat's stone waterfront, with the shaded promenade and Croatian hills beyond.",
-      "categories": [
-        "ports-anchorages",
-        "scenic"
-      ],
-      "journalEntries": [
-        {
-          "id": "very-pretty-here",
-          "title": "Very Pretty Here",
-          "date": "2026-07-03",
-          "location": "Cavtat, Croatia"
-        }
-      ]
-    },
-    {
       "id": "cavtat-bay",
       "type": "photo",
       "date": "2026-07-03",
@@ -1142,31 +1147,22 @@
       ]
     },
     {
-      "id": "cameron-working-aloft-vis",
+      "id": "cavtat-waterfront",
       "type": "photo",
-      "date": "2026-07-12",
-      "url": "media/photos/2026-07-12-cameron-working-aloft-portrait.jpg",
-      "originalUrl": "media/photos/2026-07-12-cameron-working-aloft-portrait.jpg",
-      "enhancedUrl": "media/photos/enhanced/2026-07-12-cameron-working-aloft-portrait-enhanced.jpg",
-      "title": "Ready for the climb",
-      "caption": "Cameron in full working-at-height gear in Vis harbour, with the Prirovo waterfront behind him.",
-      "enhancement": {
-        "status": "enhanced-working-copy",
-        "method": "gentle upscale, contrast recovery and sharpening",
-        "originalPreserved": true
-      },
+      "date": "2026-07-03",
+      "url": "media/photos/2026-07-04-cavtat-waterfront.jpg",
+      "title": "Cavtat waterfront",
+      "caption": "Clear Adriatic water beside Cavtat's stone waterfront, with the shaded promenade and Croatian hills beyond.",
       "categories": [
-        "crew",
-        "junos7",
         "ports-anchorages",
-        "behind-scenes"
+        "scenic"
       ],
       "journalEntries": [
         {
-          "id": "working-aloft-vis",
-          "title": "Ready for the Climb",
-          "date": "2026-07-12",
-          "location": "Vis, Croatia"
+          "id": "very-pretty-here",
+          "title": "Very Pretty Here",
+          "date": "2026-07-03",
+          "location": "Cavtat, Croatia"
         }
       ]
     },
@@ -1198,22 +1194,15 @@
       ]
     },
     {
-      "id": "pakleni-approach-bow",
+      "id": "cameron-garage-tender",
       "type": "photo",
       "date": "2026-07-07",
-      "url": "media/photos/2026-07-07-pakleni-approach-bow.jpg",
-      "originalUrl": "media/photos/2026-07-07-pakleni-approach-bow.jpg",
-      "enhancedUrl": "media/photos/enhanced/2026-07-07-pakleni-approach-bow-enhanced.jpg",
-      "title": "Approaching the Pakleni Islands",
-      "caption": "The Pakleni Islands opening ahead from the bow as Juno’s 7 came in towards the anchorage.",
-      "enhancement": {
-        "status": "enhanced-working-copy",
-        "method": "gentle upscale, contrast recovery and sharpening",
-        "originalPreserved": true
-      },
+      "url": "media/photos/2026-07-07-cameron-garage-tender.jpg",
+      "title": "Cameron in the garage tender",
+      "caption": "Cameron driving the small tender stored inside Juno's 7's internal garage.",
       "categories": [
-        "junos7",
-        "ports-anchorages"
+        "crew",
+        "tenders-toys"
       ],
       "journalEntries": [
         {
@@ -1252,6 +1241,33 @@
       ]
     },
     {
+      "id": "pakleni-approach-bow",
+      "type": "photo",
+      "date": "2026-07-07",
+      "url": "media/photos/2026-07-07-pakleni-approach-bow.jpg",
+      "originalUrl": "media/photos/2026-07-07-pakleni-approach-bow.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-07-pakleni-approach-bow-enhanced.jpg",
+      "title": "Approaching the Pakleni Islands",
+      "caption": "The Pakleni Islands opening ahead from the bow as Juno’s 7 came in towards the anchorage.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      },
+      "categories": [
+        "junos7",
+        "ports-anchorages"
+      ],
+      "journalEntries": [
+        {
+          "id": "pakleni-anchorage",
+          "title": "Coming Into Anchorage",
+          "date": "2026-07-07",
+          "location": "Pakleni Islands, near Hvar"
+        }
+      ]
+    },
+    {
       "id": "peaceful-night-shift-video",
       "type": "video",
       "date": "2026-07-08",
@@ -1270,6 +1286,66 @@
           "title": "Peaceful Night Shift",
           "date": "2026-07-08",
           "location": "Underway to Split"
+        }
+      ]
+    },
+    {
+      "id": "cameron-sophie-quayside",
+      "type": "photo",
+      "date": "2026-07-10",
+      "url": "media/photos/2026-07-10-cameron-sophie-quayside.jpg",
+      "title": "Cameron and Sophie ashore",
+      "caption": "Cameron and Sophie together on a quay, with yachts behind them. The exact marina is not confirmed.",
+      "categories": [
+        "crew"
+      ],
+      "journalEntries": [
+        {
+          "id": "cameron-sophie-ashore",
+          "title": "Together Ashore",
+          "date": "2026-07-10",
+          "location": "Croatia — exact marina unconfirmed"
+        }
+      ]
+    },
+    {
+      "id": "dolphin-drone-footage",
+      "type": "video",
+      "date": "2026-07-10",
+      "url": "media/videos/2026-07-10-dolphin-drone-footage.mp4",
+      "title": "Dolphins from above",
+      "caption": "The captain’s drone follows the dolphins from above — the best view of the encounter.",
+      "categories": [
+        "wildlife",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "dolphins-off-milna",
+          "title": "Dolphins off Milna",
+          "date": "2026-07-10",
+          "location": "Off Milna, Croatia"
+        }
+      ]
+    },
+    {
+      "id": "dolphins-from-deck",
+      "type": "video",
+      "date": "2026-07-10",
+      "url": "media/videos/2026-07-10-dolphins-from-deck.mp4",
+      "title": "A dolphin breach",
+      "caption": "Cameron’s footage caught a lovely dolphin breach beside the yacht while Juno’s 7 was anchored near Milna.",
+      "categories": [
+        "junos7",
+        "ports-anchorages",
+        "wildlife"
+      ],
+      "journalEntries": [
+        {
+          "id": "dolphins-off-milna",
+          "title": "Dolphins off Milna",
+          "date": "2026-07-10",
+          "location": "Off Milna, Croatia"
         }
       ]
     },
@@ -1384,47 +1460,6 @@
       ]
     },
     {
-      "id": "dolphins-from-deck",
-      "type": "video",
-      "date": "2026-07-10",
-      "url": "media/videos/2026-07-10-dolphins-from-deck.mp4",
-      "title": "A dolphin breach",
-      "caption": "Cameron’s footage caught a lovely dolphin breach beside the yacht while Juno’s 7 was anchored near Milna.",
-      "categories": [
-        "junos7",
-        "ports-anchorages",
-        "wildlife"
-      ],
-      "journalEntries": [
-        {
-          "id": "dolphins-off-milna",
-          "title": "Dolphins off Milna",
-          "date": "2026-07-10",
-          "location": "Off Milna, Croatia"
-        }
-      ]
-    },
-    {
-      "id": "dolphin-drone-footage",
-      "type": "video",
-      "date": "2026-07-10",
-      "url": "media/videos/2026-07-10-dolphin-drone-footage.mp4",
-      "title": "Dolphins from above",
-      "caption": "The captain’s drone follows the dolphins from above — the best view of the encounter.",
-      "categories": [
-        "wildlife",
-        "scenic"
-      ],
-      "journalEntries": [
-        {
-          "id": "dolphins-off-milna",
-          "title": "Dolphins off Milna",
-          "date": "2026-07-10",
-          "location": "Off Milna, Croatia"
-        }
-      ]
-    },
-    {
       "id": "teak-dent-repair",
       "type": "photo",
       "date": "2026-07-11",
@@ -1510,6 +1545,90 @@
       ]
     },
     {
+      "id": "afternoon-off-feet",
+      "type": "photo",
+      "date": "2026-07-12",
+      "url": "media/photos/2026-07-12-afternoon-off-feet.jpg",
+      "originalUrl": "media/photos/2026-07-12-afternoon-off-feet.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-12-afternoon-off-feet-enhanced.jpg",
+      "title": "Afternoon off",
+      "caption": "Cameron and Sophie cooling their feet in the clear Adriatic during Cameron’s afternoon off.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      },
+      "categories": [
+        "crew"
+      ],
+      "journalEntries": [
+        {
+          "id": "afternoon-off-vis",
+          "title": "Afternoon Off",
+          "date": "2026-07-12",
+          "location": "Vis, Croatia"
+        }
+      ]
+    },
+    {
+      "id": "cameron-working-aloft-side",
+      "type": "photo",
+      "date": "2026-07-12",
+      "url": "media/photos/2026-07-12-cameron-working-aloft-side.jpg",
+      "originalUrl": "media/photos/2026-07-12-cameron-working-aloft-side.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-12-cameron-working-aloft-side-enhanced.jpg",
+      "title": "Working over the side",
+      "caption": "Cameron suspended safely over the side of Juno’s 7 during deck work in Vis.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      },
+      "categories": [
+        "crew",
+        "junos7",
+        "ports-anchorages",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "working-aloft-vis",
+          "title": "Ready for the Climb",
+          "date": "2026-07-12",
+          "location": "Vis, Croatia"
+        }
+      ]
+    },
+    {
+      "id": "cameron-working-aloft-vis",
+      "type": "photo",
+      "date": "2026-07-12",
+      "url": "media/photos/2026-07-12-cameron-working-aloft-portrait.jpg",
+      "originalUrl": "media/photos/2026-07-12-cameron-working-aloft-portrait.jpg",
+      "enhancedUrl": "media/photos/enhanced/2026-07-12-cameron-working-aloft-portrait-enhanced.jpg",
+      "title": "Ready for the climb",
+      "caption": "Cameron in full working-at-height gear in Vis harbour, with the Prirovo waterfront behind him.",
+      "enhancement": {
+        "status": "enhanced-working-copy",
+        "method": "gentle upscale, contrast recovery and sharpening",
+        "originalPreserved": true
+      },
+      "categories": [
+        "crew",
+        "junos7",
+        "ports-anchorages",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "working-aloft-vis",
+          "title": "Ready for the Climb",
+          "date": "2026-07-12",
+          "location": "Vis, Croatia"
+        }
+      ]
+    },
+    {
       "id": "rainy-start-to-shift",
       "type": "video",
       "date": "2026-07-12",
@@ -1553,61 +1672,6 @@
         {
           "id": "much-nicer-vis",
           "title": "Much Nicer",
-          "date": "2026-07-12",
-          "location": "Vis, Croatia"
-        }
-      ]
-    },
-    {
-      "id": "cameron-working-aloft-side",
-      "type": "photo",
-      "date": "2026-07-12",
-      "url": "media/photos/2026-07-12-cameron-working-aloft-side.jpg",
-      "originalUrl": "media/photos/2026-07-12-cameron-working-aloft-side.jpg",
-      "enhancedUrl": "media/photos/enhanced/2026-07-12-cameron-working-aloft-side-enhanced.jpg",
-      "title": "Working over the side",
-      "caption": "Cameron suspended safely over the side of Juno’s 7 during deck work in Vis.",
-      "enhancement": {
-        "status": "enhanced-working-copy",
-        "method": "gentle upscale, contrast recovery and sharpening",
-        "originalPreserved": true
-      },
-      "categories": [
-        "crew",
-        "junos7",
-        "ports-anchorages",
-        "behind-scenes"
-      ],
-      "journalEntries": [
-        {
-          "id": "working-aloft-vis",
-          "title": "Ready for the Climb",
-          "date": "2026-07-12",
-          "location": "Vis, Croatia"
-        }
-      ]
-    },
-    {
-      "id": "afternoon-off-feet",
-      "type": "photo",
-      "date": "2026-07-12",
-      "url": "media/photos/2026-07-12-afternoon-off-feet.jpg",
-      "originalUrl": "media/photos/2026-07-12-afternoon-off-feet.jpg",
-      "enhancedUrl": "media/photos/enhanced/2026-07-12-afternoon-off-feet-enhanced.jpg",
-      "title": "Afternoon off",
-      "caption": "Cameron and Sophie cooling their feet in the clear Adriatic during Cameron’s afternoon off.",
-      "enhancement": {
-        "status": "enhanced-working-copy",
-        "method": "gentle upscale, contrast recovery and sharpening",
-        "originalPreserved": true
-      },
-      "categories": [
-        "crew"
-      ],
-      "journalEntries": [
-        {
-          "id": "afternoon-off-vis",
-          "title": "Afternoon Off",
           "date": "2026-07-12",
           "location": "Vis, Croatia"
         }

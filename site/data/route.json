@@ -3441,12 +3441,36 @@
       "fromTitle": "En route to Zadar",
       "toTitle": "Zadar mooring",
       "distanceDirectNm": 4.2,
-      "distanceEstimatedNm": 4.2,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 4.7,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           44.057565,
           15.270395
+        ],
+        [
+          44.111574,
+          15.218039
+        ],
+        [
+          44.118913,
+          15.216901
+        ],
+        [
+          44.12026,
+          15.217899
+        ],
+        [
+          44.120506,
+          15.219315
+        ],
+        [
+          44.120506,
+          15.22056
+        ],
+        [
+          44.119644,
+          15.222341
         ],
         [
           44.118861,

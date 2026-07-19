@@ -943,7 +943,7 @@
     "date": "18 Jul",
     "title": "Anchorage off Zut",
     "name": "Anchorage off Zut",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.868037,
     "lng": 15.328749,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -962,6 +962,33 @@
       "municipality": null,
       "island": null,
       "nearestPlace": "Šibenik-Knin County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  {
+    "date": "19 Jul AM",
+    "title": "En route to Zadar",
+    "name": "En route to Zadar",
+    "phase": "current",
+    "lat": 44.057565,
+    "lng": 15.270395,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226726,
+      "displayName": "Near Zadar County, Croatia",
+      "shortName": "Zadar County",
+      "rawDisplayName": "Zadar County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Zadar County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Zadar County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     }

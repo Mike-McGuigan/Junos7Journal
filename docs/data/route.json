@@ -3015,7 +3015,7 @@
     "date": "17 Jul - AM",
     "title": "Anchorage off Levrnaka",
     "name": "Anchorage off Levrnaka",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.823437,
     "lng": 15.252854,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -3107,6 +3107,50 @@
         [
           43.823437,
           15.252854
+        ]
+      ]
+    }
+  },
+  {
+    "date": "18 Jul",
+    "title": "Anchorage off Zut",
+    "name": "Anchorage off Zut",
+    "phase": "current",
+    "lat": 43.868037,
+    "lng": 15.328749,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226741,
+      "displayName": "Near Šibenik-Knin County, Croatia",
+      "shortName": "Šibenik-Knin County",
+      "rawDisplayName": "Šibenik-Knin County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Šibenik-Knin County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Šibenik-Knin County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Anchorage off Levrnaka",
+      "toTitle": "Anchorage off Zut",
+      "distanceDirectNm": 4.2,
+      "distanceEstimatedNm": 4.2,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          43.823437,
+          15.252854
+        ],
+        [
+          43.868037,
+          15.328749
         ]
       ]
     }

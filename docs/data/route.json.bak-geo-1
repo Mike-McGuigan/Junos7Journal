@@ -2911,7 +2911,7 @@
     "date": "16 Jul - late morning",
     "title": "Gujak, Kornat Island",
     "name": "Gujak, Kornat Island",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.786667,
     "lng": 15.339296,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -3007,6 +3007,106 @@
         [
           43.786667,
           15.339296
+        ]
+      ]
+    }
+  },
+  {
+    "date": "17 Jul - AM",
+    "title": "Anchorage off Levrnaka",
+    "name": "Anchorage off Levrnaka",
+    "phase": "current",
+    "lat": 43.823437,
+    "lng": 15.252854,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226741,
+      "displayName": "Near Šibenik-Knin County, Croatia",
+      "shortName": "Šibenik-Knin County",
+      "rawDisplayName": "Šibenik-Knin County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Šibenik-Knin County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Šibenik-Knin County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Gujak, Kornat Island",
+      "toTitle": "Anchorage off Levrnaka",
+      "distanceDirectNm": 4.3,
+      "distanceEstimatedNm": 5.7,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          43.786667,
+          15.339296
+        ],
+        [
+          43.785357,
+          15.33641
+        ],
+        [
+          43.785264,
+          15.32581
+        ],
+        [
+          43.79189,
+          15.311551
+        ],
+        [
+          43.799448,
+          15.299449
+        ],
+        [
+          43.809334,
+          15.288591
+        ],
+        [
+          43.817262,
+          15.275888
+        ],
+        [
+          43.826205,
+          15.26031
+        ],
+        [
+          43.830229,
+          15.254302
+        ],
+        [
+          43.831839,
+          15.249066
+        ],
+        [
+          43.831282,
+          15.246663
+        ],
+        [
+          43.829672,
+          15.246577
+        ],
+        [
+          43.827691,
+          15.249324
+        ],
+        [
+          43.826267,
+          15.25147
+        ],
+        [
+          43.824966,
+          15.252929
+        ],
+        [
+          43.823437,
+          15.252854
         ]
       ]
     }

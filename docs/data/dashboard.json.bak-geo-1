@@ -1,22 +1,22 @@
 {
-  "version": "2.3.3",
-  "release": "Media Linking Fix",
+  "version": "2.5.0",
+  "release": "Connected Storytelling",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Gujak, Kornat Island",
+    "latestStatus": "Manual location: Anchorage off Levrnaka",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-16T10:58:00.740Z",
+    "lastManualLookupUtc": "2026-07-17T08:21:59.805Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 43.786667,
-      "lng": 15.339296,
+      "lat": 43.823437,
+      "lng": 15.252854,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Gujak, Kornat Island",
+    "latestLocationName": "Anchorage off Levrnaka",
     "latestFriendlyLocation": "Near Šibenik-Knin County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,17 +36,28 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Gujak, Kornat Island"
+    "latestLocationTitle": "Anchorage off Levrnaka"
   },
   "stats": {
-    "routeStops": 40,
-    "distanceDirectNm": 974.8,
-    "distanceEstimatedNm": 1133.6,
-    "manualSeaRouteLegs": 37,
+    "routeStops": 41,
+    "distanceDirectNm": 979.1,
+    "distanceEstimatedNm": 1139.3,
+    "manualSeaRouteLegs": 38,
     "journalEntries": 26,
     "mediaItems": 42,
     "photos": 30,
     "videos": 12,
-    "contextualDiscoveries": 8
+    "contextualDiscoveries": 8,
+    "voyageLegs": 40,
+    "averageLegNm": 28.5,
+    "longestLegNm": 223.9,
+    "longestLegFrom": "Sea of Crete / Cyclades area",
+    "longestLegTo": "Zakynthos",
+    "countriesVisited": 3,
+    "countryNames": [
+      "Greece",
+      "Croatia",
+      "Albania"
+    ]
   }
 }

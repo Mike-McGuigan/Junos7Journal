@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "release": "Connected Storytelling",
-  "buildUtc": "2026-07-19 08:48:48 UTC",
-  "fileCount": 147,
+  "version": "2.5.1",
+  "release": "Media Recovery & Route Update",
+  "buildUtc": "2026-07-19 09:39:18 UTC",
+  "fileCount": 149,
   "files": [
     {
       "path": ".gitkeep",
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 207,
-      "sha256": "53b52b76bd398df5b47c0c29b29456e240ce0d25c87ff87449835a1307afff5a"
+      "sizeBytes": 214,
+      "sha256": "89dad2c70d52c7e9f237a2c7b91e0f19f56f14dd762260069a1dc3fabc050b47"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 26598,
-      "sha256": "2a3b642b171566ee6de55a77554eea1243b3b29ca44c8b8d49557fd69dd8d178"
+      "sizeBytes": 26245,
+      "sha256": "c8497c53b553e71863f96764310bae73d9189cd80fa0570a9586adee9c10db31"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1995,
-      "sha256": "c44240a0ee8a4624a03a06ae1c7eac1e9fe1127633f0eaf4479a47bfe9030361"
+      "sizeBytes": 2065,
+      "sha256": "5ff5b4daa34ca83e1cca47a3e916c869f71ca8373649604cba5dfd3ecccdcad3"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "1dc790bb7e45c65a0ca9be018ad4c7be5abcd6693e323c8fc7fdd68652fb47eb"
+      "sha256": "1712bb3f094f37b62fdaa054e5717d55921020a81b27d659a5c30e9a65b24d05"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -191,8 +191,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 132712,
-      "sha256": "a612e2dcd02ff03a88886113eda3e36e8f6fa3a636e0b42cb47c605cbc94a763"
+      "sizeBytes": 135249,
+      "sha256": "d1d2cc99f164b2d4216d45f7f8f178781c63f00baa0f0d7dbeeb0612ad73b294"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 29071,
-      "sha256": "2e42e7da9600f7152560105b93051dcba1383d219a5e2cfe4398f3e7efbe635b"
+      "sizeBytes": 30197,
+      "sha256": "bd5c260569abfe87f4966be36cb50d3d08cf1af84e194652fd6e4bb79fc8d918"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -286,8 +286,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 207,
-      "sha256": "53b52b76bd398df5b47c0c29b29456e240ce0d25c87ff87449835a1307afff5a"
+      "sizeBytes": 214,
+      "sha256": "89dad2c70d52c7e9f237a2c7b91e0f19f56f14dd762260069a1dc3fabc050b47"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -420,6 +420,11 @@
       "sha256": "0523dee63fab9cdbf206de848d142b7c4a4f2ea23443d64e3ca05dba42f3973c"
     },
     {
+      "path": "media/photos/2026-07-07-cameron-garage-tender.jpg",
+      "sizeBytes": 186223,
+      "sha256": "c0d58fb0d36efe59f17f2489366a23de6eefed51f66e7907dc7a7321b7bb72b8"
+    },
+    {
       "path": "media/photos/2026-07-07-pakleni-anchorage-view.jpg",
       "sizeBytes": 182893,
       "sha256": "1d69528c246ff813ce2ba863ce3ed9332b6e8f8efc5d98437c9ed53a83f6b4b2"
@@ -428,6 +433,11 @@
       "path": "media/photos/2026-07-07-pakleni-approach-bow.jpg",
       "sizeBytes": 165904,
       "sha256": "a5763dab0d2138298f11c90eddd3d4769a19bcadbdb003657d68d80fde958e59"
+    },
+    {
+      "path": "media/photos/2026-07-10-cameron-sophie-quayside.jpg",
+      "sizeBytes": 200029,
+      "sha256": "83c4e3f869cc480d31716093f7ad4d30e3d0554ecd26fe181d2464771f3fc88c"
     },
     {
       "path": "media/photos/2026-07-10-milna-aft-deck.jpg",
@@ -716,8 +726,8 @@
     },
     {
       "path": "assets/js/dashboard.js",
-      "sizeBytes": 11678,
-      "sha256": "5cdb7c1426df8ddf60070a3f33825d2baac9de7ab3a52513464ebb81e84de405"
+      "sizeBytes": 11674,
+      "sha256": "d1e6663492c1166ff8d9732365132ecbb69d85fe07e4845313a093c1643c4871"
     },
     {
       "path": "assets/js/dashboard.js.bak-0-7-3",

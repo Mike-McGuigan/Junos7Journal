@@ -1,0 +1,8 @@
+Juno's 7 Journal — Voyage satellite tile fix
+
+Changed files:
+- docs/assets/js/dashboard.js
+- SATELLITE_TILE_FIX.md
+- PATCH_MANIFEST_SATELLITE_TILE_FIX.txt
+
+Generated site/ output is deliberately excluded.

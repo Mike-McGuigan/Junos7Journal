@@ -3115,7 +3115,7 @@
     "date": "18 Jul",
     "title": "Anchorage off Zut",
     "name": "Anchorage off Zut",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.868037,
     "lng": 15.328749,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -3141,16 +3141,272 @@
       "fromTitle": "Anchorage off Levrnaka",
       "toTitle": "Anchorage off Zut",
       "distanceDirectNm": 4.2,
-      "distanceEstimatedNm": 4.2,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 11.8,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           43.823437,
           15.252854
         ],
         [
+          43.824855,
+          15.252564
+        ],
+        [
+          43.827053,
+          15.249903
+        ],
+        [
+          43.828756,
+          15.247629
+        ],
+        [
+          43.830861,
+          15.244925
+        ],
+        [
+          43.840674,
+          15.231836
+        ],
+        [
+          43.851512,
+          15.219669
+        ],
+        [
+          43.856539,
+          15.218081
+        ],
+        [
+          43.858457,
+          15.215678
+        ],
+        [
+          43.860066,
+          15.213704
+        ],
+        [
+          43.860995,
+          15.209842
+        ],
+        [
+          43.867802,
+          15.203834
+        ],
+        [
+          43.870834,
+          15.20452
+        ],
+        [
+          43.875703,
+          15.204713
+        ],
+        [
+          43.877405,
+          15.204456
+        ],
+        [
+          43.881179,
+          15.205786
+        ],
+        [
+          43.88254,
+          15.207202
+        ],
+        [
+          43.883529,
+          15.208576
+        ],
+        [
+          43.884272,
+          15.209992
+        ],
+        [
+          43.885354,
+          15.211279
+        ],
+        [
+          43.886406,
+          15.211966
+        ],
+        [
+          43.887891,
+          15.21261
+        ],
+        [
+          43.888695,
+          15.213253
+        ],
+        [
+          43.889221,
+          15.214756
+        ],
+        [
+          43.889313,
+          15.215828
+        ],
+        [
+          43.88927,
+          15.216915
+        ],
+        [
+          43.889282,
+          15.21736
+        ],
+        [
+          43.890025,
+          15.220807
+        ],
+        [
+          43.8912,
+          15.223939
+        ],
+        [
+          43.892282,
+          15.225613
+        ],
+        [
+          43.892901,
+          15.232952
+        ],
+        [
+          43.893148,
+          15.246212
+        ],
+        [
+          43.890952,
+          15.254581
+        ],
+        [
+          43.89655,
+          15.27149
+        ],
+        [
+          43.888775,
+          15.318418
+        ],
+        [
+          43.882775,
+          15.337214
+        ],
+        [
+          43.876093,
+          15.340304
+        ],
+        [
+          43.870957,
+          15.338159
+        ],
+        [
+          43.866568,
+          15.333899
+        ],
+        [
           43.868037,
           15.328749
+        ]
+      ]
+    }
+  },
+  {
+    "date": "19 Jul AM",
+    "title": "En route to Zadar",
+    "name": "En route to Zadar",
+    "phase": "current",
+    "lat": 44.057565,
+    "lng": 15.270395,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226726,
+      "displayName": "Near Zadar County, Croatia",
+      "shortName": "Zadar County",
+      "rawDisplayName": "Zadar County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Zadar County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Zadar County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Anchorage off Zut",
+      "toTitle": "En route to Zadar",
+      "distanceDirectNm": 11.7,
+      "distanceEstimatedNm": 19.9,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          43.868037,
+          15.328749
+        ],
+        [
+          43.864311,
+          15.33494
+        ],
+        [
+          43.862338,
+          15.34436
+        ],
+        [
+          43.860265,
+          15.360324
+        ],
+        [
+          43.873494,
+          15.427423
+        ],
+        [
+          43.880176,
+          15.439181
+        ],
+        [
+          43.881908,
+          15.452399
+        ],
+        [
+          43.8876,
+          15.464244
+        ],
+        [
+          43.90096,
+          15.465789
+        ],
+        [
+          43.937807,
+          15.43386
+        ],
+        [
+          43.956964,
+          15.415063
+        ],
+        [
+          43.972718,
+          15.392661
+        ],
+        [
+          43.976918,
+          15.376182
+        ],
+        [
+          43.994086,
+          15.355067
+        ],
+        [
+          44.033962,
+          15.300393
+        ],
+        [
+          44.043772,
+          15.287347
+        ],
+        [
+          44.057565,
+          15.270395
         ]
       ]
     }

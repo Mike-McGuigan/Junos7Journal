@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-07-19T13:14:09.002Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "19 Jul 09:35 UTC",
+    "title": "Zadar mooring",
+    "name": "Zadar mooring",
+    "phase": "current",
+    "lat": 44.118861,
+    "lng": 15.222539,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226726,
+      "displayName": "Near Zadar County, Croatia",
+      "shortName": "Zadar County",
+      "rawDisplayName": "Zadar County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Zadar County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Zadar County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-07-19T13:14:09.002Z",
+    "status": "Moored",
+    "title": "Zadar mooring",
+    "area": "Zadar mooring",
+    "position": {
+      "lat": 44.118861,
+      "lng": 15.222539,
+      "precision": "user-confirmed area marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226726,
+      "displayName": "Near Zadar County, Croatia",
+      "shortName": "Zadar County",
+      "rawDisplayName": "Zadar County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Zadar County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Zadar County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

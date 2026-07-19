@@ -1,22 +1,22 @@
 {
-  "version": "2.2.0",
-  "release": "Connected Storytelling",
+  "version": "2.5.2",
+  "release": "Anchorage Journal Update",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Anchorage off Zut",
+    "latestStatus": "Manual location: Anchorage off Levrnaka",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-19T08:37:58.858Z",
+    "lastManualLookupUtc": "2026-07-17T08:21:59.805Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 43.868037,
-      "lng": 15.328749,
+      "lat": 43.823437,
+      "lng": 15.252854,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Anchorage off Zut",
+    "latestLocationName": "Anchorage off Levrnaka",
     "latestFriendlyLocation": "Near Šibenik-Knin County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,19 +36,19 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Anchorage off Zut"
+    "latestLocationTitle": "Anchorage off Levrnaka"
   },
   "stats": {
-    "routeStops": 42,
-    "distanceDirectNm": 983.3,
-    "distanceEstimatedNm": 1143.5,
-    "manualSeaRouteLegs": 38,
-    "journalEntries": 26,
-    "mediaItems": 42,
-    "photos": 30,
+    "routeStops": 43,
+    "distanceDirectNm": 995.0,
+    "distanceEstimatedNm": 1171.0,
+    "manualSeaRouteLegs": 40,
+    "journalEntries": 29,
+    "mediaItems": 44,
+    "photos": 32,
     "videos": 12,
     "contextualDiscoveries": 8,
-    "voyageLegs": 41,
+    "voyageLegs": 42,
     "averageLegNm": 27.9,
     "longestLegNm": 223.9,
     "longestLegFrom": "Sea of Crete / Cyclades area",

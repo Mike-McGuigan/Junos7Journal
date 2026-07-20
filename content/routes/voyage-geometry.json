@@ -1814,7 +1814,7 @@
       "fromDate": "16 Jul - late morning",
       "toDate": "17 Jul - AM",
       "fromTitle": "Gujak, Kornat Island",
-      "toTitle": "Anchorage off Levrnaka",
+      "toTitle": "Levrnaka Bay",
       "waypoints": [
         [
           43.785357,
@@ -1879,8 +1879,8 @@
       "toIndex": 41,
       "fromDate": "17 Jul - AM",
       "toDate": "18 Jul",
-      "fromTitle": "Anchorage off Levrnaka",
-      "toTitle": "Anchorage off Zut",
+      "fromTitle": "Levrnaka Bay",
+      "toTitle": "Žut Harbour",
       "waypoints": [
         [
           43.824855,
@@ -2041,7 +2041,7 @@
       "toIndex": 42,
       "fromDate": "18 Jul",
       "toDate": "19 Jul AM",
-      "fromTitle": "Anchorage off Zut",
+      "fromTitle": "Žut Harbour",
       "toTitle": "En route to Zadar",
       "waypoints": [
         [

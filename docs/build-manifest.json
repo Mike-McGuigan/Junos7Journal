@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "release": "Anchorage Journal Update",
-  "buildUtc": "2026-07-19 13:18:31 UTC",
-  "fileCount": 149,
+  "version": "2.5.3",
+  "release": "\u017dut Stories & Notable Encounters",
+  "buildUtc": "2026-07-20 10:36:40 UTC",
+  "fileCount": 154,
   "files": [
     {
       "path": ".gitkeep",
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 209,
-      "sha256": "2c696f182e253eadaf851c3868f669425f96edc0a14865fee1c1a172f2c81aa7"
+      "sizeBytes": 222,
+      "sha256": "455a7b1ec7cac66c93f8bb5d7c787778fb4a58e76662da5d3e6d15b42b7b5c8e"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 26992,
-      "sha256": "72bf15be9cba18f7f4db2e950569c9cdf369ebb724198544bae2fa33bbbba351"
+      "sizeBytes": 27179,
+      "sha256": "c9a9cdae684ad8ee3e562cec1b96538b3a06dedb05d2940acecd4549edd8deb2"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1985,
-      "sha256": "9abfbb83bbf8eac08be0deea6c9699a3c70a54ce7882847fcb98011845bd412a"
+      "sizeBytes": 1994,
+      "sha256": "81f530144706e6fc6d8d1d5b4287a361972b6063000119fd92348fc82f82b0b6"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "b6921268157bc64787d123545e51415616e3613eb5c6f1f8fa18ba5c8016350e"
+      "sha256": "b622e59ffc4ed6ccd7359c64232cc7de4b4cd1889ded6354535fed21848a9955"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -191,8 +191,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 136304,
-      "sha256": "4e86cd092a98c21c3025a8b74ba0a272aa8c9a48196dd90c9da15b44e05bb276"
+      "sizeBytes": 143134,
+      "sha256": "b1133ff2ed175e50f32ea3a61226a683fb6436006a98587ccb21a38f06494d24"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 31237,
-      "sha256": "83f3422d018290cb84573b1b50f37a56c4d087c273bfbb531a7ee32aa03ddf3b"
+      "sizeBytes": 33371,
+      "sha256": "dfda880d3a959d937c5a8b9332d3b878418aacaad2045f10fbee66f4e437c077"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -226,8 +226,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 79104,
-      "sha256": "6c533d4958ce8e992ba95bdc4bfcba9c23452bcd63c6bd4f69ffc0cd2f6da1e0"
+      "sizeBytes": 79044,
+      "sha256": "4919703a052711169ec0b71c36d5098973996e483f2dd7443ee51667262899eb"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -286,8 +286,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 209,
-      "sha256": "2c696f182e253eadaf851c3868f669425f96edc0a14865fee1c1a172f2c81aa7"
+      "sizeBytes": 222,
+      "sha256": "455a7b1ec7cac66c93f8bb5d7c787778fb4a58e76662da5d3e6d15b42b7b5c8e"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -503,6 +503,31 @@
       "path": "media/photos/2026-07-15-smokvica-storm-calm.jpg",
       "sizeBytes": 206673,
       "sha256": "567ee0ac81a094661834136c690f3902534542607add32d73ca6e0ada9e9ed63"
+    },
+    {
+      "path": "media/photos/2026-07-18-levrnaka-dawn.jpg",
+      "sizeBytes": 278675,
+      "sha256": "572d5274e5e9a9d599e902c78352c359f2a3559e7514ab587df994aa43a87d76"
+    },
+    {
+      "path": "media/photos/2026-07-18-zut-scampi-trousers.jpg",
+      "sizeBytes": 241647,
+      "sha256": "ff34ec587ef32c94a281add0c7f94c84aee9c0061ef39e026ebb9d28435a1b4c"
+    },
+    {
+      "path": "media/photos/2026-07-18-zut-scampi.jpg",
+      "sizeBytes": 285039,
+      "sha256": "faf1464b9509dcb99ffec5997dc50d09b94c6f01982f6f88f5bbe9aaba5552ab"
+    },
+    {
+      "path": "media/photos/2026-07-18-zut-strawberry-donkey.jpg",
+      "sizeBytes": 401058,
+      "sha256": "3a945e3cd3a4d3e46fde9ee9a0aa922b1b719f1abce4403ca922d14a12eecfaa"
+    },
+    {
+      "path": "media/photos/2026-07-19-zadar-reposado-ais.png",
+      "sizeBytes": 299227,
+      "sha256": "91566abfc36571a1bb69ed802394db479fd857deb20a720cc0c3a17b52b60dcb"
     },
     {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",

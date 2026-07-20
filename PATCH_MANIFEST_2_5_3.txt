@@ -1,0 +1,27 @@
+# v2.5.3 Changed Files
+
+- RELEASE_2_5_3.md
+- ROADMAP.md
+- VERSION
+- content/journal/2026/2026-07-17-levrnaka.md
+- content/journal/2026/2026-07-18-levrnaka-dawn.md
+- content/journal/2026/2026-07-18-zut.md
+- content/journal/2026/2026-07-19-zadar-superyachts.md
+- content/media-index/media-index.json
+- content/routes/route-so-far.json
+- content/routes/voyage-geometry.json
+- docs/build-info.json
+- docs/build-manifest.json
+- docs/data/dashboard.json
+- docs/data/discoveries.json
+- docs/data/journal.json
+- docs/data/media.json
+- docs/data/route.json
+- docs/data/version.json
+- docs/media/photos/2026-07-18-levrnaka-dawn.jpg
+- docs/media/photos/2026-07-18-zut-scampi-trousers.jpg
+- docs/media/photos/2026-07-18-zut-scampi.jpg
+- docs/media/photos/2026-07-18-zut-strawberry-donkey.jpg
+- docs/media/photos/2026-07-19-zadar-reposado-ais.png
+- tools/build_site.py
+- PATCH_MANIFEST_2_5_3.txt

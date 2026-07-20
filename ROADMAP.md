@@ -4,7 +4,7 @@ This is the shared source of truth for release scope, deferred work and validati
 
 ## Current release
 
-**v2.5.3 — Žut Stories & Notable Encounters**
+**v2.5.4 — Authentic Yacht Wordmark**
 
 ## Next release
 
@@ -41,6 +41,13 @@ None currently.
 None currently.
 
 ## Completed
+
+### v2.5.4
+- [x] Created a scalable SVG wordmark inspired by the lettering carried on Juno’s 7.
+- [x] Converted the lettering to vector paths so the site does not depend on a local or commercial font.
+- [x] Replaced the homepage text heading with the new accessible SVG wordmark.
+- [x] Added responsive sizing and subtle shadow treatment for desktop and mobile.
+- [x] Added the complete branch, build, test, merge, tag and cleanup commands to the release notes.
 
 ### v2.5.3
 - [x] Added ROADMAP.md as the shared release checklist and backlog.

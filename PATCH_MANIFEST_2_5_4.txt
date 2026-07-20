@@ -1,0 +1,16 @@
+Juno’s 7 Journal v2.5.4 changed files
+
+CHANGELOG.md
+ROADMAP.md
+VERSION
+RELEASE_2_5_4.md
+PATCH_MANIFEST_2_5_4.txt
+tools/build_site.py
+docs/build-info.json
+docs/build-manifest.json
+docs/index.html
+docs/data/dashboard.json
+docs/data/discoveries.json
+docs/data/version.json
+docs/assets/css/style.css
+docs/assets/icons/junos7-wordmark.svg

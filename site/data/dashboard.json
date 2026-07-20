@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "release": "Anchorage Journal Update",
+  "version": "2.5.3",
+  "release": "Žut Stories & Notable Encounters",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
@@ -43,9 +43,9 @@
     "distanceDirectNm": 999.2,
     "distanceEstimatedNm": 1175.7,
     "manualSeaRouteLegs": 41,
-    "journalEntries": 29,
-    "mediaItems": 44,
-    "photos": 32,
+    "journalEntries": 31,
+    "mediaItems": 49,
+    "photos": 37,
     "videos": 12,
     "contextualDiscoveries": 8,
     "voyageLegs": 43,

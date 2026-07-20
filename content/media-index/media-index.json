@@ -1036,5 +1036,111 @@
         "location": "At anchor, Smokvica Vela, Kornati"
       }
     ]
+  },
+  {
+    "id": "levrnaka-dawn",
+    "type": "photo",
+    "date": "2026-07-18",
+    "url": "media/photos/2026-07-18-levrnaka-dawn.jpg",
+    "originalUrl": "media/photos/2026-07-18-levrnaka-dawn.jpg",
+    "title": "First light at Levrnaka",
+    "caption": "Dawn beginning to spread across the calm anchorage after a peaceful night off Levrnaka.",
+    "categories": [
+      "ports-anchorages",
+      "scenic",
+      "crew"
+    ],
+    "journalEntries": [
+      {
+        "id": "levrnaka-first-light",
+        "title": "First Light at Levrnaka",
+        "date": "2026-07-18",
+        "location": "Levrnaka Bay, Kornati"
+      }
+    ]
+  },
+  {
+    "id": "zut-scampi",
+    "type": "photo",
+    "date": "2026-07-18",
+    "url": "media/photos/2026-07-18-zut-scampi.jpg",
+    "originalUrl": "media/photos/2026-07-18-zut-scampi.jpg",
+    "title": "Not quite British scampi",
+    "caption": "Whole Adriatic langoustines at Konoba Vison — not the breaded scampi Sophie had expected.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "zut-harbour-evening",
+        "title": "Žut Harbour",
+        "date": "2026-07-18",
+        "location": "Žut Harbour, sheltered by Gušćak Islet"
+      }
+    ]
+  },
+  {
+    "id": "zut-scampi-trousers",
+    "type": "photo",
+    "date": "2026-07-18",
+    "url": "media/photos/2026-07-18-zut-scampi-trousers.jpg",
+    "originalUrl": "media/photos/2026-07-18-zut-scampi-trousers.jpg",
+    "title": "Scampi – 1, Soph – 0",
+    "caption": "The evidence after a langoustine escaped during opening — with Cameron caught in the splash zone.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "zut-harbour-evening",
+        "title": "Žut Harbour",
+        "date": "2026-07-18",
+        "location": "Žut Harbour, sheltered by Gušćak Islet"
+      }
+    ]
+  },
+  {
+    "id": "zut-strawberry-donkey",
+    "type": "photo",
+    "date": "2026-07-18",
+    "url": "media/photos/2026-07-18-zut-strawberry-donkey.jpg",
+    "originalUrl": "media/photos/2026-07-18-zut-strawberry-donkey.jpg",
+    "title": "Strawberry the donkey",
+    "caption": "Strawberry, the free-roaming donkey Cameron and Sophie met near Konoba Vison on Žut.",
+    "categories": [
+      "wildlife",
+      "ports-anchorages"
+    ],
+    "journalEntries": [
+      {
+        "id": "zut-harbour-evening",
+        "title": "Žut Harbour",
+        "date": "2026-07-18",
+        "location": "Žut Harbour, sheltered by Gušćak Islet"
+      }
+    ]
+  },
+  {
+    "id": "zadar-reposado-ais",
+    "type": "photo",
+    "date": "2026-07-19",
+    "url": "media/photos/2026-07-19-zadar-reposado-ais.png",
+    "originalUrl": "media/photos/2026-07-19-zadar-reposado-ais.png",
+    "title": "Reposado in Zadar Harbour",
+    "caption": "AIS view showing Juno’s 7, Reposado and SETE together in Zadar Harbour.",
+    "categories": [
+      "ports-anchorages",
+      "junos7"
+    ],
+    "journalEntries": [
+      {
+        "id": "zadar-reposado",
+        "title": "Superyacht Company in Zadar",
+        "date": "2026-07-19",
+        "location": "Zadar Harbour, Croatia"
+      }
+    ]
   }
 ]

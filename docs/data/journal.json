@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "release": "2.5.1",
+  "release": "Žut Stories & Notable Encounters",
   "entries": [
     {
       "date": "2026-06-17",
@@ -366,7 +366,7 @@
       ],
       "notableEncounter": {
         "title": "Black Pearl",
-        "body": "Black Pearl is a 106.7 metre three-masted sailing yacht. Her DynaRig sail plan gives her a silhouette unlike almost anything else in the Mediterranean."
+        "body": "Black Pearl is a 106.7 metre three-masted sailing yacht. Her unmistakable DynaRig silhouette is among the most distinctive in the world. Charter guide: from approximately €850,000 per week, plus expenses."
       },
       "didYouKnow": {
         "title": "A Roman palace beside the anchorage",
@@ -741,30 +741,93 @@
     {
       "id": "levrnaka-anchorage",
       "date": "2026-07-17",
-      "title": "Anchorage off Levrnaka",
-      "location": "At anchor off Levrnaka, Kornati",
+      "title": "Levrnaka Bay",
+      "location": "Levrnaka Bay, Kornati",
       "type": "anchorage",
       "person": "",
       "quote": "",
-      "body": "Juno’s 7 spent time at anchor off Levrnaka as the yacht continued north through Croatia’s Kornati islands.",
-      "summary": "A quiet anchorage off Levrnaka as the voyage continued north through Kornati.",
+      "body": "Juno’s 7 spent the night in the sheltered waters off Levrnaka as the yacht continued north through Croatia’s Kornati islands.",
+      "summary": "A quiet night in the sheltered waters of Levrnaka Bay.",
       "photos": [],
       "videos": [],
       "media": []
     },
     {
-      "id": "zut-anchorage",
+      "id": "levrnaka-first-light",
       "date": "2026-07-18",
-      "title": "Anchorage off Žut",
-      "location": "At anchor off Žut, Croatia",
-      "type": "anchorage",
+      "title": "First Light at Levrnaka",
+      "location": "Levrnaka Bay, Kornati",
+      "type": "crew-view",
+      "person": "Cameron",
+      "quote": "Good night",
+      "body": "In the early hours, Cameron shared a peaceful dawn view across the anchorage with the simple message “Good night” — meaning that the night at anchor had gone well, rather than that he was heading to bed. The calm water and first light over the surrounding hills captured a beautifully uneventful overnight watch.",
+      "summary": "A tranquil dawn after a good night at anchor off Levrnaka.",
+      "photos": [
+        "levrnaka-dawn"
+      ],
+      "videos": [],
+      "media": [
+        "levrnaka-dawn"
+      ],
+      "heroMedia": "levrnaka-dawn",
+      "crewMoment": {
+        "title": "A good night, not goodnight",
+        "body": "Cameron’s brief message meant that the overnight anchorage had gone well — exactly the kind of quiet night the crew hopes for."
+      }
+    },
+    {
+      "id": "zut-harbour-evening",
+      "date": "2026-07-18",
+      "title": "Žut Harbour",
+      "location": "Žut Harbour, sheltered by Gušćak Islet",
+      "type": "crew-life",
+      "person": "Sophie",
+      "quote": "Scampi-1 Soph-0",
+      "body": "After moving to the sheltered waters of Žut Harbour, protected by the small island of Gušćak, Cameron and Sophie went ashore for dinner at Konoba Vison. Sophie ordered scampi expecting the familiar breaded version served at home, but received whole Adriatic langoustines in tomato sauce instead. One escaped while she was cracking it open, sending sauce across her white trousers and putting Cameron firmly in the splash zone. The evening ended with an encounter with Strawberry, a free-roaming local donkey.",
+      "summary": "An authentic seafood dinner, a flying langoustine and an unexpected meeting with Strawberry the donkey.",
+      "photos": [
+        "zut-scampi",
+        "zut-scampi-trousers",
+        "zut-strawberry-donkey"
+      ],
+      "videos": [],
+      "media": [
+        "zut-scampi",
+        "zut-scampi-trousers",
+        "zut-strawberry-donkey"
+      ],
+      "heroMedia": "zut-scampi",
+      "crewMoment": {
+        "title": "Scampi – 1, Soph – 0",
+        "body": "“Slipped right out my hands when I was cracking it open. Cam was in the splash zone.”"
+      },
+      "flavourOf": {
+        "title": "Flavour of Žut",
+        "body": "Croatian škampi are Adriatic langoustines, commonly served whole in a buzara-style sauce of tomato, garlic, olive oil, white wine and herbs — very different from breaded British scampi."
+      }
+    },
+    {
+      "id": "zadar-reposado",
+      "date": "2026-07-19",
+      "title": "Superyacht Company in Zadar",
+      "location": "Zadar Harbour, Croatia",
+      "type": "notable-encounter",
       "person": "",
       "quote": "",
-      "body": "The following day, Juno’s 7 anchored off Žut, continuing the voyage north through the islands of the Adriatic.",
-      "summary": "Another island anchorage as Juno’s 7 continued north through the Adriatic.",
-      "photos": [],
+      "body": "While moored in Zadar, Juno’s 7 shared the harbour with the striking 52-metre motor-sailer Reposado. Built in Croatia by Tramontana Yachts and delivered in 2024, her twin-masted profile made her stand out even among the harbour’s impressive line-up.",
+      "summary": "Juno’s 7 shared Zadar Harbour with the distinctive Croatian-built Reposado.",
+      "photos": [
+        "zadar-reposado-ais"
+      ],
       "videos": [],
-      "media": []
+      "media": [
+        "zadar-reposado-ais"
+      ],
+      "heroMedia": "zadar-reposado-ais",
+      "notableEncounter": {
+        "title": "Reposado",
+        "body": "Reposado is a 52-metre Tramontana motor-sailer delivered in 2024, accommodating up to 12 guests with a crew of 10. Charter guide: €115,000–€155,000 per week, plus expenses."
+      }
     }
   ],
   "media": [
@@ -1803,6 +1866,112 @@
           "title": "Calm Before the Storm",
           "date": "2026-07-15",
           "location": "At anchor, Smokvica Vela, Kornati"
+        }
+      ]
+    },
+    {
+      "id": "levrnaka-dawn",
+      "type": "photo",
+      "date": "2026-07-18",
+      "url": "media/photos/2026-07-18-levrnaka-dawn.jpg",
+      "originalUrl": "media/photos/2026-07-18-levrnaka-dawn.jpg",
+      "title": "First light at Levrnaka",
+      "caption": "Dawn beginning to spread across the calm anchorage after a peaceful night off Levrnaka.",
+      "categories": [
+        "ports-anchorages",
+        "scenic",
+        "crew"
+      ],
+      "journalEntries": [
+        {
+          "id": "levrnaka-first-light",
+          "title": "First Light at Levrnaka",
+          "date": "2026-07-18",
+          "location": "Levrnaka Bay, Kornati"
+        }
+      ]
+    },
+    {
+      "id": "zut-scampi",
+      "type": "photo",
+      "date": "2026-07-18",
+      "url": "media/photos/2026-07-18-zut-scampi.jpg",
+      "originalUrl": "media/photos/2026-07-18-zut-scampi.jpg",
+      "title": "Not quite British scampi",
+      "caption": "Whole Adriatic langoustines at Konoba Vison — not the breaded scampi Sophie had expected.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "zut-harbour-evening",
+          "title": "Žut Harbour",
+          "date": "2026-07-18",
+          "location": "Žut Harbour, sheltered by Gušćak Islet"
+        }
+      ]
+    },
+    {
+      "id": "zut-scampi-trousers",
+      "type": "photo",
+      "date": "2026-07-18",
+      "url": "media/photos/2026-07-18-zut-scampi-trousers.jpg",
+      "originalUrl": "media/photos/2026-07-18-zut-scampi-trousers.jpg",
+      "title": "Scampi – 1, Soph – 0",
+      "caption": "The evidence after a langoustine escaped during opening — with Cameron caught in the splash zone.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "zut-harbour-evening",
+          "title": "Žut Harbour",
+          "date": "2026-07-18",
+          "location": "Žut Harbour, sheltered by Gušćak Islet"
+        }
+      ]
+    },
+    {
+      "id": "zut-strawberry-donkey",
+      "type": "photo",
+      "date": "2026-07-18",
+      "url": "media/photos/2026-07-18-zut-strawberry-donkey.jpg",
+      "originalUrl": "media/photos/2026-07-18-zut-strawberry-donkey.jpg",
+      "title": "Strawberry the donkey",
+      "caption": "Strawberry, the free-roaming donkey Cameron and Sophie met near Konoba Vison on Žut.",
+      "categories": [
+        "wildlife",
+        "ports-anchorages"
+      ],
+      "journalEntries": [
+        {
+          "id": "zut-harbour-evening",
+          "title": "Žut Harbour",
+          "date": "2026-07-18",
+          "location": "Žut Harbour, sheltered by Gušćak Islet"
+        }
+      ]
+    },
+    {
+      "id": "zadar-reposado-ais",
+      "type": "photo",
+      "date": "2026-07-19",
+      "url": "media/photos/2026-07-19-zadar-reposado-ais.png",
+      "originalUrl": "media/photos/2026-07-19-zadar-reposado-ais.png",
+      "title": "Reposado in Zadar Harbour",
+      "caption": "AIS view showing Juno’s 7, Reposado and SETE together in Zadar Harbour.",
+      "categories": [
+        "ports-anchorages",
+        "junos7"
+      ],
+      "journalEntries": [
+        {
+          "id": "zadar-reposado",
+          "title": "Superyacht Company in Zadar",
+          "date": "2026-07-19",
+          "location": "Zadar Harbour, Croatia"
         }
       ]
     }

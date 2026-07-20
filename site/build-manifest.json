@@ -1,8 +1,8 @@
 {
-  "version": "2.5.3",
-  "release": "\u017dut Stories & Notable Encounters",
-  "buildUtc": "2026-07-20 10:36:40 UTC",
-  "fileCount": 154,
+  "version": "2.5.4",
+  "release": "Authentic Yacht Wordmark",
+  "buildUtc": "2026-07-20 14:54:25 UTC",
+  "fileCount": 155,
   "files": [
     {
       "path": ".gitkeep",
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 222,
-      "sha256": "455a7b1ec7cac66c93f8bb5d7c787778fb4a58e76662da5d3e6d15b42b7b5c8e"
+      "sizeBytes": 209,
+      "sha256": "5e95e81fe269a1560eeb9e4c3f6133983b618f3746fe493ab924af323000e533"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 27179,
-      "sha256": "c9a9cdae684ad8ee3e562cec1b96538b3a06dedb05d2940acecd4549edd8deb2"
+      "sizeBytes": 27337,
+      "sha256": "a3620c63d22bcbde656dffb8c118d8a1885e3e99038231a8733160c682a1631c"
     },
     {
       "path": "crew.html",
@@ -51,8 +51,8 @@
     },
     {
       "path": "index.html",
-      "sizeBytes": 6232,
-      "sha256": "60e1b135b088bf774801c51cacb85fd1cf415e83d6b8bec49afc1045cb42221f"
+      "sizeBytes": 6329,
+      "sha256": "49a35b47ecf9eb09b13a303fad622d96bda17aecffabcaff2a44b5105ec5a1d0"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1994,
-      "sha256": "81f530144706e6fc6d8d1d5b4287a361972b6063000119fd92348fc82f82b0b6"
+      "sizeBytes": 1985,
+      "sha256": "d5752e0d62c8a35123653fea0623a83414d0468b7c34a890bbf519f04739aeb9"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "b622e59ffc4ed6ccd7359c64232cc7de4b4cd1889ded6354535fed21848a9955"
+      "sha256": "b9c11b0f3b1ee092d49f74d4e6aded64ea0d26964938931d168558af37b37b8f"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 33371,
-      "sha256": "dfda880d3a959d937c5a8b9332d3b878418aacaad2045f10fbee66f4e437c077"
+      "sizeBytes": 34517,
+      "sha256": "bac12e8fd33a039e54be7a925f1762d2735f2b77ef31ed4d0f5ff6aff957bb2e"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -286,8 +286,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 222,
-      "sha256": "455a7b1ec7cac66c93f8bb5d7c787778fb4a58e76662da5d3e6d15b42b7b5c8e"
+      "sizeBytes": 209,
+      "sha256": "5e95e81fe269a1560eeb9e4c3f6133983b618f3746fe493ab924af323000e533"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -701,8 +701,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 20732,
-      "sha256": "7be15a5775f81ba8b62428a0374104dbb87921792b3c8d9a94c7ce7c67a46991"
+      "sizeBytes": 20955,
+      "sha256": "a6f9493bb39ec52303892e16b812d621ca937a95e02cf8e4329504dc1aae8968"
     },
     {
       "path": "assets/css/version.css",
@@ -733,6 +733,11 @@
       "path": "assets/icons/junos7-summary.png",
       "sizeBytes": 22745,
       "sha256": "49932231f9f3d877479dbc2258cfda9cffaa221cd7d49ec8cde676565c60dc30"
+    },
+    {
+      "path": "assets/icons/junos7-wordmark.svg",
+      "sizeBytes": 3385,
+      "sha256": "6927ee54411eac53f5229e7e9e8d17d1fd11d197334ea60874f400a91d163396"
     },
     {
       "path": "assets/images/.gitkeep",

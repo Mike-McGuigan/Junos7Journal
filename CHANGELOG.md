@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.5.4 — Authentic Yacht Wordmark
+
+- Added `docs/assets/icons/junos7-wordmark.svg`, an outlined vector wordmark inspired by the yacht’s real hull lettering.
+- Updated the homepage hero to use the SVG wordmark while preserving accessible alternative text.
+- Added responsive wordmark sizing and presentation styling.
+- Added a complete release-specific Git workflow to `RELEASE_2_5_4.md`.
+
 ## 2.4.1 — Gallery Classification Fix
 
 - Makes gallery categories part of the canonical media index so later publishes preserve them.

@@ -1,0 +1,5 @@
+Delete this superseded media file after extracting the patch:
+
+docs/media/photos/2026-07-19-zadar-reposado-ais.png
+
+The generated site copy will be removed the next time tools/build_site.py rebuilds site/.

@@ -1121,26 +1121,5 @@
         "location": "Žut Harbour, sheltered by Gušćak Islet"
       }
     ]
-  },
-  {
-    "id": "zadar-reposado-ais",
-    "type": "photo",
-    "date": "2026-07-19",
-    "url": "media/photos/2026-07-19-zadar-reposado-ais.png",
-    "originalUrl": "media/photos/2026-07-19-zadar-reposado-ais.png",
-    "title": "Reposado in Zadar Harbour",
-    "caption": "AIS view showing Juno’s 7, Reposado and SETE together in Zadar Harbour.",
-    "categories": [
-      "ports-anchorages",
-      "junos7"
-    ],
-    "journalEntries": [
-      {
-        "id": "zadar-reposado",
-        "title": "Superyacht Company in Zadar",
-        "date": "2026-07-19",
-        "location": "Zadar Harbour, Croatia"
-      }
-    ]
   }
 ]

@@ -1,0 +1,23 @@
+Juno's 7 Journal v2.6.0 validation
+
+PASS  VERSION set to 2.6.0
+PASS  tools/build_site.py completed successfully
+PASS  JavaScript syntax checked with node --check
+PASS  journal.json, route.json and media.json parsed successfully
+PASS  Journal entry IDs are unique
+PASS  All explicit mapStop values resolve to route stop titles
+PASS  Unified search markup and grouped search implementation present
+PASS  Journal -> Map links use reusable target Junos7MapLink
+PASS  Map -> Journal links are generated for related entries
+PASS  Zadar Antiquus entry and sushi-boat photograph added
+PASS  Toni accident entry added without specifying left or right arm
+PASS  No VesselFinder accident-scene screenshot added
+PASS  site/ excluded from patch manifest and release ZIP
+
+Correction validation:
+- VesselFinder/AIS image removed from the Zadar Reposado journal entry and media catalogue.
+- Antiquus sushi photograph remains linked to the Zadar meal entry.
+- JSON validation and site build completed successfully.
+
+Additional navigation correction:
+- Journal hash links now re-settle after asynchronous image loading, preventing map links to early entries (including Kos / The Beginning) from drifting to a later chapter.

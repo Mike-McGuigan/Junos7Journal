@@ -1,4 +1,13 @@
+- Added the original Antiquus sushi-boat photograph to the Zadar meal entry and gallery.
 # Changelog
+
+## 2.6.0 — Navigation & Discovery
+
+- Added grouped unified search across journal entries, route locations, gallery captions, discoveries, Did You Know, Flavour and notable encounters.
+- Added reusable-tab Journal → Map navigation and Map → Journal links.
+- Added the 20 July Antiquus Sushi & More evening and Toni’s dockside accident in Zadar.
+- Kept the accident entry factual and left the injured arm unspecified.
+
 
 ## v2.5.4 — Authentic Yacht Wordmark
 

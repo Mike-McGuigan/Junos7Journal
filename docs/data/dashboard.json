@@ -1,6 +1,6 @@
 {
-  "version": "2.5.4",
-  "release": "Authentic Yacht Wordmark",
+  "version": "2.6.0",
+  "release": "Navigation & Discovery",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
@@ -43,7 +43,7 @@
     "distanceDirectNm": 999.2,
     "distanceEstimatedNm": 1175.7,
     "manualSeaRouteLegs": 41,
-    "journalEntries": 31,
+    "journalEntries": 33,
     "mediaItems": 49,
     "photos": 37,
     "videos": 12,

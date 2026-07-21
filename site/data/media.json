@@ -1123,23 +1123,22 @@
     ]
   },
   {
-    "id": "zadar-reposado-ais",
+    "id": "zadar-antiquus-sushi-boat",
     "type": "photo",
-    "date": "2026-07-19",
-    "url": "media/photos/2026-07-19-zadar-reposado-ais.png",
-    "originalUrl": "media/photos/2026-07-19-zadar-reposado-ais.png",
-    "title": "Reposado in Zadar Harbour",
-    "caption": "AIS view showing Juno’s 7, Reposado and SETE together in Zadar Harbour.",
+    "date": "2026-07-20",
+    "url": "media/photos/2026-07-20-antiquus-sushi-boat.jpeg",
+    "title": "Sushi at Antiquus",
+    "caption": "A colourful sushi boat during Cameron and Sophie’s evening ashore at Antiquus Sushi & More in Zadar.",
     "categories": [
-      "ports-anchorages",
-      "junos7"
+      "crew",
+      "behind-scenes"
     ],
     "journalEntries": [
       {
-        "id": "zadar-reposado",
-        "title": "Superyacht Company in Zadar",
-        "date": "2026-07-19",
-        "location": "Zadar Harbour, Croatia"
+        "id": "zadar-evening-antiquus",
+        "title": "An Evening at Antiquus",
+        "date": "2026-07-20",
+        "location": "Zadar, Croatia"
       }
     ]
   }

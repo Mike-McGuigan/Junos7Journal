@@ -20,7 +20,7 @@
     <h2>Mediterranean Journal</h2>
     <p class="lead">Cameron and Sophie’s first Mediterranean season working together, told through route, photographs, video and the small messages sent home.</p>
     <nav class="nav" aria-label="Main navigation">
-      <a href="#latest">Latest</a><a href="voyage.html">Voyage So Far</a><a href="discoveries.html">Discoveries</a><a href="about.html">About Juno's 7</a><a href="crew.html">Meet the Crew</a><a href="#journal">Journal</a><a href="#gallery-section">Gallery</a><a href="#collector">Collector’s Edition</a><a href="admin.html">Captain's Dashboard</a>
+      <a href="#latest">Latest</a><a href="voyage.html">Voyage So Far</a><a href="discoveries.html">Discoveries</a><a href="about.html">About Juno's 7</a><a href="crew.html">Meet the Crew</a><a href="#search">Search</a><a href="#journal">Journal</a><a href="#gallery-section">Gallery</a><a href="#collector">Collector’s Edition</a><a href="admin.html">Captain's Dashboard</a>
     </nav>
     <a class="scroll-cue" href="#main">Explore the story <span aria-hidden="true">↓</span></a>
   </div>
@@ -33,8 +33,17 @@
   </section>
   <section id="latest" class="section soft" aria-labelledby="latest-title">
     <div class="wrap">
-      <div class="section-header"><div><p class="kicker">Latest chapter</p><h2 id="latest-title">The newest moment</h2></div><p class="lead">The route shows where they went. The journal keeps what it felt like.</p></div>
+      <div class="section-header"><div><p class="kicker">Latest chapter</p><h2 id="latest-title">The newest moment</h2></div><p class="lead">The route shows where they went. The journal captures how it felt.</p></div>
       <div id="latestEntry" class="latest-shell"><div class="empty-note">Loading the latest entry…</div></div>
+    </div>
+  </section>
+  <section id="search" class="section search-section" aria-labelledby="search-title">
+    <div class="section-header"><div><p class="kicker">Find a memory</p><h2 id="search-title">Search the voyage</h2></div><p class="lead">Search journal chapters, locations, gallery captions, discoveries and the contextual stories gathered along the way.</p></div>
+    <div class="voyage-search">
+      <label class="search-label" for="voyageSearch">Search the voyage</label>
+      <div class="search-input-wrap"><span aria-hidden="true">⌕</span><input id="voyageSearch" type="search" placeholder="Search the voyage…" autocomplete="off"><button id="clearSearch" type="button" hidden>Clear</button></div>
+      <p id="searchSummary" class="search-summary" aria-live="polite">Start typing to explore the story.</p>
+      <div id="searchResults" class="search-results"></div>
     </div>
   </section>
   <section id="journal" class="section" aria-labelledby="journal-title">

@@ -1,8 +1,8 @@
 {
-  "version": "2.5.4",
-  "release": "Authentic Yacht Wordmark",
-  "buildUtc": "2026-07-20 14:54:25 UTC",
-  "fileCount": 155,
+  "version": "2.6.0",
+  "release": "Navigation & Discovery",
+  "buildUtc": "2026-07-21 11:50:50 UTC",
+  "fileCount": 156,
   "files": [
     {
       "path": ".gitkeep",
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 209,
-      "sha256": "5e95e81fe269a1560eeb9e4c3f6133983b618f3746fe493ab924af323000e533"
+      "sizeBytes": 207,
+      "sha256": "9fe885675f0b3271ec98b24653a08a6f6d3240713c077c6870539c9a41ed03fb"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 27337,
-      "sha256": "a3620c63d22bcbde656dffb8c118d8a1885e3e99038231a8733160c682a1631c"
+      "sizeBytes": 28311,
+      "sha256": "db36c6fea908714e1481ec3cb73dcdebc54341f999718f11025816ac21b5b788"
     },
     {
       "path": "crew.html",
@@ -51,8 +51,8 @@
     },
     {
       "path": "index.html",
-      "sizeBytes": 6329,
-      "sha256": "49a35b47ecf9eb09b13a303fad622d96bda17aecffabcaff2a44b5105ec5a1d0"
+      "sizeBytes": 7241,
+      "sha256": "72f42c1fa5bc8892132f3cae09709f4a6c0bcc1ff7cc9a74ae993b834c68dffd"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 1985,
-      "sha256": "d5752e0d62c8a35123653fea0623a83414d0468b7c34a890bbf519f04739aeb9"
+      "sizeBytes": 1983,
+      "sha256": "f3c0263aa8a984e1818242619ce9dd5cdf2f735cedaf17a8b24bb32961ae11a4"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "b9c11b0f3b1ee092d49f74d4e6aded64ea0d26964938931d168558af37b37b8f"
+      "sha256": "11b44399428aa22f07210d9d2576c4047d052eff9f154e0342560b9a861f9dd5"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -191,8 +191,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 143134,
-      "sha256": "b1133ff2ed175e50f32ea3a61226a683fb6436006a98587ccb21a38f06494d24"
+      "sizeBytes": 145990,
+      "sha256": "a31edc6edf03fdfc52af961d1913dcc2038ae0074aadbf460e49f3c5141fa6d9"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 34517,
-      "sha256": "bac12e8fd33a039e54be7a925f1762d2735f2b77ef31ed4d0f5ff6aff957bb2e"
+      "sizeBytes": 33322,
+      "sha256": "9afd102b1e73920db8b6a1b0d2cfbc749b16d895183a044e0d01bc91be78605e"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -286,8 +286,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 209,
-      "sha256": "5e95e81fe269a1560eeb9e4c3f6133983b618f3746fe493ab924af323000e533"
+      "sizeBytes": 207,
+      "sha256": "9fe885675f0b3271ec98b24653a08a6f6d3240713c077c6870539c9a41ed03fb"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -530,6 +530,11 @@
       "sha256": "91566abfc36571a1bb69ed802394db479fd857deb20a720cc0c3a17b52b60dcb"
     },
     {
+      "path": "media/photos/2026-07-20-antiquus-sushi-boat.jpeg",
+      "sizeBytes": 681622,
+      "sha256": "278b4c6e56aa30ccd440294699c5acc83aa6bc0090d4686dd00c7e20d21c4566"
+    },
+    {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",
       "sizeBytes": 3003718,
       "sha256": "dc8dcfc478078d3d2e748cb0f27213df88a91714eacaff1a08b40ac9e4375db3"
@@ -701,8 +706,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 20955,
-      "sha256": "a6f9493bb39ec52303892e16b812d621ca937a95e02cf8e4329504dc1aae8968"
+      "sizeBytes": 23193,
+      "sha256": "4ee168ff153a9becdce93f9943ad773817d26577f00bacc15058ef48b124fef7"
     },
     {
       "path": "assets/css/version.css",
@@ -736,8 +741,8 @@
     },
     {
       "path": "assets/icons/junos7-wordmark.svg",
-      "sizeBytes": 3385,
-      "sha256": "6927ee54411eac53f5229e7e9e8d17d1fd11d197334ea60874f400a91d163396"
+      "sizeBytes": 3398,
+      "sha256": "f59c0e74f3e5a991c8fa4619603e9e7581797e0d771bdb25b060738ef5c2a6d8"
     },
     {
       "path": "assets/images/.gitkeep",
@@ -751,13 +756,13 @@
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 11195,
-      "sha256": "0fb2db3d2f1c02ee547eb0b29c493921faf9226de62972fcdf1ee8a11d8b8f6b"
+      "sizeBytes": 15304,
+      "sha256": "0660e34c16641f6f7e1e9111454c5ab9f5bc5b27b0b7c942e3269e787c212500"
     },
     {
       "path": "assets/js/dashboard.js",
-      "sizeBytes": 11716,
-      "sha256": "bdaffc29021340bac63f0a367c1625d4a496a48596384a4837a0619237e83d3d"
+      "sizeBytes": 12653,
+      "sha256": "4de645e374800a93ce711927ea428d1cfa94f72960907a129e8550a5674ce6d0"
     },
     {
       "path": "assets/js/dashboard.js.bak-0-7-3",

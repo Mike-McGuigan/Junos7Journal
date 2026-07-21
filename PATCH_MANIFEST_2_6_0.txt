@@ -1,0 +1,24 @@
+Juno's 7 Journal v2.6.0 — Navigation & Discovery (corrected reissue)
+
+Files included:
+VERSION
+ROADMAP.md
+CHANGELOG.md
+RELEASE_2_6_0.md
+RELEASE_CHECKS_2_6_0.txt
+PATCH_MANIFEST_2_6_0.txt
+DELETE_FILES_2_6_0.txt
+tools/build_site.py
+docs/index.html
+docs/assets/css/style.css
+docs/assets/js/app.js
+docs/assets/js/dashboard.js
+docs/data/journal.json
+docs/data/media.json
+docs/media/photos/2026-07-20-antiquus-sushi-boat.jpeg
+content/journal/2026/2026-07-20-antiquus-zadar.md
+content/journal/2026/2026-07-20-toni-accident.md
+content/media-index/media-index.json
+
+Required deletion:
+docs/media/photos/2026-07-19-zadar-reposado-ais.png

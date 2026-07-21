@@ -4,11 +4,25 @@ This is the shared source of truth for release scope, deferred work and validati
 
 ## Current release
 
-**v2.5.4 — Authentic Yacht Wordmark**
+**v2.6.0 — Navigation & Discovery**
 
 ## Next release
 
-No scope assigned yet.
+Scope to be assigned after v2.6.0 validation.
+
+## Current release scope
+
+### Bidirectional navigation
+- [x] Add **View on map** links to journal entries with a confirmed route stop.
+- [x] Reuse a named map tab (`Junos7MapLink`) so the reader’s journal position is preserved.
+- [x] Centre the voyage map on the requested stop and open its popup.
+- [x] Add **Read journal entry** links to map stops with related journal content.
+
+### Unified search
+- [x] Add one voyage-wide search box.
+- [x] Group results by journal, locations, gallery, Did You Know, Flavour, notable encounters and discoveries.
+- [x] Support forgiving case, accent, singular/plural and prefix matching.
+- [x] Show a live result count and clear control.
 
 ## Backlog
 
@@ -22,6 +36,15 @@ No scope assigned yet.
 - [ ] Add future encountered yachts with builder, length and a concise interesting fact.
 - [ ] Include a current published charter guide where available; otherwise state that no public charter is offered.
 - [ ] Consider occasional “Harbour line-up” cards when several notable vessels share a harbour.
+
+### Navigation and discovery
+- [ ] Refine search ranking as the archive grows.
+- [ ] Consider optional content filters only if search results become difficult to scan.
+- [ ] Explore memory highlights and “On this day” after the core journal is mature.
+
+### Editorial workflow
+- [ ] Consider a dedicated `EDITORIAL_GUIDE.md` for naming, uncertainty and source standards.
+- [ ] Consider a Featured Media flag if the archive becomes large enough to need stronger curation.
 
 ### Future ideas
 - [ ] Harbour snapshot cards combining AIS and photography.
@@ -41,6 +64,12 @@ None currently.
 None currently.
 
 ## Completed
+
+### v2.6.0
+- [x] Added grouped unified search across the journal, route, gallery and contextual content.
+- [x] Added bidirectional Journal ↔ Map navigation using confirmed route-stop relationships.
+- [x] Added the Antiquus Sushi & More evening in Zadar.
+- [x] Added Toni’s dockside accident using confirmed details only, without asserting which arm was fractured.
 
 ### v2.5.4
 - [x] Created a scalable SVG wordmark inspired by the lettering carried on Juno’s 7.

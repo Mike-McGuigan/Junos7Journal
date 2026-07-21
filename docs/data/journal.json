@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "release": "Žut Stories & Notable Encounters",
+  "release": "2.6.0",
   "entries": [
     {
       "date": "2026-06-17",
@@ -36,7 +36,8 @@
       "videos": [
         "webcam-boarding"
       ],
-      "heroMedia": "join-selfie"
+      "heroMedia": "join-selfie",
+      "mapStop": "Kos"
     },
     {
       "date": "2026-06-19",
@@ -63,7 +64,8 @@
         "mooring-lines"
       ],
       "videos": [],
-      "heroMedia": "mooring-lines"
+      "heroMedia": "mooring-lines",
+      "mapStop": "Cameron & Sophie join"
     },
     {
       "date": "2026-06-20",
@@ -96,7 +98,8 @@
         "junos-lipsi"
       ],
       "videos": [],
-      "heroMedia": "sundeck-black"
+      "heroMedia": "sundeck-black",
+      "mapStop": "Lipsi"
     },
     {
       "date": "2026-06-20",
@@ -119,7 +122,8 @@
         "junos-lipsi"
       ],
       "videos": [],
-      "heroMedia": "junos-lipsi"
+      "heroMedia": "junos-lipsi",
+      "mapStop": "Lipsi"
     },
     {
       "date": "2026-06-21",
@@ -253,7 +257,8 @@
       "videos": [
         "sophie-june27"
       ],
-      "heroMedia": "nice-spot-2"
+      "heroMedia": "nice-spot-2",
+      "mapStop": "Zakynthos"
     },
     {
       "date": "2026-06-30",
@@ -312,7 +317,8 @@
         "underway-cavtat"
       ],
       "videos": [],
-      "heroMedia": "underway-cavtat"
+      "heroMedia": "underway-cavtat",
+      "mapStop": "Heading towards Cavtat, Croatia"
     },
     {
       "date": "2026-07-03",
@@ -345,7 +351,8 @@
         "cavtat-bay"
       ],
       "videos": [],
-      "heroMedia": "cavtat-waterfront"
+      "heroMedia": "cavtat-waterfront",
+      "mapStop": "Cavtat Harbour"
     },
     {
       "id": "black-pearl-mljet",
@@ -376,7 +383,8 @@
         "title": "Flavour of Mljet",
         "body": "Seafood, olive oil, herbs and local white wine suit the island’s quiet, forested setting."
       },
-      "heroMedia": "black-pearl-polace-photo"
+      "heroMedia": "black-pearl-polace-photo",
+      "mapStop": "Polače, Mljet"
     },
     {
       "id": "pakleni-anchorage",
@@ -407,7 +415,8 @@
         "title": "Flavour of Hvar",
         "body": "Hvar brings grilled fish, octopus salad, olive oil, herbs and local wines into an island setting known for both glamour and quiet coves."
       },
-      "heroMedia": "pakleni-approach-bow"
+      "heroMedia": "pakleni-approach-bow",
+      "mapStop": "Palmizana Anchorage"
     },
     {
       "id": "peaceful-night-shift",
@@ -434,7 +443,8 @@
         "title": "Split grew inside a Roman palace",
         "body": "Diocletian’s Palace was built around the beginning of the fourth century. Rather than remaining an isolated ruin, its streets and buildings became part of the living city."
       },
-      "heroMedia": "peaceful-night-shift-video"
+      "heroMedia": "peaceful-night-shift-video",
+      "mapStop": "En route to Split"
     },
     {
       "id": "triumph-in-split",
@@ -456,7 +466,8 @@
       "crewMoment": {
         "title": "Two seasons connected",
         "body": "The owner of Juno’s 7 has known the owner of Calex for many years, adding another small thread between the yachts and Cameron’s route into the industry."
-      }
+      },
+      "mapStop": "Split - near Riva waterfront"
     },
     {
       "id": "cameron-sophie-ashore",
@@ -513,7 +524,8 @@
       "crewMoment": {
         "title": "A lovely breach",
         "body": "Cameron’s phone footage captured the close-up moment; the captain’s drone then turned it into a wider memory of dolphins moving through the anchorage."
-      }
+      },
+      "mapStop": "Off Milna, Croatia"
     },
     {
       "id": "teak-dent-repair-entry",
@@ -565,7 +577,8 @@
       "crewMoment": {
         "title": "Ellis had an immediate plan",
         "body": "The family-chat response was instant: “you’re joking me and dad need to go”."
-      }
+      },
+      "mapStop": "Alongside in Vis, Croatia"
     },
     {
       "id": "afternoon-off-vis",
@@ -588,7 +601,8 @@
         "title": "Capture moments, not just movements",
         "body": "The route map records where the yacht went. This quiet photograph records how an afternoon off felt, which may matter even more when the season is remembered years later."
       },
-      "heroMedia": "afternoon-off-feet"
+      "heroMedia": "afternoon-off-feet",
+      "mapStop": "Alongside in Vis, Croatia"
     },
     {
       "id": "much-nicer-vis",
@@ -614,7 +628,8 @@
       "crewMoment": {
         "title": "Finished by 14:00",
         "body": "“I finish at 14:00 today!?! Unreal” was a rare bonus after the long days that normally define the working rhythm aboard."
-      }
+      },
+      "mapStop": "Alongside in Vis, Croatia"
     },
     {
       "id": "working-aloft-vis",
@@ -647,7 +662,8 @@
       "flavourOf": {
         "title": "Flavour of Vis",
         "body": "Vis is known for seafood, slow-cooked island dishes, local wine and the kind of harbour meals that feel rooted in the landscape."
-      }
+      },
+      "mapStop": "Alongside in Vis, Croatia"
     },
     {
       "id": "another-dolphin-to-komiza",
@@ -676,7 +692,8 @@
       "didYouKnow": {
         "title": "Back into Mamma Mia country",
         "body": "Komiža was one of the Vis locations used in Mamma Mia! Here We Go Again — an especially fitting place to end the day’s looping passage."
-      }
+      },
+      "mapStop": "Komiža"
     },
     {
       "id": "dawn-over-komiza",
@@ -699,7 +716,8 @@
       "didYouKnow": {
         "title": "Komiža became Kalokairi",
         "body": "Komiža was one of the principal Vis locations used as the fictional Greek island of Kalokairi in Mamma Mia! Here We Go Again."
-      }
+      },
+      "mapStop": "Komiža"
     },
     {
       "id": "calm-before-storm-smokvica",
@@ -722,7 +740,8 @@
       "crewMoment": {
         "title": "Radar told a different story",
         "body": "“Moving the boat now to find a bit of shelter apparently the storm is looking big on the radar!” The sea looked calm, but the captain was already acting on what the weather radar showed."
-      }
+      },
+      "mapStop": "Smokvica Vela, Kornati National Park"
     },
     {
       "id": "gujak-kornat-anchorage",
@@ -736,7 +755,8 @@
       "summary": "A purposeful morning departure and another quiet anchorage deeper in the Kornati archipelago.",
       "photos": [],
       "videos": [],
-      "media": []
+      "media": [],
+      "mapStop": "Gujak, Kornat Island"
     },
     {
       "id": "levrnaka-anchorage",
@@ -750,7 +770,8 @@
       "summary": "A quiet night in the sheltered waters of Levrnaka Bay.",
       "photos": [],
       "videos": [],
-      "media": []
+      "media": [],
+      "mapStop": "Levrnaka Bay"
     },
     {
       "id": "levrnaka-first-light",
@@ -773,7 +794,8 @@
       "crewMoment": {
         "title": "A good night, not goodnight",
         "body": "Cameron’s brief message meant that the overnight anchorage had gone well — exactly the kind of quiet night the crew hopes for."
-      }
+      },
+      "mapStop": "Levrnaka Bay"
     },
     {
       "id": "zut-harbour-evening",
@@ -804,7 +826,8 @@
       "flavourOf": {
         "title": "Flavour of Žut",
         "body": "Croatian škampi are Adriatic langoustines, commonly served whole in a buzara-style sauce of tomato, garlic, olive oil, white wine and herbs — very different from breaded British scampi."
-      }
+      },
+      "mapStop": "Žut Harbour"
     },
     {
       "id": "zadar-reposado",
@@ -816,18 +839,56 @@
       "quote": "",
       "body": "While moored in Zadar, Juno’s 7 shared the harbour with the striking 52-metre motor-sailer Reposado. Built in Croatia by Tramontana Yachts and delivered in 2024, her twin-masted profile made her stand out even among the harbour’s impressive line-up.",
       "summary": "Juno’s 7 shared Zadar Harbour with the distinctive Croatian-built Reposado.",
-      "photos": [
-        "zadar-reposado-ais"
-      ],
+      "photos": [],
       "videos": [],
-      "media": [
-        "zadar-reposado-ais"
-      ],
-      "heroMedia": "zadar-reposado-ais",
+      "media": [],
       "notableEncounter": {
         "title": "Reposado",
         "body": "Reposado is a 52-metre Tramontana motor-sailer delivered in 2024, accommodating up to 12 guests with a crew of 10. Charter guide: €115,000–€155,000 per week, plus expenses."
+      },
+      "mapStop": "Zadar mooring"
+    },
+    {
+      "id": "zadar-evening-antiquus",
+      "date": "2026-07-20",
+      "title": "An Evening at Antiquus",
+      "location": "Zadar, Croatia",
+      "type": "crew-life",
+      "person": "",
+      "quote": "",
+      "mapStop": "Zadar mooring",
+      "body": "After a busy day aboard, Cameron and Sophie headed ashore together for dinner at Antiquus Sushi & More in Zadar. The colourful sushi boat made the evening feel like a proper break from yacht life and added another memorable meal to their Croatian season.",
+      "summary": "A well-earned evening ashore together over sushi in Zadar.",
+      "photos": [
+        "zadar-antiquus-sushi-boat"
+      ],
+      "videos": [],
+      "media": [
+        "zadar-antiquus-sushi-boat"
+      ],
+      "crewMoment": {
+        "title": "Time ashore together",
+        "body": "A relaxed meal gave Cameron and Sophie a chance to step away from the working day and enjoy Zadar together."
+      },
+      "flavourOf": {
+        "title": "Flavour of Zadar",
+        "body": "Zadar’s restaurant scene reaches well beyond traditional Dalmatian cooking, with modern Asian menus and seafood-led dishes sitting naturally alongside the city’s Adriatic flavours."
       }
+    },
+    {
+      "id": "toni-accident-zadar",
+      "date": "2026-07-20",
+      "title": "An Accident on the Dock",
+      "location": "Zadar Harbour, Croatia",
+      "type": "crew-life",
+      "person": "",
+      "quote": "",
+      "mapStop": "Zadar mooring",
+      "body": "While cleaning Juno’s 7’s windows from the dock in Zadar, deckhand Toni was concentrating on the glass above him and did not realise he had reached a flight of concrete steps. He fell down the steps and partly into the water, fracturing his radius near the elbow joint. His arm was placed in a full cast, with a repeat X-ray planned after a week and an initial recovery estimate of three to four weeks.",
+      "summary": "A serious dockside fall left Toni with a fractured radius and his arm immobilised in a full cast.",
+      "photos": [],
+      "videos": [],
+      "media": []
     }
   ],
   "media": [
@@ -1955,23 +2016,22 @@
       ]
     },
     {
-      "id": "zadar-reposado-ais",
+      "id": "zadar-antiquus-sushi-boat",
       "type": "photo",
-      "date": "2026-07-19",
-      "url": "media/photos/2026-07-19-zadar-reposado-ais.png",
-      "originalUrl": "media/photos/2026-07-19-zadar-reposado-ais.png",
-      "title": "Reposado in Zadar Harbour",
-      "caption": "AIS view showing Juno’s 7, Reposado and SETE together in Zadar Harbour.",
+      "date": "2026-07-20",
+      "url": "media/photos/2026-07-20-antiquus-sushi-boat.jpeg",
+      "title": "Sushi at Antiquus",
+      "caption": "A colourful sushi boat during Cameron and Sophie’s evening ashore at Antiquus Sushi & More in Zadar.",
       "categories": [
-        "ports-anchorages",
-        "junos7"
+        "crew",
+        "behind-scenes"
       ],
       "journalEntries": [
         {
-          "id": "zadar-reposado",
-          "title": "Superyacht Company in Zadar",
-          "date": "2026-07-19",
-          "location": "Zadar Harbour, Croatia"
+          "id": "zadar-evening-antiquus",
+          "title": "An Evening at Antiquus",
+          "date": "2026-07-20",
+          "location": "Zadar, Croatia"
         }
       ]
     }

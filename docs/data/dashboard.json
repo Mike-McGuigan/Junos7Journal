@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "release": "Navigation & Discovery",
+  "version": "2.6.0",
+  "release": "Bi-directional linking & searches",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
@@ -41,15 +41,15 @@
   "stats": {
     "routeStops": 45,
     "distanceDirectNm": 1012.0,
-    "distanceEstimatedNm": 1188.5,
-    "manualSeaRouteLegs": 41,
+    "distanceEstimatedNm": 1191.9,
+    "manualSeaRouteLegs": 42,
     "journalEntries": 33,
     "mediaItems": 49,
     "photos": 37,
     "videos": 12,
     "contextualDiscoveries": 8,
     "voyageLegs": 44,
-    "averageLegNm": 27.0,
+    "averageLegNm": 27.1,
     "longestLegNm": 223.9,
     "longestLegFrom": "Sea of Crete / Cyclades area",
     "longestLegTo": "Zakynthos",

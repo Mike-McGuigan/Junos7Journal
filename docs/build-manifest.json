@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "release": "Navigation & Discovery",
-  "buildUtc": "2026-07-22 07:51:45 UTC",
+  "version": "2.6.0",
+  "release": "Bi-directional linking & searches",
+  "buildUtc": "2026-07-22 08:08:02 UTC",
   "fileCount": 156,
   "files": [
     {
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 207,
-      "sha256": "aeb3edc282b5f588f26629eff9792de67f06bdf72e75539670ae4f121e7a5fb3"
+      "sizeBytes": 218,
+      "sha256": "c4dbd3c69983e2f69c3a6536a78ae41aca160360e8aaba8acc65a907da48b57b"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 28311,
-      "sha256": "5f9833ef70c6410adb2c793702ade245fb48cb844fc2364dacc05d78bc667f3b"
+      "sha256": "65daf38801907249ededa8382202965cb2b2c2450358d4b831d11e250f43924a"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2026,
-      "sha256": "2d69b6c028a6196bb0003700f28c427ea419ee69b40542d3d8e3850b22503e53"
+      "sizeBytes": 2037,
+      "sha256": "09edae94996679ca1cf511400827cb8ae1b9907caf8e8a87ad24ce4597194337"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "feccba468dc80042dcf6dc991bd21215ae2efa6522210548c8bcd43430e3996b"
+      "sha256": "c0df09674dde5e027b417b909c1d60223a768c39b3ae2ab986f25090910511b9"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -226,8 +226,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 80343,
-      "sha256": "849007b84f65b811cb6e003e8ef9bb78ce9adf846477c5c30d9c7f83a9702f92"
+      "sizeBytes": 82181,
+      "sha256": "1ca79af2d3570efbbb673f35c3faab266189a92f09887ffb5b8312f64743b30b"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -286,8 +286,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 207,
-      "sha256": "aeb3edc282b5f588f26629eff9792de67f06bdf72e75539670ae4f121e7a5fb3"
+      "sizeBytes": 218,
+      "sha256": "c4dbd3c69983e2f69c3a6536a78ae41aca160360e8aaba8acc65a907da48b57b"
     },
     {
       "path": "data/version.json.bak-1-0-1",

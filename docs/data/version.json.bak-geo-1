@@ -1,7 +1,7 @@
 {
-  "version": "2.5.2",
-  "release": "Anchorage Journal Update",
-  "buildUtc": "2026-07-19 10:20:03 UTC",
+  "version": "2.6.0",
+  "release": "Navigation & Discovery",
+  "buildUtc": "2026-07-21 13:18:11 UTC",
   "project": "Juno's 7 Mediterranean Journal",
   "pagesSource": "docs",
   "siteOutput": "site"

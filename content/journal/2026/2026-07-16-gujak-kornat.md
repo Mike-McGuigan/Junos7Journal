@@ -1,7 +1,7 @@
 ---
 date: 2026-07-16
 title: North through Kornati
-location: Gujak anchorage, Kornat Island
+location: Lapatica Bay, Kornat Island
 type: anchorage
 ---
 

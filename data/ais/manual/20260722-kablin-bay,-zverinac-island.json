@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-07-22T07:51:43.075Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "22 Jul",
+    "title": "Kablin Bay, Zverinac Island",
+    "name": "Kablin Bay, Zverinac Island",
+    "phase": "current",
+    "lat": 44.153903,
+    "lng": 14.928773,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226726,
+      "displayName": "Near Zadar County, Croatia",
+      "shortName": "Zadar County",
+      "rawDisplayName": "Zadar County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Zadar County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Zadar County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-07-22T07:51:43.075Z",
+    "status": "At anchor",
+    "title": "Kablin Bay, Zverinac Island",
+    "area": "Kablin Bay, Zverinac Island",
+    "position": {
+      "lat": 44.153903,
+      "lng": 14.928773,
+      "precision": "user-confirmed area marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226726,
+      "displayName": "Near Zadar County, Croatia",
+      "shortName": "Zadar County",
+      "rawDisplayName": "Zadar County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Zadar County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Zadar County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

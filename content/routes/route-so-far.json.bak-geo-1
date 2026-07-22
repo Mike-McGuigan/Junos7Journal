@@ -3013,8 +3013,8 @@
   },
   {
     "date": "17 Jul - AM",
-    "title": "Anchorage off Levrnaka",
-    "name": "Anchorage off Levrnaka",
+    "title": "Levrnaka Bay",
+    "name": "Levrnaka Bay",
     "phase": "onboard",
     "lat": 43.823437,
     "lng": 15.252854,
@@ -3039,7 +3039,7 @@
     },
     "legFromPrevious": {
       "fromTitle": "Gujak, Kornat Island",
-      "toTitle": "Anchorage off Levrnaka",
+      "toTitle": "Levrnaka Bay",
       "distanceDirectNm": 4.3,
       "distanceEstimatedNm": 5.7,
       "usesManualSeaRoute": true,
@@ -3113,8 +3113,8 @@
   },
   {
     "date": "18 Jul",
-    "title": "Anchorage off Zut",
-    "name": "Anchorage off Zut",
+    "title": "Žut Harbour",
+    "name": "Žut Harbour",
     "phase": "onboard",
     "lat": 43.868037,
     "lng": 15.328749,
@@ -3138,8 +3138,8 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "legFromPrevious": {
-      "fromTitle": "Anchorage off Levrnaka",
-      "toTitle": "Anchorage off Zut",
+      "fromTitle": "Levrnaka Bay",
+      "toTitle": "Žut Harbour",
       "distanceDirectNm": 4.2,
       "distanceEstimatedNm": 11.8,
       "usesManualSeaRoute": true,
@@ -3311,7 +3311,7 @@
     "date": "19 Jul AM",
     "title": "En route to Zadar",
     "name": "En route to Zadar",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 44.057565,
     "lng": 15.270395,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -3334,7 +3334,7 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "legFromPrevious": {
-      "fromTitle": "Anchorage off Zut",
+      "fromTitle": "Žut Harbour",
       "toTitle": "En route to Zadar",
       "distanceDirectNm": 11.7,
       "distanceEstimatedNm": 19.9,
@@ -3409,6 +3409,33 @@
           15.270395
         ]
       ]
+    }
+  },
+  {
+    "date": "19 Jul 09:35 UTC",
+    "title": "Zadar mooring",
+    "name": "Zadar mooring",
+    "phase": "current",
+    "lat": 44.118861,
+    "lng": 15.222539,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226726,
+      "displayName": "Near Zadar County, Croatia",
+      "shortName": "Zadar County",
+      "rawDisplayName": "Zadar County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Zadar County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Zadar County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
     }
   }
 ]

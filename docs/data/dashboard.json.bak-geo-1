@@ -1,22 +1,22 @@
 {
   "version": "2.6.0",
-  "release": "Navigation & Discovery",
+  "release": "Bi-directional linking & searches",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Zadar mooring",
+    "latestStatus": "Manual location: Kablin Bay, Zverinac Island",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-19T13:14:09.002Z",
+    "lastManualLookupUtc": "2026-07-22T07:51:43.075Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 44.118861,
-      "lng": 15.222539,
+      "lat": 44.153903,
+      "lng": 14.928773,
       "precision": "user-confirmed area marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Zadar mooring",
+    "latestLocationName": "Kablin Bay, Zverinac Island",
     "latestFriendlyLocation": "Near Zadar County, Croatia",
     "location": {
       "lookupStatus": "ok",
@@ -36,20 +36,20 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Zadar mooring"
+    "latestLocationTitle": "Kablin Bay, Zverinac Island"
   },
   "stats": {
-    "routeStops": 44,
-    "distanceDirectNm": 999.2,
-    "distanceEstimatedNm": 1175.7,
-    "manualSeaRouteLegs": 41,
+    "routeStops": 45,
+    "distanceDirectNm": 1012.0,
+    "distanceEstimatedNm": 1191.9,
+    "manualSeaRouteLegs": 42,
     "journalEntries": 33,
     "mediaItems": 49,
     "photos": 37,
     "videos": 12,
     "contextualDiscoveries": 8,
-    "voyageLegs": 43,
-    "averageLegNm": 27.3,
+    "voyageLegs": 44,
+    "averageLegNm": 27.1,
     "longestLegNm": 223.9,
     "longestLegFrom": "Sea of Crete / Cyclades area",
     "longestLegTo": "Zakynthos",

@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.6.3 — Passage Statistics Refinement
+
+- Changed longest and average passage calculations so underway/AIS transit markers no longer split continuous passages.
+- Kept all route nodes visible on the voyage map while calculating passage statistics between real stops and anchorages.
+- Updated dashboard wording from route legs to passages for the average passage tile.
+- Renamed the homepage metric from **Longest leg** to **Longest passage**.
+- Renamed **Route stops** to **Route points** to reflect that the map includes underway markers and other plotted positions.
+- Updated version and build metadata to `2.6.3`.
+
 ## 2.6.2 — Cave Location Refinement
 
 - Updated the recovered cave excursion from a generic Croatian Adriatic location to **Likely Blue Cave, Biševo, Croatia**.

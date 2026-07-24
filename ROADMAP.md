@@ -4,18 +4,20 @@ This is the shared source of truth for release scope, deferred work and validati
 
 ## Current release
 
-**v2.6.2 — Cave Location Refinement**
+**v2.6.3 — Passage Statistics Refinement**
 
 ## Next release
 
-Scope to be assigned after v2.6.2 is committed and tested.
+Scope to be assigned after v2.6.3 is committed and tested.
 
 ## Current release scope
 
-### Editorial refinement
-- [x] Update the recovered cave excursion to **Likely Blue Cave, Biševo, Croatia**.
-- [x] Keep the entry undated because the exact date and cave have not been directly confirmed by Cameron and Sophie.
-- [x] Reference the 13 July Vis-to-Komiža route loop towards Biševo as supporting context without creating a false yacht stop.
+### Route statistics
+- [x] Calculate longest passage across continuous runs rather than individual route nodes.
+- [x] Fold underway/AIS transit markers into the surrounding passage for statistics.
+- [x] Update average passage length to use passage count rather than raw route-leg count.
+- [x] Rename Route stops to Route points.
+- [x] Keep all map nodes visible and unchanged.
 
 ## Backlog
 
@@ -57,6 +59,12 @@ None currently.
 None currently.
 
 ## Completed
+
+### v2.6.3
+- [x] Updated longest passage calculation to merge underway/AIS transit markers into the surrounding passage.
+- [x] Updated average passage length to divide by continuous passages rather than raw route legs.
+- [x] Updated dashboard/home wording to use **Longest passage** and passage count consistently.
+- [x] Updated dashboard/home wording to use **Route points** instead of **Route stops**.
 
 ### v2.6.2
 - [x] Refined the recovered cave excursion location to **Likely Blue Cave, Biševo, Croatia**.

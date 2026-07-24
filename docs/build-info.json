@@ -1,7 +1,7 @@
 {
-  "version": "2.6.2",
-  "release": "Cave location refinement",
-  "buildUtc": "2026-07-24 19:12:45 UTC",
+  "version": "2.6.3",
+  "release": "Passage statistics refinement",
+  "buildUtc": "2026-07-24 19:52:29 UTC",
   "project": "Juno's 7 Mediterranean Journal",
   "pagesSource": "docs",
   "siteOutput": "site"

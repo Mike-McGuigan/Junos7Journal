@@ -4,25 +4,27 @@ This is the shared source of truth for release scope, deferred work and validati
 
 ## Current release
 
-**v2.6.0 — Navigation & Discovery**
+**v2.6.1 — Maintenance & Editorial Consistency**
 
 ## Next release
 
-Scope to be assigned after v2.6.0 validation.
+Scope to be assigned after v2.6.1 is committed and tested.
 
 ## Current release scope
 
-### Bidirectional navigation
-- [x] Add **View on map** links to journal entries with a confirmed route stop.
-- [x] Reuse a named map tab (`Junos7MapLink`) so the reader’s journal position is preserved.
-- [x] Centre the voyage map on the requested stop and open its popup.
-- [x] Add **Read journal entry** links to map stops with related journal content.
+### Maintenance
+- [x] Fix the recurring version rollback to `2.2.0`.
+- [x] Make root `VERSION` the authoritative version source for build and dashboard publishing.
+- [x] Remove old hard-coded version values from manual-location tools.
+- [x] Keep the embedded journal route copy aligned with `docs/data/route.json` during builds.
 
-### Unified search
-- [x] Add one voyage-wide search box.
-- [x] Group results by journal, locations, gallery, Did You Know, Flavour, notable encounters and discoveries.
-- [x] Support forgiving case, accent, singular/plural and prefix matching.
-- [x] Show a live result count and clear control.
+### Editorial consistency
+- [x] Rename the dashboard/home summary tile to **Countries visited**.
+- [x] Count only actual visits/stops for the country list, leaving Albania as an underway transit point.
+- [x] Remove the stale VesselFinder/AIS source image from the media folder.
+- [x] Add the recovered Kablin Bay, Sakarun Beach and Michelle snorkelling media.
+- [x] Add the dolphin **Music Edit** as a media variant rather than a duplicate event.
+- [x] Add the cave excursion and onboard CCTV clips as undated Crew Life highlights.
 
 ## Backlog
 
@@ -64,6 +66,20 @@ None currently.
 None currently.
 
 ## Completed
+
+### v2.6.1
+- [x] Fixed the version source that was causing releases to revert to `2.2.0`.
+- [x] Removed hard-coded `2.2.0` values from dashboard publishing scripts.
+- [x] Updated country statistics to count **Countries visited** rather than underway transit countries.
+- [x] Confirmed Albania is only present on an underway marker and no longer counts as visited.
+- [x] Removed the stale VesselFinder/AIS image file from source media.
+- [x] Added the recovered Kablin Bay aft-deck photo.
+- [x] Added the Michelle snorkelling accident photo and Sakarun beach setup photo.
+- [x] Added the dolphin **Music Edit** as a variant of the existing dolphin encounter.
+- [x] Added the cave excursion as an undated Crew Life highlight.
+- [x] Added the onboard CCTV deck-mishap clips as undated Crew Life highlights.
+- [x] Added the Zadar Anchorage owner’s guest transfer entry.
+- [x] Completed the Lapatica Bay / Kablin Bay naming consistency fixes.
 
 ### v2.6.0
 - [x] Added grouped unified search across the journal, route, gallery and contextual content.

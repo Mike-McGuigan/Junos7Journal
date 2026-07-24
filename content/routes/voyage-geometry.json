@@ -1744,7 +1744,7 @@
       "fromDate": "15 Jul - AM",
       "toDate": "16 Jul - late morning",
       "fromTitle": "Smokvica Vela, Kornati National Park",
-      "toTitle": "Gujak, Kornat Island",
+      "toTitle": "Lapatica Bay, Kornat Island, Croatia",
       "waypoints": [
         [
           43.721329,
@@ -1813,7 +1813,7 @@
       "toIndex": 40,
       "fromDate": "16 Jul - late morning",
       "toDate": "17 Jul - AM",
-      "fromTitle": "Gujak, Kornat Island",
+      "fromTitle": "Lapatica Bay, Kornat Island, Croatia",
       "toTitle": "Levrnaka Bay",
       "waypoints": [
         [
@@ -2146,7 +2146,7 @@
       "fromDate": "19 Jul 09:35 UTC",
       "toDate": "22 Jul",
       "fromTitle": "Zadar mooring",
-      "toTitle": "Kablin Bay, Zverinac Island",
+      "toTitle": "Kablin Bay, Zverinac Island, Croatia",
       "waypoints": [
         [
           44.121335,
@@ -2267,7 +2267,7 @@
       "toIndex": 45,
       "fromDate": "22 Jul",
       "toDate": "23 Jul",
-      "fromTitle": "Kablin Bay, Zverinac Island",
+      "fromTitle": "Kablin Bay, Zverinac Island, Croatia",
       "toTitle": "Sakarun Bay, Dugi Otok, Croatia",
       "waypoints": [
         [

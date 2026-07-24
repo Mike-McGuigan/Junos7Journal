@@ -1121,5 +1121,152 @@
         "location": "Žut Harbour, sheltered by Gušćak Islet"
       }
     ]
+  },
+  {
+    "id": "dolphin-on-bow-music-edit",
+    "type": "video",
+    "date": "2026-07-13",
+    "url": "media/videos/2026-07-13-dolphin-on-bow-music-edit.mp4",
+    "title": "Music Edit",
+    "caption": "A music edit of the bow dolphin encounter, kept as a variant of the existing dolphin moment rather than a separate sighting.",
+    "categories": [
+      "crew",
+      "junos7",
+      "wildlife",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "another-dolphin-to-komiza",
+        "title": "Another Dolphin",
+        "date": "2026-07-13",
+        "location": "Underway off Biševo, later anchored off Komiža"
+      }
+    ]
+  },
+  {
+    "id": "cave-excursion",
+    "type": "video",
+    "date": "Summer 2026",
+    "url": "media/videos/summer-2026-cave-excursion.mp4",
+    "title": "Cave Excursion",
+    "caption": "Recovered undated footage from a planned cave excursion aboard a local excursion boat.",
+    "categories": [
+      "crew",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "season-highlight-cave-excursion",
+        "title": "Cave Excursion",
+        "date": "Summer 2026",
+        "location": "Croatian Adriatic"
+      }
+    ]
+  },
+  {
+    "id": "onboard-cctv-deckie-falling-in",
+    "type": "video",
+    "date": "Summer 2026",
+    "url": "media/videos/summer-2026-onboard-cctv-deckie-falling-in.mp4",
+    "title": "Onboard CCTV: deck mishap",
+    "caption": "Onboard CCTV captured a deckhand ending up in the water around the beach club area.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "onboard-cctv-crew-life",
+        "title": "Beach Club CCTV Moments",
+        "date": "Summer 2026",
+        "location": "On board Juno’s 7"
+      }
+    ]
+  },
+  {
+    "id": "onboard-cctv-meta-glasses-mishap",
+    "type": "video",
+    "date": "Summer 2026",
+    "url": "media/videos/summer-2026-onboard-cctv-meta-glasses-mishap.mp4",
+    "title": "Onboard CCTV: Meta glasses",
+    "caption": "Onboard CCTV captured the same deckhand a few weeks earlier being knocked and breaking his Meta glasses.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "onboard-cctv-crew-life",
+        "title": "Beach Club CCTV Moments",
+        "date": "Summer 2026",
+        "location": "On board Juno’s 7"
+      }
+    ]
+  },
+  {
+    "id": "kablin-bay-aft-view",
+    "type": "photo",
+    "date": "2026-07-22",
+    "url": "media/photos/2026-07-22-kablin-bay-aft-view.png",
+    "title": "A quiet view in Kablin Bay",
+    "caption": "Sophie’s aft-deck view across Kablin Bay, with an inflatable kayak floating alongside Juno’s 7.",
+    "categories": [
+      "crew",
+      "junos7",
+      "ports-anchorages",
+      "scenic",
+      "tenders-toys"
+    ],
+    "journalEntries": [
+      {
+        "id": "kablin-bay-aft-view",
+        "title": "A Quiet View in Kablin Bay",
+        "date": "2026-07-22",
+        "location": "Kablin Bay, Zverinac Island, Croatia"
+      }
+    ]
+  },
+  {
+    "id": "michelle-snorkelling-accident",
+    "type": "photo",
+    "date": "2026-07-23",
+    "url": "media/photos/2026-07-23-michelle-snorkelling-accident.png",
+    "title": "Snorkelling mishap at Michelle",
+    "caption": "Cameron’s small cut and swelling after a snorkelling collision at the Michelle shipwreck.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "michelle-snorkelling-mishap",
+        "title": "Snorkelling Mishap at Michelle",
+        "date": "2026-07-23",
+        "location": "Michelle Shipwreck, near Sakarun Bay, Dugi Otok, Croatia"
+      }
+    ]
+  },
+  {
+    "id": "sakarun-beach-setup",
+    "type": "photo",
+    "date": "2026-07-23",
+    "url": "media/photos/2026-07-23-sakarun-beach-setup.png",
+    "title": "Waiting on Sakarun Beach",
+    "caption": "After setting up the beach for the owner’s guests, Cameron waited with a Corona and crisps at Sakarun Bay.",
+    "categories": [
+      "crew",
+      "behind-scenes",
+      "ports-anchorages",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "sakarun-beach-setup",
+        "title": "Waiting on Sakarun Beach",
+        "date": "2026-07-23",
+        "location": "Sakarun Bay, Dugi Otok, Croatia"
+      }
+    ]
   }
 ]

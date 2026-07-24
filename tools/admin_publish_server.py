@@ -12,10 +12,18 @@ import webbrowser
 
 ROOT = Path(__file__).resolve().parents[1]
 PORT = 8765
-VERSION = "2.2.0"
-RELEASE = "Journal Experience"
+VERSION_FILE = ROOT / "VERSION"
+RELEASE = "Maintenance & editorial consistency"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
 ROUTE_FILE = ROOT / "docs" / "data" / "route.json"
+
+
+def current_version():
+    if VERSION_FILE.exists():
+        value = VERSION_FILE.read_text(encoding="utf-8").strip()
+        if value:
+            return value
+    return "2.6.1"
 
 
 def run(cmd, check=True):
@@ -41,7 +49,7 @@ def run(cmd, check=True):
 
 
 def git_health():
-    info = {"ok": True, "version": VERSION, "release": RELEASE, "repo": ROOT.name, "root": str(ROOT), "checks": []}
+    info = {"ok": True, "version": current_version(), "release": RELEASE, "repo": ROOT.name, "root": str(ROOT), "checks": []}
 
     def check(name, cmd, required=True, warning_ok=False):
         try:

@@ -27,7 +27,7 @@ AIS_RECORD = {
         "lat": 39.6243,
         "lng": 19.9217,
         "precision": "approximate area marker",
-        "source": "user-confirmed current location"
+        "source": "map-click reconstructed current location"
     },
     "source": "user-confirmed observation; public free AIS coordinates may be stale",
     "confidence": "area high; exact coordinate approximate pending fresh precise AIS"
@@ -65,7 +65,7 @@ def update_dashboard(path):
     tracker["latestSource"] = "User-confirmed location; approximate map marker"
     tracker["latestPrecisePosition"] = None
     tracker["latestApproximatePosition"] = AIS_RECORD["position"]
-    tracker["note"] = "Public free AIS coordinates may lag. This marker uses the user-confirmed current area and is intentionally labelled approximate."
+    tracker["note"] = "Public free AIS coordinates may lag. This marker uses the map-click reconstructed current area and is intentionally labelled approximate."
     backup(path)
     path.write_text(json.dumps(data, indent=2), encoding="utf-8")
     return True

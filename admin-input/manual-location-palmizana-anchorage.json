@@ -22,7 +22,7 @@
     "position": {
       "lat": 43.161098,
       "lng": 16.402105,
-      "precision": "user-confirmed area marker",
+      "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },
     "source": "captains dashboard",

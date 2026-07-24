@@ -27,7 +27,7 @@ AIS_RECORD = {
         "lat": 39.2026,
         "lng": 20.1858,
         "precision": "approximate area marker",
-        "source": "user-confirmed current location"
+        "source": "map-click reconstructed current location"
     },
     "replaces": {
         "lat": 39.01234,

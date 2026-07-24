@@ -2909,12 +2909,12 @@
   },
   {
     "date": "16 Jul - late morning",
-    "title": "Gujak, Kornat Island",
-    "name": "Gujak, Kornat Island",
+    "title": "Lapatica Bay, Kornat Island, Croatia",
+    "name": "Lapatica Bay, Kornat Island, Croatia",
     "phase": "onboard",
     "lat": 43.786667,
     "lng": 15.339296,
-    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "note": "Anchorage in Lapatica Bay on Kornat Island.",
     "location": {
       "lookupStatus": "ok",
       "lookupProvider": "OpenStreetMap Nominatim",
@@ -2935,7 +2935,7 @@
     },
     "legFromPrevious": {
       "fromTitle": "Smokvica Vela, Kornati National Park",
-      "toTitle": "Gujak, Kornat Island",
+      "toTitle": "Lapatica Bay, Kornat Island, Croatia",
       "distanceDirectNm": 7.1,
       "distanceEstimatedNm": 8.4,
       "usesManualSeaRoute": true,
@@ -3038,7 +3038,7 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "legFromPrevious": {
-      "fromTitle": "Gujak, Kornat Island",
+      "fromTitle": "Lapatica Bay, Kornat Island, Croatia",
       "toTitle": "Levrnaka Bay",
       "distanceDirectNm": 4.3,
       "distanceEstimatedNm": 5.7,
@@ -3481,8 +3481,8 @@
   },
   {
     "date": "22 Jul",
-    "title": "Kablin Bay, Zverinac Island",
-    "name": "Kablin Bay, Zverinac Island",
+    "title": "Kablin Bay, Zverinac Island, Croatia",
+    "name": "Kablin Bay, Zverinac Island, Croatia",
     "phase": "onboard",
     "lat": 44.153903,
     "lng": 14.928773,
@@ -3507,7 +3507,7 @@
     },
     "legFromPrevious": {
       "fromTitle": "Zadar mooring",
-      "toTitle": "Kablin Bay, Zverinac Island",
+      "toTitle": "Kablin Bay, Zverinac Island, Croatia",
       "distanceDirectNm": 12.8,
       "distanceEstimatedNm": 16.2,
       "usesManualSeaRoute": true,
@@ -3662,7 +3662,7 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "legFromPrevious": {
-      "fromTitle": "Kablin Bay, Zverinac Island",
+      "fromTitle": "Kablin Bay, Zverinac Island, Croatia",
       "toTitle": "Sakarun Bay, Dugi Otok, Croatia",
       "distanceDirectNm": 2.6,
       "distanceEstimatedNm": 12.0,

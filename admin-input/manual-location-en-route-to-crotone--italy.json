@@ -1,27 +1,27 @@
 {
   "schemaVersion": 5,
-  "generatedUtc": "2026-07-24T19:57:40.721Z",
+  "generatedUtc": "2026-07-24T23:22:49.246Z",
   "vesselKey": "junos7",
   "displayName": "JUNOS 7",
   "mmsi": "319303300",
   "imo": "1109712",
   "routePoint": {
-    "date": "24 Jul - Early evening",
+    "date": "25 Jul - Very early hours",
     "title": "En route to Crotone, Italy",
     "name": "En route to Crotone, Italy",
     "phase": "current",
-    "lat": 43.72784,
-    "lng": 15.546513,
+    "lat": 43.247797,
+    "lng": 16.11763,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
   },
   "tracker": {
-    "timestampUtc": "2026-07-24T19:57:40.721Z",
+    "timestampUtc": "2026-07-24T23:22:49.246Z",
     "status": "Underway",
     "title": "En route to Crotone, Italy",
     "area": "En route to Crotone, Italy",
     "position": {
-      "lat": 43.72784,
-      "lng": 15.546513,
+      "lat": 43.247797,
+      "lng": 16.11763,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },

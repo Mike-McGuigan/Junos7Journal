@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "release": "2.6.1",
+  "release": "2.6.2",
   "entries": [
     {
       "date": "2026-06-17",
@@ -895,13 +895,13 @@
     {
       "id": "season-highlight-cave-excursion",
       "date": "Summer 2026",
-      "title": "Cave Excursion",
-      "location": "Croatian Adriatic",
+      "title": "Likely Blue Cave Excursion",
+      "location": "Likely Blue Cave, Biševo, Croatia",
       "type": "crew-life",
       "person": "",
       "quote": "",
-      "body": "One recovered video shows Cameron and the crew on a planned cave excursion aboard a small local excursion boat rather than SETE. The exact date and location have not yet been confirmed, so the clip is preserved as an undated season highlight rather than being forced into the main chronology.",
-      "summary": "A recovered undated clip from a planned cave excursion during the Croatian leg of the season.",
+      "body": "One recovered video shows Cameron and the crew on a planned cave excursion aboard a small local excursion boat rather than SETE. The setting appears to be the Blue Cave on Biševo, and the route from Vis towards Komiža includes a clear loop down towards Biševo on 13 July.\n\nBecause the exact date and cave have not been directly confirmed by Cameron and Sophie, the clip remains preserved as an undated season highlight rather than being forced into the main chronology.",
+      "summary": "A recovered cave-excursion clip, likely from the Blue Cave on Biševo, preserved cautiously as an undated season highlight.",
       "photos": [],
       "videos": [
         "cave-excursion"
@@ -911,8 +911,8 @@
       ],
       "heroMedia": "cave-excursion",
       "crewMoment": {
-        "title": "Preserved without guessing",
-        "body": "The video belongs in the season archive, but its date and exact location remain unconfirmed."
+        "title": "Likely location, not confirmed date",
+        "body": "The video appears to match the Blue Cave on Biševo and the 13 July route passed close by, but Cameron and Sophie have not directly confirmed the exact date or cave."
       }
     },
     {
@@ -2195,8 +2195,8 @@
       "type": "video",
       "date": "Summer 2026",
       "url": "media/videos/summer-2026-cave-excursion.mp4",
-      "title": "Cave Excursion",
-      "caption": "Recovered undated footage from a planned cave excursion aboard a local excursion boat.",
+      "title": "Likely Blue Cave Excursion",
+      "caption": "Recovered footage from a planned cave excursion, likely at the Blue Cave on Biševo, aboard a local excursion boat.",
       "categories": [
         "crew",
         "scenic"
@@ -2204,9 +2204,9 @@
       "journalEntries": [
         {
           "id": "season-highlight-cave-excursion",
-          "title": "Cave Excursion",
+          "title": "Likely Blue Cave Excursion",
           "date": "Summer 2026",
-          "location": "Croatian Adriatic"
+          "location": "Likely Blue Cave, Biševo, Croatia"
         }
       ]
     },

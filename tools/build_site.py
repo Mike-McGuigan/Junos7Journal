@@ -18,7 +18,7 @@ DOCS = ROOT / "docs"
 SITE = ROOT / "site"
 VERSION_FILE = ROOT / "VERSION"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
-RELEASE_NAME = "Maintenance & editorial consistency"
+RELEASE_NAME = "Cave location refinement"
 
 
 def sha256(path: Path) -> str:

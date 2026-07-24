@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.6.2 — Cave Location Refinement
+
+- Updated the recovered cave excursion from a generic Croatian Adriatic location to **Likely Blue Cave, Biševo, Croatia**.
+- Preserved the entry as an undated season highlight because Cameron and Sophie have not directly confirmed the exact cave or date.
+- Added the 13 July Vis-to-Komiža route loop towards Biševo as supporting context without creating a false yacht stop.
+- Updated version and build metadata to `2.6.2`.
+
 ## 2.6.1 — Maintenance & Editorial Consistency
 
 - Fixed the recurring version downgrade by removing hard-coded `2.2.0` values from the manual-location publishing tools.
@@ -40,7 +47,7 @@
 ## 2.3.1 - Contextual Discovery Polish
 
 - Separated the on-page hero mark from the square app/favicon icon.
-- Made the hero J7 artwork transparent so the live header gradient shows through without a mismatched tile.
+- Made the hero Juno’s 7 artwork transparent so the live header gradient shows through without a mismatched tile.
 - Increased the hero mark substantially and tightened the artwork inside its canvas for stronger visual presence.
 - Retained the approved rounded-square logo for browser and installed-app icons.
 
@@ -56,14 +63,14 @@
 ## 2.2.2 - Journal Experience Polish
 
 - Identified Kos immediately in the opening chapter and changed its displayed location to Kos, Greece.
-- Rebuilt the supplied J7 logo with the exact site navy and removed white corner/rim artefacts.
+- Rebuilt the supplied Juno’s 7 logo with the exact site navy and removed white corner/rim artefacts.
 - Removed gallery-card ivory gaps and corner slivers by using a complete navy card surface.
 - Increased gallery title contrast and strengthened description weight and readability.
 - Restored the lightweight changed-files patch workflow for point releases.
 
 ## 2.2.1 - Journal Experience Patch
 
-- Replaced the incorrect mark with the approved J7 yacht logo supplied by Mike, including the ivory monogram, gold bow accent and wake.
+- Replaced the incorrect mark with the approved Juno’s 7 yacht logo supplied by Mike, including the ivory monogram, gold bow accent and wake.
 - Added a remembered Oldest → Newest / Newest → Oldest journal-order toggle.
 - Kept the latest chapter featured at the top and retained it in the full journal with a Latest badge.
 - Honoured explicit entry media order, placing the rainy video before the clearer-weather photograph in “Much Nicer”.
@@ -77,7 +84,7 @@
 - Added structured Crew Moment, Did You Know?, Flavour and Notable Encounter sections.
 - Added uncropped story media, cropped gallery browsing and a full-screen media viewer.
 - Added non-destructive enhanced-media support and selected enhanced working copies.
-- Added J7 favicon branding and responsive polish across the site.
+- Added Juno’s 7 favicon branding and responsive polish across the site.
 - Enabled mouse-wheel map zoom and improved voyage-map exploration.
 - Standardised Underway / Moored / At anchor terminology and date labels.
 - Preserved and aligned the supplied route and manual voyage geometry through Vis.

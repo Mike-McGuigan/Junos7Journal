@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-07-24T08:39:45.430Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "24 Jul",
+    "title": "Zadar Anchorage, Croatia",
+    "name": "Zadar Anchorage, Croatia",
+    "phase": "current",
+    "lat": 44.121338,
+    "lng": 15.218028,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226726,
+      "displayName": "Near Zadar County, Croatia",
+      "shortName": "Zadar County",
+      "rawDisplayName": "Zadar County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Zadar County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Zadar County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-07-24T08:39:45.430Z",
+    "status": "At anchor",
+    "title": "Zadar Anchorage, Croatia",
+    "area": "Zadar Anchorage, Croatia",
+    "position": {
+      "lat": 44.121338,
+      "lng": 15.218028,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226726,
+      "displayName": "Near Zadar County, Croatia",
+      "shortName": "Zadar County",
+      "rawDisplayName": "Zadar County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Zadar County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Zadar County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

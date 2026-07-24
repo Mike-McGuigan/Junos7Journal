@@ -3639,7 +3639,7 @@
     "date": "23 Jul",
     "title": "Sakarun Bay, Dugi Otok, Croatia",
     "name": "Sakarun Bay, Dugi Otok, Croatia",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 44.128993,
     "lng": 14.878653,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -3759,6 +3759,50 @@
         [
           44.128993,
           14.878653
+        ]
+      ]
+    }
+  },
+  {
+    "date": "24 Jul",
+    "title": "Zadar Anchorage, Croatia",
+    "name": "Zadar Anchorage, Croatia",
+    "phase": "current",
+    "lat": 44.121338,
+    "lng": 15.218028,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226726,
+      "displayName": "Near Zadar County, Croatia",
+      "shortName": "Zadar County",
+      "rawDisplayName": "Zadar County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Zadar County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Zadar County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Sakarun Bay, Dugi Otok, Croatia",
+      "toTitle": "Zadar Anchorage, Croatia",
+      "distanceDirectNm": 14.6,
+      "distanceEstimatedNm": 14.6,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          44.128993,
+          14.878653
+        ],
+        [
+          44.121338,
+          15.218028
         ]
       ]
     }

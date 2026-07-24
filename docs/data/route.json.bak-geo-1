@@ -3483,7 +3483,7 @@
     "date": "22 Jul",
     "title": "Kablin Bay, Zverinac Island",
     "name": "Kablin Bay, Zverinac Island",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 44.153903,
     "lng": 14.928773,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -3631,6 +3631,134 @@
         [
           44.153903,
           14.928773
+        ]
+      ]
+    }
+  },
+  {
+    "date": "23 Jul",
+    "title": "Sakarun Bay, Dugi Otok, Croatia",
+    "name": "Sakarun Bay, Dugi Otok, Croatia",
+    "phase": "current",
+    "lat": 44.128993,
+    "lng": 14.878653,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226726,
+      "displayName": "Near Zadar County, Croatia",
+      "shortName": "Zadar County",
+      "rawDisplayName": "Zadar County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Zadar County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Zadar County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Kablin Bay, Zverinac Island",
+      "toTitle": "Sakarun Bay, Dugi Otok, Croatia",
+      "distanceDirectNm": 2.6,
+      "distanceEstimatedNm": 12.0,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          44.153903,
+          14.928773
+        ],
+        [
+          44.152147,
+          14.929926
+        ],
+        [
+          44.150946,
+          14.929798
+        ],
+        [
+          44.14993,
+          14.929068
+        ],
+        [
+          44.149252,
+          14.927094
+        ],
+        [
+          44.14916,
+          14.925377
+        ],
+        [
+          44.151457,
+          14.909949
+        ],
+        [
+          44.161814,
+          14.893534
+        ],
+        [
+          44.169129,
+          14.885573
+        ],
+        [
+          44.183964,
+          14.867806
+        ],
+        [
+          44.190365,
+          14.847894
+        ],
+        [
+          44.190549,
+          14.84386
+        ],
+        [
+          44.189749,
+          14.840941
+        ],
+        [
+          44.170237,
+          14.827123
+        ],
+        [
+          44.163895,
+          14.816222
+        ],
+        [
+          44.155891,
+          14.810386
+        ],
+        [
+          44.144867,
+          14.816051
+        ],
+        [
+          44.136095,
+          14.826307
+        ],
+        [
+          44.129812,
+          14.841585
+        ],
+        [
+          44.121433,
+          14.866819
+        ],
+        [
+          44.119091,
+          14.876947
+        ],
+        [
+          44.123528,
+          14.882441
+        ],
+        [
+          44.128993,
+          14.878653
         ]
       ]
     }

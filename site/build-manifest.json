@@ -1,7 +1,7 @@
 {
   "version": "2.2.0",
   "release": "Bi-directional linking & searches",
-  "buildUtc": "2026-07-24 08:39:47 UTC",
+  "buildUtc": "2026-07-24 10:02:38 UTC",
   "fileCount": 156,
   "files": [
     {
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 218,
-      "sha256": "94b1cd038419c926cf4f751d587e853eeb513357a461a85b2b4ea8bb4e2a0a52"
+      "sha256": "e509975604f4756435c442d6e69cafa5a6cc6134245a5e6ed6e3fa4b28c4ddbe"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 28322,
-      "sha256": "afa18987f59af75b2839c1795bf36501dc58322c5780314aace916629d12b3f0"
+      "sha256": "a65bc299788ca7d189d566f1d0bac5fcf0d70459c104ff7ac24af2f5216bce40"
     },
     {
       "path": "crew.html",
@@ -132,7 +132,7 @@
     {
       "path": "data/dashboard.json",
       "sizeBytes": 2030,
-      "sha256": "08c1f7ab55b647d70113a0992908c5b3c28b71b39d58da3658592799c79071b1"
+      "sha256": "d5b62aca443c2ee52ff8a8ab8838c7d3bd61ee473a9c1f6cf71c598c9991534b"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "d99a6d070099286dafcf34070148d94d3d3c539326afd790c848e4b78252bfa8"
+      "sha256": "f1c8de19e3dddde342d2c3b4527e1fa1aec47b4bd45eba3282a0601bea75cf00"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -226,8 +226,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 86195,
-      "sha256": "7a9bee727183bcbe49e60d1a01970a51b55f3ad9f5dad6ba4dd75405d72b7a9c"
+      "sizeBytes": 87508,
+      "sha256": "b482c20ce15966504ef8f7fbcdd09c46b00cca00e7656f70e61e2520f9110a00"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -287,7 +287,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 218,
-      "sha256": "94b1cd038419c926cf4f751d587e853eeb513357a461a85b2b4ea8bb4e2a0a52"
+      "sha256": "e509975604f4756435c442d6e69cafa5a6cc6134245a5e6ed6e3fa4b28c4ddbe"
     },
     {
       "path": "data/version.json.bak-1-0-1",

@@ -6339,12 +6339,20 @@
         "fromTitle": "En route to Crotone, Italy",
         "toTitle": "En route to Crotone, Italy",
         "distanceDirectNm": 38.1,
-        "distanceEstimatedNm": 38.1,
-        "usesManualSeaRoute": false,
+        "distanceEstimatedNm": 38.4,
+        "usesManualSeaRoute": true,
         "geometry": [
           [
             43.72784,
             15.546513
+          ],
+          [
+            43.657238,
+            15.58651
+          ],
+          [
+            43.536898,
+            15.738258
           ],
           [
             43.247797,

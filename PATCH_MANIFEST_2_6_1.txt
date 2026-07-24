@@ -1,0 +1,119 @@
+PATCH MANIFEST 2.6.1
+====================
+
+Changed or new files:
+- admin-input/manual-location-alongside-in-vis--croatia.json
+- admin-input/manual-location-anchorage-off-levrnaka.json
+- admin-input/manual-location-anchorage-off-zut.json
+- admin-input/manual-location-approaching-split.json
+- admin-input/manual-location-en-route-to-hvar.json
+- admin-input/manual-location-en-route-to-kaprije.json
+- admin-input/manual-location-en-route-to-mezuporat--bisevo--croatia.json
+- admin-input/manual-location-en-route-to-mljet.json
+- admin-input/manual-location-en-route-to-split.json
+- admin-input/manual-location-en-route-to-zadar.json
+- admin-input/manual-location-enr-route-to-vis.json
+- admin-input/manual-location-gubavc--korcula.json
+- admin-input/manual-location-gujak--kornat-island.json
+- admin-input/manual-location-kablin-bay--zverinac-island.json
+- admin-input/manual-location-kakan.json
+- admin-input/manual-location-komiza.json
+- admin-input/manual-location-korcula-port.json
+- admin-input/manual-location-near-lokrum--en-route-to-lopud.json
+- admin-input/manual-location-off-milna--croatia.json
+- admin-input/manual-location-palmizana-anchorage.json
+- admin-input/manual-location-polace--mljet.json
+- admin-input/manual-location-smokvica-vela--kornati-national-park.json
+- admin-input/manual-location-split---near-riva-waterfront.json
+- admin-input/manual-location-vis--croatia.json
+- admin-input/manual-location-zadar-mooring.json
+- CHANGELOG.md
+- content/journal/2026/2026-07-22-kablin-bay-aft-view.md
+- content/journal/2026/2026-07-23-michelle-snorkelling-mishap.md
+- content/journal/2026/2026-07-23-sakarun-beach-setup.md
+- content/journal/2026/2026-07-24-zadar-anchorage.md
+- content/journal/2026/summer-2026-cave-excursion.md
+- content/journal/2026/summer-2026-onboard-cctv-crew-life.md
+- content/media-index/media-index.json
+- content/routes/route-so-far.json
+- content/routes/voyage-geometry.json
+- data/ais/manual/2026-06-30-2112-junos7-paxi-correction.json
+- data/ais/manual/2026-07-01-0753-junos7-east-corfu.json
+- data/ais/manual/20260704-near-lokrum,-en-route-to-lopud.json
+- data/ais/manual/20260705-en-route-to-mljet.json
+- data/ais/manual/20260706-gubavc,-korcula.json
+- data/ais/manual/20260706-korcula-port.json
+- data/ais/manual/20260706-polace,-mljet.json
+- data/ais/manual/20260707-en-route-to-hvar.json
+- data/ais/manual/20260707-korcula-port.json
+- data/ais/manual/20260707-palmizana-anchorage.json
+- data/ais/manual/20260708-approaching-split.json
+- data/ais/manual/20260708-en-route-to-split.json
+- data/ais/manual/20260709-split---near-riva-waterfront.json
+- data/ais/manual/20260710-off-milna,-croatia.json
+- data/ais/manual/20260711-alongside-in-vis,-croatia.json
+- data/ais/manual/20260711-enr-route-to-vis.json
+- data/ais/manual/20260711-vis,-croatia.json
+- data/ais/manual/20260713-en-route-to-mezuporat,-bisevo,-croatia.json
+- data/ais/manual/20260713-komiza.json
+- data/ais/manual/20260714-en-route-to-kaprije.json
+- data/ais/manual/20260715-kakan.json
+- data/ais/manual/20260715-smokvica-vela,-kornati-national-park.json
+- data/ais/manual/20260716-gujak,-kornat-island.json
+- data/ais/manual/20260717-anchorage-off-levrnaka.json
+- data/ais/manual/20260719-anchorage-off-zut.json
+- data/ais/manual/20260719-en-route-to-zadar.json
+- data/ais/manual/20260719-zadar-mooring.json
+- data/ais/manual/20260722-kablin-bay,-zverinac-island.json
+- DELETE_FILES_2_6_1.txt
+- docs/admin.html
+- docs/assets/js/app.js
+- docs/assets/js/dashboard.js
+- docs/build-info.json
+- docs/build-manifest.json
+- docs/data/dashboard.json
+- docs/data/discoveries.json
+- docs/data/journal.json
+- docs/data/media.json
+- docs/data/route.json
+- docs/data/version.json
+- docs/media/photos/2026-07-22-kablin-bay-aft-view.png
+- docs/media/photos/2026-07-23-michelle-snorkelling-accident.png
+- docs/media/photos/2026-07-23-sakarun-beach-setup.png
+- docs/media/videos/2026-07-13-dolphin-on-bow-music-edit.mp4
+- docs/media/videos/summer-2026-cave-excursion.mp4
+- docs/media/videos/summer-2026-onboard-cctv-deckie-falling-in.mp4
+- docs/media/videos/summer-2026-onboard-cctv-meta-glasses-mishap.mp4
+- maps/site/admin.html
+- maps/VERSION
+- PATCH_MANIFEST_2_6_1.txt
+- PROJECT_NOTES.md
+- RELEASE_2_6_1.md
+- ROADMAP.md
+- tools/add_corfu_marker_and_map_labels.py
+- tools/admin_publish_server.py
+- tools/apply_manual_location.py
+- tools/build_site.py
+- tools/correct_latest_position_to_paxi.py
+- tools/voyage_routing.py
+- VERSION
+
+Deleted files:
+- content/routes/route-so-far.json.bak-geo-1
+- content/routes/route-so-far.json.bak-geo-2
+- docs/data/dashboard.json.bak-1-0-5
+- docs/data/dashboard.json.bak-1-2-0
+- docs/data/dashboard.json.bak-geo-1
+- docs/data/dashboard.json.bak-geo-2
+- docs/data/route.json.bak-geo-1
+- docs/data/route.json.bak-geo-2
+- docs/data/version.json.bak-geo-1
+- docs/data/version.json.bak-geo-2
+- docs/media/photos/2026-07-19-zadar-reposado-ais.png
+
+Notes:
+- Generated top-level site/ is excluded from the changed-files ZIP.
+- Delete files listed in DELETE_FILES_2_6_1.txt after extracting the patch.
+- Recovered conversation media is included in this re-issued package.
+- Undated cave and onboard CCTV clips are preserved as Crew Life / season-highlight entries.
+- The dolphin Music Edit is linked to the existing 13 July dolphin encounter rather than counted as a separate sighting.

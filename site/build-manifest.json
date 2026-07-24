@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "release": "Bi-directional linking & searches",
-  "buildUtc": "2026-07-24 10:02:38 UTC",
-  "fileCount": 156,
+  "version": "2.6.1",
+  "release": "Maintenance & editorial consistency",
+  "buildUtc": "2026-07-24 11:25:29 UTC",
+  "fileCount": 163,
   "files": [
     {
       "path": ".gitkeep",
@@ -21,18 +21,18 @@
     },
     {
       "path": "admin.html",
-      "sizeBytes": 6765,
-      "sha256": "64f2dee293d3fe6ac7660c452b81f7570e9ec2a646aae7e203667818ad8a7eea"
+      "sizeBytes": 6764,
+      "sha256": "e7b11fa769cf442b8fa77461e51c9c731e46b3d2dad175600188c15b82e775c9"
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 218,
-      "sha256": "e509975604f4756435c442d6e69cafa5a6cc6134245a5e6ed6e3fa4b28c4ddbe"
+      "sizeBytes": 220,
+      "sha256": "ae6308099e6626c9b059a364a92a8689d228ab1268af876f6cde758e0f80131a"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 28322,
-      "sha256": "a65bc299788ca7d189d566f1d0bac5fcf0d70459c104ff7ac24af2f5216bce40"
+      "sizeBytes": 28160,
+      "sha256": "004bd77c3e1132a0f9c7446d0823a6192fc6dfba4e5600fd265887b57fbff7c0"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2030,
-      "sha256": "d5b62aca443c2ee52ff8a8ab8838c7d3bd61ee473a9c1f6cf71c598c9991534b"
+      "sizeBytes": 2014,
+      "sha256": "28b53453591ee013bf6a55b55de26d01e2dacc7a5e31e816b94f29ca5ac039ca"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -182,7 +182,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "f1c8de19e3dddde342d2c3b4527e1fa1aec47b4bd45eba3282a0601bea75cf00"
+      "sha256": "3e7884b711946ccfb5e952f95158f19422e0e60cc27ee3d1fefb42435d7b7c29"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -191,8 +191,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 145987,
-      "sha256": "f11ede95b05c69f1032b952dfc8e185b8f211290d90af58b0134af1f98cf14b7"
+      "sizeBytes": 186512,
+      "sha256": "c1880ffd35a4fc760d20197cf7bc7044e93c1fd8843d50539c83152b937ad557"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 34467,
-      "sha256": "5d56d04200f036ebed4a4aafbcf45d311906067ea6a4a8a1b975ec2be459e784"
+      "sizeBytes": 38924,
+      "sha256": "1e54ce4fbba60a56340e018b8fba49948c00ee125b7a80beeac06c687ca1ef01"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -226,8 +226,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 87508,
-      "sha256": "b482c20ce15966504ef8f7fbcdd09c46b00cca00e7656f70e61e2520f9110a00"
+      "sizeBytes": 87527,
+      "sha256": "091adbd4123f3ec3b0703fafb09044d3ead0a8d54fc3bd5c17e7af1f240f51c9"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -286,8 +286,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 218,
-      "sha256": "e509975604f4756435c442d6e69cafa5a6cc6134245a5e6ed6e3fa4b28c4ddbe"
+      "sizeBytes": 220,
+      "sha256": "ae6308099e6626c9b059a364a92a8689d228ab1268af876f6cde758e0f80131a"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -535,6 +535,21 @@
       "sha256": "278b4c6e56aa30ccd440294699c5acc83aa6bc0090d4686dd00c7e20d21c4566"
     },
     {
+      "path": "media/photos/2026-07-22-kablin-bay-aft-view.png",
+      "sizeBytes": 2750848,
+      "sha256": "01d2db4f74db972a723247be8745f9ccba14e47cbf9ac5bc9717b5d5954a6875"
+    },
+    {
+      "path": "media/photos/2026-07-23-michelle-snorkelling-accident.png",
+      "sizeBytes": 2383288,
+      "sha256": "6c922fb050440692a4a999feac5501a69d664b317813e1b1d33a30e9eb479e56"
+    },
+    {
+      "path": "media/photos/2026-07-23-sakarun-beach-setup.png",
+      "sizeBytes": 3703999,
+      "sha256": "d45700b4fc7cca99e27ded769eb752996885855a2229774e1c001fda72a524f3"
+    },
+    {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",
       "sizeBytes": 3003718,
       "sha256": "dc8dcfc478078d3d2e748cb0f27213df88a91714eacaff1a08b40ac9e4375db3"
@@ -590,9 +605,29 @@
       "sha256": "4ae9d8c0f707edd752a61ff637fc5a971a7724808de4eee752a015a59a3842d8"
     },
     {
+      "path": "media/videos/2026-07-13-dolphin-on-bow-music-edit.mp4",
+      "sizeBytes": 4866942,
+      "sha256": "a6d442408368e76c1bdffd6054ca1653693581e7de2247d9fd26c0ba6f74c884"
+    },
+    {
       "path": "media/videos/2026-07-13-dolphin-on-bow-sophie.mp4",
       "sizeBytes": 2947845,
       "sha256": "d9bf1f7445f01263b5982771296f85e0ba863275b37340d99cf53f7ff1d14610"
+    },
+    {
+      "path": "media/videos/summer-2026-cave-excursion.mp4",
+      "sizeBytes": 3392806,
+      "sha256": "5137e0bb5dc04c4a29afaa3f5ebc5b2cb0f51792cfddeb7d9682b522b1bb20cc"
+    },
+    {
+      "path": "media/videos/summer-2026-onboard-cctv-deckie-falling-in.mp4",
+      "sizeBytes": 4062379,
+      "sha256": "af5652ee050fd5db9a3aff3a622336d99b5694a16d1bac05aa9d84459ca432a7"
+    },
+    {
+      "path": "media/videos/summer-2026-onboard-cctv-meta-glasses-mishap.mp4",
+      "sizeBytes": 3971576,
+      "sha256": "23710dfb5799972e73a4f32769fca31c610305a2f54d927aca52ce2bb9024921"
     },
     {
       "path": "media/webcam/2026-06-17-first-boarding-webcam.mp4",
@@ -756,13 +791,13 @@
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 15338,
-      "sha256": "07023af79b7a99c99b126854febf78f595b0596f8203361fe078e7f955a9ff38"
+      "sizeBytes": 15346,
+      "sha256": "e8cc89dbc085c048dafed6603241bbce8bce3e2f0917b8e7f1e93470b1bc6603"
     },
     {
       "path": "assets/js/dashboard.js",
-      "sizeBytes": 12696,
-      "sha256": "9d0c4461547eca15e19fc41ac63195ea50e689f08cf84de0ea640f2da52ebe47"
+      "sizeBytes": 12703,
+      "sha256": "b22382848b5f1d30533acc94397293ebb8fdeed903deb58fd53fe4bcbcc18a4f"
     },
     {
       "path": "assets/js/dashboard.js.bak-0-7-3",

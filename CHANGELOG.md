@@ -1,5 +1,18 @@
-- Added the original Antiquus sushi-boat photograph to the Zadar meal entry and gallery.
 # Changelog
+
+## 2.6.1 — Maintenance & Editorial Consistency
+
+- Fixed the recurring version downgrade by removing hard-coded `2.2.0` values from the manual-location publishing tools.
+- Set the authoritative root `VERSION` source to `2.6.1` and aligned generated version metadata through the normal build.
+- Changed the dashboard/home metric from **Countries** to **Countries visited**.
+- Updated route statistics so underway transit markers do not count as visited countries; Albania remains a transit point only.
+- Synced the legacy embedded route copy inside `journal.json` during builds to avoid stale country/location data.
+- Removed the uncatalogued VesselFinder/AIS image file from the source media folder.
+- Added the recovered Kablin Bay aft-deck photograph, Sakarun beach setup photograph and Michelle snorkelling accident photograph.
+- Added the dolphin **Music Edit** as a variant of the existing bow-dolphin encounter rather than a separate sighting.
+- Added the cave excursion and onboard CCTV deck-mishap clips as undated Crew Life / season-highlight entries.
+- Added the 24 July Zadar Anchorage guest-transfer entry.
+- Completed the Lapatica Bay / Kablin Bay naming consistency fixes across journal, route and geometry data.
 
 ## 2.6.0 — Navigation & Discovery
 

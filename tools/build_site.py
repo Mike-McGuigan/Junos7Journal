@@ -18,7 +18,7 @@ DOCS = ROOT / "docs"
 SITE = ROOT / "site"
 VERSION_FILE = ROOT / "VERSION"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
-RELEASE_NAME = "Bi-directional linking & searches"
+RELEASE_NAME = "Maintenance & editorial consistency"
 
 
 def sha256(path: Path) -> str:
@@ -76,9 +76,27 @@ def sync_embedded_journal_media() -> int:
     if not isinstance(media, list):
         raise SystemExit(f"{media_path} must contain a media list")
 
+    journal["release"] = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else journal.get("release")
     journal["media"] = media
     journal_path.write_text(json.dumps(journal, indent=2, ensure_ascii=False), encoding="utf-8")
     return len(media)
+
+
+def sync_embedded_journal_route() -> int:
+    """Keep journal.json's legacy embedded route copy aligned with route.json."""
+    journal_path = DOCS / "data" / "journal.json"
+    route_path = DOCS / "data" / "route.json"
+    journal = load_json(journal_path, {})
+    route = load_json(route_path, [])
+
+    if not isinstance(journal, dict):
+        raise SystemExit(f"{journal_path} must contain a JSON object")
+    if not isinstance(route, list):
+        raise SystemExit(f"{route_path} must contain a route list")
+
+    journal["route"] = route
+    journal_path.write_text(json.dumps(journal, indent=2, ensure_ascii=False), encoding="utf-8")
+    return len(route)
 
 
 
@@ -232,6 +250,7 @@ def main() -> None:
     media_validation = validate_media_catalogue()
     embedded_media_count = sync_embedded_journal_media()
     route_stats = enrich_route_file(DOCS / "data" / "route.json", GEOMETRY_FILE)
+    embedded_route_count = sync_embedded_journal_route()
     discovery_stats = build_contextual_discovery()
     update_dashboard_stats(route_stats, discovery_stats)
     write_build_metadata(version, build_utc)
@@ -243,6 +262,7 @@ def main() -> None:
     print(f"Built site/ from docs/ for version {version}")
     print(f"Files: {file_count}")
     print(f"Embedded journal media: {embedded_media_count}")
+    print(f"Embedded journal route points: {embedded_route_count}")
     print(f"Gallery categories: {len(media_validation['categories'])}")
     if route_stats:
         print(f"Estimated voyage distance: {route_stats.get('distanceEstimatedNm')} NM")

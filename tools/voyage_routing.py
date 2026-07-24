@@ -157,6 +157,9 @@ def enrich_route(route: list[dict[str, Any]], geometry_data: dict[str, Any]) -> 
     longest = max(legs, key=lambda leg: float(leg.get("distanceEstimatedNm", 0)), default=None)
     countries = []
     for point in route:
+        status = str(point.get("status") or "").strip().lower()
+        if status == "underway":
+            continue
         country = (point.get("location") or {}).get("country")
         if country and country not in countries:
             countries.append(country)

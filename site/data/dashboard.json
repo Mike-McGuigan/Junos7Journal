@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "release": "Bi-directional linking & searches",
+  "version": "2.6.1",
+  "release": "Maintenance & editorial consistency",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
@@ -43,21 +43,20 @@
     "distanceDirectNm": 1029.2,
     "distanceEstimatedNm": 1230.0,
     "manualSeaRouteLegs": 44,
-    "journalEntries": 33,
-    "mediaItems": 49,
-    "photos": 37,
-    "videos": 12,
+    "journalEntries": 39,
+    "mediaItems": 56,
+    "photos": 40,
+    "videos": 16,
     "contextualDiscoveries": 8,
     "voyageLegs": 46,
     "averageLegNm": 26.7,
     "longestLegNm": 223.9,
     "longestLegFrom": "Sea of Crete / Cyclades area",
     "longestLegTo": "Zakynthos",
-    "countriesVisited": 3,
+    "countriesVisited": 2,
     "countryNames": [
       "Greece",
-      "Croatia",
-      "Albania"
+      "Croatia"
     ]
   }
 }

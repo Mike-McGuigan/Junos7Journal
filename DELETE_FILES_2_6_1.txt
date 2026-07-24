@@ -1,0 +1,13 @@
+Delete these files after extracting the v2.6.1 changed-files ZIP:
+
+docs/media/photos/2026-07-19-zadar-reposado-ais.png
+docs/data/dashboard.json.bak-geo-1
+docs/data/dashboard.json.bak-geo-2
+docs/data/dashboard.json.bak-1-0-5
+docs/data/dashboard.json.bak-1-2-0
+docs/data/route.json.bak-geo-1
+docs/data/route.json.bak-geo-2
+docs/data/version.json.bak-geo-1
+docs/data/version.json.bak-geo-2
+content/routes/route-so-far.json.bak-geo-1
+content/routes/route-so-far.json.bak-geo-2

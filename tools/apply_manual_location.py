@@ -17,8 +17,17 @@ import time
 from geo_lookup import reverse_lookup
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "2.2.0"
-RELEASE = "Journal Experience"
+VERSION_FILE = ROOT / "VERSION"
+DEFAULT_VERSION = "2.6.1"
+RELEASE = "Maintenance & editorial consistency"
+
+
+def current_version() -> str:
+    if VERSION_FILE.exists():
+        value = VERSION_FILE.read_text(encoding="utf-8").strip()
+        if value:
+            return value
+    return DEFAULT_VERSION
 
 def configure_console() -> None:
     """Avoid Windows cp1252 crashes if lookup text contains accented characters."""
@@ -117,7 +126,7 @@ def update_dashboard(path: Path, update: dict) -> bool:
         return False
 
     data = json.loads(path.read_text(encoding="utf-8"))
-    data["version"] = VERSION
+    data["version"] = current_version()
     data["release"] = RELEASE
 
     manual = update["tracker"]
@@ -153,7 +162,7 @@ def update_version(path: Path) -> None:
         data = json.loads(path.read_text(encoding="utf-8"))
     except Exception:
         data = {}
-    data["version"] = VERSION
+    data["version"] = current_version()
     data["release"] = RELEASE
     backup(path)
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -188,7 +197,7 @@ def main() -> None:
 
     update_version(ROOT / "site/data/version.json")
     update_version(ROOT / "docs/data/version.json")
-    (ROOT / "VERSION").write_text(VERSION + "\n", encoding="utf-8")
+    VERSION_FILE.write_text(current_version() + "\n", encoding="utf-8")
     record = write_record(update)
 
     route_path = ROOT / "site/data/route.json"

@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "release": "Bi-directional linking & searches",
-  "buildUtc": "2026-07-24 10:02:38 UTC",
+  "version": "2.6.1",
+  "release": "Maintenance & editorial consistency",
+  "buildUtc": "2026-07-24 11:25:29 UTC",
   "project": "Juno's 7 Mediterranean Journal",
   "pagesSource": "docs",
   "siteOutput": "site"

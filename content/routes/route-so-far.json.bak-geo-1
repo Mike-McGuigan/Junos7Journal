@@ -2935,7 +2935,7 @@
     },
     "legFromPrevious": {
       "fromTitle": "Smokvica Vela, Kornati National Park",
-      "toTitle": "Lapatica Bay, Kornat Island, Croatia",
+      "toTitle": "Gujak, Kornat Island",
       "distanceDirectNm": 7.1,
       "distanceEstimatedNm": 8.4,
       "usesManualSeaRoute": true,
@@ -3038,7 +3038,7 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "legFromPrevious": {
-      "fromTitle": "Lapatica Bay, Kornat Island, Croatia",
+      "fromTitle": "Gujak, Kornat Island",
       "toTitle": "Levrnaka Bay",
       "distanceDirectNm": 4.3,
       "distanceEstimatedNm": 5.7,
@@ -3436,47 +3436,6 @@
       "nearestPlace": "Zadar County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    },
-    "legFromPrevious": {
-      "fromTitle": "En route to Zadar",
-      "toTitle": "Zadar mooring",
-      "distanceDirectNm": 4.2,
-      "distanceEstimatedNm": 4.7,
-      "usesManualSeaRoute": true,
-      "geometry": [
-        [
-          44.057565,
-          15.270395
-        ],
-        [
-          44.111574,
-          15.218039
-        ],
-        [
-          44.118913,
-          15.216901
-        ],
-        [
-          44.12026,
-          15.217899
-        ],
-        [
-          44.120506,
-          15.219315
-        ],
-        [
-          44.120506,
-          15.22056
-        ],
-        [
-          44.119644,
-          15.222341
-        ],
-        [
-          44.118861,
-          15.222539
-        ]
-      ]
     }
   },
   {
@@ -3504,135 +3463,6 @@
       "nearestPlace": "Zadar County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    },
-    "legFromPrevious": {
-      "fromTitle": "Zadar mooring",
-      "toTitle": "Kablin Bay, Zverinac Island, Croatia",
-      "distanceDirectNm": 12.8,
-      "distanceEstimatedNm": 16.2,
-      "usesManualSeaRoute": true,
-      "geometry": [
-        [
-          44.118861,
-          15.222539
-        ],
-        [
-          44.121335,
-          15.214305
-        ],
-        [
-          44.160798,
-          15.067642
-        ],
-        [
-          44.16086,
-          15.064552
-        ],
-        [
-          44.160029,
-          15.062234
-        ],
-        [
-          44.158797,
-          15.060346
-        ],
-        [
-          44.15655,
-          15.05863
-        ],
-        [
-          44.151518,
-          15.058436
-        ],
-        [
-          44.143142,
-          15.060754
-        ],
-        [
-          44.139816,
-          15.06144
-        ],
-        [
-          44.13686,
-          15.05981
-        ],
-        [
-          44.132178,
-          15.052428
-        ],
-        [
-          44.128543,
-          15.043931
-        ],
-        [
-          44.12651,
-          15.039554
-        ],
-        [
-          44.124477,
-          15.034318
-        ],
-        [
-          44.115837,
-          15.014362
-        ],
-        [
-          44.114605,
-          14.980717
-        ],
-        [
-          44.115591,
-          14.968357
-        ],
-        [
-          44.122492,
-          14.956341
-        ],
-        [
-          44.129639,
-          14.946728
-        ],
-        [
-          44.136045,
-          14.936428
-        ],
-        [
-          44.141664,
-          14.933381
-        ],
-        [
-          44.148144,
-          14.930956
-        ],
-        [
-          44.151962,
-          14.930313
-        ],
-        [
-          44.152679,
-          14.930575
-        ],
-        [
-          44.15308,
-          14.929782
-        ],
-        [
-          44.153265,
-          14.929406
-        ],
-        [
-          44.153503,
-          14.92902
-        ],
-        [
-          44.153719,
-          14.928977
-        ],
-        [
-          44.153903,
-          14.928773
-        ]
-      ]
     }
   },
   {
@@ -3660,114 +3490,13 @@
       "nearestPlace": "Zadar County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    },
-    "legFromPrevious": {
-      "fromTitle": "Kablin Bay, Zverinac Island, Croatia",
-      "toTitle": "Sakarun Bay, Dugi Otok, Croatia",
-      "distanceDirectNm": 2.6,
-      "distanceEstimatedNm": 12.0,
-      "usesManualSeaRoute": true,
-      "geometry": [
-        [
-          44.153903,
-          14.928773
-        ],
-        [
-          44.152147,
-          14.929926
-        ],
-        [
-          44.150946,
-          14.929798
-        ],
-        [
-          44.14993,
-          14.929068
-        ],
-        [
-          44.149252,
-          14.927094
-        ],
-        [
-          44.14916,
-          14.925377
-        ],
-        [
-          44.151457,
-          14.909949
-        ],
-        [
-          44.161814,
-          14.893534
-        ],
-        [
-          44.169129,
-          14.885573
-        ],
-        [
-          44.183964,
-          14.867806
-        ],
-        [
-          44.190365,
-          14.847894
-        ],
-        [
-          44.190549,
-          14.84386
-        ],
-        [
-          44.189749,
-          14.840941
-        ],
-        [
-          44.170237,
-          14.827123
-        ],
-        [
-          44.163895,
-          14.816222
-        ],
-        [
-          44.155891,
-          14.810386
-        ],
-        [
-          44.144867,
-          14.816051
-        ],
-        [
-          44.136095,
-          14.826307
-        ],
-        [
-          44.129812,
-          14.841585
-        ],
-        [
-          44.121433,
-          14.866819
-        ],
-        [
-          44.119091,
-          14.876947
-        ],
-        [
-          44.123528,
-          14.882441
-        ],
-        [
-          44.128993,
-          14.878653
-        ]
-      ]
     }
   },
   {
     "date": "24 Jul",
     "title": "Zadar Anchorage, Croatia",
     "name": "Zadar Anchorage, Croatia",
-    "phase": "onboard",
+    "phase": "current",
     "lat": 44.121338,
     "lng": 15.218028,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -3788,147 +3517,6 @@
       "nearestPlace": "Zadar County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    },
-    "legFromPrevious": {
-      "fromTitle": "Sakarun Bay, Dugi Otok, Croatia",
-      "toTitle": "Zadar Anchorage, Croatia",
-      "distanceDirectNm": 14.6,
-      "distanceEstimatedNm": 26.1,
-      "usesManualSeaRoute": true,
-      "geometry": [
-        [
-          44.128993,
-          14.878653
-        ],
-        [
-          44.119831,
-          14.881067
-        ],
-        [
-          44.116873,
-          14.874029
-        ],
-        [
-          44.126239,
-          14.845533
-        ],
-        [
-          44.135356,
-          14.824591
-        ],
-        [
-          44.164671,
-          14.793348
-        ],
-        [
-          44.177845,
-          14.80691
-        ],
-        [
-          44.192001,
-          14.837122
-        ],
-        [
-          44.187078,
-          14.892397
-        ],
-        [
-          44.188432,
-          14.900122
-        ],
-        [
-          44.190894,
-          14.901667
-        ],
-        [
-          44.19274,
-          14.903898
-        ],
-        [
-          44.194955,
-          14.909563
-        ],
-        [
-          44.195078,
-          14.925013
-        ],
-        [
-          44.199509,
-          14.933939
-        ],
-        [
-          44.2064,
-          14.942179
-        ],
-        [
-          44.206154,
-          14.963636
-        ],
-        [
-          44.185724,
-          15.017881
-        ],
-        [
-          44.17489,
-          15.073843
-        ],
-        [
-          44.157528,
-          15.12929
-        ],
-        [
-          44.123491,
-          15.207953
-        ],
-        [
-          44.121338,
-          15.218028
-        ]
-      ]
-    }
-  },
-  {
-    "date": "24 Jul - Early evening",
-    "title": "En route to Crotone, Italy",
-    "name": "En route to Crotone, Italy",
-    "phase": "current",
-    "lat": 43.844629,
-    "lng": 15.470724,
-    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "location": {
-      "lookupStatus": "ok",
-      "lookupProvider": "OpenStreetMap Nominatim",
-      "osmType": "relation",
-      "osmId": 226726,
-      "displayName": "Near Zadar County, Croatia",
-      "shortName": "Zadar County",
-      "rawDisplayName": "Zadar County, Croatia",
-      "country": "Croatia",
-      "countryCode": "HR",
-      "region": null,
-      "county": "Zadar County",
-      "municipality": null,
-      "island": null,
-      "nearestPlace": "Zadar County",
-      "localArea": null,
-      "lookupSource": "OpenStreetMap Nominatim"
-    },
-    "legFromPrevious": {
-      "fromTitle": "Zadar Anchorage, Croatia",
-      "toTitle": "En route to Crotone, Italy",
-      "distanceDirectNm": 19.9,
-      "distanceEstimatedNm": 19.9,
-      "usesManualSeaRoute": false,
-      "geometry": [
-        [
-          44.121338,
-          15.218028
-        ],
-        [
-          43.844629,
-          15.470724
-        ]
-      ]
     }
   }
 ]

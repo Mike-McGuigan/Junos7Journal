@@ -1,6 +1,6 @@
 {
-  "version": "2.6.2",
-  "release": "Cave location refinement",
+  "version": "2.6.3",
+  "release": "Passage statistics refinement",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
@@ -48,15 +48,17 @@
     "photos": 40,
     "videos": 16,
     "contextualDiscoveries": 8,
-    "voyageLegs": 46,
-    "averageLegNm": 26.7,
-    "longestLegNm": 223.9,
-    "longestLegFrom": "Sea of Crete / Cyclades area",
+    "voyageLegs": 33,
+    "averageLegNm": 37.3,
+    "longestLegNm": 274.0,
+    "longestLegFrom": "Ios",
     "longestLegTo": "Zakynthos",
     "countriesVisited": 2,
     "countryNames": [
       "Greece",
       "Croatia"
-    ]
+    ],
+    "routeLegs": 46,
+    "longestLegInProgress": false
   }
 }

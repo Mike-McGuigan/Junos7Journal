@@ -3767,7 +3767,7 @@
     "date": "24 Jul",
     "title": "Zadar Anchorage, Croatia",
     "name": "Zadar Anchorage, Croatia",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 44.121338,
     "lng": 15.218028,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -3883,6 +3883,106 @@
         [
           44.121338,
           15.218028
+        ]
+      ]
+    }
+  },
+  {
+    "date": "24 Jul - Early evening",
+    "title": "En route to Crotone, Italy",
+    "name": "En route to Crotone, Italy",
+    "phase": "current",
+    "lat": 43.72784,
+    "lng": 15.546513,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226741,
+      "displayName": "Near Šibenik-Knin County, Croatia",
+      "shortName": "Šibenik-Knin County",
+      "rawDisplayName": "Šibenik-Knin County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Šibenik-Knin County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Šibenik-Knin County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Zadar Anchorage, Croatia",
+      "toTitle": "En route to Crotone, Italy",
+      "distanceDirectNm": 27.6,
+      "distanceEstimatedNm": 28.6,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          44.121338,
+          15.218028
+        ],
+        [
+          44.121449,
+          15.21696
+        ],
+        [
+          44.114532,
+          15.212717
+        ],
+        [
+          44.100603,
+          15.2213
+        ],
+        [
+          44.040909,
+          15.278978
+        ],
+        [
+          43.975596,
+          15.374079
+        ],
+        [
+          43.95605,
+          15.392125
+        ],
+        [
+          43.944217,
+          15.410535
+        ],
+        [
+          43.939767,
+          15.416715
+        ],
+        [
+          43.93099,
+          15.420792
+        ],
+        [
+          43.922645,
+          15.433838
+        ],
+        [
+          43.910712,
+          15.448129
+        ],
+        [
+          43.890012,
+          15.4742
+        ],
+        [
+          43.882589,
+          15.478578
+        ],
+        [
+          43.862294,
+          15.47317
+        ],
+        [
+          43.72784,
+          15.546513
         ]
       ]
     }

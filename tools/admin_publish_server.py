@@ -23,7 +23,7 @@ def current_version():
         value = VERSION_FILE.read_text(encoding="utf-8").strip()
         if value:
             return value
-    return "2.6.2"
+    return "2.6.3"
 
 
 def run(cmd, check=True):

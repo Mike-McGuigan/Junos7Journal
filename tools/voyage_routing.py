@@ -87,6 +87,20 @@ def geometry_distance_nm(geometry: list[list[float]]) -> float:
     return round(km_to_nm(total_km), 1)
 
 
+def title_of(point: dict[str, Any]) -> str:
+    return str(point.get("title") or point.get("name") or "Route stop")
+
+
+def is_transit_marker(point: dict[str, Any]) -> bool:
+    """Return True when a route point should not split passage statistics."""
+    status = str(point.get("status") or "").strip().lower()
+    phase = str(point.get("phase") or "").strip().lower()
+    title = title_of(point).strip().lower()
+    if status == "underway" or phase in {"ais", "milestone"}:
+        return True
+    return title.startswith(("en route", "heading towards", "approaching")) or " / underway" in title
+
+
 def load_geometry(path: Path) -> dict[str, Any]:
     if not path.exists():
         return {"schemaVersion": 1, "legs": []}
@@ -154,25 +168,64 @@ def enrich_route(route: list[dict[str, Any]], geometry_data: dict[str, Any]) -> 
             routed_legs += 1
 
     legs = [point.get("legFromPrevious") for point in route[1:] if point.get("legFromPrevious")]
-    longest = max(legs, key=lambda leg: float(leg.get("distanceEstimatedNm", 0)), default=None)
+    passages: list[dict[str, Any]] = []
+    passage_start: dict[str, Any] | None = route[0] if route and not is_transit_marker(route[0]) else None
+    passage_nm = 0.0
+
+    for point in route[1:]:
+        leg = point.get("legFromPrevious")
+        if passage_start is None:
+            if not is_transit_marker(point):
+                passage_start = point
+                passage_nm = 0.0
+            continue
+
+        if leg:
+            passage_nm += float(leg.get("distanceEstimatedNm", 0) or 0)
+
+        if not is_transit_marker(point):
+            if passage_nm > 0:
+                passages.append(
+                    {
+                        "fromTitle": title_of(passage_start),
+                        "toTitle": title_of(point),
+                        "distanceEstimatedNm": round(passage_nm, 1),
+                    }
+                )
+            passage_start = point
+            passage_nm = 0.0
+
+    if passage_start is not None and passage_nm > 0 and route and is_transit_marker(route[-1]):
+        passages.append(
+            {
+                "fromTitle": title_of(passage_start),
+                "toTitle": title_of(route[-1]),
+                "distanceEstimatedNm": round(passage_nm, 1),
+                "inProgress": True,
+            }
+        )
+
+    longest = max(passages, key=lambda leg: float(leg.get("distanceEstimatedNm", 0)), default=None)
     countries = []
     for point in route:
-        status = str(point.get("status") or "").strip().lower()
-        if status == "underway":
+        if is_transit_marker(point):
             continue
         country = (point.get("location") or {}).get("country")
         if country and country not in countries:
             countries.append(country)
     completed_legs = len(legs)
+    passage_count = len(passages)
     return {
         "routeStops": len(route),
-        "voyageLegs": completed_legs,
+        "routeLegs": completed_legs,
+        "voyageLegs": passage_count,
         "distanceDirectNm": round(total_direct, 1),
         "distanceEstimatedNm": round(total_estimated, 1),
-        "averageLegNm": round(total_estimated / completed_legs, 1) if completed_legs else 0,
+        "averageLegNm": round(total_estimated / passage_count, 1) if passage_count else 0,
         "longestLegNm": longest.get("distanceEstimatedNm") if longest else 0,
         "longestLegFrom": longest.get("fromTitle") if longest else None,
         "longestLegTo": longest.get("toTitle") if longest else None,
+        "longestLegInProgress": bool(longest.get("inProgress")) if longest else False,
         "countriesVisited": len(countries),
         "countryNames": countries,
         "manualSeaRouteLegs": routed_legs,

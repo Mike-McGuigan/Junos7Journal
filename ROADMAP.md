@@ -4,27 +4,18 @@ This is the shared source of truth for release scope, deferred work and validati
 
 ## Current release
 
-**v2.6.1 — Maintenance & Editorial Consistency**
+**v2.6.2 — Cave Location Refinement**
 
 ## Next release
 
-Scope to be assigned after v2.6.1 is committed and tested.
+Scope to be assigned after v2.6.2 is committed and tested.
 
 ## Current release scope
 
-### Maintenance
-- [x] Fix the recurring version rollback to `2.2.0`.
-- [x] Make root `VERSION` the authoritative version source for build and dashboard publishing.
-- [x] Remove old hard-coded version values from manual-location tools.
-- [x] Keep the embedded journal route copy aligned with `docs/data/route.json` during builds.
-
-### Editorial consistency
-- [x] Rename the dashboard/home summary tile to **Countries visited**.
-- [x] Count only actual visits/stops for the country list, leaving Albania as an underway transit point.
-- [x] Remove the stale VesselFinder/AIS source image from the media folder.
-- [x] Add the recovered Kablin Bay, Sakarun Beach and Michelle snorkelling media.
-- [x] Add the dolphin **Music Edit** as a media variant rather than a duplicate event.
-- [x] Add the cave excursion and onboard CCTV clips as undated Crew Life highlights.
+### Editorial refinement
+- [x] Update the recovered cave excursion to **Likely Blue Cave, Biševo, Croatia**.
+- [x] Keep the entry undated because the exact date and cave have not been directly confirmed by Cameron and Sophie.
+- [x] Reference the 13 July Vis-to-Komiža route loop towards Biševo as supporting context without creating a false yacht stop.
 
 ## Backlog
 
@@ -66,6 +57,11 @@ None currently.
 None currently.
 
 ## Completed
+
+### v2.6.2
+- [x] Refined the recovered cave excursion location to **Likely Blue Cave, Biševo, Croatia**.
+- [x] Preserved the cave clip as an undated season highlight because the exact date/location remain unconfirmed by Cameron and Sophie.
+- [x] Used the 13 July Biševo route loop as supporting evidence without adding a separate yacht stop.
 
 ### v2.6.1
 - [x] Fixed the version source that was causing releases to revert to `2.2.0`.

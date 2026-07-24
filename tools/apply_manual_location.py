@@ -18,7 +18,7 @@ from geo_lookup import reverse_lookup
 
 ROOT = Path(__file__).resolve().parents[1]
 VERSION_FILE = ROOT / "VERSION"
-DEFAULT_VERSION = "2.6.1"
+DEFAULT_VERSION = "2.6.2"
 RELEASE = "Maintenance & editorial consistency"
 
 

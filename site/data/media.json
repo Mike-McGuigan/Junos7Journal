@@ -1169,8 +1169,8 @@
     "type": "video",
     "date": "Summer 2026",
     "url": "media/videos/summer-2026-cave-excursion.mp4",
-    "title": "Cave Excursion",
-    "caption": "Recovered undated footage from a planned cave excursion aboard a local excursion boat.",
+    "title": "Likely Blue Cave Excursion",
+    "caption": "Recovered footage from a planned cave excursion, likely at the Blue Cave on Biševo, aboard a local excursion boat.",
     "categories": [
       "crew",
       "scenic"
@@ -1178,9 +1178,9 @@
     "journalEntries": [
       {
         "id": "season-highlight-cave-excursion",
-        "title": "Cave Excursion",
+        "title": "Likely Blue Cave Excursion",
         "date": "Summer 2026",
-        "location": "Croatian Adriatic"
+        "location": "Likely Blue Cave, Biševo, Croatia"
       }
     ]
   },

@@ -1,6 +1,6 @@
 # Project Notes — Juno's 7 Mediterranean Journal
 
-Current version: 2.6.1
+Current version: 2.6.2
 Release: Maintenance & Editorial Consistency
 
 ## Operating model

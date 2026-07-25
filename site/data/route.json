@@ -4047,7 +4047,7 @@
     "date": "25 Jul - Mid morning",
     "title": "En route to Crotone, Italy",
     "name": "En route to Crotone, Italy",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 41.900616,
     "lng": 17.295227,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -4083,6 +4083,50 @@
         [
           41.900616,
           17.295227
+        ]
+      ]
+    }
+  },
+  {
+    "date": "25 Jul - Mid afternoon",
+    "title": "En route to Crotone, Italy",
+    "name": "En route to Crotone, Italy",
+    "phase": "current",
+    "lat": 41.230702,
+    "lng": 17.822571,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": null,
+      "osmId": null,
+      "displayName": "En route to Crotone, Italy",
+      "shortName": "En route to Crotone, Italy",
+      "rawDisplayName": null,
+      "country": null,
+      "countryCode": null,
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "En route to Crotone, Italy",
+      "toTitle": "En route to Crotone, Italy",
+      "distanceDirectNm": 46.7,
+      "distanceEstimatedNm": 46.7,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          41.900616,
+          17.295227
+        ],
+        [
+          41.230702,
+          17.822571
         ]
       ]
     }

@@ -1,7 +1,7 @@
 {
   "version": "2.7.0",
   "release": "Voyage playback and map usability",
-  "buildUtc": "2026-07-25 12:02:18 UTC",
+  "buildUtc": "2026-07-25 13:33:36 UTC",
   "fileCount": 157,
   "files": [
     {
@@ -21,18 +21,18 @@
     },
     {
       "path": "admin.html",
-      "sizeBytes": 6770,
-      "sha256": "5cad8826734414015e8a3d33f3f1bee256754a181cb5f369b177aaf575c62d59"
+      "sizeBytes": 6771,
+      "sha256": "798a2774754a3da4a404b59d9a17f7f655993d54e40b1c04d38bf01b318e3fc1"
     },
     {
       "path": "build-info.json",
       "sizeBytes": 218,
-      "sha256": "42b57d8d3235290c7d6130b0b4e1b8ecfcb2f37f4b9b0320f929627159ea76ff"
+      "sha256": "e94cdd37a54b4e20fd591e65d1d0079db850270e4e7b0aae44c8fed28ae99707"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 28671,
-      "sha256": "8ad8e72a63d9f3daa824cd6df10e2b97bb00f020625a6fc39628c11553bf4b97"
+      "sha256": "d21935fce7c4689d74731285610d12697731cbdd6a09264ac8d3a9ab56afb5f1"
     },
     {
       "path": "crew.html",
@@ -111,8 +111,8 @@
     },
     {
       "path": "voyage.html",
-      "sizeBytes": 2629,
-      "sha256": "dfb1bfc2fc6a26d554269bc930d625ecd86375d2688e2eb587fa306af4540fe1"
+      "sizeBytes": 2630,
+      "sha256": "4bf3129dddff4b1a3e460c71f25b77c1772b66c29465d2822e604789c22b14d7"
     },
     {
       "path": "voyage.html.bak-1-2-0-dashboard-nav",
@@ -132,7 +132,7 @@
     {
       "path": "data/dashboard.json",
       "sizeBytes": 2013,
-      "sha256": "9f7e278aa3c7960c55168de57a88c94837fc296125f9a244eafcfccdd0c59441"
+      "sha256": "54f11fb475f44c4df88fe7691bdb249b4dcf40ad9c7707069d215f6e96812fe1"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -161,13 +161,13 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 2100,
-      "sha256": "69d6ce5c23a1ccfba2ccf8c9f53a5b433b84b120cde91904233b1410c0a33c74"
+      "sizeBytes": 2013,
+      "sha256": "9f7e278aa3c7960c55168de57a88c94837fc296125f9a244eafcfccdd0c59441"
     },
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "73bd3fabfb58065df795d348d7f173a8fa870d57b2bdbb294a50c7e41cf7b47a"
+      "sha256": "964ccbbb5046f1734058466969e39daa9b3982a48639cc53f5adc5483a89377c"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 192431,
-      "sha256": "fcf27d881cf99db618b108940bedcd9bae255f19f2a7cd23225ee24bfeaafad1"
+      "sizeBytes": 193806,
+      "sha256": "7db57108cbf9d29b92a7168a623d77d1877a629b97ed0b742d244a98848d3598"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 92653,
-      "sha256": "ce4d0f34f538dcf03730c877aa4a93fdf0f06118a879d6b2dfede5d8f8ec4219"
+      "sizeBytes": 93940,
+      "sha256": "61883580b2113a45a0add5429d4fb6494170097f581ecfc95efbd9ad5fc980f7"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -251,8 +251,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 91369,
-      "sha256": "e4dcb5bd356c536a5bf89fe8fad960b8b7f1562b77aeba9145ac41267b8939a4"
+      "sizeBytes": 92653,
+      "sha256": "ce4d0f34f538dcf03730c877aa4a93fdf0f06118a879d6b2dfede5d8f8ec4219"
     },
     {
       "path": "data/site.json",
@@ -267,7 +267,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 218,
-      "sha256": "42b57d8d3235290c7d6130b0b4e1b8ecfcb2f37f4b9b0320f929627159ea76ff"
+      "sha256": "e94cdd37a54b4e20fd591e65d1d0079db850270e4e7b0aae44c8fed28ae99707"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -311,8 +311,8 @@
     },
     {
       "path": "data/version.json.bak-geo-1",
-      "sizeBytes": 214,
-      "sha256": "74e17b0688f120b088954d1d427e828731a15c4dcf2c1cf0da6d120617452553"
+      "sizeBytes": 218,
+      "sha256": "42b57d8d3235290c7d6130b0b4e1b8ecfcb2f37f4b9b0320f929627159ea76ff"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -696,8 +696,8 @@
     },
     {
       "path": "assets/css/admin-map.css",
-      "sizeBytes": 4160,
-      "sha256": "fc15add85145294c1bce8c6dda9abc864a1e67a86c41f1cb352f60348ac03742"
+      "sizeBytes": 4163,
+      "sha256": "06f61590d994a57dfdfee56570b4c47138436a00eff6f7665d8fddbeb4ba3dc5"
     },
     {
       "path": "assets/css/companion.css",
@@ -711,8 +711,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 25520,
-      "sha256": "9e81617211330c8732f1df9db132d81ed97ff702a1e90516a1b39df2bfd34890"
+      "sizeBytes": 25525,
+      "sha256": "9bfe9bcaf8112c0bf1abac8918a74367f2e7dca23fda7ac05492cbe9e06cfde3"
     },
     {
       "path": "assets/css/version.css",

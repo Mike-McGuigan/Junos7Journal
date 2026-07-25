@@ -7,11 +7,11 @@
     "liveAis": false,
     "latestStatus": "Manual location: En route to Crotone, Italy",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-25T09:33:17.734Z",
+    "lastManualLookupUtc": "2026-07-25T13:33:34.739Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 41.900616,
-      "lng": 17.295227,
+      "lat": 41.230702,
+      "lng": 17.822571,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },
@@ -39,9 +39,9 @@
     "latestLocationTitle": "En route to Crotone, Italy"
   },
   "stats": {
-    "routeStops": 50,
-    "distanceDirectNm": 1191.1,
-    "distanceEstimatedNm": 1393.3,
+    "routeStops": 51,
+    "distanceDirectNm": 1237.8,
+    "distanceEstimatedNm": 1440.0,
     "manualSeaRouteLegs": 46,
     "journalEntries": 39,
     "mediaItems": 56,
@@ -49,7 +49,7 @@
     "videos": 16,
     "contextualDiscoveries": 8,
     "voyageLegs": 34,
-    "averageLegNm": 41.0,
+    "averageLegNm": 42.4,
     "longestLegNm": 274.0,
     "longestLegFrom": "Ios",
     "longestLegTo": "Zakynthos",
@@ -58,7 +58,7 @@
       "Greece",
       "Croatia"
     ],
-    "routeLegs": 49,
+    "routeLegs": 50,
     "longestLegInProgress": false
   }
 }

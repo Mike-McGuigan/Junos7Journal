@@ -4,20 +4,30 @@ This is the shared source of truth for release scope, deferred work and validati
 
 ## Current release
 
-**v2.6.3 — Passage Statistics Refinement**
+**v2.7.0 - Voyage Playback and Map Usability**
 
 ## Next release
 
-Scope to be assigned after v2.6.3 is committed and tested.
+Scope to be assigned after v2.7.0 is committed and tested.
 
 ## Current release scope
 
-### Route statistics
-- [x] Calculate longest passage across continuous runs rather than individual route nodes.
-- [x] Fold underway/AIS transit markers into the surrounding passage for statistics.
-- [x] Update average passage length to use passage count rather than raw route-leg count.
-- [x] Rename Route stops to Route points.
-- [x] Keep all map nodes visible and unchanged.
+### Voyage map
+- [x] Add directional arrows at regular distance intervals along the rendered route geometry.
+- [x] Centre directional arrows on the plotted route line.
+- [x] Limit map zoom and prevent repeated world copies.
+- [x] Add voyage playback with play/pause, progress scrubber and speed control.
+- [x] Add an extra-slow playback speed.
+- [x] Use the same manual sea-waypoint geometry for playback and arrows.
+- [x] Highlight the active route point during playback.
+- [x] Show selected route-point details beside the map on larger screens.
+
+### Captain's Dashboard
+- [x] Make functional dashboard panels behave as a single-open accordion.
+- [x] Scroll newly opened functional dashboard panels into view.
+- [x] Default the new-position date field to the current date.
+- [x] Remove the East Coast Corfu default from the location name field.
+- [x] Add placeholder text for empty location/passage names.
 
 ## Backlog
 
@@ -59,6 +69,18 @@ None currently.
 None currently.
 
 ## Completed
+
+### v2.7.0
+- [x] Added distance-spaced directional arrows to the voyage route.
+- [x] Centred directional arrows on the plotted route line.
+- [x] Limited map zoom levels and disabled horizontal world wrapping.
+- [x] Added voyage playback controls with play/pause, scrubber, five speed levels and optional follow mode.
+- [x] Added an extra-slow playback speed.
+- [x] Kept playback and arrows tied to the final route geometry, including manual sea waypoints.
+- [x] Moved selected route-point detail cards beside the map on larger screens.
+- [x] Updated the Captain's Dashboard functional panels to accordion behaviour.
+- [x] Scrolled newly opened Captain's Dashboard panels into view.
+- [x] Updated dashboard form defaults for current date and empty location names.
 
 ### v2.6.3
 - [x] Updated longest passage calculation to merge underway/AIS transit markers into the surrounding passage.

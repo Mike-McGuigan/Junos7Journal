@@ -3891,7 +3891,7 @@
     "date": "24 Jul - Early evening",
     "title": "En route to Crotone, Italy",
     "name": "En route to Crotone, Italy",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 43.72784,
     "lng": 15.546513,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -3987,6 +3987,58 @@
         [
           43.72784,
           15.546513
+        ]
+      ]
+    }
+  },
+  {
+    "date": "25 Jul - Very early hours",
+    "title": "En route to Crotone, Italy",
+    "name": "En route to Crotone, Italy",
+    "phase": "current",
+    "lat": 43.247797,
+    "lng": 16.11763,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 226749,
+      "displayName": "Near Split-Dalmatia County, Croatia",
+      "shortName": "Split-Dalmatia County",
+      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "region": null,
+      "county": "Split-Dalmatia County",
+      "municipality": null,
+      "island": null,
+      "nearestPlace": "Split-Dalmatia County",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "En route to Crotone, Italy",
+      "toTitle": "En route to Crotone, Italy",
+      "distanceDirectNm": 38.1,
+      "distanceEstimatedNm": 38.4,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          43.72784,
+          15.546513
+        ],
+        [
+          43.657238,
+          15.58651
+        ],
+        [
+          43.536898,
+          15.738258
+        ],
+        [
+          43.247797,
+          16.11763
         ]
       ]
     }

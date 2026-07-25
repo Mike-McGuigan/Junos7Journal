@@ -1,7 +1,7 @@
 {
   "version": "2.6.3",
   "release": "Passage statistics refinement",
-  "buildUtc": "2026-07-24 23:25:15 UTC",
+  "buildUtc": "2026-07-25 09:33:20 UTC",
   "fileCount": 157,
   "files": [
     {
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 214,
-      "sha256": "74e17b0688f120b088954d1d427e828731a15c4dcf2c1cf0da6d120617452553"
+      "sha256": "a2ebcd8fa649ee3b004d94340a19d651516715ad1346721726826af9532c954d"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 28667,
-      "sha256": "d77a432ec61a01cdca3169b80384f05ae2d38d636f57521371c615cafeb0555f"
+      "sha256": "b1124f6ce42d1e127634132a9dcc06354d1e021fdbe9d49fd962dbf54bd0a971"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2100,
-      "sha256": "69d6ce5c23a1ccfba2ccf8c9f53a5b433b84b120cde91904233b1410c0a33c74"
+      "sizeBytes": 2009,
+      "sha256": "c9218013b7f421d4ee6ddb5a7f41eb9b5847ccc9c54fa47f288637eb1783bfb4"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -161,13 +161,13 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 2094,
-      "sha256": "912f090c09ef5daca00f2327b42146c8cb8fa2a53611a771107b8e2880f526ad"
+      "sizeBytes": 2100,
+      "sha256": "69d6ce5c23a1ccfba2ccf8c9f53a5b433b84b120cde91904233b1410c0a33c74"
     },
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "5199951d91b60ef7bd1cee631860cd1239cdefd0165a1d88a82c768660c0eabd"
+      "sha256": "1866cdcb5a14bef24dbc1de8085d319242519041ee4faa3c342cf5e8afeff921"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 191059,
-      "sha256": "1e6e8af7d7508413c8d2decd4ed3009f8080c5554470450fb7fc813084d17018"
+      "sizeBytes": 192431,
+      "sha256": "4999d01632b417ddd329f35f7441dd60863c7aee29a78018e087c8b51ea99bc3"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 91369,
-      "sha256": "e4dcb5bd356c536a5bf89fe8fad960b8b7f1562b77aeba9145ac41267b8939a4"
+      "sizeBytes": 92653,
+      "sha256": "ce4d0f34f538dcf03730c877aa4a93fdf0f06118a879d6b2dfede5d8f8ec4219"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -251,8 +251,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 89869,
-      "sha256": "fcd4e01e1ff5160a848739f75776a69f269acd22f02acabcb027513955f5d084"
+      "sizeBytes": 91369,
+      "sha256": "e4dcb5bd356c536a5bf89fe8fad960b8b7f1562b77aeba9145ac41267b8939a4"
     },
     {
       "path": "data/site.json",
@@ -267,7 +267,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 214,
-      "sha256": "74e17b0688f120b088954d1d427e828731a15c4dcf2c1cf0da6d120617452553"
+      "sha256": "a2ebcd8fa649ee3b004d94340a19d651516715ad1346721726826af9532c954d"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -312,7 +312,7 @@
     {
       "path": "data/version.json.bak-geo-1",
       "sizeBytes": 214,
-      "sha256": "294b1a294c5c06d1b22014306839ce6e53af7919584bada2b84164d82d6bdbc1"
+      "sha256": "74e17b0688f120b088954d1d427e828731a15c4dcf2c1cf0da6d120617452553"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",

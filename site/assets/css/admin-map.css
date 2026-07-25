@@ -24,6 +24,8 @@ code{background:rgba(6,25,40,.08);padding:.1rem .25rem;border-radius:4px}
 .route-editor-status{font-size:.92rem;line-height:1.45}
 .route-editor-status strong{color:#0f6f91}
 .leaflet-marker-icon.route-waypoint-marker{filter:drop-shadow(0 2px 4px rgba(0,0,0,.35))}
+.route-arrow-marker{pointer-events:none;display:grid;place-items:center}
+.route-arrow-marker svg{width:20px;height:20px;display:block;fill:#f0d594;filter:drop-shadow(0 1px 2px rgba(6,25,40,.55));opacity:.88;transform-origin:center}
 
 
 .checkbox-label{display:flex!important;grid-template-columns:none!important;align-items:center;gap:.55rem;font-weight:600;margin:.75rem 0}

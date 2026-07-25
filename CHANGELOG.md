@@ -1,5 +1,21 @@
 # Changelog
 
+## 2.7.0 — Voyage Playback and Map Usability
+
+- Added distance-spaced directional arrows along the rendered voyage route geometry.
+- Centred the directional route arrows on the plotted line.
+- Limited map zoom levels and disabled horizontal world wrapping.
+- Added voyage playback controls with play/pause, progress scrubber, five speed levels and optional map following.
+- Added an extra-slow playback speed.
+- Playback follows manual sea waypoints so curved routes and crossings match the plotted track.
+- Added active route-point highlighting during playback.
+- Moved selected route-point detail cards beside the map on larger screens.
+- Updated the Captain's Dashboard functional panels to behave as a single-open accordion.
+- Scroll newly opened Captain's Dashboard panels into view.
+- Updated the Captain's Dashboard new-position form so the date defaults to the current date and the location name starts empty with placeholder text.
+- Preserved the v2.6.3 route-points/passages statistics separation.
+- Updated version and build metadata to `2.7.0`.
+
 ## 2.6.3 — Passage Statistics Refinement
 
 - Changed longest and average passage calculations so underway/AIS transit markers no longer split continuous passages.

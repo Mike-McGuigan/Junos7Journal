@@ -1,7 +1,7 @@
 {
-  "version": "2.6.3",
-  "release": "Passage statistics refinement",
-  "buildUtc": "2026-07-25 09:33:20 UTC",
+  "version": "2.7.0",
+  "release": "Voyage playback and map usability",
+  "buildUtc": "2026-07-25 12:02:18 UTC",
   "fileCount": 157,
   "files": [
     {
@@ -21,18 +21,18 @@
     },
     {
       "path": "admin.html",
-      "sizeBytes": 6765,
-      "sha256": "407b15dc0e8ef62e7283bc52cef55446bf80abdf3ccd7c76cfb17fd3e07c549b"
+      "sizeBytes": 6770,
+      "sha256": "5cad8826734414015e8a3d33f3f1bee256754a181cb5f369b177aaf575c62d59"
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 214,
-      "sha256": "a2ebcd8fa649ee3b004d94340a19d651516715ad1346721726826af9532c954d"
+      "sizeBytes": 218,
+      "sha256": "42b57d8d3235290c7d6130b0b4e1b8ecfcb2f37f4b9b0320f929627159ea76ff"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 28667,
-      "sha256": "b1124f6ce42d1e127634132a9dcc06354d1e021fdbe9d49fd962dbf54bd0a971"
+      "sizeBytes": 28671,
+      "sha256": "8ad8e72a63d9f3daa824cd6df10e2b97bb00f020625a6fc39628c11553bf4b97"
     },
     {
       "path": "crew.html",
@@ -111,8 +111,8 @@
     },
     {
       "path": "voyage.html",
-      "sizeBytes": 2115,
-      "sha256": "e18f691792e6677da658785c791ad0531c00f7de5647d89a37b0bf9db26b2b58"
+      "sizeBytes": 2629,
+      "sha256": "dfb1bfc2fc6a26d554269bc930d625ecd86375d2688e2eb587fa306af4540fe1"
     },
     {
       "path": "voyage.html.bak-1-2-0-dashboard-nav",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2009,
-      "sha256": "c9218013b7f421d4ee6ddb5a7f41eb9b5847ccc9c54fa47f288637eb1783bfb4"
+      "sizeBytes": 2013,
+      "sha256": "9f7e278aa3c7960c55168de57a88c94837fc296125f9a244eafcfccdd0c59441"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -167,7 +167,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "1866cdcb5a14bef24dbc1de8085d319242519041ee4faa3c342cf5e8afeff921"
+      "sha256": "73bd3fabfb58065df795d348d7f173a8fa870d57b2bdbb294a50c7e41cf7b47a"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -177,7 +177,7 @@
     {
       "path": "data/journal.json",
       "sizeBytes": 192431,
-      "sha256": "4999d01632b417ddd329f35f7441dd60863c7aee29a78018e087c8b51ea99bc3"
+      "sha256": "fcf27d881cf99db618b108940bedcd9bae255f19f2a7cd23225ee24bfeaafad1"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -266,8 +266,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 214,
-      "sha256": "a2ebcd8fa649ee3b004d94340a19d651516715ad1346721726826af9532c954d"
+      "sizeBytes": 218,
+      "sha256": "42b57d8d3235290c7d6130b0b4e1b8ecfcb2f37f4b9b0320f929627159ea76ff"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -696,8 +696,8 @@
     },
     {
       "path": "assets/css/admin-map.css",
-      "sizeBytes": 3929,
-      "sha256": "cc34c93d3bcfda097332da89e96f1485eac3961734e3dd251e3a558915c659b7"
+      "sizeBytes": 4160,
+      "sha256": "fc15add85145294c1bce8c6dda9abc864a1e67a86c41f1cb352f60348ac03742"
     },
     {
       "path": "assets/css/companion.css",
@@ -711,8 +711,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 23254,
-      "sha256": "7ddda3aeb21f9cc8b2857d8853f718dd480b9e5375261109d3988daaa80d0c50"
+      "sizeBytes": 25520,
+      "sha256": "9e81617211330c8732f1df9db132d81ed97ff702a1e90516a1b39df2bfd34890"
     },
     {
       "path": "assets/css/version.css",
@@ -756,8 +756,8 @@
     },
     {
       "path": "assets/js/admin-map.js",
-      "sizeBytes": 26416,
-      "sha256": "c4c16b5088a8d366dadf139e1cd5bb1a2f0594eb7730b452e606dbe27778ea55"
+      "sizeBytes": 28862,
+      "sha256": "f5c080f2ea20899cdd1f57b26cafbb223f2c558af060fec0d83f40abaa8beeb5"
     },
     {
       "path": "assets/js/app.js",
@@ -766,8 +766,8 @@
     },
     {
       "path": "assets/js/dashboard.js",
-      "sizeBytes": 12697,
-      "sha256": "7f138bdeceed73067674260cefe124a1530d8272d74cd6f7f97ef68893cc4f81"
+      "sizeBytes": 17371,
+      "sha256": "5c4579f020eed309109139f569483a6b3bd6323863bc857a8f1010ccf375b3c8"
     },
     {
       "path": "assets/js/dashboard.js.bak-0-7-3",

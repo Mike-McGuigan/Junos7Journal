@@ -13,7 +13,7 @@ import webbrowser
 ROOT = Path(__file__).resolve().parents[1]
 PORT = 8765
 VERSION_FILE = ROOT / "VERSION"
-RELEASE = "Maintenance & editorial consistency"
+RELEASE = "Voyage playback and map usability"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
 ROUTE_FILE = ROOT / "docs" / "data" / "route.json"
 
@@ -23,7 +23,7 @@ def current_version():
         value = VERSION_FILE.read_text(encoding="utf-8").strip()
         if value:
             return value
-    return "2.6.3"
+    return "2.7.0"
 
 
 def run(cmd, check=True):

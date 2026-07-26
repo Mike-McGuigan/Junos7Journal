@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.7.2 - Flavour Card Food Images
+
+- Added optional image support to **Flavour of the place** journal cards.
+- Added illustrative regional food images for the Greek island, Dalmatian seafood and Calabrian flavour cards.
+- Reused existing real journal food photos for the Zut scampi and Zadar sushi flavour cards.
+- Labelled generated food assets as illustrative so they remain distinct from Cameron and Sophie's own media.
+- Updated version and build metadata to `2.7.2`.
+
 ## 2.7.1 — Crotone Arrival and Dashboard Save Flow
 
 - Added the 26 July arrival at **Crotone Old Harbour, Calabria, Italy**.

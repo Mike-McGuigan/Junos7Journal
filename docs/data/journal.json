@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "release": "2.7.1",
+  "release": "2.7.2",
   "entries": [
     {
       "date": "2026-06-17",
@@ -27,7 +27,10 @@
       },
       "flavourOf": {
         "title": "Flavour of Kos",
-        "body": "Kos is known for relaxed island cooking: grilled fish, tomato-rich stews, honey, soft cheeses and mezze shared beside the water."
+        "body": "Kos is known for relaxed island cooking: grilled fish, tomato-rich stews, honey, soft cheeses and mezze shared beside the water.",
+        "image": "assets/images/flavour/greek-island-table.png",
+        "imageAlt": "Greek island table with grilled fish, mezze, cheese, honey and bread",
+        "imageCaption": "Illustrative local flavour image"
       },
       "photos": [
         "join-selfie",
@@ -91,7 +94,10 @@
       },
       "flavourOf": {
         "title": "Flavour of Lipsi",
-        "body": "Harbour tables tend towards grilled octopus, fresh fish, local cheeses and small plates made for long, unhurried meals."
+        "body": "Harbour tables tend towards grilled octopus, fresh fish, local cheeses and small plates made for long, unhurried meals.",
+        "image": "assets/images/flavour/greek-island-table.png",
+        "imageAlt": "Greek island table with grilled fish, mezze, cheese, honey and bread",
+        "imageCaption": "Illustrative local flavour image"
       },
       "photos": [
         "sundeck-black",
@@ -247,7 +253,10 @@
       },
       "flavourOf": {
         "title": "Flavour of Zakynthos",
-        "body": "Island cooking brings together olive oil, local cheeses, grilled meat and fish, sweet pastries and long meals close to the sea."
+        "body": "Island cooking brings together olive oil, local cheeses, grilled meat and fish, sweet pastries and long meals close to the sea.",
+        "image": "assets/images/flavour/greek-island-table.png",
+        "imageAlt": "Greek island table with grilled fish, mezze, cheese, honey and bread",
+        "imageCaption": "Illustrative local flavour image"
       },
       "photos": [
         "nice-spot-1",
@@ -344,7 +353,10 @@
       },
       "flavourOf": {
         "title": "Flavour of Cavtat",
-        "body": "The southern Dalmatian table centres on grilled Adriatic fish, black risotto, olive oil, figs, citrus and crisp local white wine."
+        "body": "The southern Dalmatian table centres on grilled Adriatic fish, black risotto, olive oil, figs, citrus and crisp local white wine.",
+        "image": "assets/images/flavour/dalmatian-seafood-table.png",
+        "imageAlt": "Dalmatian seafood table with grilled fish, octopus salad, black risotto, figs and wine",
+        "imageCaption": "Illustrative local flavour image"
       },
       "photos": [
         "cavtat-waterfront",
@@ -381,7 +393,10 @@
       },
       "flavourOf": {
         "title": "Flavour of Mljet",
-        "body": "Seafood, olive oil, herbs and local white wine suit the island’s quiet, forested setting."
+        "body": "Seafood, olive oil, herbs and local white wine suit the island’s quiet, forested setting.",
+        "image": "assets/images/flavour/dalmatian-seafood-table.png",
+        "imageAlt": "Dalmatian seafood table with grilled fish, octopus salad, black risotto, figs and wine",
+        "imageCaption": "Illustrative local flavour image"
       },
       "heroMedia": "black-pearl-polace-photo",
       "mapStop": "Polače, Mljet"
@@ -413,7 +428,10 @@
       },
       "flavourOf": {
         "title": "Flavour of Hvar",
-        "body": "Hvar brings grilled fish, octopus salad, olive oil, herbs and local wines into an island setting known for both glamour and quiet coves."
+        "body": "Hvar brings grilled fish, octopus salad, olive oil, herbs and local wines into an island setting known for both glamour and quiet coves.",
+        "image": "assets/images/flavour/dalmatian-seafood-table.png",
+        "imageAlt": "Dalmatian seafood table with grilled fish, octopus salad, black risotto, figs and wine",
+        "imageCaption": "Illustrative local flavour image"
       },
       "heroMedia": "pakleni-approach-bow",
       "mapStop": "Palmizana Anchorage"
@@ -661,7 +679,10 @@
       },
       "flavourOf": {
         "title": "Flavour of Vis",
-        "body": "Vis is known for seafood, slow-cooked island dishes, local wine and the kind of harbour meals that feel rooted in the landscape."
+        "body": "Vis is known for seafood, slow-cooked island dishes, local wine and the kind of harbour meals that feel rooted in the landscape.",
+        "image": "assets/images/flavour/dalmatian-seafood-table.png",
+        "imageAlt": "Dalmatian seafood table with grilled fish, octopus salad, black risotto, figs and wine",
+        "imageCaption": "Illustrative local flavour image"
       },
       "mapStop": "Alongside in Vis, Croatia"
     },
@@ -827,7 +848,10 @@
       },
       "flavourOf": {
         "title": "Flavour of Žut",
-        "body": "Croatian škampi are Adriatic langoustines, commonly served whole in a buzara-style sauce of tomato, garlic, olive oil, white wine and herbs — very different from breaded British scampi."
+        "body": "Croatian škampi are Adriatic langoustines, commonly served whole in a buzara-style sauce of tomato, garlic, olive oil, white wine and herbs — very different from breaded British scampi.",
+        "image": "media/photos/2026-07-18-zut-scampi.jpg",
+        "imageAlt": "Žut scampi served whole at dinner",
+        "imageCaption": "Journal photo from this meal"
       },
       "mapStop": "Žut Harbour"
     },
@@ -874,7 +898,10 @@
       },
       "flavourOf": {
         "title": "Flavour of Zadar",
-        "body": "Zadar’s restaurant scene reaches well beyond traditional Dalmatian cooking, with modern Asian menus and seafood-led dishes sitting naturally alongside the city’s Adriatic flavours."
+        "body": "Zadar’s restaurant scene reaches well beyond traditional Dalmatian cooking, with modern Asian menus and seafood-led dishes sitting naturally alongside the city’s Adriatic flavours.",
+        "image": "media/photos/2026-07-20-antiquus-sushi-boat.jpeg",
+        "imageAlt": "Colourful sushi boat from Antiquus Sushi and More in Zadar",
+        "imageCaption": "Journal photo from this meal"
       }
     },
     {
@@ -1043,7 +1070,10 @@
       },
       "flavourOf": {
         "title": "Flavour of Calabria",
-        "body": "Calabrian food is known for bold, sun-warmed flavours: chilli, oregano, wild fennel, aubergines, cured pork, cheeses such as pecorino and caciocavallo, and a glass of Cirò from the region’s prized vineyards."
+        "body": "Calabrian food is known for bold, sun-warmed flavours: chilli, oregano, wild fennel, aubergines, cured pork, cheeses such as pecorino and caciocavallo, and a glass of Cirò from the region’s prized vineyards.",
+        "image": "assets/images/flavour/calabrian-table.png",
+        "imageAlt": "Calabrian table with red chillies, cheeses, cured pork, aubergines and red wine",
+        "imageCaption": "Illustrative local flavour image"
       }
     }
   ],

@@ -1,8 +1,8 @@
 {
-  "version": "2.7.1",
-  "release": "Captain's Dashboard save flow and Crotone arrival",
-  "buildUtc": "2026-07-26 10:24:00 UTC",
-  "fileCount": 157,
+  "version": "2.7.2",
+  "release": "Flavour card food images",
+  "buildUtc": "2026-07-26 10:59:53 UTC",
+  "fileCount": 160,
   "files": [
     {
       "path": ".gitkeep",
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 234,
-      "sha256": "d61c80891373d49514ebfddde53cd48d6c2c6b9b406b2fb16ce82a7fa92ac11b"
+      "sizeBytes": 209,
+      "sha256": "b5dca040bca3cba73671cfd1ec8814ac7258a242eb40942e4a7cb13a43be12c8"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 28687,
-      "sha256": "ef0747d3881cbf779482e427a45b621b03fbf3e8d382acb40847de381f5bbe58"
+      "sizeBytes": 29237,
+      "sha256": "9152d62d82ac1bc064750d0b8a5c84471a55256f928ddf5003615e094ff7e591"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2025,
-      "sha256": "f9be5c2b597ade612cbef3e77f0c989e889b0a0a5e219e397088f3c937d8dba9"
+      "sizeBytes": 2142,
+      "sha256": "44ce0d37a1b752870446d3321afc4a8301e94243d6b878c8a15a255ee1922db6"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -167,7 +167,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 12785,
-      "sha256": "5c0c4ee171f647216022b2646d68031fec75a4ec6bcaa60471c0f84b925759a5"
+      "sha256": "5b3f050d222ac1ff143839aa057b6f5239c042cea2bb40a38aaa2182b03d69f4"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 199930,
-      "sha256": "c9d86deaa8b5b290c9f60a49ac2e453207541a02d9e34cc5270077fb73b9373b"
+      "sizeBytes": 202176,
+      "sha256": "8c6269fe9a5040c3ab080744335052bb5ae113b44f1c43b813dcc399b9b8a06e"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -266,8 +266,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 234,
-      "sha256": "d61c80891373d49514ebfddde53cd48d6c2c6b9b406b2fb16ce82a7fa92ac11b"
+      "sizeBytes": 209,
+      "sha256": "b5dca040bca3cba73671cfd1ec8814ac7258a242eb40942e4a7cb13a43be12c8"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -711,8 +711,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 25525,
-      "sha256": "9bfe9bcaf8112c0bf1abac8918a74367f2e7dca23fda7ac05492cbe9e06cfde3"
+      "sizeBytes": 25846,
+      "sha256": "5aa016034d0906c0f97610cf97fc36dcd23788b8c3af514b4d7c94c22e046e23"
     },
     {
       "path": "assets/css/version.css",
@@ -761,8 +761,8 @@
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 15355,
-      "sha256": "a408f7e9b7d4f657855fde5be37d8f1849b7994b25558921f8dd2e81d772e735"
+      "sizeBytes": 15605,
+      "sha256": "63cc8c5fe98f3b8d6748eebe64f0bd646fa24642c40bf78e66e9515070653979"
     },
     {
       "path": "assets/js/dashboard.js",
@@ -788,6 +788,21 @@
       "path": "assets/js/version.js",
       "sizeBytes": 744,
       "sha256": "5e3d1db9a351972a4a4a115839eec0675ca6ac8642c087f9aa14c23ec40464ce"
+    },
+    {
+      "path": "assets/images/flavour/calabrian-table.png",
+      "sizeBytes": 2761997,
+      "sha256": "31c75698909718035b44b0daa7097cbafb36c99fb2f4ade6aabc3312e10f5ae5"
+    },
+    {
+      "path": "assets/images/flavour/dalmatian-seafood-table.png",
+      "sizeBytes": 2967933,
+      "sha256": "cc3181709b541c349cbe1d5e3eecdb7dffb35d66cedaa34a84272db70fcf2ccd"
+    },
+    {
+      "path": "assets/images/flavour/greek-island-table.png",
+      "sizeBytes": 2639115,
+      "sha256": "5dc23d393527d9ca23538f0bbe6c287872b4add1a7f43fb70303f44ddb57bdfb"
     }
   ]
 }

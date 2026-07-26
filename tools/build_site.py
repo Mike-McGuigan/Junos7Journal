@@ -18,7 +18,7 @@ DOCS = ROOT / "docs"
 SITE = ROOT / "site"
 VERSION_FILE = ROOT / "VERSION"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
-RELEASE_NAME = "Captain's Dashboard save flow and Crotone arrival"
+RELEASE_NAME = "Flavour card food images"
 
 
 def sha256(path: Path) -> str:

@@ -1,7 +1,7 @@
 {
-  "version": "2.7.0",
-  "release": "Voyage playback and map usability",
-  "buildUtc": "2026-07-26 09:05:28 UTC",
+  "version": "2.7.1",
+  "release": "Captain's Dashboard save flow and Crotone arrival",
+  "buildUtc": "2026-07-26 10:06:47 UTC",
   "fileCount": 157,
   "files": [
     {
@@ -21,18 +21,18 @@
     },
     {
       "path": "admin.html",
-      "sizeBytes": 6771,
-      "sha256": "798a2774754a3da4a404b59d9a17f7f655993d54e40b1c04d38bf01b318e3fc1"
+      "sizeBytes": 6797,
+      "sha256": "b9c8d29b59d279ca7a245c9c42cabbb5a9925938c19b44abb357d7f4a165df31"
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 218,
-      "sha256": "b2244a48cba14118e95088ff081c271be6f5aa4db6c500b6b6f110cdc11f64f6"
+      "sizeBytes": 234,
+      "sha256": "5aa150d25507a7433c4845dde8e17d763bcbf7f6e375ac7c2dbd4c738d961cf6"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 28671,
-      "sha256": "068b439f0585f60e8be1631dd693a0ed550d2959fa27d774584f447b050e2bac"
+      "sizeBytes": 28687,
+      "sha256": "8114dd4a99fe2975b04594ee44e807304045b4641df74df19a57ae97e271617d"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2151,
-      "sha256": "c7948f64cfb1d24c781fe4392e76c7b952f43bcb781752a7d67086e3012e2667"
+      "sizeBytes": 2025,
+      "sha256": "974b3bf127fb837115e09b667154013bd3fb0c59d8e9d4882d1044177fc0bfeb"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -161,13 +161,13 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 2027,
-      "sha256": "3fa3ee5a7d59652ddb4423fa10421023a52056d321260d8e654782ac0899c4af"
+      "sizeBytes": 2167,
+      "sha256": "0f8dcff03de7272dfe7cfbde3b980a24829ee9fdb77693b5a6c2144bf6804607"
     },
     {
       "path": "data/discoveries.json",
-      "sizeBytes": 11381,
-      "sha256": "04a7c51d9ecf230d743d5576e86676baac9b92f5c8a668718ecbc83c53141b5a"
+      "sizeBytes": 12785,
+      "sha256": "143018ac6f522076e7127ef5b35f857b97a4ab4404f4839809cca14695ae5892"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 198481,
-      "sha256": "5066f2487862a4f9070ffb8efd0dec1973e3976f6db922dee2d07ba48150f2c6"
+      "sizeBytes": 201240,
+      "sha256": "6b99d58f8bef82e1314c3ef77677c1398eb65d95ab7a04a5c193d294324177aa"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 98239,
-      "sha256": "2f084d30de411b2c66801460e6288a9b69c8b5349b9813d9741279a8c2622877"
+      "sizeBytes": 99461,
+      "sha256": "c12ec1ac2d28c2727d1262cf9e6cb194c56a4d83fb732d6021094f5818c52815"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -251,8 +251,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 95631,
-      "sha256": "ef4cc82b70df0add4ae65f6f99cab981c64ebea3f73f06da149df633ed9633d9"
+      "sizeBytes": 98239,
+      "sha256": "2f084d30de411b2c66801460e6288a9b69c8b5349b9813d9741279a8c2622877"
     },
     {
       "path": "data/site.json",
@@ -266,8 +266,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 218,
-      "sha256": "b2244a48cba14118e95088ff081c271be6f5aa4db6c500b6b6f110cdc11f64f6"
+      "sizeBytes": 234,
+      "sha256": "5aa150d25507a7433c4845dde8e17d763bcbf7f6e375ac7c2dbd4c738d961cf6"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -311,8 +311,8 @@
     },
     {
       "path": "data/version.json.bak-geo-1",
-      "sizeBytes": 218,
-      "sha256": "b98d85df7fca1e4e4ba2c1dd4c5318cefc5642c1cb282b40ed4ffc5a28a04b58"
+      "sizeBytes": 234,
+      "sha256": "d3d6605cf3f7dc1e29a1ad6c6f46136eb346dc936574a863c91c5c1e45ea2484"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -756,8 +756,8 @@
     },
     {
       "path": "assets/js/admin-map.js",
-      "sizeBytes": 28862,
-      "sha256": "f5c080f2ea20899cdd1f57b26cafbb223f2c558af060fec0d83f40abaa8beeb5"
+      "sizeBytes": 28926,
+      "sha256": "4b857ced50ea8d9e533af692f4871dda9fcbb9495de51b1b5d67b14ee85f152d"
     },
     {
       "path": "assets/js/app.js",

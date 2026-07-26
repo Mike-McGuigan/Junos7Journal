@@ -13,7 +13,7 @@ import webbrowser
 ROOT = Path(__file__).resolve().parents[1]
 PORT = 8765
 VERSION_FILE = ROOT / "VERSION"
-RELEASE = "Voyage playback and map usability"
+RELEASE = "Captain's Dashboard save flow and Crotone arrival"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
 ROUTE_FILE = ROOT / "docs" / "data" / "route.json"
 
@@ -23,7 +23,7 @@ def current_version():
         value = VERSION_FILE.read_text(encoding="utf-8").strip()
         if value:
             return value
-    return "2.7.0"
+    return "2.7.1"
 
 
 def run(cmd, check=True):
@@ -92,7 +92,7 @@ def write_update(update):
     return out
 
 
-def publish(update):
+def save_location_update(update):
     log = []
     loc = update.get("routePoint", {}).get("name", "Manual location")
 
@@ -103,16 +103,7 @@ def publish(update):
     log.append(f"Wrote {path.relative_to(ROOT)}")
     log.append(run([sys.executable, "tools/apply_manual_location.py", str(path.relative_to(ROOT))]))
     log.append(run([sys.executable, "tools/build_site.py"]))
-
-    status = run(["git", "status", "--porcelain"], False)
-    if not status.strip():
-        log.append("No git changes detected. Nothing to commit or push.")
-        return "\n".join(log)
-
-    run(["git", "add", "."])
-    log.append(run(["git", "commit", "-m", f"Update Juno's 7 location - {loc}"]))
-    log.append(run(["git", "push"]))
-    log.append("Published to GitHub. Check GitHub Actions for the Pages deployment.")
+    log.append(f"Route update saved locally for {loc}. Commit and push the repository to publish the public site.")
     return "\n".join(log)
 
 
@@ -219,7 +210,7 @@ class Handler(SimpleHTTPRequestHandler):
             if path == "/api/publish":
                 if "routePoint" not in payload or "tracker" not in payload:
                     raise ValueError("Invalid update payload")
-                self._json(200, {"ok": True, "log": publish(payload)})
+                self._json(200, {"ok": True, "log": save_location_update(payload)})
                 return
             if path == "/api/geometry":
                 self._json(200, {"ok": True, "log": save_geometry(payload)})
@@ -246,7 +237,7 @@ def main():
         symbol = "OK " if item["ok"] and not item.get("warning") else ("WARN" if item.get("warning") else "ERR")
         first = (item["output"] or "").splitlines()[0] if item["output"] else ""
         print(f"  [{symbol}] {item['name']}: {first}")
-    print("\nLeave this window open while using Publish. Press Ctrl+C to stop.")
+    print("\nLeave this window open while using Save Route Update. Press Ctrl+C to stop.")
     print("=" * 72)
     webbrowser.open(url)
     try:

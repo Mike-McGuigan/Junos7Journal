@@ -4,11 +4,11 @@ This is the shared source of truth for release scope, deferred work and validati
 
 ## Current release
 
-**v2.7.0 - Voyage Playback and Map Usability**
+**v2.7.1 - Crotone Arrival and Dashboard Save Flow**
 
 ## Next release
 
-Scope to be assigned after v2.7.0 is committed and tested.
+Scope to be assigned after v2.7.1 is committed and tested.
 
 ## Current release scope
 
@@ -69,6 +69,15 @@ None currently.
 None currently.
 
 ## Completed
+
+### v2.7.1
+- [x] Added the Crotone Old Harbour arrival as the first confirmed Italian stop.
+- [x] Added Crotone contextual discovery for ancient Kroton, Pythagoras and Capo Colonna.
+- [x] Added Flavour of Calabria to the Crotone journal entry.
+- [x] Confirmed Italy appears in Countries visited after the Crotone stop.
+- [x] Renamed the Captain's Dashboard action from Publish to Save Route Update.
+- [x] Saved route updates locally without committing or pushing automatically.
+- [x] Refreshed the dashboard after successful local route-update saves.
 
 ### v2.7.0
 - [x] Added distance-spaced directional arrows to the voyage route.

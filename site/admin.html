@@ -4,7 +4,7 @@
 <link rel="icon" href="assets/icons/j7-mark.svg" type="image/svg+xml"><meta name="theme-color" content="#061928">
 <link rel="stylesheet" href="assets/css/style.css"><link rel="stylesheet" href="assets/css/admin-map.css"><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"></head>
 <body>
-<header class="hero" style="min-height:48vh"><div class="hero-inner"><p class="eyebrow">Admin Tool</p><h1 style="font-size:clamp(3rem,9vw,7rem)">Captain's Dashboard</h1><h2>Click the map, then publish</h2><p class="lead" style="margin:auto">A local publishing dashboard for updating the voyage map without editing JSON by hand.</p><nav class="nav"><a href="index.html">Journal</a><a href="voyage.html">Voyage Map</a><a href="discoveries.html">Discoveries</a><a href="about.html">About Juno's 7</a></nav></div></header>
+<header class="hero" style="min-height:48vh"><div class="hero-inner"><p class="eyebrow">Admin Tool</p><h1 style="font-size:clamp(3rem,9vw,7rem)">Captain's Dashboard</h1><h2>Click the map, then save</h2><p class="lead" style="margin:auto">A local dashboard for updating the voyage map without editing JSON by hand.</p><nav class="nav"><a href="index.html">Journal</a><a href="voyage.html">Voyage Map</a><a href="discoveries.html">Discoveries</a><a href="about.html">About Juno's 7</a></nav></div></header>
 <main class="admin-layout"><section class="admin-panel">
 <details class="admin-collapsible" id="newPositionSection" open>
   <summary><span><span class="kicker">New position</span><strong>Location details</strong></span><span class="collapse-chevron" aria-hidden="true">⌄</span></summary>
@@ -15,8 +15,8 @@
     <label>Precision<select id="precision"><option selected>map click approximate marker</option><option>precise AIS coordinate</option><option>crew-confirmed area marker</option></select></label>
     <label>Latitude<input id="lat" type="number" step="0.000001" placeholder="Click map"></label><label>Longitude<input id="lng" type="number" step="0.000001" placeholder="Click map"></label>
     <label>Notes<textarea id="note" rows="4">Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.</textarea></label>
-    <div class="admin-buttons"><button type="button" id="previewBtn">Preview JSON</button><button type="button" id="publishBtn">Publish</button><button type="button" id="copyBtn">Copy JSON</button><button type="button" id="downloadBtn">Download JSON</button><a href="voyage.html">Open Voyage Map</a></div>
-    <pre id="output" class="output-box">Click the map, then preview or publish the update.</pre>
+    <div class="admin-buttons"><button type="button" id="previewBtn">Preview JSON</button><button type="button" id="publishBtn">Save Route Update</button><button type="button" id="copyBtn">Copy JSON</button><button type="button" id="downloadBtn">Download JSON</button><a href="voyage.html">Open Voyage Map</a></div>
+    <pre id="output" class="output-box">Click the map, then preview or save the update.</pre>
   </div>
 </details>
 
@@ -53,9 +53,9 @@
   </div>
 </details>
 
-<div class="status-card"><strong>Publish mode:</strong> <span id="publishMode">Checking...</span><div id="healthList" class="health-list"></div><p class="small-note">Publish works when opened through <code>Start Captains Dashboard.bat</code> or <code>python tools/admin_publish_server.py</code>.</p></div>
+<div class="status-card"><strong>Save mode:</strong> <span id="publishMode">Checking...</span><div id="healthList" class="health-list"></div><p class="small-note">Save Route Update works when opened through <code>Start Captains Dashboard.bat</code> or <code>python tools/admin_publish_server.py</code>.</p></div>
 </section><section class="admin-map-shell"><div id="adminMap"></div></section></main>
-<section class="section"><p class="kicker">Local publishing</p><h2>Start the local publish server</h2><pre class="output-box">Start Captains Dashboard.bat</pre><p class="lead">The server applies the location, builds the site, commits, and pushes using your existing local Git credentials.</p></section>
+<section class="section"><p class="kicker">Local saving</p><h2>Start the local dashboard server</h2><pre class="output-box">Start Captains Dashboard.bat</pre><p class="lead">The server applies the location and rebuilds the site locally. Commit and push the repository when you are ready to publish the public site.</p></section>
 <section class="section dark"><div class="wrap"><p class="kicker">Contextual Discovery</p><h2>Curated nearby stories</h2><p class="lead">Approved discoveries are maintained in <code>content/discoveries/contextual-discoveries.json</code>. The build checks route matching, proximity rules and source links before publishing.</p><p><a class="button" href="discoveries.html">Open the discovery page</a></p><pre class="output-box">python tools/contextual_discovery.py --check
 python tools/build_site.py</pre></div></section>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="assets/js/admin-map.js"></script></body></html>

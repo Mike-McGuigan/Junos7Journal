@@ -1,6 +1,6 @@
 # Project Notes — Juno's 7 Mediterranean Journal
 
-Current version: 2.7.0
+Current version: 2.7.1
 Release: Maintenance & Editorial Consistency
 
 ## Operating model
@@ -16,5 +16,5 @@ Release: Maintenance & Editorial Consistency
 1. Double-click `Start Captains Dashboard.bat`.
 2. Click the map.
 3. Enter the location name.
-4. Click Publish.
-5. Check GitHub Actions.
+4. Click Save Route Update.
+5. Review the local build, then commit and push when ready.

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "Contextual Discovery",
-  "generatedUtc": "2026-07-26T09:05:28+00:00",
+  "generatedUtc": "2026-07-26T10:06:47+00:00",
   "principle": "One great story beats five interesting facts.",
   "policy": {
     "mooredRadiusMetres": 300,
@@ -16,7 +16,7 @@
     ],
     "editorialRule": "Include a discovery only when it is close, exceptional, visible, or directly connected to Cameron and Sophie's experience. No discovery is better than forced trivia."
   },
-  "count": 8,
+  "count": 9,
   "discoveries": [
     {
       "id": "kos-neratzia-castle",
@@ -242,6 +242,34 @@
       "routeStopIndex": 35,
       "routeStopDate": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
       "routeStopStatus": "At anchor",
+      "distanceMetres": null,
+      "distanceBand": "contextual",
+      "qualification": "place-defining context"
+    },
+    {
+      "id": "crotone-magna-graecia",
+      "routeStopTitle": "Crotone Old Harbour, Calabria, Italy",
+      "journalEntryId": "crotone-arrival",
+      "date": "2026-07-26",
+      "category": "History",
+      "title": "Arrival in the city of Pythagoras",
+      "featureName": "Ancient Kroton and Capo Colonna",
+      "body": "Crotone was founded as the Greek colony of Kroton in the eighth century BC and is closely linked with Pythagoras, who established his school in the city. Just beyond the modern harbour, the story continues at Capo Colonna, where remains of the sanctuary of Hera Lacinia still stand on the Ionian coast.",
+      "proximity": "The old harbour sits beneath the historic city",
+      "contextualArea": true,
+      "exceptional": true,
+      "evidence": [
+        "place-defining"
+      ],
+      "whyIncluded": "The discovery explains the historic city where Juno’s 7 made its first confirmed Italian stop, rather than pointing to a distant attraction.",
+      "source": {
+        "title": "Crotone",
+        "publisher": "Italia.it",
+        "url": "https://www.italia.it/en/calabria/crotone"
+      },
+      "routeStopIndex": 52,
+      "routeStopDate": "26 Jul - In time for breakfast",
+      "routeStopStatus": "Voyage stop",
       "distanceMetres": null,
       "distanceBand": "contextual",
       "qualification": "place-defining context"

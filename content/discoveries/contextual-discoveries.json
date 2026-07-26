@@ -208,6 +208,29 @@
         "publisher": "Filming in Croatia / Croatian Audiovisual Centre",
         "url": "https://filmingincroatia.hr/movies/mamma-mia-here-we-go-again/"
       }
+    },
+    {
+      "id": "crotone-magna-graecia",
+      "approved": true,
+      "routeStopTitle": "Crotone Old Harbour, Calabria, Italy",
+      "journalEntryId": "crotone-arrival",
+      "date": "2026-07-26",
+      "category": "History",
+      "title": "Arrival in the city of Pythagoras",
+      "featureName": "Ancient Kroton and Capo Colonna",
+      "body": "Crotone was founded as the Greek colony of Kroton in the eighth century BC and is closely linked with Pythagoras, who established his school in the city. Just beyond the modern harbour, the story continues at Capo Colonna, where remains of the sanctuary of Hera Lacinia still stand on the Ionian coast.",
+      "proximity": "The old harbour sits beneath the historic city",
+      "contextualArea": true,
+      "exceptional": true,
+      "evidence": [
+        "place-defining"
+      ],
+      "whyIncluded": "The discovery explains the historic city where Juno’s 7 made its first confirmed Italian stop, rather than pointing to a distant attraction.",
+      "source": {
+        "title": "Crotone",
+        "publisher": "Italia.it",
+        "url": "https://www.italia.it/en/calabria/crotone"
+      }
     }
   ]
 }

@@ -1,5 +1,16 @@
 # Changelog
 
+## 2.7.1 — Crotone Arrival and Dashboard Save Flow
+
+- Added the 26 July arrival at **Crotone Old Harbour, Calabria, Italy**.
+- Added Crotone contextual discovery for ancient Kroton, Pythagoras and Capo Colonna.
+- Added **Flavour of Calabria** to the Crotone journal entry.
+- Confirmed Italy is counted in **Countries visited** now that Juno’s 7 has made a confirmed Italian stop.
+- Renamed the Captain's Dashboard new-position action from **Publish** to **Save Route Update**.
+- Changed the dashboard save flow so it saves and rebuilds locally without committing or pushing automatically.
+- Refreshes the dashboard tab after successful local route-update saves.
+- Updated version and build metadata to `2.7.1`.
+
 ## 2.7.0 — Voyage Playback and Map Usability
 
 - Added distance-spaced directional arrows along the rendered voyage route geometry.

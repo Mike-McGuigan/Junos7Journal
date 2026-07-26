@@ -1,30 +1,30 @@
 {
-  "version": "2.7.0",
-  "release": "Voyage playback and map usability",
+  "version": "2.7.1",
+  "release": "Captain's Dashboard save flow and Crotone arrival",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: En route to Crotone, Italy",
+    "latestStatus": "Manual location: Crotone Old Harbour, Calabria, Italy",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-25T17:48:46.075Z",
+    "lastManualLookupUtc": "2026-07-26T08:48:25.006Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 40.416829,
-      "lng": 18.386993,
+      "lat": 39.078197,
+      "lng": 17.137229,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "En route to Crotone, Italy",
-    "latestFriendlyLocation": "En route to Crotone, Italy",
+    "latestLocationName": "Crotone Old Harbour, Calabria, Italy",
+    "latestFriendlyLocation": "Crotone Old Harbour, Calabria, Italy",
     "location": {
       "lookupStatus": "ok",
       "lookupProvider": "OpenStreetMap Nominatim",
       "osmType": "relation",
       "osmId": 365331,
-      "displayName": "En route to Crotone, Italy",
-      "shortName": "En route to Crotone, Italy",
+      "displayName": "Crotone Old Harbour, Calabria, Italy",
+      "shortName": "Crotone Old Harbour, Calabria, Italy",
       "rawDisplayName": "Italy",
       "country": "Italy",
       "countryCode": "IT",
@@ -36,29 +36,30 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "En route to Crotone, Italy"
+    "latestLocationTitle": "Crotone Old Harbour, Calabria, Italy"
   },
   "stats": {
-    "routeStops": 52,
-    "distanceDirectNm": 1293.0,
-    "distanceEstimatedNm": 1495.7,
-    "manualSeaRouteLegs": 48,
-    "journalEntries": 39,
+    "routeStops": 53,
+    "distanceDirectNm": 1391.9,
+    "distanceEstimatedNm": 1613.1,
+    "manualSeaRouteLegs": 49,
+    "journalEntries": 40,
     "mediaItems": 56,
     "photos": 40,
     "videos": 16,
-    "contextualDiscoveries": 8,
+    "contextualDiscoveries": 9,
     "voyageLegs": 34,
-    "averageLegNm": 44.0,
-    "longestLegNm": 274.0,
-    "longestLegFrom": "Ios",
-    "longestLegTo": "Zakynthos",
-    "countriesVisited": 2,
+    "averageLegNm": 47.4,
+    "longestLegNm": 383.1,
+    "longestLegFrom": "Zadar Anchorage, Croatia",
+    "longestLegTo": "Crotone Old Harbour, Calabria, Italy",
+    "countriesVisited": 3,
     "countryNames": [
       "Greece",
-      "Croatia"
+      "Croatia",
+      "Italy"
     ],
-    "routeLegs": 51,
+    "routeLegs": 52,
     "longestLegInProgress": false
   }
 }

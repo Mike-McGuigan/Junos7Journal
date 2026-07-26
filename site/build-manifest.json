@@ -1,7 +1,7 @@
 {
   "version": "2.7.0",
   "release": "Voyage playback and map usability",
-  "buildUtc": "2026-07-26 08:48:27 UTC",
+  "buildUtc": "2026-07-26 09:05:28 UTC",
   "fileCount": 157,
   "files": [
     {
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 218,
-      "sha256": "c9eeab3c6878620469b229f808188f29d903e68c4dc62bd819bc1dd21a69cfce"
+      "sha256": "b2244a48cba14118e95088ff081c271be6f5aa4db6c500b6b6f110cdc11f64f6"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 28671,
-      "sha256": "028d268c8ce0f539f799c628dbcbc73ed043b9d67309bb7217e846cb03175aad"
+      "sha256": "068b439f0585f60e8be1631dd693a0ed550d2959fa27d774584f447b050e2bac"
     },
     {
       "path": "crew.html",
@@ -132,7 +132,7 @@
     {
       "path": "data/dashboard.json",
       "sizeBytes": 2151,
-      "sha256": "34957af38ed80c94f974d473a04da83cda28fc15fd3e669ceaf27c2491e5b8f2"
+      "sha256": "c7948f64cfb1d24c781fe4392e76c7b952f43bcb781752a7d67086e3012e2667"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -167,7 +167,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 11381,
-      "sha256": "41a360cfbb495f0bc55cf14c82355ed0d11cd6a19f20627e6bcbf6d55ff575ab"
+      "sha256": "04a7c51d9ecf230d743d5576e86676baac9b92f5c8a668718ecbc83c53141b5a"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 197080,
-      "sha256": "9a9051e00599e1145645860c7624ccb654981765a0629b564588df11d10dc451"
+      "sizeBytes": 198481,
+      "sha256": "5066f2487862a4f9070ffb8efd0dec1973e3976f6db922dee2d07ba48150f2c6"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 96990,
-      "sha256": "f2dbd59633981432ba16c15b056b2ff3496fc91db6e7195ec2189d14d19b9555"
+      "sizeBytes": 98239,
+      "sha256": "2f084d30de411b2c66801460e6288a9b69c8b5349b9813d9741279a8c2622877"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -267,7 +267,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 218,
-      "sha256": "c9eeab3c6878620469b229f808188f29d903e68c4dc62bd819bc1dd21a69cfce"
+      "sha256": "b2244a48cba14118e95088ff081c271be6f5aa4db6c500b6b6f110cdc11f64f6"
     },
     {
       "path": "data/version.json.bak-1-0-1",

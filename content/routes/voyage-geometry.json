@@ -2563,6 +2563,20 @@
           16.980743
         ]
       ]
+    },
+    {
+      "fromIndex": 50,
+      "toIndex": 51,
+      "fromDate": "25 Jul - Mid afternoon",
+      "toDate": "25 Jul - Early evening",
+      "fromTitle": "En route to Crotone, Italy",
+      "toTitle": "En route to Crotone, Italy",
+      "waypoints": [
+        [
+          40.829593,
+          18.05191
+        ]
+      ]
     }
   ]
 }

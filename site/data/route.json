@@ -4155,7 +4155,7 @@
     "date": "25 Jul - Early evening",
     "title": "En route to Crotone, Italy",
     "name": "En route to Crotone, Italy",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 40.416829,
     "lng": 18.386993,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -4181,16 +4181,64 @@
       "fromTitle": "En route to Crotone, Italy",
       "toTitle": "En route to Crotone, Italy",
       "distanceDirectNm": 55.2,
-      "distanceEstimatedNm": 55.2,
-      "usesManualSeaRoute": false,
+      "distanceEstimatedNm": 55.3,
+      "usesManualSeaRoute": true,
       "geometry": [
         [
           41.230702,
           17.822571
         ],
         [
+          40.829593,
+          18.05191
+        ],
+        [
           40.416829,
           18.386993
+        ]
+      ]
+    }
+  },
+  {
+    "date": "26 Jul - In time for breakfast",
+    "title": "Crotone Old Harbour, Calabria, Italy",
+    "name": "Crotone Old Harbour, Calabria, Italy",
+    "phase": "current",
+    "lat": 39.078197,
+    "lng": 17.137229,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Crotone Old Harbour, Calabria, Italy",
+      "shortName": "Crotone Old Harbour, Calabria, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "En route to Crotone, Italy",
+      "toTitle": "Crotone Old Harbour, Calabria, Italy",
+      "distanceDirectNm": 98.9,
+      "distanceEstimatedNm": 98.9,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          40.416829,
+          18.386993
+        ],
+        [
+          39.078197,
+          17.137229
         ]
       ]
     }

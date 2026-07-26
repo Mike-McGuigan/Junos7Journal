@@ -988,7 +988,7 @@
       "fromDate": "5 Jul",
       "toDate": "5 Jul",
       "fromTitle": "En route to Mljet",
-      "toTitle": "Polace, Mljet",
+      "toTitle": "Polače, Mljet",
       "waypoints": [
         [
           42.73565,
@@ -1037,8 +1037,8 @@
       "toIndex": 24,
       "fromDate": "5 Jul",
       "toDate": "6 Jul",
-      "fromTitle": "Polace, Mljet",
-      "toTitle": "Gubavac, Korcula",
+      "fromTitle": "Polače, Mljet",
+      "toTitle": "Gubavac, Korčula",
       "waypoints": [
         [
           42.789289,
@@ -1095,8 +1095,8 @@
       "toIndex": 25,
       "fromDate": "6 Jul",
       "toDate": "6 Jul",
-      "fromTitle": "Gubavac, Korcula",
-      "toTitle": "Korcula Port",
+      "fromTitle": "Gubavac, Korčula",
+      "toTitle": "Korčula Port",
       "waypoints": [
         [
           42.92912,
@@ -1177,7 +1177,7 @@
       "toIndex": 26,
       "fromDate": "6 Jul",
       "toDate": "7 Jul AM",
-      "fromTitle": "Korcula Port",
+      "fromTitle": "Korčula Port",
       "toTitle": "En route to Hvar",
       "waypoints": [
         [
@@ -1292,7 +1292,7 @@
       "fromIndex": 27,
       "toIndex": 28,
       "fromDate": "7 Jul",
-      "toDate": "8 Jul Late afternoon",
+      "toDate": "8 Jul - Late afternoon",
       "fromTitle": "Palmizana Anchorage",
       "toTitle": "En route to Split",
       "waypoints": [
@@ -1333,7 +1333,7 @@
     {
       "fromIndex": 28,
       "toIndex": 29,
-      "fromDate": "8 Jul Late afternoon",
+      "fromDate": "8 Jul - Late afternoon",
       "toDate": "8 Jul - Early evening",
       "fromTitle": "En route to Split",
       "toTitle": "Approaching Split",
@@ -1446,7 +1446,7 @@
       "fromDate": "10 Jul",
       "toDate": "11 Jul - AM",
       "fromTitle": "Off Milna, Croatia",
-      "toTitle": "Enr route to Vis",
+      "toTitle": "En route to Vis",
       "waypoints": [
         [
           43.326035,
@@ -1486,8 +1486,8 @@
       "fromIndex": 32,
       "toIndex": 33,
       "fromDate": "11 Jul - AM",
-      "toDate": "11 Jul - late morning",
-      "fromTitle": "Enr route to Vis",
+      "toDate": "11 Jul - Late morning",
+      "fromTitle": "En route to Vis",
       "toTitle": "Vis, Croatia",
       "waypoints": [
         [
@@ -1511,7 +1511,7 @@
     {
       "fromIndex": 33,
       "toIndex": 34,
-      "fromDate": "11 Jul - late morning",
+      "fromDate": "11 Jul - Late morning",
       "toDate": "11 Jul - PM",
       "fromTitle": "Vis, Croatia",
       "toTitle": "Alongside in Vis, Croatia",

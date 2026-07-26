@@ -39,17 +39,17 @@
     "latestLocationTitle": "Manual location"
   },
   "stats": {
-    "routeStops": 54,
-    "distanceDirectNm": 1483.5,
-    "distanceEstimatedNm": 1704.7,
+    "routeStops": 53,
+    "distanceDirectNm": 1391.9,
+    "distanceEstimatedNm": 1613.1,
     "manualSeaRouteLegs": 49,
     "journalEntries": 40,
     "mediaItems": 56,
     "photos": 40,
     "videos": 16,
     "contextualDiscoveries": 9,
-    "voyageLegs": 35,
-    "averageLegNm": 48.7,
+    "voyageLegs": 34,
+    "averageLegNm": 47.4,
     "longestLegNm": 383.1,
     "longestLegFrom": "Zadar Anchorage, Croatia",
     "longestLegTo": "Crotone Old Harbour, Calabria, Italy",
@@ -59,7 +59,7 @@
       "Croatia",
       "Italy"
     ],
-    "routeLegs": 53,
+    "routeLegs": 52,
     "longestLegInProgress": false
   }
 }

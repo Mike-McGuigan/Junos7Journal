@@ -6659,50 +6659,6 @@
           ]
         ]
       }
-    },
-    {
-      "date": "26 Jul",
-      "title": "Manual location",
-      "name": "Manual location",
-      "phase": "current",
-      "lat": 37.780755,
-      "lng": 18.1604,
-      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-      "location": {
-        "lookupStatus": "ok",
-        "lookupProvider": "OpenStreetMap Nominatim",
-        "osmType": null,
-        "osmId": null,
-        "displayName": "Manual location",
-        "shortName": "Manual location",
-        "rawDisplayName": null,
-        "country": null,
-        "countryCode": null,
-        "region": null,
-        "county": null,
-        "municipality": null,
-        "island": null,
-        "nearestPlace": null,
-        "localArea": null,
-        "lookupSource": "OpenStreetMap Nominatim"
-      },
-      "legFromPrevious": {
-        "fromTitle": "Crotone Old Harbour, Calabria, Italy",
-        "toTitle": "Manual location",
-        "distanceDirectNm": 91.6,
-        "distanceEstimatedNm": 91.6,
-        "usesManualSeaRoute": false,
-        "geometry": [
-          [
-            39.078197,
-            17.137229
-          ],
-          [
-            37.780755,
-            18.1604
-          ]
-        ]
-      }
     }
   ]
 }

@@ -18,8 +18,8 @@ from geo_lookup import reverse_lookup
 
 ROOT = Path(__file__).resolve().parents[1]
 VERSION_FILE = ROOT / "VERSION"
-DEFAULT_VERSION = "2.7.1"
-RELEASE = "Captain's Dashboard save flow and Crotone arrival"
+DEFAULT_VERSION = "2.7.2"
+RELEASE = "Flavour card food images"
 
 
 def current_version() -> str:

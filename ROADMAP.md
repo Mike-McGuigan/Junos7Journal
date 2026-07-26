@@ -4,30 +4,18 @@ This is the shared source of truth for release scope, deferred work and validati
 
 ## Current release
 
-**v2.7.1 - Crotone Arrival and Dashboard Save Flow**
+**v2.7.2 - Flavour Card Food Images**
 
 ## Next release
 
-Scope to be assigned after v2.7.1 is committed and tested.
+Scope to be assigned after v2.7.2 is committed and tested.
 
 ## Current release scope
 
-### Voyage map
-- [x] Add directional arrows at regular distance intervals along the rendered route geometry.
-- [x] Centre directional arrows on the plotted route line.
-- [x] Limit map zoom and prevent repeated world copies.
-- [x] Add voyage playback with play/pause, progress scrubber and speed control.
-- [x] Add an extra-slow playback speed.
-- [x] Use the same manual sea-waypoint geometry for playback and arrows.
-- [x] Highlight the active route point during playback.
-- [x] Show selected route-point details beside the map on larger screens.
-
-### Captain's Dashboard
-- [x] Make functional dashboard panels behave as a single-open accordion.
-- [x] Scroll newly opened functional dashboard panels into view.
-- [x] Default the new-position date field to the current date.
-- [x] Remove the East Coast Corfu default from the location name field.
-- [x] Add placeholder text for empty location/passage names.
+### Journal
+- [x] Add optional images to **Flavour of the place** cards.
+- [x] Use real journal food photos where available.
+- [x] Label generated food assets as illustrative.
 
 ## Backlog
 
@@ -69,6 +57,12 @@ None currently.
 None currently.
 
 ## Completed
+
+### v2.7.2
+- [x] Added optional image support to **Flavour of the place** journal cards.
+- [x] Added illustrative regional food images for Greek island, Dalmatian seafood and Calabrian flavour sections.
+- [x] Reused existing real journal photos for Zut scampi and Zadar sushi flavour cards.
+- [x] Kept food-card images separate from the gallery media catalogue.
 
 ### v2.7.1
 - [x] Added the Crotone Old Harbour arrival as the first confirmed Italian stop.

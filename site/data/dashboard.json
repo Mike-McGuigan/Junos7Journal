@@ -1,33 +1,33 @@
 {
-  "version": "2.7.1",
-  "release": "Captain's Dashboard save flow and Crotone arrival",
+  "version": "2.7.2",
+  "release": "Flavour card food images",
   "tracker": {
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Manual location",
+    "latestStatus": "Manual location: Crotone Old Harbour, Calabria, Italy",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-26T10:06:46.212Z",
+    "lastManualLookupUtc": "2026-07-26T08:48:25.006Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 37.780755,
-      "lng": 18.1604,
+      "lat": 39.078197,
+      "lng": 17.137229,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Manual location",
-    "latestFriendlyLocation": "Manual location",
+    "latestLocationName": "Crotone Old Harbour, Calabria, Italy",
+    "latestFriendlyLocation": "Crotone Old Harbour, Calabria, Italy",
     "location": {
       "lookupStatus": "ok",
       "lookupProvider": "OpenStreetMap Nominatim",
-      "osmType": null,
-      "osmId": null,
-      "displayName": "Manual location",
-      "shortName": "Manual location",
-      "rawDisplayName": null,
-      "country": null,
-      "countryCode": null,
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Crotone Old Harbour, Calabria, Italy",
+      "shortName": "Crotone Old Harbour, Calabria, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
       "region": null,
       "county": null,
       "municipality": null,
@@ -36,7 +36,7 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Manual location"
+    "latestLocationTitle": "Crotone Old Harbour, Calabria, Italy"
   },
   "stats": {
     "routeStops": 53,

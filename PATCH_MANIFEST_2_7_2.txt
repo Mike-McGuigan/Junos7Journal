@@ -1,0 +1,35 @@
+Juno's 7 Journal v2.7.2 changed-files package
+
+Purpose:
+- Add optional food images to Flavour of the place cards as a visual trial.
+
+Changed source files:
+- VERSION
+- maps/VERSION
+- CHANGELOG.md
+- ROADMAP.md
+- RELEASE_2_7_2.md
+- PATCH_MANIFEST_2_7_2.txt
+- docs/assets/css/style.css
+- docs/assets/js/app.js
+- docs/assets/images/flavour/greek-island-table.png
+- docs/assets/images/flavour/dalmatian-seafood-table.png
+- docs/assets/images/flavour/calabrian-table.png
+- docs/data/journal.json
+- docs/data/version.json
+- docs/build-info.json
+- docs/build-manifest.json
+- docs/data/dashboard.json
+- docs/data/discoveries.json
+- tools/build_site.py
+- tools/apply_manual_location.py
+- tools/admin_publish_server.py
+
+Generated site/ output:
+- Not included in this package.
+- Rebuild locally with: python tools/build_site.py
+
+Validation:
+- Build completed successfully for version 2.7.2.
+- JavaScript syntax check passed for docs/assets/js/app.js.
+- All ten Flavour of the place cards have valid image references.

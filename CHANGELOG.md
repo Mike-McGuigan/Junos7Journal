@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.7.3 - Route Editor Leg Fix
+
+- Fixed the Voyage Route Editor so zero-distance duplicate route points are labelled as same-position legs and are not opened for manual waypoint editing.
+- Changed the route leg selector to default to the latest non-zero leg.
+- Updated waypoint editing so new clicks are inserted into the nearest segment of the active leg instead of always being appended to the end.
+- Kept the active leg highlighted as a blue dashed line while editing.
+- Updated version and build metadata to `2.7.3`.
+
 ## 2.7.2 - Flavour Card Food Images
 
 - Added optional image support to **Flavour of the place** journal cards.

@@ -1,0 +1,27 @@
+Juno's 7 Journal v2.7.3 changed-files manifest
+
+Purpose:
+- Fix Voyage Route Editor behaviour when the latest route contains duplicate same-position route points.
+
+Expected changed files:
+- VERSION
+- CHANGELOG.md
+- ROADMAP.md
+- RELEASE_2_7_3.md
+- PATCH_MANIFEST_2_7_3.txt
+- docs/assets/js/admin-map.js
+- maps/VERSION
+- maps/site/assets/js/admin-map.js
+- tools/admin_publish_server.py
+- tools/apply_manual_location.py
+- tools/build_site.py
+- docs/data/version.json
+- docs/build-info.json
+- docs/build-manifest.json
+- docs/data/dashboard.json
+- docs/data/discoveries.json
+- docs/data/journal.json
+
+Generated site directory:
+- The top-level site/ directory is intentionally excluded from the release ZIP.
+- Rebuild locally with: python tools/build_site.py

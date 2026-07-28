@@ -4,18 +4,18 @@ This is the shared source of truth for release scope, deferred work and validati
 
 ## Current release
 
-**v2.7.2 - Flavour Card Food Images**
+**v2.7.3 - Route Editor Leg Fix**
 
 ## Next release
 
-Scope to be assigned after v2.7.2 is committed and tested.
+Scope to be assigned after v2.7.3 is committed and tested.
 
 ## Current release scope
 
-### Journal
-- [x] Add optional images to **Flavour of the place** cards.
-- [x] Use real journal food photos where available.
-- [x] Label generated food assets as illustrative.
+### Captain's Dashboard
+- [x] Prevent zero-distance duplicate route points being edited as normal sea-route legs.
+- [x] Default the Voyage Route Editor to the latest non-zero leg.
+- [x] Insert new manual sea waypoints into the nearest segment of the active leg.
 
 ## Backlog
 
@@ -57,6 +57,12 @@ None currently.
 None currently.
 
 ## Completed
+
+### v2.7.3
+- [x] Fixed Voyage Route Editor leg editing after duplicate same-position route points.
+- [x] Labelled zero-distance legs in the selector as `same position`.
+- [x] Prevented zero-distance legs from entering edit mode with a clear dashboard message.
+- [x] Inserted new waypoints into the nearest segment rather than appending them after the end of the selected leg.
 
 ### v2.7.2
 - [x] Added optional image support to **Flavour of the place** journal cards.

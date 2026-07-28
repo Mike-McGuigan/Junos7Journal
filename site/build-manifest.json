@@ -1,7 +1,7 @@
 {
-  "version": "2.7.2",
-  "release": "Flavour card food images",
-  "buildUtc": "2026-07-26 10:59:53 UTC",
+  "version": "2.7.3",
+  "release": "Route editor leg fix",
+  "buildUtc": "2026-07-28 17:51:14 UTC",
   "fileCount": 160,
   "files": [
     {
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 209,
-      "sha256": "b5dca040bca3cba73671cfd1ec8814ac7258a242eb40942e4a7cb13a43be12c8"
+      "sizeBytes": 205,
+      "sha256": "f13b50cde11fe9ad5e5624ab0616194d99e6ee13f06867f19b0db16a644167cc"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 29237,
-      "sha256": "9152d62d82ac1bc064750d0b8a5c84471a55256f928ddf5003615e094ff7e591"
+      "sizeBytes": 29233,
+      "sha256": "25311b60303d61efea195ded61bddac35d915fa6196f96ee8aa9cb628283325c"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2142,
-      "sha256": "44ce0d37a1b752870446d3321afc4a8301e94243d6b878c8a15a255ee1922db6"
+      "sizeBytes": 2138,
+      "sha256": "53972c0081c43aee391bf94fccdad3621554502b85e7f882d16b7d42ef1a5b13"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -167,7 +167,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 12785,
-      "sha256": "5b3f050d222ac1ff143839aa057b6f5239c042cea2bb40a38aaa2182b03d69f4"
+      "sha256": "5ffc007e75b4b82fb1c9055d94800b958021ecc117892e359191a84c600a31cb"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -177,7 +177,7 @@
     {
       "path": "data/journal.json",
       "sizeBytes": 202176,
-      "sha256": "8c6269fe9a5040c3ab080744335052bb5ae113b44f1c43b813dcc399b9b8a06e"
+      "sha256": "ac5144efb8964d000bd6b43bebcb9503d76ae6057166eb11eba1a9fea10589d6"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -266,8 +266,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 209,
-      "sha256": "b5dca040bca3cba73671cfd1ec8814ac7258a242eb40942e4a7cb13a43be12c8"
+      "sizeBytes": 205,
+      "sha256": "f13b50cde11fe9ad5e5624ab0616194d99e6ee13f06867f19b0db16a644167cc"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -711,8 +711,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 25846,
-      "sha256": "5aa016034d0906c0f97610cf97fc36dcd23788b8c3af514b4d7c94c22e046e23"
+      "sizeBytes": 25847,
+      "sha256": "6ee7f87d2c75df736d3c3d81d5ab929bb431f7a01aa17b33499c9bb9733b7486"
     },
     {
       "path": "assets/css/version.css",
@@ -756,13 +756,13 @@
     },
     {
       "path": "assets/js/admin-map.js",
-      "sizeBytes": 28926,
-      "sha256": "4b857ced50ea8d9e533af692f4871dda9fcbb9495de51b1b5d67b14ee85f152d"
+      "sizeBytes": 30537,
+      "sha256": "5e7cf45ebb84b1a7e1504fa6a165bd5c669ffdb7895f3c8fdc314c0440d59f0d"
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 15605,
-      "sha256": "63cc8c5fe98f3b8d6748eebe64f0bd646fa24642c40bf78e66e9515070653979"
+      "sizeBytes": 15606,
+      "sha256": "eadfe942ad28e9335141912dc59bdade8a082c2ee5ea19259ba963fcd6cae7af"
     },
     {
       "path": "assets/js/dashboard.js",

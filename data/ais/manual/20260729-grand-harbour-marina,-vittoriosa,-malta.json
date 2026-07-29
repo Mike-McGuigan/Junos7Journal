@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-07-29T11:31:40.864Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "29 Jul - In time for breakfast again",
+    "title": "Grand Harbour Marina, Vittoriosa, Malta",
+    "name": "Grand Harbour Marina, Vittoriosa, Malta",
+    "phase": "current",
+    "lat": 35.891002,
+    "lng": 14.518052,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365307,
+      "displayName": "Grand Harbour Marina, Vittoriosa, Malta",
+      "shortName": "Grand Harbour Marina, Vittoriosa, Malta",
+      "rawDisplayName": "Malta",
+      "country": "Malta",
+      "countryCode": "MT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-07-29T11:31:40.864Z",
+    "status": "Moored",
+    "title": "Grand Harbour Marina, Vittoriosa, Malta",
+    "area": "Grand Harbour Marina, Vittoriosa, Malta",
+    "position": {
+      "lat": 35.891002,
+      "lng": 14.518052,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365307,
+      "displayName": "Grand Harbour Marina, Vittoriosa, Malta",
+      "shortName": "Grand Harbour Marina, Vittoriosa, Malta",
+      "rawDisplayName": "Malta",
+      "country": "Malta",
+      "countryCode": "MT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "Contextual Discovery",
-  "generatedUtc": "2026-07-29T07:38:12+00:00",
+  "generatedUtc": "2026-07-29T12:36:07+00:00",
   "principle": "One great story beats five interesting facts.",
   "policy": {
     "mooredRadiusMetres": 300,
@@ -16,7 +16,7 @@
     ],
     "editorialRule": "Include a discovery only when it is close, exceptional, visible, or directly connected to Cameron and Sophie's experience. No discovery is better than forced trivia."
   },
-  "count": 9,
+  "count": 10,
   "discoveries": [
     {
       "id": "kos-neratzia-castle",
@@ -270,6 +270,34 @@
       "routeStopIndex": 52,
       "routeStopDate": "26 Jul - In time for breakfast",
       "routeStopStatus": "Voyage stop",
+      "distanceMetres": null,
+      "distanceBand": "contextual",
+      "qualification": "place-defining context"
+    },
+    {
+      "id": "malta-fort-st-angelo-grand-harbour",
+      "routeStopTitle": "Grand Harbour Marina, Vittoriosa, Malta",
+      "journalEntryId": "malta-grand-harbour-arrival",
+      "date": "2026-07-29",
+      "category": "History",
+      "title": "The fortress beside Grand Harbour",
+      "featureName": "Fort St Angelo",
+      "body": "Fort St Angelo stands at the end of the Birgu peninsula, immediately beside Grand Harbour Marina. The fort became the headquarters of the Order of St John after 1530, played a major role in the Great Siege of 1565, and later served as a Royal Navy shore base, making it one of the defining landmarks of Malta?s maritime history.",
+      "proximity": "Right beside Grand Harbour Marina",
+      "contextualArea": true,
+      "exceptional": true,
+      "evidence": [
+        "place-defining"
+      ],
+      "whyIncluded": "Juno?s 7 was moored beside the fort, making it direct harbour context rather than a distant attraction.",
+      "source": {
+        "title": "Fort St Angelo",
+        "publisher": "Heritage Malta",
+        "url": "https://heritagemalta.mt/explore/fort-st-angelo/"
+      },
+      "routeStopIndex": 55,
+      "routeStopDate": "29 Jul - In time for breakfast again",
+      "routeStopStatus": "Current position",
       "distanceMetres": null,
       "distanceBand": "contextual",
       "qualification": "place-defining context"

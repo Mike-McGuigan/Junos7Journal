@@ -4443,7 +4443,7 @@
     "date": "29 Jul - AM",
     "title": "Passage to Valletta, Malta",
     "name": "Passage to Valletta, Malta",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 35.90308,
     "lng": 14.532788,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -4511,6 +4511,98 @@
         [
           35.90308,
           14.532788
+        ]
+      ]
+    }
+  },
+  {
+    "date": "29 Jul - In time for breakfast again",
+    "title": "Grand Harbour Marina, Vittoriosa, Malta",
+    "name": "Grand Harbour Marina, Vittoriosa, Malta",
+    "phase": "current",
+    "lat": 35.891002,
+    "lng": 14.518052,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365307,
+      "displayName": "Grand Harbour Marina, Vittoriosa, Malta",
+      "shortName": "Grand Harbour Marina, Vittoriosa, Malta",
+      "rawDisplayName": "Malta",
+      "country": "Malta",
+      "countryCode": "MT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Passage to Valletta, Malta",
+      "toTitle": "Grand Harbour Marina, Vittoriosa, Malta",
+      "distanceDirectNm": 1.0,
+      "distanceEstimatedNm": 1.3,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          35.90308,
+          14.532788
+        ],
+        [
+          35.89989,
+          14.522542
+        ],
+        [
+          35.893858,
+          14.516104
+        ],
+        [
+          35.893684,
+          14.515847
+        ],
+        [
+          35.893423,
+          14.515654
+        ],
+        [
+          35.893128,
+          14.515525
+        ],
+        [
+          35.892815,
+          14.515632
+        ],
+        [
+          35.892398,
+          14.515868
+        ],
+        [
+          35.891911,
+          14.516062
+        ],
+        [
+          35.891428,
+          14.516271
+        ],
+        [
+          35.890976,
+          14.516657
+        ],
+        [
+          35.890611,
+          14.517054
+        ],
+        [
+          35.890394,
+          14.517429
+        ],
+        [
+          35.891002,
+          14.518052
         ]
       ]
     }

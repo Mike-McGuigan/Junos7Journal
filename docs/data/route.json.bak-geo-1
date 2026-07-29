@@ -4323,7 +4323,7 @@
     "date": "28 Jul 4 AM - Early departure",
     "title": "Passage to Valletta, Malta",
     "name": "Passage to Valletta, Malta",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 36.687246,
     "lng": 15.423431,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -4435,6 +4435,82 @@
         [
           36.687246,
           15.423431
+        ]
+      ]
+    }
+  },
+  {
+    "date": "29 Jul - AM",
+    "title": "Passage to Valletta, Malta",
+    "name": "Passage to Valletta, Malta",
+    "phase": "current",
+    "lat": 35.90308,
+    "lng": 14.532788,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365307,
+      "displayName": "Passage to Valletta, Malta",
+      "shortName": "Passage to Valletta, Malta",
+      "rawDisplayName": "Malta",
+      "country": "Malta",
+      "countryCode": "MT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Passage to Valletta, Malta",
+      "toTitle": "Passage to Valletta, Malta",
+      "distanceDirectNm": 63.8,
+      "distanceEstimatedNm": 64.7,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          36.687246,
+          15.423431
+        ],
+        [
+          36.506497,
+          15.225677
+        ],
+        [
+          36.323044,
+          15.085602
+        ],
+        [
+          36.1569,
+          14.893341
+        ],
+        [
+          35.998329,
+          14.672585
+        ],
+        [
+          35.910365,
+          14.544826
+        ],
+        [
+          35.90536,
+          14.542422
+        ],
+        [
+          35.903691,
+          14.544482
+        ],
+        [
+          35.905569,
+          14.545341
+        ],
+        [
+          35.90308,
+          14.532788
         ]
       ]
     }

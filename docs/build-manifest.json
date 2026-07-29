@@ -1,8 +1,8 @@
 {
   "version": "2.7.4",
   "release": "Dashboard safety guards",
-  "buildUtc": "2026-07-29 07:38:12 UTC",
-  "fileCount": 160,
+  "buildUtc": "2026-07-29 12:36:07 UTC",
+  "fileCount": 161,
   "files": [
     {
       "path": ".gitkeep",
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 208,
-      "sha256": "351aa63b37d6d582732978dc9d60ed9321559bc7a66f0b63598ff8c5012cf436"
+      "sha256": "21aba1c9f1d7f619c6117f365920102d3d56aa5ec0a20141ccb27e200fc140fa"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 29238,
-      "sha256": "fa37f2be96b0d5c0e3baaf7d674f3e3dcfaaf65f4b5fa88148827f570af62897"
+      "sizeBytes": 29424,
+      "sha256": "9713419df0a87960fcd193aa7321665248e00a90ef1b5db827b8a508b99f727c"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2096,
-      "sha256": "281f5d8bf9494725b6fdadd2e1efd9535f613ad125441570b5ae30ef1955889b"
+      "sizeBytes": 2176,
+      "sha256": "32ce2c0ec3207d75295f365435708d2e4ce37595c715273de901e7a26a52ae65"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -161,13 +161,13 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 2067,
-      "sha256": "12c973be02e5b51456142c6953b18da43316a807d26a54e9b76eabd875adb334"
+      "sizeBytes": 2096,
+      "sha256": "281f5d8bf9494725b6fdadd2e1efd9535f613ad125441570b5ae30ef1955889b"
     },
     {
       "path": "data/discoveries.json",
-      "sizeBytes": 12785,
-      "sha256": "09fc3c145362cf05f5a5094747a481da4b57aa47805c0c483ab55090c5223b13"
+      "sizeBytes": 14205,
+      "sha256": "8d0815815953d34979c7059099a89f073515fbac86c1d4919dca14e0028a610d"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 206936,
-      "sha256": "80479e32198131b282bb8ba2f6ad6cac3640efc020e553de86c7458883d3bab4"
+      "sizeBytes": 212027,
+      "sha256": "cf72dfd5f1e9827e2824f6d5f8aee356befc5121307cc0757479c45231b670d9"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 102607,
-      "sha256": "4c8317aff3c26c30fe4929b48470ec6e820eaaebb0dd7117a71684d799448268"
+      "sizeBytes": 104774,
+      "sha256": "30509a69043e8f8dbda51fc0f4d6487a90adaf64c8b9422a8c8bf1e644253646"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -251,8 +251,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 100795,
-      "sha256": "c5867e558ded88a8c36e0899135099d021d08a66b9fa848176b96d495fdda4e2"
+      "sizeBytes": 102607,
+      "sha256": "4c8317aff3c26c30fe4929b48470ec6e820eaaebb0dd7117a71684d799448268"
     },
     {
       "path": "data/site.json",
@@ -267,7 +267,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 208,
-      "sha256": "351aa63b37d6d582732978dc9d60ed9321559bc7a66f0b63598ff8c5012cf436"
+      "sha256": "21aba1c9f1d7f619c6117f365920102d3d56aa5ec0a20141ccb27e200fc140fa"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -312,117 +312,7 @@
     {
       "path": "data/version.json.bak-geo-1",
       "sizeBytes": 208,
-      "sha256": "afbfd6862b62d5d17e167e102695e0419f9a379d6ebddf547de27a739d396589"
-    },
-    {
-      "path": "assets/css/admin-map.css",
-      "sizeBytes": 4297,
-      "sha256": "f1739137ffb4f89a4d46e127b062154c0aa9316e9b85ab9d4677fd2d1e6df332"
-    },
-    {
-      "path": "assets/css/companion.css",
-      "sizeBytes": 2515,
-      "sha256": "8d1e3ade6f95c358b5df39a5871a65acdf1001a4299ebff71ab0e22e464dfb5d"
-    },
-    {
-      "path": "assets/css/dashboard.css",
-      "sizeBytes": 1755,
-      "sha256": "e185ff032c5ae8bb4a5bb3c5cb4133492aee88c7dfe878af083611f14ba5f4da"
-    },
-    {
-      "path": "assets/css/style.css",
-      "sizeBytes": 25847,
-      "sha256": "6ee7f87d2c75df736d3c3d81d5ab929bb431f7a01aa17b33499c9bb9733b7486"
-    },
-    {
-      "path": "assets/css/version.css",
-      "sizeBytes": 836,
-      "sha256": "13574efb008adf89f18ce276fc725874a1a9ae41f4e4f6c98bda1347888feb00"
-    },
-    {
-      "path": "assets/icons/j7-hero-mark.png",
-      "sizeBytes": 59532,
-      "sha256": "90e255a52312d32f058e3b640393fd6f28b7a9ac92bae609ed1805e2f9e055ad"
-    },
-    {
-      "path": "assets/icons/j7-hero-mark.svg",
-      "sizeBytes": 79561,
-      "sha256": "99062ab01c5d4f5a6a6e10247ea14541019eb4d787d5a9919130177bb10c3aeb"
-    },
-    {
-      "path": "assets/icons/j7-mark-source.png",
-      "sizeBytes": 46614,
-      "sha256": "967c7208fd1d198396dfc88c09647c31fe94c25824a4edb1e2124ba9ec14d2fd"
-    },
-    {
-      "path": "assets/icons/j7-mark.svg",
-      "sizeBytes": 62337,
-      "sha256": "e5740868d1b5cf6d2b05a5e43565a071c4b2a66c17467b8211b91ee410f7e60e"
-    },
-    {
-      "path": "assets/icons/junos7-summary.png",
-      "sizeBytes": 22745,
-      "sha256": "49932231f9f3d877479dbc2258cfda9cffaa221cd7d49ec8cde676565c60dc30"
-    },
-    {
-      "path": "assets/icons/junos7-wordmark.svg",
-      "sizeBytes": 3398,
-      "sha256": "f59c0e74f3e5a991c8fa4619603e9e7581797e0d771bdb25b060738ef5c2a6d8"
-    },
-    {
-      "path": "assets/images/.gitkeep",
-      "sizeBytes": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    {
-      "path": "assets/js/admin-map.js",
-      "sizeBytes": 30947,
-      "sha256": "0c40cc2ec294c402cefc27616e38b26297032b1cd88adc41e6a75c7a4760ce54"
-    },
-    {
-      "path": "assets/js/app.js",
-      "sizeBytes": 15606,
-      "sha256": "eadfe942ad28e9335141912dc59bdade8a082c2ee5ea19259ba963fcd6cae7af"
-    },
-    {
-      "path": "assets/js/dashboard.js",
-      "sizeBytes": 17371,
-      "sha256": "5c4579f020eed309109139f569483a6b3bd6323863bc857a8f1010ccf375b3c8"
-    },
-    {
-      "path": "assets/js/dashboard.js.bak-0-7-3",
-      "sizeBytes": 4221,
-      "sha256": "8c5d1a9b019df533ba1bd4ed69065beaefab46518b9b1be45168611ee94d0e9c"
-    },
-    {
-      "path": "assets/js/dashboard.js.bak-1-0-5",
-      "sizeBytes": 3126,
-      "sha256": "9ac0f25c616f84a636ec25d17a9fd65da9c0a4064e5b349a51ad2db274025f5e"
-    },
-    {
-      "path": "assets/js/discoveries.js",
-      "sizeBytes": 3522,
-      "sha256": "819207d0a9e86b2cd730cbedd5d17878ccdc919ddab84d67a85313504a0b0c84"
-    },
-    {
-      "path": "assets/js/version.js",
-      "sizeBytes": 744,
-      "sha256": "5e3d1db9a351972a4a4a115839eec0675ca6ac8642c087f9aa14c23ec40464ce"
-    },
-    {
-      "path": "assets/images/flavour/calabrian-table.png",
-      "sizeBytes": 2761997,
-      "sha256": "31c75698909718035b44b0daa7097cbafb36c99fb2f4ade6aabc3312e10f5ae5"
-    },
-    {
-      "path": "assets/images/flavour/dalmatian-seafood-table.png",
-      "sizeBytes": 2967933,
-      "sha256": "cc3181709b541c349cbe1d5e3eecdb7dffb35d66cedaa34a84272db70fcf2ccd"
-    },
-    {
-      "path": "assets/images/flavour/greek-island-table.png",
-      "sizeBytes": 2639115,
-      "sha256": "5dc23d393527d9ca23538f0bbe6c287872b4add1a7f43fb70303f44ddb57bdfb"
+      "sha256": "351aa63b37d6d582732978dc9d60ed9321559bc7a66f0b63598ff8c5012cf436"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -803,6 +693,121 @@
       "path": "media/photos/enhanced/2026-07-15-smokvica-storm-calm-enhanced.jpg",
       "sizeBytes": 167268,
       "sha256": "a8c858d6909bf9b377c41328cf8c4945d452e16503b86ff137144d535483abb1"
+    },
+    {
+      "path": "assets/css/admin-map.css",
+      "sizeBytes": 4297,
+      "sha256": "f1739137ffb4f89a4d46e127b062154c0aa9316e9b85ab9d4677fd2d1e6df332"
+    },
+    {
+      "path": "assets/css/companion.css",
+      "sizeBytes": 2515,
+      "sha256": "8d1e3ade6f95c358b5df39a5871a65acdf1001a4299ebff71ab0e22e464dfb5d"
+    },
+    {
+      "path": "assets/css/dashboard.css",
+      "sizeBytes": 1755,
+      "sha256": "e185ff032c5ae8bb4a5bb3c5cb4133492aee88c7dfe878af083611f14ba5f4da"
+    },
+    {
+      "path": "assets/css/style.css",
+      "sizeBytes": 25847,
+      "sha256": "6ee7f87d2c75df736d3c3d81d5ab929bb431f7a01aa17b33499c9bb9733b7486"
+    },
+    {
+      "path": "assets/css/version.css",
+      "sizeBytes": 836,
+      "sha256": "13574efb008adf89f18ce276fc725874a1a9ae41f4e4f6c98bda1347888feb00"
+    },
+    {
+      "path": "assets/icons/j7-hero-mark.png",
+      "sizeBytes": 59532,
+      "sha256": "90e255a52312d32f058e3b640393fd6f28b7a9ac92bae609ed1805e2f9e055ad"
+    },
+    {
+      "path": "assets/icons/j7-hero-mark.svg",
+      "sizeBytes": 79561,
+      "sha256": "99062ab01c5d4f5a6a6e10247ea14541019eb4d787d5a9919130177bb10c3aeb"
+    },
+    {
+      "path": "assets/icons/j7-mark-source.png",
+      "sizeBytes": 46614,
+      "sha256": "967c7208fd1d198396dfc88c09647c31fe94c25824a4edb1e2124ba9ec14d2fd"
+    },
+    {
+      "path": "assets/icons/j7-mark.svg",
+      "sizeBytes": 62337,
+      "sha256": "e5740868d1b5cf6d2b05a5e43565a071c4b2a66c17467b8211b91ee410f7e60e"
+    },
+    {
+      "path": "assets/icons/junos7-summary.png",
+      "sizeBytes": 22745,
+      "sha256": "49932231f9f3d877479dbc2258cfda9cffaa221cd7d49ec8cde676565c60dc30"
+    },
+    {
+      "path": "assets/icons/junos7-wordmark.svg",
+      "sizeBytes": 3398,
+      "sha256": "f59c0e74f3e5a991c8fa4619603e9e7581797e0d771bdb25b060738ef5c2a6d8"
+    },
+    {
+      "path": "assets/images/.gitkeep",
+      "sizeBytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/js/admin-map.js",
+      "sizeBytes": 30947,
+      "sha256": "0c40cc2ec294c402cefc27616e38b26297032b1cd88adc41e6a75c7a4760ce54"
+    },
+    {
+      "path": "assets/js/app.js",
+      "sizeBytes": 15606,
+      "sha256": "eadfe942ad28e9335141912dc59bdade8a082c2ee5ea19259ba963fcd6cae7af"
+    },
+    {
+      "path": "assets/js/dashboard.js",
+      "sizeBytes": 17371,
+      "sha256": "5c4579f020eed309109139f569483a6b3bd6323863bc857a8f1010ccf375b3c8"
+    },
+    {
+      "path": "assets/js/dashboard.js.bak-0-7-3",
+      "sizeBytes": 4221,
+      "sha256": "8c5d1a9b019df533ba1bd4ed69065beaefab46518b9b1be45168611ee94d0e9c"
+    },
+    {
+      "path": "assets/js/dashboard.js.bak-1-0-5",
+      "sizeBytes": 3126,
+      "sha256": "9ac0f25c616f84a636ec25d17a9fd65da9c0a4064e5b349a51ad2db274025f5e"
+    },
+    {
+      "path": "assets/js/discoveries.js",
+      "sizeBytes": 3522,
+      "sha256": "819207d0a9e86b2cd730cbedd5d17878ccdc919ddab84d67a85313504a0b0c84"
+    },
+    {
+      "path": "assets/js/version.js",
+      "sizeBytes": 744,
+      "sha256": "5e3d1db9a351972a4a4a115839eec0675ca6ac8642c087f9aa14c23ec40464ce"
+    },
+    {
+      "path": "assets/images/flavour/calabrian-table.png",
+      "sizeBytes": 2761997,
+      "sha256": "31c75698909718035b44b0daa7097cbafb36c99fb2f4ade6aabc3312e10f5ae5"
+    },
+    {
+      "path": "assets/images/flavour/dalmatian-seafood-table.png",
+      "sizeBytes": 2967933,
+      "sha256": "cc3181709b541c349cbe1d5e3eecdb7dffb35d66cedaa34a84272db70fcf2ccd"
+    },
+    {
+      "path": "assets/images/flavour/greek-island-table.png",
+      "sizeBytes": 2639115,
+      "sha256": "5dc23d393527d9ca23538f0bbe6c287872b4add1a7f43fb70303f44ddb57bdfb"
+    },
+    {
+      "path": "assets/images/flavour/maltese-table.png",
+      "sizeBytes": 2835514,
+      "sha256": "802f0f02e96b98062a415365572087747717f62bec14a2150674f353026441ce"
     }
   ]
 }

@@ -7,11 +7,11 @@
     "liveAis": false,
     "latestStatus": "Manual location: Passage to Valletta, Malta",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-28T23:00:46.641Z",
+    "lastManualLookupUtc": "2026-07-29T07:26:54.147Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 36.687246,
-      "lng": 15.423431,
+      "lat": 35.90308,
+      "lng": 14.532788,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },
@@ -21,13 +21,13 @@
     "location": {
       "lookupStatus": "ok",
       "lookupProvider": "OpenStreetMap Nominatim",
-      "osmType": null,
-      "osmId": null,
+      "osmType": "relation",
+      "osmId": 365307,
       "displayName": "Passage to Valletta, Malta",
       "shortName": "Passage to Valletta, Malta",
-      "rawDisplayName": null,
-      "country": null,
-      "countryCode": null,
+      "rawDisplayName": "Malta",
+      "country": "Malta",
+      "countryCode": "MT",
       "region": null,
       "county": null,
       "municipality": null,
@@ -39,27 +39,28 @@
     "latestLocationTitle": "Passage to Valletta, Malta"
   },
   "stats": {
-    "routeStops": 54,
-    "distanceDirectNm": 1556.8,
-    "distanceEstimatedNm": 1791.7,
-    "manualSeaRouteLegs": 50,
+    "routeStops": 55,
+    "distanceDirectNm": 1620.6,
+    "distanceEstimatedNm": 1856.4,
+    "manualSeaRouteLegs": 51,
     "journalEntries": 40,
     "mediaItems": 56,
     "photos": 40,
     "videos": 16,
     "contextualDiscoveries": 9,
-    "voyageLegs": 35,
-    "averageLegNm": 51.2,
+    "voyageLegs": 36,
+    "averageLegNm": 51.6,
     "longestLegNm": 383.1,
     "longestLegFrom": "Zadar Anchorage, Croatia",
     "longestLegTo": "Crotone Old Harbour, Calabria, Italy",
-    "countriesVisited": 3,
+    "countriesVisited": 4,
     "countryNames": [
       "Greece",
       "Croatia",
-      "Italy"
+      "Italy",
+      "Malta"
     ],
-    "routeLegs": 53,
+    "routeLegs": 54,
     "longestLegInProgress": false
   }
 }

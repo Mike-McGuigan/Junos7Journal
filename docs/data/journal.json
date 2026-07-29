@@ -1075,6 +1075,36 @@
         "imageAlt": "Calabrian table with red chillies, cheeses, cured pork, aubergines and red wine",
         "imageCaption": "Illustrative local flavour image"
       }
+    },
+    {
+      "id": "malta-grand-harbour-arrival",
+      "date": "2026-07-29",
+      "title": "Arrival in Malta",
+      "location": "Grand Harbour Marina, Vittoriosa, Malta",
+      "type": "voyage-stop",
+      "person": "",
+      "quote": "",
+      "mapStop": "Grand Harbour Marina, Vittoriosa, Malta",
+      "body": "After leaving Crotone in the early hours of 28 July, Juno’s 7 completed the passage south across the Ionian Sea and came into Malta in time for breakfast. The yacht settled at Grand Harbour Marina on the Vittoriosa side of the water, with Valletta and the fortified Three Cities wrapped around one of the Mediterranean’s great natural harbours.\n\nThe owners had flown ahead to Malta after leaving the yacht in Zadar, so the arrival also brought Juno’s 7 back into position to meet them again after the delivery passage.",
+      "summary": "Juno’s 7 reached Grand Harbour Marina in Vittoriosa after the passage from Crotone, completing the crossing from Italy to Malta.",
+      "photos": [],
+      "videos": [],
+      "media": [],
+      "didYouKnow": {
+        "title": "Fort St Angelo and Grand Harbour",
+        "body": "Fort St Angelo stands at the end of the Birgu peninsula, immediately beside the marina, and has dominated Grand Harbour for centuries. The Order of St John made it their headquarters after 1530, it played a major role during the Great Siege of 1565, and it later served as a Royal Navy shore base."
+      },
+      "flavourOf": {
+        "title": "Flavour of Malta",
+        "body": "Maltese food blends Mediterranean island cooking with strong Sicilian and North African influences: flaky pastizzi, ftira bread with tuna, olives and capers, slow-cooked rabbit stew, lampuki pie, local cheeses, honey and date-filled imqaret.",
+        "image": "assets/images/flavour/maltese-table.png",
+        "imageAlt": "Maltese table with pastizzi, ftira, rabbit stew, lampuki pie, olives, imqaret and harbour water beyond",
+        "imageCaption": "Illustrative local flavour image"
+      },
+      "notableEncounter": {
+        "title": "Superyacht company in Valletta",
+        "body": "Grand Harbour immediately put Juno’s 7 among some serious company. Aquila, the 85.6-metre Derecktor motor yacht, is publicly listed for charter from about €945,000 per week, plus expenses. The classic 49.9-metre schooner Xarifa 1927 was another standout, with current broker listings describing her as not available for charter. Stardust, a 62.5-metre Amels 206 delivered in 2020, and Lasata, a 65.7-metre Rossinavi delivered in 2023, were also visible nearby; for Lasata, public charter listings point to enquiry or POA pricing rather than a published weekly rate."
+      }
     }
   ],
   "media": [
@@ -6814,7 +6844,7 @@
       "date": "29 Jul - AM",
       "title": "Passage to Valletta, Malta",
       "name": "Passage to Valletta, Malta",
-      "phase": "current",
+      "phase": "onboard",
       "lat": 35.90308,
       "lng": 14.532788,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -6882,6 +6912,98 @@
           [
             35.90308,
             14.532788
+          ]
+        ]
+      }
+    },
+    {
+      "date": "29 Jul - In time for breakfast again",
+      "title": "Grand Harbour Marina, Vittoriosa, Malta",
+      "name": "Grand Harbour Marina, Vittoriosa, Malta",
+      "phase": "current",
+      "lat": 35.891002,
+      "lng": 14.518052,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 365307,
+        "displayName": "Grand Harbour Marina, Vittoriosa, Malta",
+        "shortName": "Grand Harbour Marina, Vittoriosa, Malta",
+        "rawDisplayName": "Malta",
+        "country": "Malta",
+        "countryCode": "MT",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Passage to Valletta, Malta",
+        "toTitle": "Grand Harbour Marina, Vittoriosa, Malta",
+        "distanceDirectNm": 1.0,
+        "distanceEstimatedNm": 1.3,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            35.90308,
+            14.532788
+          ],
+          [
+            35.89989,
+            14.522542
+          ],
+          [
+            35.893858,
+            14.516104
+          ],
+          [
+            35.893684,
+            14.515847
+          ],
+          [
+            35.893423,
+            14.515654
+          ],
+          [
+            35.893128,
+            14.515525
+          ],
+          [
+            35.892815,
+            14.515632
+          ],
+          [
+            35.892398,
+            14.515868
+          ],
+          [
+            35.891911,
+            14.516062
+          ],
+          [
+            35.891428,
+            14.516271
+          ],
+          [
+            35.890976,
+            14.516657
+          ],
+          [
+            35.890611,
+            14.517054
+          ],
+          [
+            35.890394,
+            14.517429
+          ],
+          [
+            35.891002,
+            14.518052
           ]
         ]
       }

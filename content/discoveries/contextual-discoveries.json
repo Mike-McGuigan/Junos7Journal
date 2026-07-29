@@ -231,6 +231,29 @@
         "publisher": "Italia.it",
         "url": "https://www.italia.it/en/calabria/crotone"
       }
+    },
+    {
+      "id": "malta-fort-st-angelo-grand-harbour",
+      "approved": true,
+      "routeStopTitle": "Grand Harbour Marina, Vittoriosa, Malta",
+      "journalEntryId": "malta-grand-harbour-arrival",
+      "date": "2026-07-29",
+      "category": "History",
+      "title": "The fortress beside Grand Harbour",
+      "featureName": "Fort St Angelo",
+      "body": "Fort St Angelo stands at the end of the Birgu peninsula, immediately beside Grand Harbour Marina. The fort became the headquarters of the Order of St John after 1530, played a major role in the Great Siege of 1565, and later served as a Royal Navy shore base, making it one of the defining landmarks of Malta?s maritime history.",
+      "proximity": "Right beside Grand Harbour Marina",
+      "contextualArea": true,
+      "exceptional": true,
+      "evidence": [
+        "place-defining"
+      ],
+      "whyIncluded": "Juno?s 7 was moored beside the fort, making it direct harbour context rather than a distant attraction.",
+      "source": {
+        "title": "Fort St Angelo",
+        "publisher": "Heritage Malta",
+        "url": "https://heritagemalta.mt/explore/fort-st-angelo/"
+      }
     }
   ]
 }

@@ -12,5 +12,42 @@
 .output-box{white-space:pre-wrap;background:#061928;color:#f6efe2;padding:1rem;border-radius:12px;overflow-x:auto;margin-top:1rem;max-height:360px}
 .status-card{background:rgba(15,111,145,.1);border:1px solid rgba(15,111,145,.32);border-radius:10px;padding:.9rem;margin:1rem 0}
 .small-note{color:#6d7b86;font-size:.92rem;line-height:1.5}
-.health-list{display:grid;gap:.4rem;margin-top:.6rem}.health-ok{color:#116b3a}.health-warn{color:#8a5a00}.health-bad{color:#9b1c1c}
+.health-list{display:grid;gap:.4rem;margin-top:.6rem}.health-root{color:#23313d;line-height:1.45}.health-root code{display:block;margin-top:.2rem;white-space:normal;overflow-wrap:anywhere}.health-ok{color:#116b3a}.health-warn{color:#8a5a00}.health-bad{color:#9b1c1c}
 code{background:rgba(6,25,40,.08);padding:.1rem .25rem;border-radius:4px}
+
+
+.admin-divider{border:0;border-top:1px solid rgba(6,25,40,.18);margin:1.4rem 0}
+.route-editor-panel{margin-top:1rem}
+.route-editor-buttons{display:flex;gap:.5rem;flex-wrap:wrap;margin:.75rem 0 1rem}
+.route-editor-buttons button{border:1px solid #c9a45c;border-radius:999px;background:#061928;color:#f6efe2;padding:.65rem .9rem;cursor:pointer;font:inherit}
+.route-editor-buttons button:disabled{opacity:.45;cursor:not-allowed}
+.route-editor-status{font-size:.92rem;line-height:1.45}
+.route-editor-status strong{color:#0f6f91}
+.leaflet-marker-icon.route-waypoint-marker{filter:drop-shadow(0 2px 4px rgba(0,0,0,.35))}
+.route-arrow-marker{pointer-events:none;display:grid;place-items:center}
+.route-arrow-marker svg{width:20px;height:20px;display:block;fill:#f0d594;filter:drop-shadow(0 1px 2px rgba(6,25,40,.55));opacity:.88;transform-origin:center}
+
+
+.checkbox-label{display:flex!important;grid-template-columns:none!important;align-items:center;gap:.55rem;font-weight:600;margin:.75rem 0}
+.checkbox-label input{width:auto!important}
+.stop-editor-panel{border-top:1px solid rgba(6,25,40,.12);padding-top:1rem}
+.stop-move-marker{filter:drop-shadow(0 2px 5px rgba(0,0,0,.35))}
+.stop-editor-status strong{color:#0f6f91}
+
+.route-editor-buttons .danger-button{background:#7f1d1d;border-color:#b91c1c}
+.route-editor-buttons .danger-button:disabled{opacity:.45;cursor:not-allowed}
+
+
+/* v2.3.2 collapsible dashboard sections */
+.admin-collapsible{border:1px solid rgba(6,25,40,.16);border-radius:12px;margin:0 0 1rem;background:rgba(255,255,255,.34);overflow:hidden}
+.admin-collapsible>summary{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1rem 1.05rem;cursor:pointer;background:rgba(6,25,40,.045);user-select:none}
+.admin-collapsible>summary::-webkit-details-marker{display:none}
+.admin-collapsible>summary span:first-child{display:grid;gap:.15rem}
+.admin-collapsible>summary .kicker{margin:0;font-size:.78rem}
+.admin-collapsible>summary strong{font-family:Georgia,serif;font-size:1.35rem;color:#132333}
+.admin-collapsible-body{padding:1rem 1.05rem 1.1rem}
+.collapse-chevron{font-size:1.4rem;line-height:1;transition:transform .2s ease;color:#0f6f91}
+.admin-collapsible[open] .collapse-chevron{transform:rotate(180deg)}
+.admin-collapsible .route-editor-panel{margin-top:0}
+.admin-collapsible .stop-editor-panel{border-top:0;padding-top:0}
+#fitRouteBtn{background:#0f6f91}

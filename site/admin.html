@@ -53,9 +53,9 @@
   </div>
 </details>
 
-<div class="status-card"><strong>Save mode:</strong> <span id="publishMode">Checking...</span><div id="healthList" class="health-list"></div><p class="small-note">Save Route Update works when opened through <code>Start Captains Dashboard.bat</code> or <code>python tools/admin_publish_server.py</code>.</p></div>
+<div class="status-card"><strong>Save mode:</strong> <span id="publishMode">Checking...</span><div id="healthList" class="health-list"></div><p class="small-note">Save Route Update works when opened through <code>Start Captains Dashboard.bat</code> or <code>python tools/admin_publish_server.py</code>. Check the serving path before saving route changes.</p></div>
 </section><section class="admin-map-shell"><div id="adminMap"></div></section></main>
 <section class="section"><p class="kicker">Local saving</p><h2>Start the local dashboard server</h2><pre class="output-box">Start Captains Dashboard.bat</pre><p class="lead">The server applies the location and rebuilds the site locally. Commit and push the repository when you are ready to publish the public site.</p></section>
 <section class="section dark"><div class="wrap"><p class="kicker">Contextual Discovery</p><h2>Curated nearby stories</h2><p class="lead">Approved discoveries are maintained in <code>content/discoveries/contextual-discoveries.json</code>. The build checks route matching, proximity rules and source links before publishing.</p><p><a class="button" href="discoveries.html">Open the discovery page</a></p><pre class="output-box">python tools/contextual_discovery.py --check
 python tools/build_site.py</pre></div></section>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="assets/js/admin-map.js"></script></body></html>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="assets/js/admin-map.js?v=2.7.4"></script></body></html>

@@ -4,18 +4,21 @@ This is the shared source of truth for release scope, deferred work and validati
 
 ## Current release
 
-**v2.7.3 - Route Editor Leg Fix**
+**v2.7.4 - Dashboard Safety Guards**
 
 ## Next release
 
-Scope to be assigned after v2.7.3 is committed and tested.
+Scope to be assigned after v2.7.4 is committed and tested.
 
 ## Current release scope
 
 ### Captain's Dashboard
-- [x] Prevent zero-distance duplicate route points being edited as normal sea-route legs.
-- [x] Default the Voyage Route Editor to the latest non-zero leg.
-- [x] Insert new manual sea waypoints into the nearest segment of the active leg.
+- [x] Show the repository root being served by the Captain's Dashboard.
+- [x] Refuse to start if `localhost:8765` is already serving a different repository.
+- [x] Warn clearly if port `8765` is occupied by another process.
+- [x] Remove duplicate repository output and non-actionable credential-helper warnings.
+- [x] Include the repository path in local save confirmations.
+- [x] Improve route-update filename sanitising for passage names.
 
 ## Backlog
 
@@ -57,6 +60,18 @@ None currently.
 None currently.
 
 ## Completed
+
+### v2.7.4
+- [x] Added dashboard startup safeguards for stale servers on `localhost:8765`.
+- [x] Displayed the active serving repository root in the dashboard health panel.
+- [x] Added clear startup errors when another repository or process is already using port `8765`.
+- [x] Added dashboard cache safeguards so the local editor loads the current JavaScript after rebuilds.
+- [x] Fixed manual sea-waypoint editing so the selected editable leg is not visually mixed with the base route.
+- [x] Fixed manual sea-waypoint ordering so waypoints remain numbered in click order.
+- [x] Removed duplicate repository output from the dashboard starter.
+- [x] Removed the non-actionable credential-helper warning from the visible dashboard health checklist.
+- [x] Added repository paths to local route, stop and geometry save messages.
+- [x] Sanitised passage filenames so symbols such as `->` become `to`.
 
 ### v2.7.3
 - [x] Fixed Voyage Route Editor leg editing after duplicate same-position route points.

@@ -12,7 +12,7 @@
 .output-box{white-space:pre-wrap;background:#061928;color:#f6efe2;padding:1rem;border-radius:12px;overflow-x:auto;margin-top:1rem;max-height:360px}
 .status-card{background:rgba(15,111,145,.1);border:1px solid rgba(15,111,145,.32);border-radius:10px;padding:.9rem;margin:1rem 0}
 .small-note{color:#6d7b86;font-size:.92rem;line-height:1.5}
-.health-list{display:grid;gap:.4rem;margin-top:.6rem}.health-ok{color:#116b3a}.health-warn{color:#8a5a00}.health-bad{color:#9b1c1c}
+.health-list{display:grid;gap:.4rem;margin-top:.6rem}.health-root{color:#23313d;line-height:1.45}.health-root code{display:block;margin-top:.2rem;white-space:normal;overflow-wrap:anywhere}.health-ok{color:#116b3a}.health-warn{color:#8a5a00}.health-bad{color:#9b1c1c}
 code{background:rgba(6,25,40,.08);padding:.1rem .25rem;border-radius:4px}
 
 

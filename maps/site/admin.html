@@ -1,18 +1,61 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Captain's Dashboard - Juno's 7</title>
+<link rel="icon" href="assets/icons/j7-mark.svg" type="image/svg+xml"><meta name="theme-color" content="#061928">
 <link rel="stylesheet" href="assets/css/style.css"><link rel="stylesheet" href="assets/css/admin-map.css"><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"></head>
 <body>
-<header class="hero" style="min-height:48vh"><div class="hero-inner"><p class="eyebrow">Admin Tool</p><h1 style="font-size:clamp(3rem,9vw,7rem)">Captain's Dashboard</h1><h2>Click the map, then publish</h2><p class="lead" style="margin:auto">A local publishing dashboard for updating the voyage map without editing JSON by hand.</p><nav class="nav"><a href="index.html">Journal</a><a href="voyage.html">Voyage Map</a><a href="about.html">About Juno's 7</a></nav></div></header>
-<main class="admin-layout"><section class="admin-panel"><p class="kicker">New position</p><h2 style="font-size:2.4rem">Location details</h2><p class="small-note">Click the map to fill latitude/longitude automatically. Drag the marker to refine it.</p><div class="status-card" id="statusCard">No point selected yet.</div>
-<label>Date label<input id="dateLabel" value="1 Jul"></label><label>Location name<input id="locationName" value="East Coast Corfu"></label>
-<label>Status<select id="status"><option>Approximate area</option><option>At anchor</option><option>Moored</option><option>Under way</option></select></label>
-<label>Precision<select id="precision"><option selected>map click approximate marker</option><option>precise AIS coordinate</option><option>map click approximate marker</option></select></label>
-<label>Latitude<input id="lat" type="number" step="0.000001" placeholder="Click map"></label><label>Longitude<input id="lng" type="number" step="0.000001" placeholder="Click map"></label>
-<label>Notes<textarea id="note" rows="4">Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.</textarea></label>
-<div class="admin-buttons"><button type="button" id="previewBtn">Preview JSON</button><button type="button" id="publishBtn">Publish</button><button type="button" id="copyBtn">Copy JSON</button><button type="button" id="downloadBtn">Download JSON</button><a href="voyage.html">Open Voyage Map</a></div>
-<pre id="output" class="output-box">Click the map, then preview or publish the update.</pre>
-<div class="status-card"><strong>Publish mode:</strong> <span id="publishMode">Checking...</span><div id="healthList" class="health-list"></div><p class="small-note">Publish works when opened through <code>Start Captains Dashboard.bat</code> or <code>python tools/admin_publish_server.py</code>.</p></div>
+<header class="hero" style="min-height:48vh"><div class="hero-inner"><p class="eyebrow">Admin Tool</p><h1 style="font-size:clamp(3rem,9vw,7rem)">Captain's Dashboard</h1><h2>Click the map, then save</h2><p class="lead" style="margin:auto">A local dashboard for updating the voyage map without editing JSON by hand.</p><nav class="nav"><a href="index.html">Journal</a><a href="voyage.html">Voyage Map</a><a href="discoveries.html">Discoveries</a><a href="about.html">About Juno's 7</a></nav></div></header>
+<main class="admin-layout"><section class="admin-panel">
+<details class="admin-collapsible" id="newPositionSection" open>
+  <summary><span><span class="kicker">New position</span><strong>Location details</strong></span><span class="collapse-chevron" aria-hidden="true">⌄</span></summary>
+  <div class="admin-collapsible-body">
+    <p class="small-note">Click the map to fill latitude/longitude automatically. Drag the marker to refine it.</p><div class="status-card" id="statusCard">No point selected yet.</div>
+    <label>Date label<input id="dateLabel"></label><label>Location name<input id="locationName" placeholder="Enter location or passage name"></label>
+    <label>Status<select id="status"><option>Approximate area</option><option>At anchor</option><option>Moored</option><option>Underway</option></select></label>
+    <label>Precision<select id="precision"><option selected>map click approximate marker</option><option>precise AIS coordinate</option><option>crew-confirmed area marker</option></select></label>
+    <label>Latitude<input id="lat" type="number" step="0.000001" placeholder="Click map"></label><label>Longitude<input id="lng" type="number" step="0.000001" placeholder="Click map"></label>
+    <label>Notes<textarea id="note" rows="4">Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.</textarea></label>
+    <div class="admin-buttons"><button type="button" id="previewBtn">Preview JSON</button><button type="button" id="publishBtn">Save Route Update</button><button type="button" id="copyBtn">Copy JSON</button><button type="button" id="downloadBtn">Download JSON</button><a href="voyage.html">Open Voyage Map</a></div>
+    <pre id="output" class="output-box">Click the map, then preview or save the update.</pre>
+  </div>
+</details>
+
+<details class="admin-collapsible" id="routeEditorSection">
+  <summary><span><span class="kicker">Voyage route editor</span><strong>Manual sea waypoints</strong></span><span class="collapse-chevron" aria-hidden="true">⌄</span></summary>
+  <div class="admin-collapsible-body route-editor-panel">
+    <p class="small-note">Use this only when a straight line between two stops crosses land. Select a leg, click <strong>Edit Leg</strong>, then click the sea on the map to add intermediate waypoints.</p>
+    <label>Voyage leg<select id="routeLegSelect"><option>Loading route legs...</option></select></label>
+    <div class="route-editor-buttons">
+      <button type="button" id="editLegBtn">Edit Leg</button>
+      <button type="button" id="fitRouteBtn">Fit Route</button>
+      <button type="button" id="undoWaypointBtn" disabled>Undo Waypoint</button>
+      <button type="button" id="clearWaypointsBtn" disabled>Clear</button>
+      <button type="button" id="saveWaypointsBtn" disabled>Save Route</button>
+      <button type="button" id="cancelWaypointsBtn" disabled>Cancel</button>
+    </div>
+    <div class="status-card route-editor-status" id="routeEditorStatus">Select a leg to inspect or edit its optional sea route.</div>
+  </div>
+</details>
+
+<details class="admin-collapsible" id="stopEditorSection">
+  <summary><span><span class="kicker">Voyage stop editor</span><strong>Move an existing stop</strong></span><span class="collapse-chevron" aria-hidden="true">⌄</span></summary>
+  <div class="admin-collapsible-body route-editor-panel stop-editor-panel">
+    <p class="small-note">Use this to correct an existing stop position without adding a new route point. Select a stop, click <strong>Move Stop</strong>, then drag the cyan marker or click a new position on the map.</p>
+    <label>Voyage stop<select id="stopSelect"><option>Loading stops...</option></select></label>
+    <label class="checkbox-label"><input id="clearAffectedGeometry" type="checkbox" checked> Clear manual sea routes touching this stop</label>
+    <div class="route-editor-buttons">
+      <button type="button" id="moveStopBtn">Move Stop</button>
+      <button type="button" id="removeStopBtn" class="danger-button">Remove Stop</button>
+      <button type="button" id="saveStopBtn" disabled>Save Stop</button>
+      <button type="button" id="cancelStopBtn" disabled>Cancel</button>
+    </div>
+    <div class="status-card route-editor-status" id="stopEditorStatus">Select a stop to inspect or move its plotted position.</div>
+  </div>
+</details>
+
+<div class="status-card"><strong>Save mode:</strong> <span id="publishMode">Checking...</span><div id="healthList" class="health-list"></div><p class="small-note">Save Route Update works when opened through <code>Start Captains Dashboard.bat</code> or <code>python tools/admin_publish_server.py</code>. Check the serving path before saving route changes.</p></div>
 </section><section class="admin-map-shell"><div id="adminMap"></div></section></main>
-<section class="section"><p class="kicker">Local publishing</p><h2>Start the local publish server</h2><pre class="output-box">Start Captains Dashboard.bat</pre><p class="lead">The server applies the location, builds the site, commits, and pushes using your existing local Git credentials.</p></section>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="assets/js/admin-map.js"></script></body></html>
+<section class="section"><p class="kicker">Local saving</p><h2>Start the local dashboard server</h2><pre class="output-box">Start Captains Dashboard.bat</pre><p class="lead">The server applies the location and rebuilds the site locally. Commit and push the repository when you are ready to publish the public site.</p></section>
+<section class="section dark"><div class="wrap"><p class="kicker">Contextual Discovery</p><h2>Curated nearby stories</h2><p class="lead">Approved discoveries are maintained in <code>content/discoveries/contextual-discoveries.json</code>. The build checks route matching, proximity rules and source links before publishing.</p><p><a class="button" href="discoveries.html">Open the discovery page</a></p><pre class="output-box">python tools/contextual_discovery.py --check
+python tools/build_site.py</pre></div></section>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="assets/js/admin-map.js?v=2.7.4"></script></body></html>

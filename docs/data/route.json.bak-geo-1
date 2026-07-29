@@ -4203,7 +4203,7 @@
     "date": "26 Jul - In time for breakfast",
     "title": "Crotone Old Harbour, Calabria, Italy",
     "name": "Crotone Old Harbour, Calabria, Italy",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 39.078197,
     "lng": 17.137229,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -4315,6 +4315,126 @@
         [
           39.078197,
           17.137229
+        ]
+      ]
+    }
+  },
+  {
+    "date": "28 Jul 4 AM - Early departure",
+    "title": "Passage to Valletta, Malta",
+    "name": "Passage to Valletta, Malta",
+    "phase": "current",
+    "lat": 36.687246,
+    "lng": 15.423431,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": null,
+      "osmId": null,
+      "displayName": "Passage to Valletta, Malta",
+      "shortName": "Passage to Valletta, Malta",
+      "rawDisplayName": null,
+      "country": null,
+      "countryCode": null,
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Crotone Old Harbour, Calabria, Italy",
+      "toTitle": "Passage to Valletta, Malta",
+      "distanceDirectNm": 164.9,
+      "distanceEstimatedNm": 178.6,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.078197,
+          17.137229
+        ],
+        [
+          39.077568,
+          17.136043
+        ],
+        [
+          39.076786,
+          17.135764
+        ],
+        [
+          39.076369,
+          17.136301
+        ],
+        [
+          39.075953,
+          17.137417
+        ],
+        [
+          39.075636,
+          17.138768
+        ],
+        [
+          39.07552,
+          17.140142
+        ],
+        [
+          39.07122,
+          17.171288
+        ],
+        [
+          39.068555,
+          17.194633
+        ],
+        [
+          39.059492,
+          17.215919
+        ],
+        [
+          39.046694,
+          17.228966
+        ],
+        [
+          39.030694,
+          17.242012
+        ],
+        [
+          39.008822,
+          17.257118
+        ],
+        [
+          38.987476,
+          17.259865
+        ],
+        [
+          38.966658,
+          17.252998
+        ],
+        [
+          38.944766,
+          17.246132
+        ],
+        [
+          38.880652,
+          17.202873
+        ],
+        [
+          38.146606,
+          16.873627
+        ],
+        [
+          37.521878,
+          16.631927
+        ],
+        [
+          37.266574,
+          16.34079
+        ],
+        [
+          36.687246,
+          15.423431
         ]
       ]
     }

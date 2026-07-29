@@ -1,5 +1,19 @@
 # Changelog
 
+## 2.7.4 - Dashboard Safety Guards
+
+- Added Captain's Dashboard server checks so `localhost:8765` refuses to start if it is already being served from a different repository folder.
+- Added a clear dashboard error when port `8765` is already occupied by a non-dashboard process.
+- Displayed the active dashboard version, release title, branch, working-tree state and serving repository root in the dashboard health panel.
+- Removed duplicate repository output from the dashboard starter.
+- Removed the non-actionable credential-helper warning from the visible dashboard health checklist.
+- Updated local save confirmations so they include the repository path being written to.
+- Improved route-update filename sanitising so passage names such as `Crotone -> Valletta` become clean `crotone-to-valletta` filenames.
+- Prevented stale dashboard JavaScript from being reused after a rebuild by adding local no-cache headers and a versioned admin script URL.
+- Improved the manual sea-waypoint editor so the base route is removed while a leg is being edited, leaving only the selected cyan editable leg and avoiding the appearance of a duplicate/new route.
+- Fixed manual sea-waypoint numbering so clicks are added in placement order instead of being reordered by nearest route segment.
+- Updated version and build metadata to `2.7.4`.
+
 ## 2.7.3 - Route Editor Leg Fix
 
 - Fixed the Voyage Route Editor so zero-distance duplicate route points are labelled as same-position legs and are not opened for manual waypoint editing.

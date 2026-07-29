@@ -1082,14 +1082,18 @@
       "title": "Arrival in Malta",
       "location": "Grand Harbour Marina, Vittoriosa, Malta",
       "type": "voyage-stop",
-      "person": "",
+      "person": "Sophie",
       "quote": "",
       "mapStop": "Grand Harbour Marina, Vittoriosa, Malta",
-      "body": "After leaving Crotone in the early hours of 28 July, Juno’s 7 completed the passage south across the Ionian Sea and came into Malta in time for breakfast. The yacht settled at Grand Harbour Marina on the Vittoriosa side of the water, with Valletta and the fortified Three Cities wrapped around one of the Mediterranean’s great natural harbours.\n\nThe owners had flown ahead to Malta after leaving the yacht in Zadar, so the arrival also brought Juno’s 7 back into position to meet them again after the delivery passage.",
+      "body": "After leaving Crotone in the early hours of 28 July, Juno’s 7 completed the passage south across the Ionian Sea and came into Malta in time for breakfast. The yacht settled at Grand Harbour Marina on the Vittoriosa side of the water, with Valletta and the fortified Three Cities wrapped around one of the Mediterranean’s great natural harbours.\n\nThe owners had flown ahead to Malta after leaving the yacht in Zadar, so the arrival also brought Juno’s 7 back into position to meet them again after the delivery passage.\n\nLater that afternoon, Sophie shared a view across Grand Harbour Marina. Lasata was still visible nearby, while Xarifa 1927 had already moved on.",
       "summary": "Juno’s 7 reached Grand Harbour Marina in Vittoriosa after the passage from Crotone, completing the crossing from Italy to Malta.",
-      "photos": [],
+      "photos": [
+        "malta-lasata-grand-harbour-marina"
+      ],
       "videos": [],
-      "media": [],
+      "media": [
+        "malta-lasata-grand-harbour-marina"
+      ],
       "didYouKnow": {
         "title": "Fort St Angelo and Grand Harbour",
         "body": "Fort St Angelo stands at the end of the Birgu peninsula, immediately beside the marina, and has dominated Grand Harbour for centuries. The Order of St John made it their headquarters after 1530, it played a major role during the Great Siege of 1565, and it later served as a Royal Navy shore base."
@@ -1104,7 +1108,8 @@
       "notableEncounter": {
         "title": "Superyacht company in Valletta",
         "body": "Grand Harbour immediately put Juno’s 7 among some serious company. Aquila, the 85.6-metre Derecktor motor yacht, is publicly listed for charter from about €945,000 per week, plus expenses. The classic 49.9-metre schooner Xarifa 1927 was another standout, with current broker listings describing her as not available for charter. Stardust, a 62.5-metre Amels 206 delivered in 2020, and Lasata, a 65.7-metre Rossinavi delivered in 2023, were also visible nearby; for Lasata, public charter listings point to enquiry or POA pricing rather than a published weekly rate."
-      }
+      },
+      "heroMedia": "malta-lasata-grand-harbour-marina"
     }
   ],
   "media": [
@@ -2395,6 +2400,26 @@
           "title": "Waiting on Sakarun Beach",
           "date": "2026-07-23",
           "location": "Sakarun Bay, Dugi Otok, Croatia"
+        }
+      ]
+    },
+    {
+      "id": "malta-lasata-grand-harbour-marina",
+      "type": "photo",
+      "date": "2026-07-29",
+      "url": "media/photos/2026-07-29-lasata-grand-harbour-marina.png",
+      "title": "Lasata in Grand Harbour Marina",
+      "caption": "Sophie’s afternoon view from near Fort St Angelo across Grand Harbour Marina, with Lasata still nearby after Xarifa 1927 had moved on.",
+      "categories": [
+        "ports-anchorages",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "malta-grand-harbour-arrival",
+          "title": "Arrival in Malta",
+          "date": "2026-07-29",
+          "location": "Grand Harbour Marina, Vittoriosa, Malta"
         }
       ]
     }

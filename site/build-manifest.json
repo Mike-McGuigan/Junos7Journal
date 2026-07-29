@@ -1,8 +1,8 @@
 {
   "version": "2.7.4",
   "release": "Dashboard safety guards",
-  "buildUtc": "2026-07-29 12:36:07 UTC",
-  "fileCount": 161,
+  "buildUtc": "2026-07-29 17:14:07 UTC",
+  "fileCount": 162,
   "files": [
     {
       "path": ".gitkeep",
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 208,
-      "sha256": "21aba1c9f1d7f619c6117f365920102d3d56aa5ec0a20141ccb27e200fc140fa"
+      "sha256": "bc9d1da50590944ec9c401dc4decffc476aa973378e691b71fbee02437d4104f"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 29424,
-      "sha256": "9713419df0a87960fcd193aa7321665248e00a90ef1b5db827b8a508b99f727c"
+      "sizeBytes": 29625,
+      "sha256": "2f5179f4224ae07b5670556ac7e1c1a656caa377c89aae6668116966a8438d51"
     },
     {
       "path": "crew.html",
@@ -132,7 +132,7 @@
     {
       "path": "data/dashboard.json",
       "sizeBytes": 2176,
-      "sha256": "32ce2c0ec3207d75295f365435708d2e4ce37595c715273de901e7a26a52ae65"
+      "sha256": "dd6fdfd477f50f238786aaf723de8f4f84c105b25e245d25a13b006a26d90d63"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -167,7 +167,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 14205,
-      "sha256": "8d0815815953d34979c7059099a89f073515fbac86c1d4919dca14e0028a610d"
+      "sha256": "638ed657b892ce1463fee82333ff290e224f6d102a85dff1f485a8a7588695d2"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 212027,
-      "sha256": "cf72dfd5f1e9827e2824f6d5f8aee356befc5121307cc0757479c45231b670d9"
+      "sizeBytes": 213067,
+      "sha256": "dea4e21f20771e819420927eed9e2dd4d1110484e9ea1dc7f87adeba24504dfc"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -201,8 +201,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 38992,
-      "sha256": "b370324e9c3ae70793ac4429c9da50ad6fe1fe7173db7f800cd66876016c558d"
+      "sizeBytes": 39677,
+      "sha256": "0529263ecb480ff67b7ea88bd0294a4bea57b104cb7135df14aec9a55cfb686c"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -267,7 +267,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 208,
-      "sha256": "21aba1c9f1d7f619c6117f365920102d3d56aa5ec0a20141ccb27e200fc140fa"
+      "sha256": "bc9d1da50590944ec9c401dc4decffc476aa973378e691b71fbee02437d4104f"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -518,6 +518,11 @@
       "path": "media/photos/2026-07-23-sakarun-beach-setup.png",
       "sizeBytes": 3703999,
       "sha256": "d45700b4fc7cca99e27ded769eb752996885855a2229774e1c001fda72a524f3"
+    },
+    {
+      "path": "media/photos/2026-07-29-lasata-grand-harbour-marina.png",
+      "sizeBytes": 428350,
+      "sha256": "2722a5b81bdefbf622cfca56b0f0ded17d36901c71e0196ed9e4a9ae78ef935a"
     },
     {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",

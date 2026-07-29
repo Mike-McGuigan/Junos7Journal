@@ -1268,5 +1268,25 @@
         "location": "Sakarun Bay, Dugi Otok, Croatia"
       }
     ]
+  },
+  {
+    "id": "malta-lasata-grand-harbour-marina",
+    "type": "photo",
+    "date": "2026-07-29",
+    "url": "media/photos/2026-07-29-lasata-grand-harbour-marina.png",
+    "title": "Lasata in Grand Harbour Marina",
+    "caption": "Sophie’s afternoon view from near Fort St Angelo across Grand Harbour Marina, with Lasata still nearby after Xarifa 1927 had moved on.",
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "malta-grand-harbour-arrival",
+        "title": "Arrival in Malta",
+        "date": "2026-07-29",
+        "location": "Grand Harbour Marina, Vittoriosa, Malta"
+      }
+    ]
   }
 ]

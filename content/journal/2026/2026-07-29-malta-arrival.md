@@ -9,6 +9,9 @@ After leaving Crotone in the early hours of 28 July, Juno’s 7 completed the pa
 
 The owners had flown ahead to Malta after leaving the yacht in Zadar, so the arrival also brought Juno’s 7 back into position to meet them again after the delivery passage.
 
+Later that afternoon, Sophie shared a view across Grand Harbour Marina. Lasata was still visible nearby, while Xarifa 1927 had already moved on.
+
+
 ## Did you know?
 
 Fort St Angelo stands at the end of the Birgu peninsula, immediately beside the marina, and has dominated Grand Harbour for centuries. The Order of St John made it their headquarters after 1530, it played a major role during the Great Siege of 1565, and it later served as a Royal Navy shore base.

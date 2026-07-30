@@ -1,8 +1,8 @@
 {
   "version": "2.7.4",
   "release": "Dashboard safety guards",
-  "buildUtc": "2026-07-29 17:14:07 UTC",
-  "fileCount": 162,
+  "buildUtc": "2026-07-30 21:42:52 UTC",
+  "fileCount": 164,
   "files": [
     {
       "path": ".gitkeep",
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 208,
-      "sha256": "bc9d1da50590944ec9c401dc4decffc476aa973378e691b71fbee02437d4104f"
+      "sha256": "cd4141c7d744d9298d1afb4bbc54a7b395475bd07c01baee837d7cde4774c7b7"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 29625,
-      "sha256": "2f5179f4224ae07b5670556ac7e1c1a656caa377c89aae6668116966a8438d51"
+      "sizeBytes": 30020,
+      "sha256": "e46ebb5596b348f9c46afaf7f0922d2c5dae25b057f585a099b8c271fabad9ef"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2176,
-      "sha256": "dd6fdfd477f50f238786aaf723de8f4f84c105b25e245d25a13b006a26d90d63"
+      "sizeBytes": 2080,
+      "sha256": "2a81e3e88fba51fc84014a860edfe25779e5b81e9bc0c7e64f026fc8633fa9dc"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -161,13 +161,13 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 2096,
-      "sha256": "281f5d8bf9494725b6fdadd2e1efd9535f613ad125441570b5ae30ef1955889b"
+      "sizeBytes": 2176,
+      "sha256": "b2d5816deee5a04b338469392261d88862c1a239405ddcd5306beb44fd8b5a9e"
     },
     {
       "path": "data/discoveries.json",
-      "sizeBytes": 14205,
-      "sha256": "638ed657b892ce1463fee82333ff290e224f6d102a85dff1f485a8a7588695d2"
+      "sizeBytes": 15940,
+      "sha256": "f112553e63aaedf3d918b00c089c94965d77f2e238d231828c126bef0ea79067"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 213067,
-      "sha256": "dea4e21f20771e819420927eed9e2dd4d1110484e9ea1dc7f87adeba24504dfc"
+      "sizeBytes": 228552,
+      "sha256": "ce64c2968ce29e421ef05a71f0fd572dd7a70f17ad8a26aea8fdbab378e982d0"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -201,8 +201,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 39677,
-      "sha256": "0529263ecb480ff67b7ea88bd0294a4bea57b104cb7135df14aec9a55cfb686c"
+      "sizeBytes": 41570,
+      "sha256": "34d55a9e60e837bacf9094f5f49f9511b2ac3e8941eac0a66d8cccb94de0c623"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 104774,
-      "sha256": "30509a69043e8f8dbda51fc0f4d6487a90adaf64c8b9422a8c8bf1e644253646"
+      "sizeBytes": 115387,
+      "sha256": "05fe6e6155ba0d048d10833003a9008a765181fcad9de71ac872b1bc78fecd33"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -251,8 +251,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 102607,
-      "sha256": "4c8317aff3c26c30fe4929b48470ec6e820eaaebb0dd7117a71684d799448268"
+      "sizeBytes": 112902,
+      "sha256": "e68f2fa85a99d71b10118d5d070ae47460c01d41dc94bfafaf9e27945b370b07"
     },
     {
       "path": "data/site.json",
@@ -267,7 +267,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 208,
-      "sha256": "bc9d1da50590944ec9c401dc4decffc476aa973378e691b71fbee02437d4104f"
+      "sha256": "cd4141c7d744d9298d1afb4bbc54a7b395475bd07c01baee837d7cde4774c7b7"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -312,7 +312,7 @@
     {
       "path": "data/version.json.bak-geo-1",
       "sizeBytes": 208,
-      "sha256": "351aa63b37d6d582732978dc9d60ed9321559bc7a66f0b63598ff8c5012cf436"
+      "sha256": "9ef1c309ed631e3bd475f60db33987d67a57a8f4b689ae8c4939679ceaa4f247"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -525,6 +525,11 @@
       "sha256": "2722a5b81bdefbf622cfca56b0f0ded17d36901c71e0196ed9e4a9ae78ef935a"
     },
     {
+      "path": "media/photos/2026-07-30-comino-anchorage-evening.png",
+      "sizeBytes": 377476,
+      "sha256": "77b9a08d6d25373235ee24f36a9d1b8f850b5c9dbf8642dabc91af28bc668c2b"
+    },
+    {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",
       "sizeBytes": 3003718,
       "sha256": "dc8dcfc478078d3d2e748cb0f27213df88a91714eacaff1a08b40ac9e4375db3"
@@ -588,6 +593,11 @@
       "path": "media/videos/2026-07-13-dolphin-on-bow-sophie.mp4",
       "sizeBytes": 2947845,
       "sha256": "d9bf1f7445f01263b5982771296f85e0ba863275b37340d99cf53f7ff1d14610"
+    },
+    {
+      "path": "media/videos/2026-07-30-comino-anchorage-video.mp4",
+      "sizeBytes": 2672005,
+      "sha256": "3de04579c74405dd3ca212b147e41cf19ffac7230c1fef58da180f7c2aed48bf"
     },
     {
       "path": "media/videos/summer-2026-cave-excursion.mp4",
@@ -766,8 +776,8 @@
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 15606,
-      "sha256": "eadfe942ad28e9335141912dc59bdade8a082c2ee5ea19259ba963fcd6cae7af"
+      "sizeBytes": 15800,
+      "sha256": "e258d04a9008ac7a1f5464897545eefe4fab5fd6424890b70b61c1cb39b4615b"
     },
     {
       "path": "assets/js/dashboard.js",

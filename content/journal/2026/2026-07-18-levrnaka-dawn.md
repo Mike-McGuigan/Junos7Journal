@@ -1,7 +1,7 @@
 ---
 date: 2026-07-18
 title: First Light at Levrnaka
-location: Levrnaka Bay, Kornati
+location: Levrnaka Bay, Kornati National Park, Croatia
 type: crew-view
 person: Cameron
 quote: Good night

@@ -1,7 +1,7 @@
 ---
 date: 2026-07-15
 title: Calm Before the Storm
-location: At anchor, Smokvica Vela, Kornati
+location: Lojena Bay, Smokvica Vela, Croatia
 type: weather
 person: Sophie
 quote: "A storm is just about to hit us 🥴"

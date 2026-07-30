@@ -5,26 +5,26 @@
     "workflow": "running",
     "provider": "manual / provider not configured",
     "liveAis": false,
-    "latestStatus": "Manual location: Passage to Valletta, Malta",
+    "latestStatus": "Manual location: Grand Harbour Marina, Vittoriosa, Malta",
     "latestSource": "captains dashboard",
-    "lastManualLookupUtc": "2026-07-29T07:26:54.147Z",
+    "lastManualLookupUtc": "2026-07-29T11:31:40.864Z",
     "latestPrecisePosition": null,
     "latestApproximatePosition": {
-      "lat": 35.90308,
-      "lng": 14.532788,
+      "lat": 35.891002,
+      "lng": 14.518052,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "latestLocationName": "Passage to Valletta, Malta",
-    "latestFriendlyLocation": "Passage to Valletta, Malta",
+    "latestLocationName": "Grand Harbour Marina, Vittoriosa, Malta",
+    "latestFriendlyLocation": "Grand Harbour Marina, Vittoriosa, Malta",
     "location": {
       "lookupStatus": "ok",
       "lookupProvider": "OpenStreetMap Nominatim",
       "osmType": "relation",
       "osmId": 365307,
-      "displayName": "Passage to Valletta, Malta",
-      "shortName": "Passage to Valletta, Malta",
+      "displayName": "Grand Harbour Marina, Vittoriosa, Malta",
+      "shortName": "Grand Harbour Marina, Vittoriosa, Malta",
       "rawDisplayName": "Malta",
       "country": "Malta",
       "countryCode": "MT",
@@ -36,18 +36,18 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "latestLocationTitle": "Passage to Valletta, Malta"
+    "latestLocationTitle": "Grand Harbour Marina, Vittoriosa, Malta"
   },
   "stats": {
-    "routeStops": 55,
-    "distanceDirectNm": 1620.6,
-    "distanceEstimatedNm": 1856.4,
-    "manualSeaRouteLegs": 51,
-    "journalEntries": 40,
-    "mediaItems": 56,
-    "photos": 40,
+    "routeStops": 56,
+    "distanceDirectNm": 1621.7,
+    "distanceEstimatedNm": 1857.8,
+    "manualSeaRouteLegs": 52,
+    "journalEntries": 41,
+    "mediaItems": 57,
+    "photos": 41,
     "videos": 16,
-    "contextualDiscoveries": 9,
+    "contextualDiscoveries": 10,
     "voyageLegs": 36,
     "averageLegNm": 51.6,
     "longestLegNm": 383.1,
@@ -60,7 +60,7 @@
       "Italy",
       "Malta"
     ],
-    "routeLegs": 54,
+    "routeLegs": 55,
     "longestLegInProgress": false
   }
 }

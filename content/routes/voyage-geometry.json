@@ -7,8 +7,8 @@
       "toIndex": 18,
       "fromDate": "1 Jul",
       "toDate": "1 Jul PM",
-      "fromTitle": "East Coast Corfu",
-      "toTitle": "East Coast Corfu",
+      "fromTitle": "Barbati Anchorage, Corfu, Greece",
+      "toTitle": "Garitsa Bay, Corfu, Greece",
       "waypoints": [
         [
           39.663559,
@@ -22,15 +22,16 @@
           39.622846,
           19.94482
         ]
-      ]
+      ],
+      "key": "1 Jul|Barbati Anchorage, Corfu, Greece::1 Jul PM|Garitsa Bay, Corfu, Greece"
     },
     {
       "fromIndex": 16,
       "toIndex": 17,
       "fromDate": "30 Jun",
       "toDate": "1 Jul",
-      "fromTitle": "Paxi / Paxos",
-      "toTitle": "East Coast Corfu",
+      "fromTitle": "Gaios Harbour Anchorage, Paxos, Greece",
+      "toTitle": "Barbati Anchorage, Corfu, Greece",
       "waypoints": [
         [
           39.20309,
@@ -52,7 +53,8 @@
           39.64309,
           19.943533
         ]
-      ]
+      ],
+      "key": "30 Jun|Gaios Harbour Anchorage, Paxos, Greece::1 Jul|Barbati Anchorage, Corfu, Greece"
     },
     {
       "fromIndex": 5,
@@ -60,7 +62,7 @@
       "fromDate": "17 Jun",
       "toDate": "18-19 Jun",
       "fromTitle": "Cameron & Sophie join",
-      "toTitle": "Lipsi",
+      "toTitle": "Lipsi Harbour Anchorage, Lipsi, Greece",
       "waypoints": [
         [
           36.896678,
@@ -94,15 +96,16 @@
           37.293307,
           26.757224
         ]
-      ]
+      ],
+      "key": "17 Jun|Cameron & Sophie join::18-19 Jun|Lipsi Harbour Anchorage, Lipsi, Greece"
     },
     {
       "fromIndex": 6,
       "toIndex": 7,
       "fromDate": "18-19 Jun",
       "toDate": "19-21 Jun",
-      "fromTitle": "Lipsi",
-      "toTitle": "Patmos",
+      "fromTitle": "Lipsi Harbour Anchorage, Lipsi, Greece",
+      "toTitle": "Skala Harbour, Patmos, Greece",
       "waypoints": [
         [
           37.2936,
@@ -124,15 +127,16 @@
           37.321224,
           26.553311
         ]
-      ]
+      ],
+      "key": "18-19 Jun|Lipsi Harbour Anchorage, Lipsi, Greece::19-21 Jun|Skala Harbour, Patmos, Greece"
     },
     {
       "fromIndex": 7,
       "toIndex": 8,
       "fromDate": "19-21 Jun",
       "toDate": "22 Jun",
-      "fromTitle": "Patmos",
-      "toTitle": "Katapola, Amorgos",
+      "fromTitle": "Skala Harbour, Patmos, Greece",
+      "toTitle": "Katapola Harbour, Amorgos, Greece",
       "waypoints": [
         [
           37.320376,
@@ -202,15 +206,16 @@
           36.82748,
           25.862668
         ]
-      ]
+      ],
+      "key": "19-21 Jun|Skala Harbour, Patmos, Greece::22 Jun|Katapola Harbour, Amorgos, Greece"
     },
     {
       "fromIndex": 18,
       "toIndex": 19,
       "fromDate": "1 Jul PM",
       "toDate": "2 Jul",
-      "fromTitle": "East Coast Corfu",
-      "toTitle": "Heading towards Cavtat, Croatia",
+      "fromTitle": "Garitsa Bay, Corfu, Greece",
+      "toTitle": "Passage to Cavtat, Croatia",
       "waypoints": [
         [
           39.621541,
@@ -232,15 +237,16 @@
           39.826336,
           19.961472
         ]
-      ]
+      ],
+      "key": "1 Jul PM|Garitsa Bay, Corfu, Greece::2 Jul|Passage to Cavtat, Croatia"
     },
     {
       "fromIndex": 14,
       "toIndex": 15,
       "fromDate": "28 Jun",
       "toDate": "29-30 Jun",
-      "fromTitle": "Sami, Kefalonia",
-      "toTitle": "East Coast Ithaca / Underway",
+      "fromTitle": "Sami Harbour, Kefalonia, Greece",
+      "toTitle": "Passage to Paxos, Greece",
       "waypoints": [
         [
           38.292025,
@@ -258,15 +264,16 @@
           38.429529,
           20.594725
         ]
-      ]
+      ],
+      "key": "28 Jun|Sami Harbour, Kefalonia, Greece::29-30 Jun|Passage to Paxos, Greece"
     },
     {
       "fromIndex": 8,
       "toIndex": 9,
       "fromDate": "22 Jun",
       "toDate": "22-23 Jun",
-      "fromTitle": "Katapola, Amorgos",
-      "toTitle": "Ios",
+      "fromTitle": "Katapola Harbour, Amorgos, Greece",
+      "toTitle": "Ios Harbour, Ios, Greece",
       "waypoints": [
         [
           36.828282,
@@ -320,15 +327,16 @@
           36.723024,
           25.268319
         ]
-      ]
+      ],
+      "key": "22 Jun|Katapola Harbour, Amorgos, Greece::22-23 Jun|Ios Harbour, Ios, Greece"
     },
     {
       "fromIndex": 9,
       "toIndex": 10,
       "fromDate": "22-23 Jun",
       "toDate": "23 Jun",
-      "fromTitle": "Ios",
-      "toTitle": "Ios departure AIS",
+      "fromTitle": "Ios Harbour, Ios, Greece",
+      "toTitle": "Agios Ioannis Bay, Ios, Greece",
       "waypoints": [
         [
           36.722699,
@@ -358,15 +366,16 @@
           36.709775,
           25.280356
         ]
-      ]
+      ],
+      "key": "22-23 Jun|Ios Harbour, Ios, Greece::23 Jun|Agios Ioannis Bay, Ios, Greece"
     },
     {
       "fromIndex": 10,
       "toIndex": 11,
       "fromDate": "23 Jun",
       "toDate": "24 Jun",
-      "fromTitle": "Ios departure AIS",
-      "toTitle": "Sea of Crete AIS marker",
+      "fromTitle": "Agios Ioannis Bay, Ios, Greece",
+      "toTitle": "Passage to Zakynthos, Greece",
       "waypoints": [
         [
           36.709229,
@@ -408,15 +417,16 @@
           36.639834,
           24.373298
         ]
-      ]
+      ],
+      "key": "23 Jun|Agios Ioannis Bay, Ios, Greece::24 Jun|Passage to Zakynthos, Greece"
     },
     {
       "fromIndex": 13,
       "toIndex": 14,
       "fromDate": "26-27 Jun",
       "toDate": "28 Jun",
-      "fromTitle": "Zakynthos",
-      "toTitle": "Sami, Kefalonia",
+      "fromTitle": "Zakynthos Harbour, Greece",
+      "toTitle": "Sami Harbour, Kefalonia, Greece",
       "waypoints": [
         [
           37.793436,
@@ -458,15 +468,16 @@
           38.281305,
           20.660949
         ]
-      ]
+      ],
+      "key": "26-27 Jun|Zakynthos Harbour, Greece::28 Jun|Sami Harbour, Kefalonia, Greece"
     },
     {
       "fromIndex": 12,
       "toIndex": 13,
       "fromDate": "25 Jun",
       "toDate": "26-27 Jun",
-      "fromTitle": "Sea of Crete / Cyclades area",
-      "toTitle": "Zakynthos",
+      "fromTitle": "Passage to Zakynthos, Greece",
+      "toTitle": "Zakynthos Harbour, Greece",
       "waypoints": [
         [
           36.639757,
@@ -524,15 +535,16 @@
           37.808563,
           21.009293
         ]
-      ]
+      ],
+      "key": "25 Jun|Passage to Zakynthos, Greece::26-27 Jun|Zakynthos Harbour, Greece"
     },
     {
       "fromIndex": 15,
       "toIndex": 16,
       "fromDate": "29-30 Jun",
       "toDate": "30 Jun",
-      "fromTitle": "East Coast Ithaca / Underway",
-      "toTitle": "Paxi / Paxos",
+      "fromTitle": "Passage to Paxos, Greece",
+      "toTitle": "Gaios Harbour Anchorage, Paxos, Greece",
       "waypoints": [
         [
           38.431419,
@@ -582,15 +594,16 @@
           39.202843,
           20.192174
         ]
-      ]
+      ],
+      "key": "29-30 Jun|Passage to Paxos, Greece::30 Jun|Gaios Harbour Anchorage, Paxos, Greece"
     },
     {
       "fromIndex": 0,
       "toIndex": 1,
       "fromDate": "11 Jun",
       "toDate": "11-12 Jun",
-      "fromTitle": "Lindos, Rhodes",
-      "toTitle": "Chalki",
+      "fromTitle": "Lindos Anchorage, Rhodes, Greece",
+      "toTitle": "Chalki Anchorage, Chalki, Greece",
       "waypoints": [
         [
           36.094189,
@@ -640,15 +653,16 @@
           36.217955,
           27.621474
         ]
-      ]
+      ],
+      "key": "11 Jun|Lindos Anchorage, Rhodes, Greece::11-12 Jun|Chalki Anchorage, Chalki, Greece"
     },
     {
       "fromIndex": 1,
       "toIndex": 2,
       "fromDate": "11-12 Jun",
       "toDate": "12-13 Jun",
-      "fromTitle": "Chalki",
-      "toTitle": "Symi",
+      "fromTitle": "Chalki Anchorage, Chalki, Greece",
+      "toTitle": "Symi Harbour, Symi, Greece",
       "waypoints": [
         [
           36.222844,
@@ -714,15 +728,16 @@
           36.62475,
           27.845836
         ]
-      ]
+      ],
+      "key": "11-12 Jun|Chalki Anchorage, Chalki, Greece::12-13 Jun|Symi Harbour, Symi, Greece"
     },
     {
       "fromIndex": 2,
       "toIndex": 3,
       "fromDate": "12-13 Jun",
       "toDate": "15-16 Jun",
-      "fromTitle": "Symi",
-      "toTitle": "Nisyros",
+      "fromTitle": "Symi Harbour, Symi, Greece",
+      "toTitle": "Mandraki Anchorage, Nisyros, Greece",
       "waypoints": [
         [
           36.617127,
@@ -776,15 +791,16 @@
           36.620892,
           27.137475
         ]
-      ]
+      ],
+      "key": "12-13 Jun|Symi Harbour, Symi, Greece::15-16 Jun|Mandraki Anchorage, Nisyros, Greece"
     },
     {
       "fromIndex": 3,
       "toIndex": 4,
       "fromDate": "15-16 Jun",
       "toDate": "16-18 Jun",
-      "fromTitle": "Nisyros",
-      "toTitle": "Kos",
+      "fromTitle": "Mandraki Anchorage, Nisyros, Greece",
+      "toTitle": "Kos Harbour, Kos, Greece",
       "waypoints": [
         [
           36.63974,
@@ -826,15 +842,16 @@
           36.896593,
           27.288553
         ]
-      ]
+      ],
+      "key": "15-16 Jun|Mandraki Anchorage, Nisyros, Greece::16-18 Jun|Kos Harbour, Kos, Greece"
     },
     {
       "fromIndex": 19,
       "toIndex": 20,
       "fromDate": "2 Jul",
       "toDate": "3 Jul",
-      "fromTitle": "Heading towards Cavtat, Croatia",
-      "toTitle": "Cavtat Harbour",
+      "fromTitle": "Passage to Cavtat, Croatia",
+      "toTitle": "Cavtat Harbour, Croatia",
       "waypoints": [
         [
           40.32744,
@@ -908,15 +925,16 @@
           42.582062,
           18.215155
         ]
-      ]
+      ],
+      "key": "2 Jul|Passage to Cavtat, Croatia::3 Jul|Cavtat Harbour, Croatia"
     },
     {
       "fromIndex": 20,
       "toIndex": 21,
       "fromDate": "3 Jul",
       "toDate": "4 Jul",
-      "fromTitle": "Cavtat Harbour",
-      "toTitle": "Near Lokrum",
+      "fromTitle": "Cavtat Harbour, Croatia",
+      "toTitle": "Lokrum Strait, Dubrovnik, Croatia",
       "waypoints": [
         [
           42.582156,
@@ -942,14 +960,15 @@
           42.632534,
           18.122742
         ]
-      ]
+      ],
+      "key": "3 Jul|Cavtat Harbour, Croatia::4 Jul|Lokrum Strait, Dubrovnik, Croatia"
     },
     {
       "fromIndex": 21,
       "toIndex": 22,
       "fromDate": "4 Jul",
       "toDate": "5 Jul",
-      "fromTitle": "Near Lokrum",
+      "fromTitle": "Lokrum Strait, Dubrovnik, Croatia",
       "toTitle": "En route to Mljet",
       "waypoints": [
         [
@@ -980,7 +999,8 @@
           42.683303,
           17.877605
         ]
-      ]
+      ],
+      "key": "4 Jul|Lokrum Strait, Dubrovnik, Croatia::5 Jul|En route to Mljet"
     },
     {
       "fromIndex": 22,
@@ -988,7 +1008,7 @@
       "fromDate": "5 Jul",
       "toDate": "5 Jul",
       "fromTitle": "En route to Mljet",
-      "toTitle": "Polače, Mljet",
+      "toTitle": "Polače Anchorage, Mljet, Croatia",
       "waypoints": [
         [
           42.73565,
@@ -1030,15 +1050,16 @@
           42.788549,
           17.384588
         ]
-      ]
+      ],
+      "key": "5 Jul|En route to Mljet::5 Jul|Polače Anchorage, Mljet, Croatia"
     },
     {
       "fromIndex": 23,
       "toIndex": 24,
       "fromDate": "5 Jul",
       "toDate": "6 Jul",
-      "fromTitle": "Polače, Mljet",
-      "toTitle": "Gubavac, Korčula",
+      "fromTitle": "Polače Anchorage, Mljet, Croatia",
+      "toTitle": "Lumbarda Anchorage, Korčula, Croatia",
       "waypoints": [
         [
           42.789289,
@@ -1088,15 +1109,16 @@
           42.92945,
           17.184623
         ]
-      ]
+      ],
+      "key": "5 Jul|Polače Anchorage, Mljet, Croatia::6 Jul|Lumbarda Anchorage, Korčula, Croatia"
     },
     {
       "fromIndex": 24,
       "toIndex": 25,
       "fromDate": "6 Jul",
       "toDate": "6 Jul",
-      "fromTitle": "Gubavac, Korčula",
-      "toTitle": "Korčula Port",
+      "fromTitle": "Lumbarda Anchorage, Korčula, Croatia",
+      "toTitle": "Korčula Port, Croatia",
       "waypoints": [
         [
           42.92912,
@@ -1170,14 +1192,15 @@
           42.962561,
           17.134284
         ]
-      ]
+      ],
+      "key": "6 Jul|Lumbarda Anchorage, Korčula, Croatia::6 Jul|Korčula Port, Croatia"
     },
     {
       "fromIndex": 25,
       "toIndex": 26,
       "fromDate": "6 Jul",
       "toDate": "7 Jul AM",
-      "fromTitle": "Korčula Port",
+      "fromTitle": "Korčula Port, Croatia",
       "toTitle": "En route to Hvar",
       "waypoints": [
         [
@@ -1212,7 +1235,8 @@
           43.048036,
           16.764622
         ]
-      ]
+      ],
+      "key": "6 Jul|Korčula Port, Croatia::7 Jul AM|En route to Hvar"
     },
     {
       "fromIndex": 26,
@@ -1220,7 +1244,7 @@
       "fromDate": "7 Jul AM",
       "toDate": "7 Jul",
       "fromTitle": "En route to Hvar",
-      "toTitle": "Palmizana Anchorage",
+      "toTitle": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia",
       "waypoints": [
         [
           43.087304,
@@ -1286,14 +1310,15 @@
           43.164426,
           16.40821
         ]
-      ]
+      ],
+      "key": "7 Jul AM|En route to Hvar::7 Jul|Velo Ždrilo Anchorage, Pakleni Islands, Croatia"
     },
     {
       "fromIndex": 27,
       "toIndex": 28,
       "fromDate": "7 Jul",
       "toDate": "8 Jul - Late afternoon",
-      "fromTitle": "Palmizana Anchorage",
+      "fromTitle": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia",
       "toTitle": "En route to Split",
       "waypoints": [
         [
@@ -1328,7 +1353,8 @@
           43.171066,
           16.40115
         ]
-      ]
+      ],
+      "key": "7 Jul|Velo Ždrilo Anchorage, Pakleni Islands, Croatia::8 Jul - Late afternoon|En route to Split"
     },
     {
       "fromIndex": 28,
@@ -1354,7 +1380,8 @@
           43.306662,
           16.398296
         ]
-      ]
+      ],
+      "key": "8 Jul - Late afternoon|En route to Split::8 Jul - Early evening|Approaching Split"
     },
     {
       "fromIndex": 29,
@@ -1362,7 +1389,7 @@
       "fromDate": "8 Jul - Early evening",
       "toDate": "8 Jul - Evening",
       "fromTitle": "Approaching Split",
-      "toTitle": "Split - near Riva waterfront",
+      "toTitle": "Split City Harbour, Croatia",
       "waypoints": [
         [
           43.457639,
@@ -1384,15 +1411,16 @@
           43.5049,
           16.432567
         ]
-      ]
+      ],
+      "key": "8 Jul - Early evening|Approaching Split::8 Jul - Evening|Split City Harbour, Croatia"
     },
     {
       "fromIndex": 30,
       "toIndex": 31,
       "fromDate": "8 Jul - Evening",
       "toDate": "10 Jul",
-      "fromTitle": "Split - near Riva waterfront",
-      "toTitle": "Off Milna, Croatia",
+      "fromTitle": "Split City Harbour, Croatia",
+      "toTitle": "Zaglav Anchorage, Brač, Croatia",
       "waypoints": [
         [
           43.504953,
@@ -1438,14 +1466,15 @@
           43.331905,
           16.424131
         ]
-      ]
+      ],
+      "key": "8 Jul - Evening|Split City Harbour, Croatia::10 Jul|Zaglav Anchorage, Brač, Croatia"
     },
     {
       "fromIndex": 31,
       "toIndex": 32,
       "fromDate": "10 Jul",
       "toDate": "11 Jul - AM",
-      "fromTitle": "Off Milna, Croatia",
+      "fromTitle": "Zaglav Anchorage, Brač, Croatia",
       "toTitle": "En route to Vis",
       "waypoints": [
         [
@@ -1480,7 +1509,8 @@
           43.140514,
           16.23745
         ]
-      ]
+      ],
+      "key": "10 Jul|Zaglav Anchorage, Brač, Croatia::11 Jul - AM|En route to Vis"
     },
     {
       "fromIndex": 32,
@@ -1488,7 +1518,7 @@
       "fromDate": "11 Jul - AM",
       "toDate": "11 Jul - Late morning",
       "fromTitle": "En route to Vis",
-      "toTitle": "Vis, Croatia",
+      "toTitle": "Vis Harbour, Vis Island, Croatia",
       "waypoints": [
         [
           43.087178,
@@ -1506,29 +1536,31 @@
           43.065937,
           16.195672
         ]
-      ]
+      ],
+      "key": "11 Jul - AM|En route to Vis::11 Jul - Late morning|Vis Harbour, Vis Island, Croatia"
     },
     {
       "fromIndex": 33,
       "toIndex": 34,
       "fromDate": "11 Jul - Late morning",
       "toDate": "11 Jul - PM",
-      "fromTitle": "Vis, Croatia",
-      "toTitle": "Alongside in Vis, Croatia",
+      "fromTitle": "Vis Harbour, Vis Island, Croatia",
+      "toTitle": "Vis Harbour, Vis Island, Croatia",
       "waypoints": [
         [
           43.059465,
           16.188177
         ]
-      ]
+      ],
+      "key": "11 Jul - Late morning|Vis Harbour, Vis Island, Croatia::11 Jul - PM|Vis Harbour, Vis Island, Croatia"
     },
     {
       "fromIndex": 34,
       "toIndex": 35,
       "fromDate": "11 Jul - PM",
       "toDate": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
-      "fromTitle": "Alongside in Vis, Croatia",
-      "toTitle": "Komiža",
+      "fromTitle": "Vis Harbour, Vis Island, Croatia",
+      "toTitle": "Komiža Anchorage, Vis Island, Croatia",
       "waypoints": [
         [
           43.059616,
@@ -1594,14 +1626,15 @@
           43.044357,
           16.081375
         ]
-      ]
+      ],
+      "key": "11 Jul - PM|Vis Harbour, Vis Island, Croatia::13 Jul - At anchor off Komiža (Mamma Mia 2 town)|Komiža Anchorage, Vis Island, Croatia"
     },
     {
       "fromIndex": 35,
       "toIndex": 36,
       "fromDate": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
       "toDate": "14 Jul - AM",
-      "fromTitle": "Komiža",
+      "fromTitle": "Komiža Anchorage, Vis Island, Croatia",
       "toTitle": "En route to Kaprije",
       "waypoints": [
         [
@@ -1620,7 +1653,8 @@
           43.065274,
           15.995579
         ]
-      ]
+      ],
+      "key": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)|Komiža Anchorage, Vis Island, Croatia::14 Jul - AM|En route to Kaprije"
     },
     {
       "fromIndex": 36,
@@ -1628,7 +1662,7 @@
       "fromDate": "14 Jul - AM",
       "toDate": "14 Jul - Kakan",
       "fromTitle": "En route to Kaprije",
-      "toTitle": "Kakan",
+      "toTitle": "Potkućina Bay, Kakan, Croatia",
       "waypoints": [
         [
           43.626927,
@@ -1670,15 +1704,16 @@
           43.695103,
           15.668162
         ]
-      ]
+      ],
+      "key": "14 Jul - AM|En route to Kaprije::14 Jul - Kakan|Potkućina Bay, Kakan, Croatia"
     },
     {
       "fromIndex": 37,
       "toIndex": 38,
       "fromDate": "14 Jul - Kakan",
       "toDate": "15 Jul - AM",
-      "fromTitle": "Kakan",
-      "toTitle": "Smokvica Vela, Kornati National Park",
+      "fromTitle": "Potkućina Bay, Kakan, Croatia",
+      "toTitle": "Lojena Bay, Smokvica Vela, Croatia",
       "waypoints": [
         [
           43.695503,
@@ -1736,14 +1771,15 @@
           43.722507,
           15.477108
         ]
-      ]
+      ],
+      "key": "14 Jul - Kakan|Potkućina Bay, Kakan, Croatia::15 Jul - AM|Lojena Bay, Smokvica Vela, Croatia"
     },
     {
       "fromIndex": 38,
       "toIndex": 39,
       "fromDate": "15 Jul - AM",
       "toDate": "16 Jul - late morning",
-      "fromTitle": "Smokvica Vela, Kornati National Park",
+      "fromTitle": "Lojena Bay, Smokvica Vela, Croatia",
       "toTitle": "Lapatica Bay, Kornat Island, Croatia",
       "waypoints": [
         [
@@ -1806,7 +1842,8 @@
           43.78689,
           15.338234
         ]
-      ]
+      ],
+      "key": "15 Jul - AM|Lojena Bay, Smokvica Vela, Croatia::16 Jul - late morning|Lapatica Bay, Kornat Island, Croatia"
     },
     {
       "fromIndex": 39,
@@ -1814,7 +1851,7 @@
       "fromDate": "16 Jul - late morning",
       "toDate": "17 Jul - AM",
       "fromTitle": "Lapatica Bay, Kornat Island, Croatia",
-      "toTitle": "Levrnaka Bay",
+      "toTitle": "Levrnaka Bay, Kornati National Park, Croatia",
       "waypoints": [
         [
           43.785357,
@@ -1872,15 +1909,16 @@
           43.824966,
           15.252929
         ]
-      ]
+      ],
+      "key": "16 Jul - late morning|Lapatica Bay, Kornat Island, Croatia::17 Jul - AM|Levrnaka Bay, Kornati National Park, Croatia"
     },
     {
       "fromIndex": 40,
       "toIndex": 41,
       "fromDate": "17 Jul - AM",
       "toDate": "18 Jul",
-      "fromTitle": "Levrnaka Bay",
-      "toTitle": "Žut Harbour",
+      "fromTitle": "Levrnaka Bay, Kornati National Park, Croatia",
+      "toTitle": "Hiljača Anchorage, Žut, Croatia",
       "waypoints": [
         [
           43.824855,
@@ -2034,14 +2072,15 @@
           43.866568,
           15.333899
         ]
-      ]
+      ],
+      "key": "17 Jul - AM|Levrnaka Bay, Kornati National Park, Croatia::18 Jul|Hiljača Anchorage, Žut, Croatia"
     },
     {
       "fromIndex": 41,
       "toIndex": 42,
       "fromDate": "18 Jul",
       "toDate": "19 Jul AM",
-      "fromTitle": "Žut Harbour",
+      "fromTitle": "Hiljača Anchorage, Žut, Croatia",
       "toTitle": "En route to Zadar",
       "waypoints": [
         [
@@ -2104,7 +2143,8 @@
           44.043772,
           15.287347
         ]
-      ]
+      ],
+      "key": "18 Jul|Hiljača Anchorage, Žut, Croatia::19 Jul AM|En route to Zadar"
     },
     {
       "fromIndex": 42,
@@ -2112,7 +2152,7 @@
       "fromDate": "19 Jul AM",
       "toDate": "19 Jul 09:35 UTC",
       "fromTitle": "En route to Zadar",
-      "toTitle": "Zadar mooring",
+      "toTitle": "Zadar Harbour, Croatia",
       "waypoints": [
         [
           44.111574,
@@ -2138,14 +2178,15 @@
           44.119644,
           15.222341
         ]
-      ]
+      ],
+      "key": "19 Jul AM|En route to Zadar::19 Jul 09:35 UTC|Zadar Harbour, Croatia"
     },
     {
       "fromIndex": 43,
       "toIndex": 44,
       "fromDate": "19 Jul 09:35 UTC",
       "toDate": "22 Jul",
-      "fromTitle": "Zadar mooring",
+      "fromTitle": "Zadar Harbour, Croatia",
       "toTitle": "Kablin Bay, Zverinac Island, Croatia",
       "waypoints": [
         [
@@ -2260,7 +2301,8 @@
           44.153719,
           14.928977
         ]
-      ]
+      ],
+      "key": "19 Jul 09:35 UTC|Zadar Harbour, Croatia::22 Jul|Kablin Bay, Zverinac Island, Croatia"
     },
     {
       "fromIndex": 44,
@@ -2354,7 +2396,8 @@
           44.123528,
           14.882441
         ]
-      ]
+      ],
+      "key": "22 Jul|Kablin Bay, Zverinac Island, Croatia::23 Jul|Sakarun Bay, Dugi Otok, Croatia"
     },
     {
       "fromIndex": 45,
@@ -2444,7 +2487,8 @@
           44.123491,
           15.207953
         ]
-      ]
+      ],
+      "key": "23 Jul|Sakarun Bay, Dugi Otok, Croatia::24 Jul|Zadar Anchorage, Croatia"
     },
     {
       "fromIndex": 46,
@@ -2514,7 +2558,8 @@
           43.846115,
           15.471926
         ]
-      ]
+      ],
+      "key": "24 Jul|Zadar Anchorage, Croatia::24 Jul - Early evening|En route to Crotone, Italy"
     },
     {
       "fromIndex": 47,
@@ -2532,7 +2577,8 @@
           43.536898,
           15.738258
         ]
-      ]
+      ],
+      "key": "24 Jul - Early evening|En route to Crotone, Italy::25 Jul - Very early hours|En route to Crotone, Italy"
     },
     {
       "fromIndex": 48,
@@ -2562,7 +2608,8 @@
           42.33539,
           16.980743
         ]
-      ]
+      ],
+      "key": "25 Jul - Very early hours|En route to Crotone, Italy::25 Jul - Mid morning|En route to Crotone, Italy"
     },
     {
       "fromIndex": 50,
@@ -2576,7 +2623,8 @@
           40.829593,
           18.05191
         ]
-      ]
+      ],
+      "key": "25 Jul - Mid afternoon|En route to Crotone, Italy::25 Jul - Early evening|En route to Crotone, Italy"
     },
     {
       "fromIndex": 51,
@@ -2662,7 +2710,8 @@
           39.077789,
           17.136295
         ]
-      ]
+      ],
+      "key": "25 Jul - Early evening|En route to Crotone, Italy::26 Jul - In time for breakfast|Crotone Old Harbour, Calabria, Italy"
     },
     {
       "fromIndex": 52,
@@ -2748,7 +2797,8 @@
           37.266574,
           16.34079
         ]
-      ]
+      ],
+      "key": "26 Jul - In time for breakfast|Crotone Old Harbour, Calabria, Italy::28 Jul 4 AM - Early departure|Passage to Valletta, Malta"
     },
     {
       "fromIndex": 53,
@@ -2790,7 +2840,8 @@
           35.905569,
           14.545341
         ]
-      ]
+      ],
+      "key": "28 Jul 4 AM - Early departure|Passage to Valletta, Malta::29 Jul - AM|Passage to Valletta, Malta"
     },
     {
       "fromIndex": 54,
@@ -2847,6 +2898,89 @@
         [
           35.890394,
           14.517429
+        ]
+      ],
+      "key": "29 Jul - AM|Passage to Valletta, Malta::29 Jul - In time for breakfast again|Grand Harbour Marina, Vittoriosa, Malta"
+    },
+    {
+      "fromIndex": 55,
+      "toIndex": 56,
+      "fromDate": "29 Jul - In time for breakfast again",
+      "toDate": "30 Jul - Early afternoon",
+      "fromTitle": "Grand Harbour Marina, Vittoriosa, Malta",
+      "toTitle": "Comino Anchorage, Malta",
+      "waypoints": [
+        [
+          35.890524,
+          14.517676
+        ],
+        [
+          35.891576,
+          14.515863
+        ],
+        [
+          35.893114,
+          14.516035
+        ],
+        [
+          35.894035,
+          14.517676
+        ],
+        [
+          35.896,
+          14.519693
+        ],
+        [
+          35.900536,
+          14.521946
+        ],
+        [
+          35.901423,
+          14.527611
+        ],
+        [
+          35.905864,
+          14.526452
+        ],
+        [
+          35.931536,
+          14.513025
+        ],
+        [
+          35.949465,
+          14.475431
+        ],
+        [
+          35.970665,
+          14.43346
+        ],
+        [
+          35.992613,
+          14.393978
+        ],
+        [
+          35.997671,
+          14.384623
+        ],
+        [
+          36.000032,
+          14.37398
+        ],
+        [
+          36.002393,
+          14.363165
+        ],
+        [
+          35.998366,
+          14.344797
+        ],
+        [
+          35.998782,
+          14.324541
+        ],
+        [
+          36.004971,
+          14.321086
         ]
       ]
     }

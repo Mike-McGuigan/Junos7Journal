@@ -19,7 +19,7 @@
     {
       "id": "kos-neratzia-castle",
       "approved": true,
-      "routeStopTitle": "Kos",
+      "routeStopTitle": "Kos Harbour, Kos, Greece",
       "journalEntryId": "the-beginning",
       "date": "2026-06-17",
       "category": "Maritime history",
@@ -28,11 +28,11 @@
       "body": "At the entrance to Kos harbour stands Neratzia Castle, the coastal fortress built by the Knights Hospitallers. Its walls reuse stone from the ancient city and the Asklepieion, layering the island’s classical and medieval history beside the place where Cameron and Sophie joined the yacht.",
       "proximity": "At the entrance to Kos harbour",
       "distanceMetres": 430,
-      "exceptional": false,
+      "exceptional": true,
       "evidence": [
         "place-defining"
       ],
-      "whyIncluded": "It is part of the harbour setting where the shared season began and falls within the immediate discovery radius.",
+      "whyIncluded": "It is part of the harbour setting where the shared season began; although the corrected Kos Harbour point measures just outside the standard moored radius, the fortress defines the harbour entrance.",
       "source": {
         "title": "Castle of the Knights & Phoinikon Street",
         "publisher": "Kos Island official tourism portal",
@@ -43,7 +43,7 @@
     {
       "id": "cavtat-ancient-epidaurum",
       "approved": true,
-      "routeStopTitle": "Cavtat Harbour",
+      "routeStopTitle": "Cavtat Harbour, Croatia",
       "journalEntryId": "very-pretty-here",
       "date": "2026-07-03",
       "category": "History",
@@ -66,7 +66,7 @@
     {
       "id": "polace-late-antique-palace",
       "approved": true,
-      "routeStopTitle": "Polače, Mljet",
+      "routeStopTitle": "Polače Anchorage, Mljet, Croatia",
       "journalEntryId": "black-pearl-mljet",
       "date": "2026-07-05",
       "category": "History",
@@ -90,7 +90,7 @@
     {
       "id": "korcula-wind-shaped-streets",
       "approved": true,
-      "routeStopTitle": "Korčula Port",
+      "routeStopTitle": "Korčula Port, Croatia",
       "date": "2026-07-06",
       "category": "Architecture",
       "title": "A town designed around the wind",
@@ -113,14 +113,14 @@
     {
       "id": "pakleni-paklina-resin",
       "approved": true,
-      "routeStopTitle": "Palmizana Anchorage",
+      "routeStopTitle": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia",
       "journalEntryId": "pakleni-anchorage",
       "date": "2026-07-07",
       "category": "Maritime",
       "title": "Not named after hell after all",
       "featureName": "Pakleni Islands maritime name",
       "body": "The islands’ name comes from paklina, a pine resin once used in shipbuilding to protect and seal wooden vessels. The name is a piece of maritime history, not a warning about the beautiful anchorage.",
-      "proximity": "All around the anchorage",
+      "proximity": "All around Velo Ždrilo Anchorage",
       "contextualArea": true,
       "evidence": [
         "place-defining"
@@ -135,7 +135,7 @@
     {
       "id": "split-living-roman-palace",
       "approved": true,
-      "routeStopTitle": "Split - near Riva waterfront",
+      "routeStopTitle": "Split City Harbour, Croatia",
       "journalEntryId": "triumph-in-split",
       "date": "2026-07-08",
       "category": "Architecture",
@@ -163,7 +163,7 @@
     {
       "id": "vis-st-jerome-roman-theatre",
       "approved": true,
-      "routeStopTitle": "Alongside in Vis, Croatia",
+      "routeStopTitle": "Vis Harbour, Vis Island, Croatia",
       "journalEntryId": "working-aloft-vis",
       "date": "2026-07-12",
       "category": "History",
@@ -188,14 +188,14 @@
     {
       "id": "komiza-kalokairi",
       "approved": true,
-      "routeStopTitle": "Komiža",
+      "routeStopTitle": "Komiža Anchorage, Vis Island, Croatia",
       "journalEntryId": "another-dolphin-to-komiza",
       "date": "2026-07-13",
       "category": "Film and culture",
       "title": "They anchored off Kalokairi",
       "featureName": "Mamma Mia! Here We Go Again filming locations",
-      "body": "Komiža and other locations on Vis played the imaginary Greek island of Kalokairi in Mamma Mia! Here We Go Again. After the looping passage towards Biševo, Juno’s 7 finished the day anchored off one of the film’s most recognisable settings.",
-      "proximity": "The town facing the anchorage",
+      "body": "Komiža Anchorage, Vis Island, Croatia and other locations on Vis played the imaginary Greek island of Kalokairi in Mamma Mia! Here We Go Again. After the looping passage towards Biševo, Juno’s 7 finished the day anchored off one of the film’s most recognisable settings.",
+      "proximity": "The town facing Komiža Anchorage",
       "contextualArea": true,
       "exceptional": true,
       "evidence": [
@@ -241,18 +241,41 @@
       "category": "History",
       "title": "The fortress beside Grand Harbour",
       "featureName": "Fort St Angelo",
-      "body": "Fort St Angelo stands at the end of the Birgu peninsula, immediately beside Grand Harbour Marina. The fort became the headquarters of the Order of St John after 1530, played a major role in the Great Siege of 1565, and later served as a Royal Navy shore base, making it one of the defining landmarks of Malta?s maritime history.",
+      "body": "Fort St Angelo stands at the end of the Birgu peninsula, immediately beside Grand Harbour Marina. The fort became the headquarters of the Order of St John after 1530, played a major role in the Great Siege of 1565, and later served as a Royal Navy shore base, making it one of the defining landmarks of Malta’s maritime history.",
       "proximity": "Right beside Grand Harbour Marina",
       "contextualArea": true,
       "exceptional": true,
       "evidence": [
         "place-defining"
       ],
-      "whyIncluded": "Juno?s 7 was moored beside the fort, making it direct harbour context rather than a distant attraction.",
+      "whyIncluded": "Juno’s 7 was moored beside the fort, making it direct harbour context rather than a distant attraction.",
       "source": {
         "title": "Fort St Angelo",
         "publisher": "Heritage Malta",
         "url": "https://heritagemalta.mt/explore/fort-st-angelo/"
+      }
+    },
+    {
+      "id": "comino-blue-crystal-lagoons",
+      "approved": true,
+      "routeStopTitle": "Comino Anchorage, Malta",
+      "journalEntryId": "comino-anchorage-blue-lagoon",
+      "date": "2026-07-30",
+      "category": "Natural landmark",
+      "title": "The turquoise lagoons of Comino",
+      "featureName": "Blue Lagoon and Crystal Lagoon",
+      "body": "Comino is the small island between Malta and Gozo, and its clear-water lagoons are among Malta’s most recognisable cruising locations. The Blue Lagoon is the best-known swimming and day-boat spot, while nearby Crystal Lagoon is more enclosed and dramatic, with cliffs, caves and deeper blue water.",
+      "proximity": "Close to Comino Anchorage",
+      "contextualArea": true,
+      "exceptional": true,
+      "evidence": [
+        "place-defining"
+      ],
+      "whyIncluded": "Juno’s 7 anchored off Comino while SETE transported the owners and their guests to the Blue Lagoon, making the lagoons direct context for the day rather than general Malta trivia.",
+      "source": {
+        "title": "Comino, Blue Lagoon and Crystal Lagoon",
+        "publisher": "Visit Malta",
+        "url": "https://www.visitmalta.com/en/a/comino/"
       }
     }
   ]

@@ -7,12 +7,12 @@
   "imo": "1109712",
   "routePoint": {
     "date": "1 Jul",
-    "name": "East Coast Corfu",
+    "name": "Barbati Anchorage, Corfu, Greece",
     "phase": "current",
     "lat": 39.712659,
     "lng": 19.870362,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
-    "title": "East Coast Corfu",
+    "title": "Barbati Anchorage, Corfu, Greece",
     "location": {
       "lookupStatus": "ok",
       "lookupProvider": "OpenStreetMap Nominatim",
@@ -38,7 +38,7 @@
   "tracker": {
     "timestampUtc": "2026-07-01T23:40:57.275Z",
     "status": "Approximate area",
-    "area": "East Coast Corfu",
+    "area": "Barbati Anchorage, Corfu, Greece",
     "position": {
       "lat": 39.712659,
       "lng": 19.870362,
@@ -68,6 +68,6 @@
       "nearestKnownPlaceDistanceNm": 3.8,
       "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
     },
-    "title": "East Coast Corfu"
+    "title": "Barbati Anchorage, Corfu, Greece"
   }
 }

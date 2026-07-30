@@ -1,7 +1,7 @@
 ---
 date: 2026-07-07
 title: Cameron in the garage tender
-location: Pakleni Islands, near Hvar
+location: Velo Ždrilo Anchorage, Pakleni Islands, Croatia
 type: crew-life
 media: cameron-garage-tender
 ---

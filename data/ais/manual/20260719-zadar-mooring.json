@@ -7,8 +7,8 @@
   "imo": "1109712",
   "routePoint": {
     "date": "19 Jul 09:35 UTC",
-    "title": "Zadar mooring",
-    "name": "Zadar mooring",
+    "title": "Zadar Harbour, Croatia",
+    "name": "Zadar Harbour, Croatia",
     "phase": "current",
     "lat": 44.118861,
     "lng": 15.222539,
@@ -35,8 +35,8 @@
   "tracker": {
     "timestampUtc": "2026-07-19T13:14:09.002Z",
     "status": "Moored",
-    "title": "Zadar mooring",
-    "area": "Zadar mooring",
+    "title": "Zadar Harbour, Croatia",
+    "area": "Zadar Harbour, Croatia",
     "position": {
       "lat": 44.118861,
       "lng": 15.222539,

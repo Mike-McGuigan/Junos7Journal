@@ -6,9 +6,9 @@
   "mmsi": "319303300",
   "imo": "1109712",
   "routePoint": {
-    "date": "14 Jul - Kakan",
-    "title": "Kakan",
-    "name": "Kakan",
+    "date": "14 Jul - Potkućina Bay, Kakan, Croatia",
+    "title": "Potkućina Bay, Kakan, Croatia",
+    "name": "Potkućina Bay, Kakan, Croatia",
     "phase": "current",
     "lat": 43.69666,
     "lng": 15.665452,
@@ -35,8 +35,8 @@
   "tracker": {
     "timestampUtc": "2026-07-15T09:25:42.566Z",
     "status": "At anchor",
-    "title": "Kakan",
-    "area": "Kakan",
+    "title": "Potkućina Bay, Kakan, Croatia",
+    "area": "Potkućina Bay, Kakan, Croatia",
     "position": {
       "lat": 43.69666,
       "lng": 15.665452,

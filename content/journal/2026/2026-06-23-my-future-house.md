@@ -1,11 +1,12 @@
 ---
 date: 2026-06-23
 title: My Future House
-location: Greek Islands
+location: Agios Ioannis Bay, Ios, Greece
 type: small-moment
 person: Sophie
 quote: "My future house!"
 media: future-house
+mapStop: Agios Ioannis Bay, Ios, Greece
 ---
 
 # My Future House

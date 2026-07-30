@@ -7,8 +7,8 @@
   "imo": "1109712",
   "routePoint": {
     "date": "2 Jul",
-    "title": "Heading towards Cavtat, Croatia",
-    "name": "Heading towards Cavtat, Croatia",
+    "title": "Heading towards Cavtat Harbour, Croatia",
+    "name": "Heading towards Cavtat Harbour, Croatia",
     "phase": "current",
     "lat": 40.004344,
     "lng": 19.667587,
@@ -17,8 +17,8 @@
   "tracker": {
     "timestampUtc": "2026-07-02T12:45:28.807Z",
     "status": "Underway",
-    "title": "Heading towards Cavtat, Croatia",
-    "area": "Heading towards Cavtat, Croatia",
+    "title": "Heading towards Cavtat Harbour, Croatia",
+    "area": "Heading towards Cavtat Harbour, Croatia",
     "position": {
       "lat": 40.004344,
       "lng": 19.667587,

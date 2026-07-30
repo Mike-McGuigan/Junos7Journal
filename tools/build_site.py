@@ -7,6 +7,7 @@ from shutil import copytree, rmtree
 import hashlib
 import json
 import os
+import re
 import stat
 import time
 
@@ -141,6 +142,38 @@ def validate_media_catalogue() -> dict:
         raise SystemExit("Media validation failed:\n- " + "\n- ".join(errors))
     return {"mediaItems": len(items), "categories": sorted({c for item in items for c in item.get("categories", [])})}
 
+
+def validate_text_encoding() -> None:
+    """Catch mojibake replacement markers before they reach the public site."""
+    paths = [
+        DOCS / "data" / "journal.json",
+        DOCS / "data" / "discoveries.json",
+        DOCS / "data" / "media.json",
+        DOCS / "data" / "route.json",
+    ]
+    suspicious = re.compile(r"(?<=[A-Za-z])\?(?=[A-Za-z])|(?<![?!.])\?(?=[A-Za-zÀ-ž])")
+    allowed_keys = {"url", "enhancedUrl"}
+    errors = []
+
+    def walk(value, trail):
+        if isinstance(value, dict):
+            for key, child in value.items():
+                walk(child, trail + [str(key)])
+        elif isinstance(value, list):
+            for index, child in enumerate(value):
+                walk(child, trail + [str(index)])
+        elif isinstance(value, str) and (not trail or trail[-1] not in allowed_keys):
+            if suspicious.search(value):
+                errors.append(f"{'.'.join(trail)}: {value}")
+
+    for path in paths:
+        data = load_json(path, None)
+        if data is not None:
+            walk(data, [path.relative_to(ROOT).as_posix()])
+
+    if errors:
+        raise SystemExit("Text encoding validation failed:\n- " + "\n- ".join(errors[:30]))
+
 def count_journal_entries() -> int | None:
     data = load_json(DOCS / "data" / "journal.json", None)
     if isinstance(data, list):
@@ -252,6 +285,7 @@ def main() -> None:
     route_stats = enrich_route_file(DOCS / "data" / "route.json", GEOMETRY_FILE)
     embedded_route_count = sync_embedded_journal_route()
     discovery_stats = build_contextual_discovery()
+    validate_text_encoding()
     update_dashboard_stats(route_stats, discovery_stats)
     write_build_metadata(version, build_utc)
 

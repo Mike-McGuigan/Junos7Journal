@@ -1,7 +1,7 @@
 ---
 date: 2026-06-27
 title: Nice Spot for Today
-location: Zakynthos
+location: Zakynthos Harbour, Greece
 type: anchorage
 person: Cameron
 quote: "Nice spot for today."

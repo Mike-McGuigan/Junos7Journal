@@ -64,8 +64,8 @@
     "type": "photo",
     "date": "2026-06-19",
     "url": "media/photos/2026-06-19-cameron-lines.jpg",
-    "title": "Learning the ropes",
-    "caption": "Cameron working with lines on deck.",
+    "title": "Settling in",
+    "caption": "Cameron settling into the rhythm of deck work aboard Juno's 7.",
     "categories": [
       "crew",
       "junos7",
@@ -74,7 +74,7 @@
     "journalEntries": [
       {
         "id": "learning-the-ropes",
-        "title": "Learning the Ropes",
+        "title": "Settling In",
         "date": "2026-06-19",
         "location": "Greek Islands"
       }
@@ -97,13 +97,7 @@
         "id": "first-days-on-deck",
         "title": "First Days on Deck",
         "date": "2026-06-20",
-        "location": "Lipsi"
-      },
-      {
-        "id": "still-filthy",
-        "title": "Still Filthy",
-        "date": "2026-06-20",
-        "location": "Lipsi"
+        "location": "Skala Harbour, Patmos, Greece"
       }
     ]
   },
@@ -131,7 +125,7 @@
         "id": "first-days-on-deck",
         "title": "First Days on Deck",
         "date": "2026-06-20",
-        "location": "Lipsi"
+        "location": "Skala Harbour, Patmos, Greece"
       }
     ]
   },
@@ -192,7 +186,7 @@
         "id": "my-future-house",
         "title": "My Future House",
         "date": "2026-06-23",
-        "location": "Greek Islands"
+        "location": "Agios Ioannis Bay, Ios, Greece"
       }
     ]
   },
@@ -231,7 +225,7 @@
         "id": "nice-spot-for-today",
         "title": "Nice Spot for Today",
         "date": "2026-06-27",
-        "location": "Zakynthos"
+        "location": "Zakynthos Harbour, Greece"
       }
     ]
   },
@@ -252,7 +246,7 @@
         "id": "nice-spot-for-today",
         "title": "Nice Spot for Today",
         "date": "2026-06-27",
-        "location": "Zakynthos"
+        "location": "Zakynthos Harbour, Greece"
       }
     ]
   },
@@ -273,7 +267,7 @@
         "id": "nice-spot-for-today",
         "title": "Nice Spot for Today",
         "date": "2026-06-27",
-        "location": "Zakynthos"
+        "location": "Zakynthos Harbour, Greece"
       }
     ]
   },
@@ -294,7 +288,7 @@
         "id": "nice-spot-for-today",
         "title": "Nice Spot for Today",
         "date": "2026-06-27",
-        "location": "Zakynthos"
+        "location": "Zakynthos Harbour, Greece"
       }
     ]
   },
@@ -401,7 +395,7 @@
         "id": "very-pretty-here",
         "title": "Very Pretty Here",
         "date": "2026-07-03",
-        "location": "Cavtat, Croatia"
+        "location": "Cavtat Harbour, Croatia"
       }
     ]
   },
@@ -421,7 +415,7 @@
         "id": "very-pretty-here",
         "title": "Very Pretty Here",
         "date": "2026-07-03",
-        "location": "Cavtat, Croatia"
+        "location": "Cavtat Harbour, Croatia"
       }
     ]
   },
@@ -448,7 +442,7 @@
         "id": "black-pearl-mljet",
         "title": "She’s a Biggie!",
         "date": "2026-07-05",
-        "location": "Polače, Mljet"
+        "location": "Polače Anchorage, Mljet, Croatia"
       }
     ]
   },
@@ -468,7 +462,7 @@
         "id": "pakleni-anchorage",
         "title": "Coming Into Anchorage",
         "date": "2026-07-07",
-        "location": "Pakleni Islands, near Hvar"
+        "location": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia"
       }
     ]
   },
@@ -495,7 +489,7 @@
         "id": "pakleni-anchorage",
         "title": "Coming Into Anchorage",
         "date": "2026-07-07",
-        "location": "Pakleni Islands, near Hvar"
+        "location": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia"
       }
     ]
   },
@@ -522,7 +516,7 @@
         "id": "pakleni-anchorage",
         "title": "Coming Into Anchorage",
         "date": "2026-07-07",
-        "location": "Pakleni Islands, near Hvar"
+        "location": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia"
       }
     ]
   },
@@ -583,7 +577,7 @@
         "id": "dolphins-off-milna",
         "title": "Dolphins off Milna",
         "date": "2026-07-10",
-        "location": "Off Milna, Croatia"
+        "location": "Zaglav Anchorage, Brač, Croatia"
       }
     ]
   },
@@ -604,7 +598,7 @@
         "id": "dolphins-off-milna",
         "title": "Dolphins off Milna",
         "date": "2026-07-10",
-        "location": "Off Milna, Croatia"
+        "location": "Zaglav Anchorage, Brač, Croatia"
       }
     ]
   },
@@ -632,7 +626,7 @@
         "id": "dolphins-off-milna",
         "title": "Dolphins off Milna",
         "date": "2026-07-10",
-        "location": "Off Milna, Croatia"
+        "location": "Zaglav Anchorage, Brač, Croatia"
       }
     ]
   },
@@ -660,7 +654,7 @@
         "id": "dolphins-off-milna",
         "title": "Dolphins off Milna",
         "date": "2026-07-10",
-        "location": "Off Milna, Croatia"
+        "location": "Zaglav Anchorage, Brač, Croatia"
       }
     ]
   },
@@ -687,7 +681,7 @@
         "id": "dolphins-off-milna",
         "title": "Dolphins off Milna",
         "date": "2026-07-10",
-        "location": "Off Milna, Croatia"
+        "location": "Zaglav Anchorage, Brač, Croatia"
       }
     ]
   },
@@ -714,7 +708,7 @@
         "id": "dolphins-off-milna",
         "title": "Dolphins off Milna",
         "date": "2026-07-10",
-        "location": "Off Milna, Croatia"
+        "location": "Zaglav Anchorage, Brač, Croatia"
       }
     ]
   },
@@ -770,7 +764,7 @@
         "id": "vis-film-set-and-ash",
         "title": "A Film Set — and Ash on the Deck",
         "date": "2026-07-11",
-        "location": "Vis, Croatia"
+        "location": "Vis Harbour, Vis Island, Croatia"
       }
     ]
   },
@@ -799,7 +793,7 @@
         "id": "vis-film-set-and-ash",
         "title": "A Film Set — and Ash on the Deck",
         "date": "2026-07-11",
-        "location": "Vis, Croatia"
+        "location": "Vis Harbour, Vis Island, Croatia"
       }
     ]
   },
@@ -825,7 +819,7 @@
         "id": "afternoon-off-vis",
         "title": "Afternoon Off",
         "date": "2026-07-12",
-        "location": "Vis, Croatia"
+        "location": "Vis Harbour, Vis Island, Croatia"
       }
     ]
   },
@@ -854,7 +848,7 @@
         "id": "working-aloft-vis",
         "title": "Ready for the Climb",
         "date": "2026-07-12",
-        "location": "Vis, Croatia"
+        "location": "Vis Harbour, Vis Island, Croatia"
       }
     ]
   },
@@ -883,7 +877,7 @@
         "id": "working-aloft-vis",
         "title": "Ready for the Climb",
         "date": "2026-07-12",
-        "location": "Vis, Croatia"
+        "location": "Vis Harbour, Vis Island, Croatia"
       }
     ]
   },
@@ -905,7 +899,7 @@
         "id": "much-nicer-vis",
         "title": "Much Nicer",
         "date": "2026-07-12",
-        "location": "Vis, Croatia"
+        "location": "Vis Harbour, Vis Island, Croatia"
       }
     ]
   },
@@ -932,7 +926,7 @@
         "id": "much-nicer-vis",
         "title": "Much Nicer",
         "date": "2026-07-12",
-        "location": "Vis, Croatia"
+        "location": "Vis Harbour, Vis Island, Croatia"
       }
     ]
   },
@@ -954,7 +948,7 @@
         "id": "another-dolphin-to-komiza",
         "title": "Another Dolphin",
         "date": "2026-07-13",
-        "location": "Underway off Biševo, later anchored off Komiža"
+        "location": "Underway off Biševo, later anchored off Komiža Anchorage, Vis Island, Croatia"
       }
     ]
   },
@@ -976,7 +970,7 @@
         "id": "another-dolphin-to-komiza",
         "title": "Another Dolphin",
         "date": "2026-07-13",
-        "location": "Underway off Biševo, later anchored off Komiža"
+        "location": "Underway off Biševo, later anchored off Komiža Anchorage, Vis Island, Croatia"
       }
     ]
   },
@@ -987,8 +981,8 @@
     "url": "media/photos/2026-07-14-komiza-dawn.jpg",
     "originalUrl": "media/photos/2026-07-14-komiza-dawn.jpg",
     "enhancedUrl": "media/photos/enhanced/2026-07-14-komiza-dawn-enhanced.jpg",
-    "title": "Dawn over Komiža",
-    "caption": "First light rising over the hills behind Komiža while Juno’s 7 lay quietly at anchor.",
+    "title": "Dawn over Komiža Anchorage, Vis Island, Croatia",
+    "caption": "First light rising over the hills behind Komiža Anchorage, Vis Island, Croatia while Juno’s 7 lay quietly at anchor.",
     "enhancement": {
       "status": "enhanced-working-copy",
       "method": "light noise reduction, restrained contrast and sharpening",
@@ -1002,9 +996,9 @@
     "journalEntries": [
       {
         "id": "dawn-over-komiza",
-        "title": "Dawn over Komiža",
+        "title": "Dawn over Komiža Anchorage, Vis Island, Croatia",
         "date": "2026-07-14",
-        "location": "At anchor off Komiža, Vis"
+        "location": "At anchor off Komiža Anchorage, Vis Island, Croatia, Vis"
       }
     ]
   },
@@ -1033,7 +1027,7 @@
         "id": "calm-before-storm-smokvica",
         "title": "Calm Before the Storm",
         "date": "2026-07-15",
-        "location": "At anchor, Smokvica Vela, Kornati"
+        "location": "Lojena Bay, Smokvica Vela, Croatia"
       }
     ]
   },
@@ -1055,7 +1049,7 @@
         "id": "levrnaka-first-light",
         "title": "First Light at Levrnaka",
         "date": "2026-07-18",
-        "location": "Levrnaka Bay, Kornati"
+        "location": "Levrnaka Bay, Kornati National Park, Croatia"
       }
     ]
   },
@@ -1066,7 +1060,7 @@
     "url": "media/photos/2026-07-18-zut-scampi.jpg",
     "originalUrl": "media/photos/2026-07-18-zut-scampi.jpg",
     "title": "Not quite British scampi",
-    "caption": "Whole Adriatic langoustines at Konoba Vison — not the breaded scampi Sophie had expected.",
+    "caption": "Whole Adriatic langoustines at Konoba Vison — not the breaded scampi Sophie had perhaps expected.",
     "categories": [
       "crew",
       "behind-scenes"
@@ -1074,9 +1068,9 @@
     "journalEntries": [
       {
         "id": "zut-harbour-evening",
-        "title": "Žut Harbour",
+        "title": "Hiljača Anchorage",
         "date": "2026-07-18",
-        "location": "Žut Harbour, sheltered by Gušćak Islet"
+        "location": "Hiljača Anchorage, Žut, Croatia, sheltered by Gušćak Islet"
       }
     ]
   },
@@ -1095,9 +1089,9 @@
     "journalEntries": [
       {
         "id": "zut-harbour-evening",
-        "title": "Žut Harbour",
+        "title": "Hiljača Anchorage",
         "date": "2026-07-18",
-        "location": "Žut Harbour, sheltered by Gušćak Islet"
+        "location": "Hiljača Anchorage, Žut, Croatia, sheltered by Gušćak Islet"
       }
     ]
   },
@@ -1116,9 +1110,9 @@
     "journalEntries": [
       {
         "id": "zut-harbour-evening",
-        "title": "Žut Harbour",
+        "title": "Hiljača Anchorage",
         "date": "2026-07-18",
-        "location": "Žut Harbour, sheltered by Gušćak Islet"
+        "location": "Hiljača Anchorage, Žut, Croatia, sheltered by Gušćak Islet"
       }
     ]
   },
@@ -1160,7 +1154,7 @@
         "id": "another-dolphin-to-komiza",
         "title": "Another Dolphin",
         "date": "2026-07-13",
-        "location": "Underway off Biševo, later anchored off Komiža"
+        "location": "Underway off Biševo, later anchored off Komiža Anchorage, Vis Island, Croatia"
       }
     ]
   },
@@ -1306,6 +1300,46 @@
         "title": "Arrival in Malta",
         "date": "2026-07-29",
         "location": "Grand Harbour Marina, Vittoriosa, Malta"
+      }
+    ]
+  },
+  {
+    "id": "comino-anchorage-evening",
+    "type": "photo",
+    "date": "2026-07-30",
+    "url": "media/photos/2026-07-30-comino-anchorage-evening.png",
+    "title": "Evening light at Comino",
+    "caption": "Sophie’s evening view from Comino Anchorage, with the island’s limestone cliffs and cave openings catching the last warm light.",
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "comino-anchorage-blue-lagoon",
+        "title": "Comino Anchorage",
+        "date": "2026-07-30",
+        "location": "Comino Anchorage, Malta"
+      }
+    ]
+  },
+  {
+    "id": "comino-anchorage-video",
+    "type": "video",
+    "date": "2026-07-30",
+    "url": "media/videos/2026-07-30-comino-anchorage-video.mp4",
+    "title": "Comino Anchorage video",
+    "caption": "Sophie’s video from Comino Anchorage as Juno’s 7 spent the afternoon off the island.",
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "comino-anchorage-blue-lagoon",
+        "title": "Comino Anchorage",
+        "date": "2026-07-30",
+        "location": "Comino Anchorage, Malta"
       }
     ]
   }

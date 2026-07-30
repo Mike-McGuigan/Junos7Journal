@@ -6,9 +6,9 @@
   "mmsi": "319303300",
   "imo": "1109712",
   "routePoint": {
-    "date": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
-    "title": "Komiža",
-    "name": "Komiža",
+    "date": "13 Jul - At anchor off Komiža Anchorage, Vis Island, Croatia (Mamma Mia 2 town)",
+    "title": "Komiža Anchorage, Vis Island, Croatia",
+    "name": "Komiža Anchorage, Vis Island, Croatia",
     "phase": "current",
     "lat": 43.044893,
     "lng": 16.0826,
@@ -18,8 +18,8 @@
   "tracker": {
     "timestampUtc": "2026-07-13T12:11:27.592Z",
     "status": "At anchor",
-    "title": "Komiža",
-    "area": "Komiža",
+    "title": "Komiža Anchorage, Vis Island, Croatia",
+    "area": "Komiža Anchorage, Vis Island, Croatia",
     "position": {
       "lat": 43.044893,
       "lng": 16.0826,

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "Contextual Discovery",
-  "generatedUtc": "2026-07-30T21:42:52+00:00",
+  "generatedUtc": "2026-07-31T15:35:37+00:00",
   "principle": "One great story beats five interesting facts.",
   "policy": {
     "mooredRadiusMetres": 300,
@@ -325,7 +325,7 @@
       },
       "routeStopIndex": 56,
       "routeStopDate": "30 Jul - Early afternoon",
-      "routeStopStatus": "Current position",
+      "routeStopStatus": "Voyage stop",
       "distanceMetres": null,
       "distanceBand": "contextual",
       "qualification": "place-defining context"

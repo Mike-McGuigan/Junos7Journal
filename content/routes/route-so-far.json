@@ -4808,7 +4808,7 @@
     "date": "30 Jul - Early afternoon",
     "title": "Comino Anchorage, Malta",
     "name": "Comino Anchorage, Malta",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 36.007951,
     "lng": 14.325169,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -4830,5 +4830,33 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     }
+  },
+  {
+    "date": "31 Jul AM",
+    "title": "Dwejra Bay, Gozo, Malta",
+    "name": "Dwejra Bay, Gozo, Malta",
+    "phase": "current",
+    "lat": 36.04573,
+    "lng": 14.192356,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365307,
+      "displayName": "Dwejra Bay, Gozo, Malta",
+      "shortName": "Dwejra Bay, Gozo, Malta",
+      "rawDisplayName": "Malta",
+      "country": "Malta",
+      "countryCode": "MT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "status": "At anchor"
   }
 ]

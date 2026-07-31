@@ -1,27 +1,27 @@
 {
   "schemaVersion": 5,
-  "generatedUtc": "2026-07-30T15:23:18.353Z",
+  "generatedUtc": "2026-07-31T09:08:37.998Z",
   "vesselKey": "junos7",
   "displayName": "JUNOS 7",
   "mmsi": "319303300",
   "imo": "1109712",
   "routePoint": {
-    "date": "30 Jul - Early afternoon",
+    "date": "31 Jul AM - Return to Comino",
     "title": "Comino Anchorage, Malta",
     "name": "Comino Anchorage, Malta",
     "phase": "current",
-    "lat": 36.007951,
-    "lng": 14.325169,
+    "lat": 36.008086,
+    "lng": 14.32526,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
   },
   "tracker": {
-    "timestampUtc": "2026-07-30T15:23:18.353Z",
+    "timestampUtc": "2026-07-31T09:08:37.998Z",
     "status": "At anchor",
     "title": "Comino Anchorage, Malta",
     "area": "Comino Anchorage, Malta",
     "position": {
-      "lat": 36.007951,
-      "lng": 14.325169,
+      "lat": 36.008086,
+      "lng": 14.32526,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },

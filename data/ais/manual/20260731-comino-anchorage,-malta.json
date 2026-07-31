@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-07-31T09:08:37.998Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "31 Jul AM - Return to Comino",
+    "title": "Comino Anchorage, Malta",
+    "name": "Comino Anchorage, Malta",
+    "phase": "current",
+    "lat": 36.008086,
+    "lng": 14.32526,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365307,
+      "displayName": "Comino Anchorage, Malta",
+      "shortName": "Comino Anchorage, Malta",
+      "rawDisplayName": "Malta",
+      "country": "Malta",
+      "countryCode": "MT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-07-31T09:08:37.998Z",
+    "status": "At anchor",
+    "title": "Comino Anchorage, Malta",
+    "area": "Comino Anchorage, Malta",
+    "position": {
+      "lat": 36.008086,
+      "lng": 14.32526,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365307,
+      "displayName": "Comino Anchorage, Malta",
+      "shortName": "Comino Anchorage, Malta",
+      "rawDisplayName": "Malta",
+      "country": "Malta",
+      "countryCode": "MT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

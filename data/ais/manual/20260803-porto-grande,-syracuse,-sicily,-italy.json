@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-03T17:19:34.746Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "3 Aug",
+    "title": "Porto Grande, Syracuse, Sicily, Italy",
+    "name": "Porto Grande, Syracuse, Sicily, Italy",
+    "phase": "current",
+    "lat": 37.059785,
+    "lng": 15.29148,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "node",
+      "osmId": 1932675079,
+      "displayName": "Near Syracuse, Sicily, Italy",
+      "shortName": "Syracuse",
+      "rawDisplayName": "Syracuse, Siracusa, Sicily, 96100, Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": "Sicily",
+      "county": "Siracusa",
+      "municipality": "Syracuse",
+      "island": null,
+      "nearestPlace": "Syracuse",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-03T17:19:34.746Z",
+    "status": "Moored",
+    "title": "Porto Grande, Syracuse, Sicily, Italy",
+    "area": "Porto Grande, Syracuse, Sicily, Italy",
+    "position": {
+      "lat": 37.059785,
+      "lng": 15.29148,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "node",
+      "osmId": 1932675079,
+      "displayName": "Near Syracuse, Sicily, Italy",
+      "shortName": "Syracuse",
+      "rawDisplayName": "Syracuse, Siracusa, Sicily, 96100, Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": "Sicily",
+      "county": "Siracusa",
+      "municipality": "Syracuse",
+      "island": null,
+      "nearestPlace": "Syracuse",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": "2.7.4",
   "release": "Dashboard safety guards",
-  "buildUtc": "2026-07-31 15:35:37 UTC",
-  "fileCount": 164,
+  "buildUtc": "2026-08-03 19:42:07 UTC",
+  "fileCount": 167,
   "files": [
     {
       "path": ".gitkeep",
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 208,
-      "sha256": "1205a80331bfb041ef8a45169bc28f169a1f8549f38a1771239e9c62c439a3f7"
+      "sha256": "9cd9456762f426a735a935bdc941e215b095ac028266c2afc296da735b42dcdc"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 30020,
-      "sha256": "69b540eb36e1fbdbc48f15b88bcc973eef9fd07600d5d4ea17ecfef433825720"
+      "sizeBytes": 30607,
+      "sha256": "d8d6410ead332bf60845b8e7ab1980ce10877a5b5323f2a28f107b3d4eb2570b"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2862,
-      "sha256": "95cd88ce2e8dc02026c1cd7a68e3c73fa1a7c3ae9b7eb98cd0aa37c522d9fa28"
+      "sizeBytes": 2938,
+      "sha256": "a1167dc0915ff42027b4638ae2532d11e9bd240ab5bfc66a025cbeb7f63a3d04"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -161,13 +161,13 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 2080,
-      "sha256": "1a6492b26a5dd67cce9e49403b3243935d7248005dcf2d2b7736d64420659357"
+      "sizeBytes": 2795,
+      "sha256": "9107956c9074bb5066357d552b8f9fb3bf605ca490c4d36c28294c0179fb55f2"
     },
     {
       "path": "data/discoveries.json",
       "sizeBytes": 15935,
-      "sha256": "ecbcecc08838cfe7b86746eb62ce6ac1ac4ac0be4136772a22abf56363aaf06d"
+      "sha256": "86b0f8863a4330a9d99f5ca3246dba77c0952f89861149bd33c8e5fa61f5a3d1"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 232306,
-      "sha256": "26f60f094a2320ea2e2f9cb5dbc57f8f2518c30a1c18743164826335abe39be9"
+      "sizeBytes": 241972,
+      "sha256": "17e209e0ceb86c367db7efab8209003e72de01c88441ddd8dd67ddc35a09f4c3"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -201,8 +201,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 41570,
-      "sha256": "34d55a9e60e837bacf9094f5f49f9511b2ac3e8941eac0a66d8cccb94de0c623"
+      "sizeBytes": 43342,
+      "sha256": "ac98fad1fd44d4f515ecc6c0729e90e4d7acac0148393320fbb36916d52b371c"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 117668,
-      "sha256": "a40fc5017f8047db44249c121edb27fc90a58253c13e046881c1859818a38339"
+      "sizeBytes": 123769,
+      "sha256": "fda129c8a5ba8d62968f37e89b68d8e4180c72c6a7573698cf95110d9857491e"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -251,8 +251,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 117642,
-      "sha256": "912af1a0371c4e8a86d4ae0a4dbe737c2d557eb4da4b08201942b2610b50a28b"
+      "sizeBytes": 121741,
+      "sha256": "92db88e9ae9e13aed8993fda658f744961f073f4de27776ad6a3b0c3ad79be8d"
     },
     {
       "path": "data/site.json",
@@ -267,7 +267,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 208,
-      "sha256": "1205a80331bfb041ef8a45169bc28f169a1f8549f38a1771239e9c62c439a3f7"
+      "sha256": "9cd9456762f426a735a935bdc941e215b095ac028266c2afc296da735b42dcdc"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -312,7 +312,7 @@
     {
       "path": "data/version.json.bak-geo-1",
       "sizeBytes": 208,
-      "sha256": "903a1e762b4a27f4c88dc8c6fb8fc52398063aa93bf67246ca31bbc36e99cf31"
+      "sha256": "6fd6ac785b6aa937f4a134cc070bc35e7b7653939d369d4eb68962400eadb680"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -530,6 +530,21 @@
       "sha256": "77b9a08d6d25373235ee24f36a9d1b8f850b5c9dbf8642dabc91af28bc668c2b"
     },
     {
+      "path": "media/photos/2026-08-03-syracuse-calamari.webp",
+      "sizeBytes": 54196,
+      "sha256": "9b9a05deb20a066e25ddf296056f9105e63258bcbce7850bfd6d8cb92ceef077"
+    },
+    {
+      "path": "media/photos/2026-08-03-syracuse-just-ordered-food.jpg",
+      "sizeBytes": 90335,
+      "sha256": "65e6c79c87223ccdce3e2af59200c71fe3d7184aea16d0c5a5d8edd9cae38053"
+    },
+    {
+      "path": "media/photos/2026-08-03-syracuse-shrimp-ravioli.webp",
+      "sizeBytes": 63006,
+      "sha256": "dbeefec274cc63298a99c67d5cfd9e7a0b93c10a0e34fbdaf9f311e7d006eb87"
+    },
+    {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",
       "sizeBytes": 3003718,
       "sha256": "dc8dcfc478078d3d2e748cb0f27213df88a91714eacaff1a08b40ac9e4375db3"
@@ -726,8 +741,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 25847,
-      "sha256": "6ee7f87d2c75df736d3c3d81d5ab929bb431f7a01aa17b33499c9bb9733b7486"
+      "sizeBytes": 25865,
+      "sha256": "fbb54f5e36be5c955562d3c4eacc354431a11ee3ca9d53fc8f41593a7061a40f"
     },
     {
       "path": "assets/css/version.css",
@@ -776,8 +791,8 @@
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 15800,
-      "sha256": "e258d04a9008ac7a1f5464897545eefe4fab5fd6424890b70b61c1cb39b4615b"
+      "sizeBytes": 15785,
+      "sha256": "c339cee4a48a4d9dec56d517a055529ae71aa0a082b2fa62fad1bfcabb6a4f1f"
     },
     {
       "path": "assets/js/dashboard.js",

@@ -1150,6 +1150,30 @@
         "title": "Dwejra and the lost Azure Window",
         "body": "Dwejra is one of Gozo's best-known coastal areas. It includes Dwejra Bay, Fungus Rock, the Inland Sea and the Blue Hole dive site. The area was also home to the Azure Window, the natural limestone arch that collapsed during a storm in March 2017."
       }
+    },
+    {
+      "id": "syracuse-ashore-food",
+      "date": "2026-08-03",
+      "title": "Ashore in Syracuse",
+      "location": "Porto Grande, Syracuse, Sicily, Italy",
+      "type": "crew-life",
+      "person": "Cameron",
+      "quote": "Just ordered some food",
+      "mapStop": "Porto Grande, Syracuse, Sicily, Italy",
+      "body": "After Juno's 7 reached Porto Grande in Syracuse, Cameron managed to get ashore for food in Sicily while Sophie was still working. His first update was simple: \"Just ordered some food.\"\n\nThe meal turned into a proper Sicilian welcome: shrimp ravioli as a starter, followed by calamari for the main course.",
+      "summary": "Cameron got ashore for food in Syracuse after Juno's 7 reached Porto Grande, while Sophie was still working.",
+      "photos": [
+        "syracuse-just-ordered-food",
+        "syracuse-shrimp-ravioli",
+        "syracuse-calamari-main"
+      ],
+      "videos": [],
+      "media": [
+        "syracuse-just-ordered-food",
+        "syracuse-shrimp-ravioli",
+        "syracuse-calamari-main"
+      ],
+      "heroMedia": "syracuse-shrimp-ravioli"
     }
   ],
   "media": [
@@ -2494,6 +2518,66 @@
           "title": "Comino Anchorage",
           "date": "2026-07-30",
           "location": "Comino Anchorage, Malta"
+        }
+      ]
+    },
+    {
+      "id": "syracuse-just-ordered-food",
+      "type": "photo",
+      "date": "2026-08-03",
+      "url": "media/photos/2026-08-03-syracuse-just-ordered-food.jpg",
+      "title": "Just ordered some food",
+      "caption": "Cameron's first Sicilian stop ashore after Juno's 7 reached Porto Grande, while Sophie was still working.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "syracuse-ashore-food",
+          "title": "Ashore in Syracuse",
+          "date": "2026-08-03",
+          "location": "Porto Grande, Syracuse, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "syracuse-shrimp-ravioli",
+      "type": "photo",
+      "date": "2026-08-03",
+      "url": "media/photos/2026-08-03-syracuse-shrimp-ravioli.webp",
+      "title": "Shrimp ravioli starter",
+      "caption": "Shrimp ravioli served as Cameron's starter during a short meal ashore in Syracuse.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "syracuse-ashore-food",
+          "title": "Ashore in Syracuse",
+          "date": "2026-08-03",
+          "location": "Porto Grande, Syracuse, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "syracuse-calamari-main",
+      "type": "photo",
+      "date": "2026-08-03",
+      "url": "media/photos/2026-08-03-syracuse-calamari.webp",
+      "title": "Calamari main",
+      "caption": "Calamari for Cameron's main course ashore in Syracuse.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "syracuse-ashore-food",
+          "title": "Ashore in Syracuse",
+          "date": "2026-08-03",
+          "location": "Porto Grande, Syracuse, Sicily, Italy"
         }
       ]
     }
@@ -7348,7 +7432,7 @@
       "date": "31 Jul AM",
       "title": "Dwejra Bay, Gozo, Malta",
       "name": "Dwejra Bay, Gozo, Malta",
-      "phase": "current",
+      "phase": "onboard",
       "lat": 36.04573,
       "lng": 14.192356,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -7448,6 +7532,275 @@
         ]
       },
       "status": "At anchor"
+    },
+    {
+      "date": "2 Aug",
+      "title": "Ramla Bay, Gozo, Malta",
+      "name": "Ramla Bay, Gozo, Malta",
+      "phase": "onboard",
+      "lat": 36.066492,
+      "lng": 14.276824,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 365307,
+        "displayName": "Ramla Bay, Gozo, Malta",
+        "shortName": "Ramla Bay, Gozo, Malta",
+        "rawDisplayName": "Malta",
+        "country": "Malta",
+        "countryCode": "MT",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Dwejra Bay, Gozo, Malta",
+        "toTitle": "Ramla Bay, Gozo, Malta",
+        "distanceDirectNm": 4.3,
+        "distanceEstimatedNm": 8.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.04573,
+            14.192356
+          ],
+          [
+            36.045911,
+            14.190438
+          ],
+          [
+            36.045805,
+            14.189403
+          ],
+          [
+            36.04551,
+            14.188374
+          ],
+          [
+            36.046169,
+            14.187302
+          ],
+          [
+            36.046898,
+            14.185565
+          ],
+          [
+            36.052864,
+            14.17619
+          ],
+          [
+            36.057721,
+            14.173959
+          ],
+          [
+            36.063965,
+            14.171214
+          ],
+          [
+            36.069655,
+            14.170871
+          ],
+          [
+            36.074233,
+            14.172072
+          ],
+          [
+            36.086442,
+            14.190086
+          ],
+          [
+            36.089633,
+            14.228001
+          ],
+          [
+            36.088614,
+            14.243214
+          ],
+          [
+            36.087574,
+            14.251584
+          ],
+          [
+            36.081864,
+            14.269136
+          ],
+          [
+            36.078387,
+            14.27525
+          ],
+          [
+            36.073878,
+            14.280225
+          ],
+          [
+            36.066797,
+            14.278994
+          ],
+          [
+            36.065996,
+            14.277857
+          ],
+          [
+            36.066492,
+            14.276824
+          ]
+        ]
+      }
+    },
+    {
+      "date": "3 Aug - 5AM departure",
+      "title": "Passage to Sicily",
+      "name": "Passage to Sicily",
+      "phase": "onboard",
+      "lat": 36.422995,
+      "lng": 14.823825,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": null,
+        "osmId": null,
+        "displayName": "Passage to Sicily",
+        "shortName": "Passage to Sicily",
+        "rawDisplayName": null,
+        "country": null,
+        "countryCode": null,
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Ramla Bay, Gozo, Malta",
+        "toTitle": "Passage to Sicily",
+        "distanceDirectNm": 34.1,
+        "distanceEstimatedNm": 34.1,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.066492,
+            14.276824
+          ],
+          [
+            36.066629,
+            14.276703
+          ],
+          [
+            36.066967,
+            14.276779
+          ],
+          [
+            36.07582,
+            14.287633
+          ],
+          [
+            36.167329,
+            14.435917
+          ],
+          [
+            36.301984,
+            14.648523
+          ],
+          [
+            36.422995,
+            14.823825
+          ]
+        ]
+      }
+    },
+    {
+      "date": "3 Aug",
+      "title": "Porto Grande, Syracuse, Sicily, Italy",
+      "name": "Porto Grande, Syracuse, Sicily, Italy",
+      "phase": "current",
+      "lat": 37.059785,
+      "lng": 15.29148,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "node",
+        "osmId": 1932675079,
+        "displayName": "Near Syracuse, Sicily, Italy",
+        "shortName": "Syracuse",
+        "rawDisplayName": "Syracuse, Siracusa, Sicily, 96100, Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": "Sicily",
+        "county": "Siracusa",
+        "municipality": "Syracuse",
+        "island": null,
+        "nearestPlace": "Syracuse",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Passage to Sicily",
+        "toTitle": "Porto Grande, Syracuse, Sicily, Italy",
+        "distanceDirectNm": 44.4,
+        "distanceEstimatedNm": 54.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.422995,
+            14.823825
+          ],
+          [
+            36.63881,
+            15.177542
+          ],
+          [
+            36.831409,
+            15.338122
+          ],
+          [
+            36.9994,
+            15.401256
+          ],
+          [
+            37.049834,
+            15.388904
+          ],
+          [
+            37.052197,
+            15.345111
+          ],
+          [
+            37.050553,
+            15.323152
+          ],
+          [
+            37.047813,
+            15.305996
+          ],
+          [
+            37.048087,
+            15.292957
+          ],
+          [
+            37.053019,
+            15.284722
+          ],
+          [
+            37.056838,
+            15.286441
+          ],
+          [
+            37.059785,
+            15.29148
+          ]
+        ]
+      },
+      "status": "Moored"
     }
   ]
 }

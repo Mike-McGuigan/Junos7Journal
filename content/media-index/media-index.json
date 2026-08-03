@@ -1322,5 +1322,85 @@
         "location": "Comino Anchorage, Malta"
       }
     ]
+  },
+  {
+    "id": "syracuse-just-ordered-food",
+    "type": "photo",
+    "date": "2026-08-03",
+    "url": "media/photos/2026-08-03-syracuse-just-ordered-food.jpg",
+    "title": "Just ordered some food",
+    "caption": "Cameron's first Sicilian stop ashore after Juno's 7 reached Porto Grande, while Sophie was still working.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "syracuse-ashore-food",
+        "title": "Ashore in Syracuse",
+        "date": "2026-08-03",
+        "location": "Porto Grande, Syracuse, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "syracuse-shrimp-ravioli",
+    "type": "photo",
+    "date": "2026-08-03",
+    "url": "media/photos/2026-08-03-syracuse-shrimp-ravioli.webp",
+    "title": "Shrimp ravioli starter",
+    "caption": "Shrimp ravioli served as Cameron's starter during a short meal ashore in Syracuse.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "syracuse-ashore-food",
+        "title": "Ashore in Syracuse",
+        "date": "2026-08-03",
+        "location": "Porto Grande, Syracuse, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "syracuse-calamari-main",
+    "type": "photo",
+    "date": "2026-08-03",
+    "url": "media/photos/2026-08-03-syracuse-calamari.webp",
+    "title": "Calamari main",
+    "caption": "Calamari for Cameron's main course ashore in Syracuse.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "syracuse-ashore-food",
+        "title": "Ashore in Syracuse",
+        "date": "2026-08-03",
+        "location": "Porto Grande, Syracuse, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "zadar-antiquus-sushi-boat",
+    "type": "photo",
+    "date": "2026-07-20",
+    "url": "media/photos/2026-07-20-antiquus-sushi-boat.jpeg",
+    "title": "Sushi at Antiquus",
+    "caption": "A colourful sushi boat during Cameron and Sophie’s evening ashore at Antiquus Sushi & More in Zadar.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "zadar-evening-antiquus",
+        "title": "An Evening at Antiquus",
+        "date": "2026-07-20",
+        "location": "Zadar, Croatia"
+      }
+    ]
   }
 ]

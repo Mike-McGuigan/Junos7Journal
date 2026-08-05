@@ -1402,5 +1402,86 @@
         "location": "Porto Grande, Syracuse, Sicily, Italy"
       }
     ]
+  },
+  {
+    "id": "syracuse-seafood-pasta",
+    "type": "photo",
+    "date": "2026-08-04",
+    "url": "media/photos/2026-08-04-syracuse-seafood-pasta.jpg",
+    "title": "Seafood pasta",
+    "caption": "Seafood pasta during Cameron and Sophie's dinner ashore in Syracuse.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "syracuse-dinner-and-drinks",
+        "title": "Dinner and Drinks in Syracuse",
+        "date": "2026-08-04",
+        "location": "Porto Grande, Syracuse, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "syracuse-dinner-with-sophie",
+    "type": "photo",
+    "date": "2026-08-04",
+    "url": "media/photos/2026-08-04-syracuse-dinner-with-sophie.jpg",
+    "title": "Dinner and drinks",
+    "caption": "Dinner and drinks ashore in Syracuse with Sophie after the owners recommended the restaurant to the crew.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "syracuse-dinner-and-drinks",
+        "title": "Dinner and Drinks in Syracuse",
+        "date": "2026-08-04",
+        "location": "Porto Grande, Syracuse, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "syracuse-dinner-gnocchi",
+    "type": "photo",
+    "date": "2026-08-04",
+    "url": "media/photos/2026-08-04-syracuse-dinner-gnocchi.jpg",
+    "title": "Dinner in Syracuse",
+    "caption": "Gnocchi at dinner in Syracuse after Cameron and Sophie headed back ashore for the evening.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "syracuse-dinner-and-drinks",
+        "title": "Dinner and Drinks in Syracuse",
+        "date": "2026-08-04",
+        "location": "Porto Grande, Syracuse, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "syracuse-stopped-for-a-drink",
+    "type": "photo",
+    "date": "2026-08-04",
+    "url": "media/photos/2026-08-04-syracuse-stopped-for-a-drink.jpg",
+    "title": "Stopped for a drink",
+    "caption": "Cameron stopped for a drink ashore in Syracuse, with the waterfront beside Ortigia just beyond the cafe table.",
+    "categories": [
+      "crew",
+      "behind-scenes",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "syracuse-stopped-for-a-drink",
+        "title": "Stopped for a Drink",
+        "date": "2026-08-04",
+        "location": "Porto Grande, Syracuse, Sicily, Italy"
+      }
+    ]
   }
 ]

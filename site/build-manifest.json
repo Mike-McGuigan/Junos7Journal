@@ -1,8 +1,8 @@
 {
   "version": "2.7.4",
   "release": "Dashboard safety guards",
-  "buildUtc": "2026-08-03 19:42:07 UTC",
-  "fileCount": 167,
+  "buildUtc": "2026-08-05 18:52:26 UTC",
+  "fileCount": 171,
   "files": [
     {
       "path": ".gitkeep",
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 208,
-      "sha256": "9cd9456762f426a735a935bdc941e215b095ac028266c2afc296da735b42dcdc"
+      "sha256": "6a8b441528738f12c2a7f759ac48fa43e8cfe525cdef33b1afcd565b7f4731e7"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 30607,
-      "sha256": "d8d6410ead332bf60845b8e7ab1980ce10877a5b5323f2a28f107b3d4eb2570b"
+      "sizeBytes": 31403,
+      "sha256": "c7ae8579f463c224d3aa97a9fbbcf9d0258cde25e5e2a7296d299ddc2fd5ab72"
     },
     {
       "path": "crew.html",
@@ -132,7 +132,7 @@
     {
       "path": "data/dashboard.json",
       "sizeBytes": 2938,
-      "sha256": "a1167dc0915ff42027b4638ae2532d11e9bd240ab5bfc66a025cbeb7f63a3d04"
+      "sha256": "cd0f28ce0a04c2b4f02c9cc4bb8766349ff72138610db4d52707e77640cd9fbe"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -167,7 +167,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 15935,
-      "sha256": "86b0f8863a4330a9d99f5ca3246dba77c0952f89861149bd33c8e5fa61f5a3d1"
+      "sha256": "c983c3d56c8588b50bff8670ac50cbaad542b9cf705842e1f84a29e9f08a8380"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 241972,
-      "sha256": "17e209e0ceb86c367db7efab8209003e72de01c88441ddd8dd67ddc35a09f4c3"
+      "sizeBytes": 248221,
+      "sha256": "27b43d5eb627eb9e3938d0a8c54f1f1ee4059228e091ec90a0f213170e8f88a3"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -201,8 +201,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 43342,
-      "sha256": "ac98fad1fd44d4f515ecc6c0729e90e4d7acac0148393320fbb36916d52b371c"
+      "sizeBytes": 45839,
+      "sha256": "9d65e39fed5bf28364ed3b94a7ff1a338687fe4d76a1ef76645678ecce185cee"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -267,7 +267,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 208,
-      "sha256": "9cd9456762f426a735a935bdc941e215b095ac028266c2afc296da735b42dcdc"
+      "sha256": "6a8b441528738f12c2a7f759ac48fa43e8cfe525cdef33b1afcd565b7f4731e7"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -543,6 +543,26 @@
       "path": "media/photos/2026-08-03-syracuse-shrimp-ravioli.webp",
       "sizeBytes": 63006,
       "sha256": "dbeefec274cc63298a99c67d5cfd9e7a0b93c10a0e34fbdaf9f311e7d006eb87"
+    },
+    {
+      "path": "media/photos/2026-08-04-syracuse-dinner-gnocchi.jpg",
+      "sizeBytes": 229176,
+      "sha256": "c1aae024944c268ca5ce1393195b3ec5691ffbec76396120d3cb219d597cc6e2"
+    },
+    {
+      "path": "media/photos/2026-08-04-syracuse-dinner-with-sophie.jpg",
+      "sizeBytes": 305685,
+      "sha256": "66891844ec5b69da3f8ce62b785d2e5af353c23f867fec0db1f2930e27101a4c"
+    },
+    {
+      "path": "media/photos/2026-08-04-syracuse-seafood-pasta.jpg",
+      "sizeBytes": 210645,
+      "sha256": "b051c0ea3a5302c45dea53b01177df9540cc935d090b5893d7742dbdc3b6b4e9"
+    },
+    {
+      "path": "media/photos/2026-08-04-syracuse-stopped-for-a-drink.jpg",
+      "sizeBytes": 278402,
+      "sha256": "8b28e042b0f371a32ab741a0272c6348414146f19510121a7436011e5d193981"
     },
     {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",

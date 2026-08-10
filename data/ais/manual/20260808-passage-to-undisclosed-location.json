@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-08T06:28:24.219Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "8 Aug AM",
+    "title": "Passage to undisclosed location",
+    "name": "Passage to undisclosed location",
+    "phase": "current",
+    "lat": 36.883314,
+    "lng": 15.311543,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Passage to undisclosed location",
+      "shortName": "Passage to undisclosed location",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-08T06:28:24.219Z",
+    "status": "Underway",
+    "title": "Passage to undisclosed location",
+    "area": "Passage to undisclosed location",
+    "position": {
+      "lat": 36.883314,
+      "lng": 15.311543,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Passage to undisclosed location",
+      "shortName": "Passage to undisclosed location",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

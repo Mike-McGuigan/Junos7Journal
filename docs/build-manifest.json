@@ -1,8 +1,8 @@
 {
-  "version": "2.7.4",
-  "release": "Dashboard safety guards",
-  "buildUtc": "2026-08-05 18:52:26 UTC",
-  "fileCount": 171,
+  "version": "2.7.5",
+  "release": "Sicily and editorial refinements",
+  "buildUtc": "2026-08-10 14:53:35 UTC",
+  "fileCount": 176,
   "files": [
     {
       "path": ".gitkeep",
@@ -22,17 +22,17 @@
     {
       "path": "admin.html",
       "sizeBytes": 6855,
-      "sha256": "83eb8cbebbda1e54ed60bc2e147f971485f68603c1c328467de68b1e22bb74d4"
+      "sha256": "31dc49068525d69076dfced73827ade6116ec249dfbfe1035641faabcf3c342c"
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 208,
-      "sha256": "6a8b441528738f12c2a7f759ac48fa43e8cfe525cdef33b1afcd565b7f4731e7"
+      "sizeBytes": 217,
+      "sha256": "f91b70f970df9eefb27131181aec656c9fc72c51e7d494ac05dfe0f8f7ec4d09"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 31403,
-      "sha256": "c7ae8579f463c224d3aa97a9fbbcf9d0258cde25e5e2a7296d299ddc2fd5ab72"
+      "sizeBytes": 32395,
+      "sha256": "447993e048c9039b21de86f8d649e551a9d21512c09c7280b95690d4125a35ff"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2938,
-      "sha256": "cd0f28ce0a04c2b4f02c9cc4bb8766349ff72138610db4d52707e77640cd9fbe"
+      "sizeBytes": 2992,
+      "sha256": "f06ca8808242dd84d5eb4ce5d28b6f9ccecdfa5ee41b26db50c13e1a136599e5"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -161,13 +161,13 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 2795,
-      "sha256": "9107956c9074bb5066357d552b8f9fb3bf605ca490c4d36c28294c0179fb55f2"
+      "sizeBytes": 2939,
+      "sha256": "8a8dee4c7633dc5220d0007a43c9f71482596d014b5bc30aed604651fd8fba30"
     },
     {
       "path": "data/discoveries.json",
       "sizeBytes": 15935,
-      "sha256": "c983c3d56c8588b50bff8670ac50cbaad542b9cf705842e1f84a29e9f08a8380"
+      "sha256": "1664d1ce7ec3dc23dc1907d260d1eb3277a5ea8ece5524f8c8649dd63a2bcfab"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +176,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 248221,
-      "sha256": "27b43d5eb627eb9e3938d0a8c54f1f1ee4059228e091ec90a0f213170e8f88a3"
+      "sizeBytes": 273844,
+      "sha256": "9339c68f90be449651731057b309dcf755817cfb78a7196a6125fc84790f48fa"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -201,8 +201,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 45839,
-      "sha256": "9d65e39fed5bf28364ed3b94a7ff1a338687fe4d76a1ef76645678ecce185cee"
+      "sizeBytes": 49083,
+      "sha256": "2f7e6dc2ace089a243caddd84aa2c9bea526a6ffbaca1dee81b8f68ce58c2efc"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 123769,
-      "sha256": "fda129c8a5ba8d62968f37e89b68d8e4180c72c6a7573698cf95110d9857491e"
+      "sizeBytes": 134650,
+      "sha256": "e9408474df53ebc0bb5955c5546aaa060b85d41742347775c552fc0ee7bea834"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -251,8 +251,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 121741,
-      "sha256": "92db88e9ae9e13aed8993fda658f744961f073f4de27776ad6a3b0c3ad79be8d"
+      "sizeBytes": 131188,
+      "sha256": "23b4b59360d75b88d2e7e4abeed3e2b8dde954f86d2f812deafea33be865e350"
     },
     {
       "path": "data/site.json",
@@ -266,8 +266,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 208,
-      "sha256": "6a8b441528738f12c2a7f759ac48fa43e8cfe525cdef33b1afcd565b7f4731e7"
+      "sizeBytes": 217,
+      "sha256": "f91b70f970df9eefb27131181aec656c9fc72c51e7d494ac05dfe0f8f7ec4d09"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -312,7 +312,7 @@
     {
       "path": "data/version.json.bak-geo-1",
       "sizeBytes": 208,
-      "sha256": "6fd6ac785b6aa937f4a134cc070bc35e7b7653939d369d4eb68962400eadb680"
+      "sha256": "9f87ca27fd9afa16ffecae16d3946f89c4c11d6e953fc15e4d13d38993ec6f56"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -565,6 +565,16 @@
       "sha256": "8b28e042b0f371a32ab741a0272c6348414146f19510121a7436011e5d193981"
     },
     {
+      "path": "media/photos/2026-08-09-mount-etna-from-riposto-1.jpg",
+      "sizeBytes": 204556,
+      "sha256": "64469f1bb1727e19f769c13ff7e20d2828d9376ea04c96b923d1f325a69ee82f"
+    },
+    {
+      "path": "media/photos/2026-08-09-mount-etna-from-riposto-2.jpg",
+      "sizeBytes": 144605,
+      "sha256": "64a405100a6f10f166e9edef47ebf0231d285183a47fbb22cfda2a48f3a184f8"
+    },
+    {
       "path": "media/videos/2026-06-21-rather-rocky.mp4",
       "sizeBytes": 3003718,
       "sha256": "dc8dcfc478078d3d2e748cb0f27213df88a91714eacaff1a08b40ac9e4375db3"
@@ -633,6 +643,21 @@
       "path": "media/videos/2026-07-30-comino-anchorage-video.mp4",
       "sizeBytes": 2672005,
       "sha256": "3de04579c74405dd3ca212b147e41cf19ffac7230c1fef58da180f7c2aed48bf"
+    },
+    {
+      "path": "media/videos/2026-08-09-mount-etna-riposto-1.mp4",
+      "sizeBytes": 1616720,
+      "sha256": "3641e5a3fb954c8de39736e7e301828b8b3638dc032faeacae1b8dfa00edf2ab"
+    },
+    {
+      "path": "media/videos/2026-08-09-mount-etna-riposto-2.mp4",
+      "sizeBytes": 2042182,
+      "sha256": "526885ebde158879aa0737b378e73cf310df5b51183f0cba5ec6b7d88c9272c4"
+    },
+    {
+      "path": "media/videos/2026-08-09-mount-etna-riposto-3.mp4",
+      "sizeBytes": 1139880,
+      "sha256": "8f9e6693561a11e296bdca3b707818e0a698fd0cbe4cec38b53798563af30607"
     },
     {
       "path": "media/videos/summer-2026-cave-excursion.mp4",

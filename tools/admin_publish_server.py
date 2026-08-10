@@ -16,7 +16,7 @@ import webbrowser
 ROOT = Path(__file__).resolve().parents[1]
 PORT = 8765
 VERSION_FILE = ROOT / "VERSION"
-RELEASE = "Dashboard safety guards"
+RELEASE = "Sicily and editorial refinements"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
 ROUTE_FILE = ROOT / "docs" / "data" / "route.json"
 
@@ -26,7 +26,7 @@ def current_version():
         value = VERSION_FILE.read_text(encoding="utf-8").strip()
         if value:
             return value
-    return "2.7.4"
+    return "2.7.5"
 
 
 def same_root(a, b):

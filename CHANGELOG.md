@@ -1,5 +1,16 @@
 # Changelog
 
+## 2.7.5 - Sicily and Editorial Refinements
+
+- Added Sicily route and journal updates for Capo Passero, Syracuse and Riposto.
+- Added the Capo Passero anchor-drag incident as a Crew Life entry.
+- Added Syracuse food and ashore moments from Cameron.
+- Added Mount Etna media from Porto dell'Etna Marina, Riposto, including the visible volcanic glow.
+- Added contextual Mount Etna notes, including its status as Europe's most active volcano.
+- Added the Cycladic Gem event-rental note to Sophie's "My Future House" entry.
+- Removed an over-editorial note from the same entry so the journal stays factual and respectful.
+- Updated version and build metadata to `2.7.5`.
+
 ## 2.7.4 - Dashboard Safety Guards
 
 - Added Captain's Dashboard server checks so `localhost:8765` refuses to start if it is already being served from a different repository folder.

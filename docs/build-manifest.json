@@ -1,7 +1,7 @@
 {
-  "version": "2.7.4",
-  "release": "Dashboard safety guards",
-  "buildUtc": "2026-08-10 12:32:32 UTC",
+  "version": "2.7.5",
+  "release": "Sicily and editorial refinements",
+  "buildUtc": "2026-08-10 14:53:35 UTC",
   "fileCount": 176,
   "files": [
     {
@@ -22,17 +22,17 @@
     {
       "path": "admin.html",
       "sizeBytes": 6855,
-      "sha256": "83eb8cbebbda1e54ed60bc2e147f971485f68603c1c328467de68b1e22bb74d4"
+      "sha256": "31dc49068525d69076dfced73827ade6116ec249dfbfe1035641faabcf3c342c"
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 208,
-      "sha256": "1ce9d92817633e95743423309c224d059a5bcd3284a093ca89a767ed65beecac"
+      "sizeBytes": 217,
+      "sha256": "f91b70f970df9eefb27131181aec656c9fc72c51e7d494ac05dfe0f8f7ec4d09"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 32386,
-      "sha256": "1c2dcc0ef7a47e1eb9c52e945e3f6b8158f292f53a36a61437122d879eac0f15"
+      "sizeBytes": 32395,
+      "sha256": "447993e048c9039b21de86f8d649e551a9d21512c09c7280b95690d4125a35ff"
     },
     {
       "path": "crew.html",
@@ -131,8 +131,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2983,
-      "sha256": "a31002769478ddcc973c65acdb90bcba056b1a3bad9c27a2f22ed8a764474f7b"
+      "sizeBytes": 2992,
+      "sha256": "f06ca8808242dd84d5eb4ce5d28b6f9ccecdfa5ee41b26db50c13e1a136599e5"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -167,7 +167,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 15935,
-      "sha256": "656c4357bfb3ec0217290b1ae9b0af66d74f20a16cf9a61c874011f1d77d7d3d"
+      "sha256": "1664d1ce7ec3dc23dc1907d260d1eb3277a5ea8ece5524f8c8649dd63a2bcfab"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -177,7 +177,7 @@
     {
       "path": "data/journal.json",
       "sizeBytes": 273844,
-      "sha256": "be194cdd7be5ccd82eda8653690928a169ef8f6f200ebae37a6ed34a628f4d4e"
+      "sha256": "9339c68f90be449651731057b309dcf755817cfb78a7196a6125fc84790f48fa"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -266,8 +266,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 208,
-      "sha256": "1ce9d92817633e95743423309c224d059a5bcd3284a093ca89a767ed65beecac"
+      "sizeBytes": 217,
+      "sha256": "f91b70f970df9eefb27131181aec656c9fc72c51e7d494ac05dfe0f8f7ec4d09"
     },
     {
       "path": "data/version.json.bak-1-0-1",

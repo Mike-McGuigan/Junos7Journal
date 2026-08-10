@@ -953,6 +953,28 @@
     ]
   },
   {
+    "id": "dolphin-on-bow-music-edit",
+    "type": "video",
+    "date": "2026-07-13",
+    "url": "media/videos/2026-07-13-dolphin-on-bow-music-edit.mp4",
+    "title": "Music Edit",
+    "caption": "A music edit of the bow dolphin encounter, kept as a variant of the existing dolphin moment rather than a separate sighting.",
+    "categories": [
+      "crew",
+      "junos7",
+      "wildlife",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "another-dolphin-to-komiza",
+        "title": "Another Dolphin",
+        "date": "2026-07-13",
+        "location": "Underway off Biševo, later anchored off Komiža Anchorage, Vis Island, Croatia"
+      }
+    ]
+  },
+  {
     "id": "dolphin-on-bow-sophie",
     "type": "video",
     "date": "2026-07-13",
@@ -1117,84 +1139,22 @@
     ]
   },
   {
-    "id": "dolphin-on-bow-music-edit",
-    "type": "video",
-    "date": "2026-07-13",
-    "url": "media/videos/2026-07-13-dolphin-on-bow-music-edit.mp4",
-    "title": "Music Edit",
-    "caption": "A music edit of the bow dolphin encounter, kept as a variant of the existing dolphin moment rather than a separate sighting.",
-    "categories": [
-      "crew",
-      "junos7",
-      "wildlife",
-      "scenic"
-    ],
-    "journalEntries": [
-      {
-        "id": "another-dolphin-to-komiza",
-        "title": "Another Dolphin",
-        "date": "2026-07-13",
-        "location": "Underway off Biševo, later anchored off Komiža Anchorage, Vis Island, Croatia"
-      }
-    ]
-  },
-  {
-    "id": "cave-excursion",
-    "type": "video",
-    "date": "Summer 2026",
-    "url": "media/videos/summer-2026-cave-excursion.mp4",
-    "title": "Likely Blue Cave Excursion",
-    "caption": "Recovered footage from a planned cave excursion, likely at the Blue Cave on Biševo, aboard a local excursion boat.",
-    "categories": [
-      "crew",
-      "scenic"
-    ],
-    "journalEntries": [
-      {
-        "id": "season-highlight-cave-excursion",
-        "title": "Likely Blue Cave Excursion",
-        "date": "Summer 2026",
-        "location": "Likely Blue Cave, Biševo, Croatia"
-      }
-    ]
-  },
-  {
-    "id": "onboard-cctv-deckie-falling-in",
-    "type": "video",
-    "date": "Summer 2026",
-    "url": "media/videos/summer-2026-onboard-cctv-deckie-falling-in.mp4",
-    "title": "Onboard CCTV: deck mishap",
-    "caption": "Onboard CCTV captured a deckhand ending up in the water around the beach club area.",
+    "id": "zadar-antiquus-sushi-boat",
+    "type": "photo",
+    "date": "2026-07-20",
+    "url": "media/photos/2026-07-20-antiquus-sushi-boat.jpeg",
+    "title": "Sushi at Antiquus",
+    "caption": "A colourful sushi boat during Cameron and Sophie’s evening ashore at Antiquus Sushi & More in Zadar.",
     "categories": [
       "crew",
       "behind-scenes"
     ],
     "journalEntries": [
       {
-        "id": "onboard-cctv-crew-life",
-        "title": "Beach Club CCTV Moments",
-        "date": "Summer 2026",
-        "location": "On board Juno’s 7"
-      }
-    ]
-  },
-  {
-    "id": "onboard-cctv-meta-glasses-mishap",
-    "type": "video",
-    "date": "Summer 2026",
-    "url": "media/videos/summer-2026-onboard-cctv-meta-glasses-mishap.mp4",
-    "title": "Onboard CCTV: Meta glasses",
-    "caption": "Onboard CCTV captured the same deckhand a few weeks earlier being knocked and breaking his Meta glasses.",
-    "categories": [
-      "crew",
-      "behind-scenes"
-    ],
-    "journalEntries": [
-      {
-        "id": "onboard-cctv-crew-life",
-        "title": "Beach Club CCTV Moments",
-        "date": "Summer 2026",
-        "location": "On board Juno’s 7"
+        "id": "zadar-evening-antiquus",
+        "title": "An Evening at Antiquus",
+        "date": "2026-07-20",
+        "location": "Zadar, Croatia"
       }
     ]
   },
@@ -1324,6 +1284,26 @@
     ]
   },
   {
+    "id": "syracuse-calamari-main",
+    "type": "photo",
+    "date": "2026-08-03",
+    "url": "media/photos/2026-08-03-syracuse-calamari.webp",
+    "title": "Calamari main",
+    "caption": "Calamari for Cameron's main course ashore in Syracuse.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "syracuse-ashore-food",
+        "title": "Ashore in Syracuse",
+        "date": "2026-08-03",
+        "location": "Porto Grande, Syracuse, Sicily, Italy"
+      }
+    ]
+  },
+  {
     "id": "syracuse-just-ordered-food",
     "type": "photo",
     "date": "2026-08-03",
@@ -1364,32 +1344,12 @@
     ]
   },
   {
-    "id": "syracuse-calamari-main",
-    "type": "photo",
-    "date": "2026-08-03",
-    "url": "media/photos/2026-08-03-syracuse-calamari.webp",
-    "title": "Calamari main",
-    "caption": "Calamari for Cameron's main course ashore in Syracuse.",
-    "categories": [
-      "crew",
-      "behind-scenes"
-    ],
-    "journalEntries": [
-      {
-        "id": "syracuse-ashore-food",
-        "title": "Ashore in Syracuse",
-        "date": "2026-08-03",
-        "location": "Porto Grande, Syracuse, Sicily, Italy"
-      }
-    ]
-  },
-  {
-    "id": "syracuse-seafood-pasta",
+    "id": "syracuse-dinner-gnocchi",
     "type": "photo",
     "date": "2026-08-04",
-    "url": "media/photos/2026-08-04-syracuse-seafood-pasta.jpg",
-    "title": "Seafood pasta",
-    "caption": "Seafood pasta during Cameron and Sophie's dinner ashore in Syracuse.",
+    "url": "media/photos/2026-08-04-syracuse-dinner-gnocchi.jpg",
+    "title": "Dinner in Syracuse",
+    "caption": "Gnocchi at dinner in Syracuse after Cameron and Sophie headed back ashore for the evening.",
     "categories": [
       "crew",
       "behind-scenes"
@@ -1424,12 +1384,12 @@
     ]
   },
   {
-    "id": "syracuse-dinner-gnocchi",
+    "id": "syracuse-seafood-pasta",
     "type": "photo",
     "date": "2026-08-04",
-    "url": "media/photos/2026-08-04-syracuse-dinner-gnocchi.jpg",
-    "title": "Dinner in Syracuse",
-    "caption": "Gnocchi at dinner in Syracuse after Cameron and Sophie headed back ashore for the evening.",
+    "url": "media/photos/2026-08-04-syracuse-seafood-pasta.jpg",
+    "title": "Seafood pasta",
+    "caption": "Seafood pasta during Cameron and Sophie's dinner ashore in Syracuse.",
     "categories": [
       "crew",
       "behind-scenes"
@@ -1440,26 +1400,6 @@
         "title": "Dinner and Drinks in Syracuse",
         "date": "2026-08-04",
         "location": "Porto Grande, Syracuse, Sicily, Italy"
-      }
-    ]
-  },
-  {
-    "id": "zadar-antiquus-sushi-boat",
-    "type": "photo",
-    "date": "2026-07-20",
-    "url": "media/photos/2026-07-20-antiquus-sushi-boat.jpeg",
-    "title": "Sushi at Antiquus",
-    "caption": "A colourful sushi boat during Cameron and Sophie’s evening ashore at Antiquus Sushi & More in Zadar.",
-    "categories": [
-      "crew",
-      "behind-scenes"
-    ],
-    "journalEntries": [
-      {
-        "id": "zadar-evening-antiquus",
-        "title": "An Evening at Antiquus",
-        "date": "2026-07-20",
-        "location": "Zadar, Croatia"
       }
     ]
   },
@@ -1481,6 +1421,166 @@
         "title": "Stopped for a Drink",
         "date": "2026-08-04",
         "location": "Porto Grande, Syracuse, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "mount-etna-riposto-photo-1",
+    "type": "photo",
+    "date": "2026-08-09",
+    "url": "media/photos/2026-08-09-mount-etna-from-riposto-1.jpg",
+    "title": "Mount Etna from Porto dell'Etna",
+    "caption": "Mount Etna glowing above Riposto at night during an active eruptive phase while Juno's 7 was alongside at Porto dell'Etna Marina.",
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "mount-etna-from-porto-delletna",
+        "title": "Mount Etna from Porto dell'Etna",
+        "date": "2026-08-09",
+        "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "mount-etna-riposto-photo-2",
+    "type": "photo",
+    "date": "2026-08-09",
+    "url": "media/photos/2026-08-09-mount-etna-from-riposto-2.jpg",
+    "title": "Etna after dark",
+    "caption": "A closer night view of Mount Etna's red volcanic glow above the Sicilian coastline.",
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "mount-etna-from-porto-delletna",
+        "title": "Mount Etna from Porto dell'Etna",
+        "date": "2026-08-09",
+        "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "mount-etna-riposto-video-1",
+    "type": "video",
+    "date": "2026-08-09",
+    "url": "media/videos/2026-08-09-mount-etna-riposto-1.mp4",
+    "title": "Etna on the approach to Riposto",
+    "caption": "Mount Etna seen from the water before Juno's 7 reached Porto dell'Etna Marina.",
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "mount-etna-from-porto-delletna",
+        "title": "Mount Etna from Porto dell'Etna",
+        "date": "2026-08-09",
+        "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "mount-etna-riposto-video-2",
+    "type": "video",
+    "date": "2026-08-09",
+    "url": "media/videos/2026-08-09-mount-etna-riposto-2.mp4",
+    "title": "Etna at early evening in Riposto",
+    "caption": "Early evening view of Mount Etna from Porto dell'Etna Marina while Juno's 7 was alongside.",
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "mount-etna-from-porto-delletna",
+        "title": "Mount Etna from Porto dell'Etna",
+        "date": "2026-08-09",
+        "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "mount-etna-riposto-video-3",
+    "type": "video",
+    "date": "2026-08-09",
+    "url": "media/videos/2026-08-09-mount-etna-riposto-3.mp4",
+    "title": "Etna after dark from the marina",
+    "caption": "Night video of Mount Etna's red volcanic glow from Porto dell'Etna Marina.",
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "mount-etna-from-porto-delletna",
+        "title": "Mount Etna from Porto dell'Etna",
+        "date": "2026-08-09",
+        "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "cave-excursion",
+    "type": "video",
+    "date": "Summer 2026",
+    "url": "media/videos/summer-2026-cave-excursion.mp4",
+    "title": "Likely Blue Cave Excursion",
+    "caption": "Recovered footage from a planned cave excursion, likely at the Blue Cave on Biševo, aboard a local excursion boat.",
+    "categories": [
+      "crew",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "season-highlight-cave-excursion",
+        "title": "Likely Blue Cave Excursion",
+        "date": "Summer 2026",
+        "location": "Likely Blue Cave, Biševo, Croatia"
+      }
+    ]
+  },
+  {
+    "id": "onboard-cctv-deckie-falling-in",
+    "type": "video",
+    "date": "Summer 2026",
+    "url": "media/videos/summer-2026-onboard-cctv-deckie-falling-in.mp4",
+    "title": "Onboard CCTV: deck mishap",
+    "caption": "Onboard CCTV captured a deckhand ending up in the water around the beach club area.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "onboard-cctv-crew-life",
+        "title": "Beach Club CCTV Moments",
+        "date": "Summer 2026",
+        "location": "On board Juno’s 7"
+      }
+    ]
+  },
+  {
+    "id": "onboard-cctv-meta-glasses-mishap",
+    "type": "video",
+    "date": "Summer 2026",
+    "url": "media/videos/summer-2026-onboard-cctv-meta-glasses-mishap.mp4",
+    "title": "Onboard CCTV: Meta glasses",
+    "caption": "Onboard CCTV captured the same deckhand a few weeks earlier being knocked and breaking his Meta glasses.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "onboard-cctv-crew-life",
+        "title": "Beach Club CCTV Moments",
+        "date": "Summer 2026",
+        "location": "On board Juno’s 7"
       }
     ]
   }

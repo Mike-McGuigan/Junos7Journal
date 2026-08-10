@@ -1,27 +1,27 @@
 {
   "schemaVersion": 5,
-  "generatedUtc": "2026-08-03T17:19:34.746Z",
+  "generatedUtc": "2026-08-09T20:26:19.315Z",
   "vesselKey": "junos7",
   "displayName": "JUNOS 7",
   "mmsi": "319303300",
   "imo": "1109712",
   "routePoint": {
-    "date": "3 Aug",
+    "date": "8 Aug - Return to Syracuse",
     "title": "Porto Grande, Syracuse, Sicily, Italy",
     "name": "Porto Grande, Syracuse, Sicily, Italy",
     "phase": "current",
-    "lat": 37.059785,
-    "lng": 15.29148,
+    "lat": 37.053025,
+    "lng": 15.283484,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
   },
   "tracker": {
-    "timestampUtc": "2026-08-03T17:19:34.746Z",
-    "status": "Moored",
+    "timestampUtc": "2026-08-09T20:26:19.315Z",
+    "status": "At anchor",
     "title": "Porto Grande, Syracuse, Sicily, Italy",
     "area": "Porto Grande, Syracuse, Sicily, Italy",
     "position": {
-      "lat": 37.059785,
-      "lng": 15.29148,
+      "lat": 37.053025,
+      "lng": 15.283484,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },

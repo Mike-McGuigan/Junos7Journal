@@ -171,6 +171,34 @@
       "mapStop": ""
     },
     {
+      "id": "katapola-harbour-amorgos",
+      "date": "2026-06-22",
+      "title": "Katapola Harbour",
+      "location": "Katapola Harbour, Amorgos, Greece",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Katapola Harbour, Amorgos, Greece",
+      "body": "Juno's 7 stopped at Katapola Harbour on Amorgos as the yacht continued west through the Cyclades. The harbour formed a practical link between the early Greek island stops and the later move towards Ios.",
+      "summary": "A practical Amorgos harbour stop during the early Greek island passage.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "ios-harbour-stop",
+      "date": "2026-06-22",
+      "title": "Ios Harbour",
+      "location": "Ios Harbour, Ios, Greece",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Ios Harbour, Ios, Greece",
+      "body": "Juno's 7 spent time in Ios Harbour before the later anchorage at Agios Ioannis Bay. The stop helps complete the Ios sequence, linking the yacht's harbour visit with the quieter anchorage where Sophie's next-house photo was taken.",
+      "summary": "A harbour stop on Ios before the later anchorage at Agios Ioannis Bay.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
       "date": "2026-06-23",
       "title": "My Future House",
       "location": "Agios Ioannis Bay, Ios, Greece",
@@ -183,16 +211,16 @@
       "body": "Passing a beautiful hillside house above the water, Sophie captured one of those light-hearted travel moments that instantly becomes part of the shared story.",
       "id": "my-future-house",
       "summary": "One passing hillside villa and a message that instantly became part of the family story.",
-      "crewMoment": {
-        "title": "A shared joke worth keeping",
-        "body": "The line matters because it sounds exactly like Sophie. Small messages like this stop the journal becoming too polished and preserve how the season actually felt."
-      },
       "photos": [
         "future-house"
       ],
       "videos": [],
       "heroMedia": "future-house",
-      "mapStop": "Agios Ioannis Bay, Ios, Greece"
+      "mapStop": "Agios Ioannis Bay, Ios, Greece",
+      "didYouKnow": {
+        "title": "Cycladic Gem",
+        "body": "The hillside villa Sophie jokingly picked out as her future house appears to be Cycladic Gem, a private villa above Agios Ioannis Bay that is available to rent for events: https://cycladicgem.com/"
+      }
     },
     {
       "date": "2026-06-26",
@@ -261,6 +289,20 @@
       "mapStop": "Zakynthos Harbour, Greece"
     },
     {
+      "id": "sami-harbour-kefalonia",
+      "date": "2026-06-28",
+      "title": "Sami Harbour",
+      "location": "Sami Harbour, Kefalonia, Greece",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Sami Harbour, Kefalonia, Greece",
+      "body": "Juno's 7 stopped at Sami Harbour on Kefalonia as the yacht crossed the Ionian islands. It marked a useful staging point between Zakynthos and the move north towards Paxos and Corfu.",
+      "summary": "A Kefalonia harbour stop during the Ionian passage north.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
       "date": "2026-06-30",
       "title": "Underway — Changing Conditions",
       "location": "At Sea",
@@ -292,6 +334,48 @@
       ],
       "heroMedia": "underway-aft-deck",
       "mapStop": ""
+    },
+    {
+      "id": "gaios-harbour-anchorage",
+      "date": "2026-06-30",
+      "title": "Gaios Harbour Anchorage",
+      "location": "Gaios Harbour Anchorage, Paxos, Greece",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Gaios Harbour Anchorage, Paxos, Greece",
+      "body": "Juno's 7 anchored at Gaios Harbour Anchorage on Paxos before continuing north towards Corfu. The stop sits within the sheltered harbour approach and forms part of the yacht's Ionian passage towards the Adriatic.",
+      "summary": "A sheltered Paxos anchorage before the move north to Corfu.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "barbati-anchorage-corfu",
+      "date": "2026-07-01",
+      "title": "Barbati Anchorage",
+      "location": "Barbati Anchorage, Corfu, Greece",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Barbati Anchorage, Corfu, Greece",
+      "body": "Juno's 7 anchored off Barbati on Corfu's east coast, adding a quieter coastal stop before the yacht moved further south towards Garitsa Bay.",
+      "summary": "A quieter anchorage on Corfu's east coast before Garitsa Bay.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "garitsa-bay-corfu",
+      "date": "2026-07-01",
+      "title": "Garitsa Bay",
+      "location": "Garitsa Bay, Corfu, Greece",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Garitsa Bay, Corfu, Greece",
+      "body": "Later the same day, Juno's 7 moved to Garitsa Bay near Corfu Town. This anchorage became the final Greek stop before the long passage north towards Cavtat and Croatia.",
+      "summary": "The final Greek anchorage before the passage north towards Croatia.",
+      "photos": [],
+      "videos": [],
+      "media": []
     },
     {
       "date": "2026-07-02",
@@ -392,6 +476,34 @@
       },
       "heroMedia": "black-pearl-polace-photo",
       "mapStop": "Polače Anchorage, Mljet, Croatia"
+    },
+    {
+      "id": "lumbarda-anchorage-korcula",
+      "date": "2026-07-06",
+      "title": "Lumbarda Anchorage",
+      "location": "Lumbarda Anchorage, Korčula, Croatia",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Lumbarda Anchorage, Korčula, Croatia",
+      "body": "Juno's 7 anchored off Lumbarda on Korčula after the Mljet stop, using the quieter water east of Korčula Town before moving into port later that day.",
+      "summary": "A quiet anchorage east of Korčula Town before moving into port.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "korcula-port-stop",
+      "date": "2026-07-06",
+      "title": "Korčula Port",
+      "location": "Korčula Port, Croatia",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Korčula Port, Croatia",
+      "body": "Juno's 7 later moved into Korčula Port, bringing the yacht alongside one of Croatia's best-known island towns after the nearby Lumbarda anchorage.",
+      "summary": "A port stop at Korčula after anchoring nearby at Lumbarda.",
+      "photos": [],
+      "videos": [],
+      "media": []
     },
     {
       "id": "pakleni-anchorage",
@@ -735,6 +847,20 @@
         "body": "Komiža Anchorage, Vis Island, Croatia was one of the principal Vis locations used as the fictional Greek island of Kalokairi in Mamma Mia! Here We Go Again."
       },
       "mapStop": "Komiža Anchorage, Vis Island, Croatia"
+    },
+    {
+      "id": "potkucina-bay-kakan",
+      "date": "2026-07-14",
+      "title": "Potkućina Bay",
+      "location": "Potkućina Bay, Kakan, Croatia",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Potkućina Bay, Kakan, Croatia",
+      "body": "Juno's 7 anchored in Potkućina Bay on Kakan as the yacht continued through the islands of central Dalmatia. The stop adds another sheltered anchorage to the route before the move further north through the Kornati area.",
+      "summary": "A sheltered Kakan anchorage during the move north through central Dalmatia.",
+      "photos": [],
+      "videos": [],
+      "media": []
     },
     {
       "id": "calm-before-storm-smokvica",
@@ -1229,6 +1355,67 @@
         "syracuse-seafood-pasta"
       ],
       "heroMedia": "syracuse-seafood-pasta"
+    },
+    {
+      "id": "capo-passero-anchor-drag",
+      "date": "2026-08-06",
+      "title": "Anchor Drag at Capo Passero",
+      "location": "Capo Passero Anchorage, Sicily, Italy",
+      "type": "crew-life",
+      "person": "Cameron",
+      "quote": "Sailing yacht just bumped into our yacht hahahaha\nBit of damage to the paint on the hull.",
+      "mapStop": "Capo Passero Anchorage, Sicily, Italy",
+      "body": "While Juno's 7 was anchored at Capo Passero, Cameron sent an unexpected update: \"Sailing yacht just bumped into our yacht hahahaha.\" A follow-up explained there was \"a bit of damage to the paint on the hull.\"\n\nIn a later voice message, Cameron described how he and Tom had just left with the guests on the smaller Williams tender when they saw a small sailing yacht only a few metres off Juno's 7's bow. The other yacht appeared to have dragged its anchor after the wind picked up, with its anchor becoming caught on Juno's 7's anchor chain.\n\nWith guests and children aboard the tender, Cameron and Tom could not safely put themselves between the two vessels. Instead, they used the tender to push the sailing yacht away before Cameron jumped aboard to help separate it from Juno's 7. The result was a scrape and some paint damage rather than the far more serious impact that could have happened if the sailing yacht had continued drifting towards Juno's 7's bow.",
+      "summary": "A small sailing yacht dragged its anchor at Capo Passero and bumped Juno's 7, leaving paint damage but avoiding a much more serious collision.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "return-to-syracuse-anchorage",
+      "date": "2026-08-08",
+      "title": "Return to Syracuse Anchorage",
+      "location": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+      "body": "After the stop at Capo Passero, Juno's 7 returned north to Syracuse and anchored in Porto Grande. It was a practical pause in one of Sicily's great natural harbours before the yacht continued on towards Riposto and Mount Etna.",
+      "summary": "Juno's 7 returned to Syracuse and anchored in Porto Grande before continuing north along Sicily's east coast.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "mount-etna-from-porto-delletna",
+      "date": "2026-08-09",
+      "title": "Mount Etna from Porto dell'Etna",
+      "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+      "body": "While Juno's 7 made her way towards Porto dell'Etna Marina and later settled alongside in Riposto, Cameron and Sophie shared a sequence of views of Mount Etna: first from the water before reaching the harbour, then from the marina as evening fell, and finally after dark as the volcano glowed above the town. The marina's name felt especially appropriate: from the waterfront, the dome and illuminated bell tower of Riposto's Basilica di San Pietro stood out below the volcano, while a red volcanic glow was visible high on Etna's slopes during an active eruptive phase.",
+      "summary": "Cameron and Sophie shared views of Mount Etna before and after Juno's 7 reached Porto dell'Etna Marina, ending with the volcano glowing above Riposto after dark.",
+      "photos": [
+        "mount-etna-riposto-photo-1",
+        "mount-etna-riposto-photo-2"
+      ],
+      "videos": [
+        "mount-etna-riposto-video-1",
+        "mount-etna-riposto-video-2",
+        "mount-etna-riposto-video-3"
+      ],
+      "media": [
+        "mount-etna-riposto-video-1",
+        "mount-etna-riposto-video-2",
+        "mount-etna-riposto-video-3",
+        "mount-etna-riposto-photo-1",
+        "mount-etna-riposto-photo-2"
+      ],
+      "heroMedia": "mount-etna-riposto-photo-1",
+      "didYouKnow": {
+        "title": "Riposto beneath Europe's most active volcano",
+        "body": "Riposto's Basilica di San Pietro is dedicated to St Peter, patron saint of the town and of sailors, making it a fitting landmark beside Porto dell'Etna Marina. Behind it rises Mount Etna, Europe's most active volcano and one of the world's most closely monitored. INGV bulletins for 9 August reported active vents and lava flows high on the volcano, and longer-term satellite studies have found lava being emitted for roughly a quarter of the 1970-2010 period."
+      }
     }
   ],
   "media": [
@@ -2186,6 +2373,28 @@
       ]
     },
     {
+      "id": "dolphin-on-bow-music-edit",
+      "type": "video",
+      "date": "2026-07-13",
+      "url": "media/videos/2026-07-13-dolphin-on-bow-music-edit.mp4",
+      "title": "Music Edit",
+      "caption": "A music edit of the bow dolphin encounter, kept as a variant of the existing dolphin moment rather than a separate sighting.",
+      "categories": [
+        "crew",
+        "junos7",
+        "wildlife",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "another-dolphin-to-komiza",
+          "title": "Another Dolphin",
+          "date": "2026-07-13",
+          "location": "Underway off Biševo, later anchored off Komiža Anchorage, Vis Island, Croatia"
+        }
+      ]
+    },
+    {
       "id": "dolphin-on-bow-sophie",
       "type": "video",
       "date": "2026-07-13",
@@ -2370,88 +2579,6 @@
       ]
     },
     {
-      "id": "dolphin-on-bow-music-edit",
-      "type": "video",
-      "date": "2026-07-13",
-      "url": "media/videos/2026-07-13-dolphin-on-bow-music-edit.mp4",
-      "title": "Music Edit",
-      "caption": "A music edit of the bow dolphin encounter, kept as a variant of the existing dolphin moment rather than a separate sighting.",
-      "categories": [
-        "crew",
-        "junos7",
-        "wildlife",
-        "scenic"
-      ],
-      "journalEntries": [
-        {
-          "id": "another-dolphin-to-komiza",
-          "title": "Another Dolphin",
-          "date": "2026-07-13",
-          "location": "Underway off Biševo, later anchored off Komiža Anchorage, Vis Island, Croatia"
-        }
-      ]
-    },
-    {
-      "id": "cave-excursion",
-      "type": "video",
-      "date": "Summer 2026",
-      "url": "media/videos/summer-2026-cave-excursion.mp4",
-      "title": "Likely Blue Cave Excursion",
-      "caption": "Recovered footage from a planned cave excursion, likely at the Blue Cave on Biševo, aboard a local excursion boat.",
-      "categories": [
-        "crew",
-        "scenic"
-      ],
-      "journalEntries": [
-        {
-          "id": "season-highlight-cave-excursion",
-          "title": "Likely Blue Cave Excursion",
-          "date": "Summer 2026",
-          "location": "Likely Blue Cave, Biševo, Croatia"
-        }
-      ]
-    },
-    {
-      "id": "onboard-cctv-deckie-falling-in",
-      "type": "video",
-      "date": "Summer 2026",
-      "url": "media/videos/summer-2026-onboard-cctv-deckie-falling-in.mp4",
-      "title": "Onboard CCTV: deck mishap",
-      "caption": "Onboard CCTV captured a deckhand ending up in the water around the beach club area.",
-      "categories": [
-        "crew",
-        "behind-scenes"
-      ],
-      "journalEntries": [
-        {
-          "id": "onboard-cctv-crew-life",
-          "title": "Beach Club CCTV Moments",
-          "date": "Summer 2026",
-          "location": "On board Juno’s 7"
-        }
-      ]
-    },
-    {
-      "id": "onboard-cctv-meta-glasses-mishap",
-      "type": "video",
-      "date": "Summer 2026",
-      "url": "media/videos/summer-2026-onboard-cctv-meta-glasses-mishap.mp4",
-      "title": "Onboard CCTV: Meta glasses",
-      "caption": "Onboard CCTV captured the same deckhand a few weeks earlier being knocked and breaking his Meta glasses.",
-      "categories": [
-        "crew",
-        "behind-scenes"
-      ],
-      "journalEntries": [
-        {
-          "id": "onboard-cctv-crew-life",
-          "title": "Beach Club CCTV Moments",
-          "date": "Summer 2026",
-          "location": "On board Juno’s 7"
-        }
-      ]
-    },
-    {
       "id": "kablin-bay-aft-view",
       "type": "photo",
       "date": "2026-07-22",
@@ -2577,6 +2704,26 @@
       ]
     },
     {
+      "id": "syracuse-calamari-main",
+      "type": "photo",
+      "date": "2026-08-03",
+      "url": "media/photos/2026-08-03-syracuse-calamari.webp",
+      "title": "Calamari main",
+      "caption": "Calamari for Cameron's main course ashore in Syracuse.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "syracuse-ashore-food",
+          "title": "Ashore in Syracuse",
+          "date": "2026-08-03",
+          "location": "Porto Grande, Syracuse, Sicily, Italy"
+        }
+      ]
+    },
+    {
       "id": "syracuse-just-ordered-food",
       "type": "photo",
       "date": "2026-08-03",
@@ -2617,32 +2764,12 @@
       ]
     },
     {
-      "id": "syracuse-calamari-main",
-      "type": "photo",
-      "date": "2026-08-03",
-      "url": "media/photos/2026-08-03-syracuse-calamari.webp",
-      "title": "Calamari main",
-      "caption": "Calamari for Cameron's main course ashore in Syracuse.",
-      "categories": [
-        "crew",
-        "behind-scenes"
-      ],
-      "journalEntries": [
-        {
-          "id": "syracuse-ashore-food",
-          "title": "Ashore in Syracuse",
-          "date": "2026-08-03",
-          "location": "Porto Grande, Syracuse, Sicily, Italy"
-        }
-      ]
-    },
-    {
-      "id": "syracuse-seafood-pasta",
+      "id": "syracuse-dinner-gnocchi",
       "type": "photo",
       "date": "2026-08-04",
-      "url": "media/photos/2026-08-04-syracuse-seafood-pasta.jpg",
-      "title": "Seafood pasta",
-      "caption": "Seafood pasta during Cameron and Sophie's dinner ashore in Syracuse.",
+      "url": "media/photos/2026-08-04-syracuse-dinner-gnocchi.jpg",
+      "title": "Dinner in Syracuse",
+      "caption": "Gnocchi at dinner in Syracuse after Cameron and Sophie headed back ashore for the evening.",
       "categories": [
         "crew",
         "behind-scenes"
@@ -2677,12 +2804,12 @@
       ]
     },
     {
-      "id": "syracuse-dinner-gnocchi",
+      "id": "syracuse-seafood-pasta",
       "type": "photo",
       "date": "2026-08-04",
-      "url": "media/photos/2026-08-04-syracuse-dinner-gnocchi.jpg",
-      "title": "Dinner in Syracuse",
-      "caption": "Gnocchi at dinner in Syracuse after Cameron and Sophie headed back ashore for the evening.",
+      "url": "media/photos/2026-08-04-syracuse-seafood-pasta.jpg",
+      "title": "Seafood pasta",
+      "caption": "Seafood pasta during Cameron and Sophie's dinner ashore in Syracuse.",
       "categories": [
         "crew",
         "behind-scenes"
@@ -2714,6 +2841,166 @@
           "title": "Stopped for a Drink",
           "date": "2026-08-04",
           "location": "Porto Grande, Syracuse, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "mount-etna-riposto-photo-1",
+      "type": "photo",
+      "date": "2026-08-09",
+      "url": "media/photos/2026-08-09-mount-etna-from-riposto-1.jpg",
+      "title": "Mount Etna from Porto dell'Etna",
+      "caption": "Mount Etna glowing above Riposto at night during an active eruptive phase while Juno's 7 was alongside at Porto dell'Etna Marina.",
+      "categories": [
+        "ports-anchorages",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "mount-etna-from-porto-delletna",
+          "title": "Mount Etna from Porto dell'Etna",
+          "date": "2026-08-09",
+          "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "mount-etna-riposto-photo-2",
+      "type": "photo",
+      "date": "2026-08-09",
+      "url": "media/photos/2026-08-09-mount-etna-from-riposto-2.jpg",
+      "title": "Etna after dark",
+      "caption": "A closer night view of Mount Etna's red volcanic glow above the Sicilian coastline.",
+      "categories": [
+        "ports-anchorages",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "mount-etna-from-porto-delletna",
+          "title": "Mount Etna from Porto dell'Etna",
+          "date": "2026-08-09",
+          "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "mount-etna-riposto-video-1",
+      "type": "video",
+      "date": "2026-08-09",
+      "url": "media/videos/2026-08-09-mount-etna-riposto-1.mp4",
+      "title": "Etna on the approach to Riposto",
+      "caption": "Mount Etna seen from the water before Juno's 7 reached Porto dell'Etna Marina.",
+      "categories": [
+        "ports-anchorages",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "mount-etna-from-porto-delletna",
+          "title": "Mount Etna from Porto dell'Etna",
+          "date": "2026-08-09",
+          "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "mount-etna-riposto-video-2",
+      "type": "video",
+      "date": "2026-08-09",
+      "url": "media/videos/2026-08-09-mount-etna-riposto-2.mp4",
+      "title": "Etna at early evening in Riposto",
+      "caption": "Early evening view of Mount Etna from Porto dell'Etna Marina while Juno's 7 was alongside.",
+      "categories": [
+        "ports-anchorages",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "mount-etna-from-porto-delletna",
+          "title": "Mount Etna from Porto dell'Etna",
+          "date": "2026-08-09",
+          "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "mount-etna-riposto-video-3",
+      "type": "video",
+      "date": "2026-08-09",
+      "url": "media/videos/2026-08-09-mount-etna-riposto-3.mp4",
+      "title": "Etna after dark from the marina",
+      "caption": "Night video of Mount Etna's red volcanic glow from Porto dell'Etna Marina.",
+      "categories": [
+        "ports-anchorages",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "mount-etna-from-porto-delletna",
+          "title": "Mount Etna from Porto dell'Etna",
+          "date": "2026-08-09",
+          "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "cave-excursion",
+      "type": "video",
+      "date": "Summer 2026",
+      "url": "media/videos/summer-2026-cave-excursion.mp4",
+      "title": "Likely Blue Cave Excursion",
+      "caption": "Recovered footage from a planned cave excursion, likely at the Blue Cave on Biševo, aboard a local excursion boat.",
+      "categories": [
+        "crew",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "season-highlight-cave-excursion",
+          "title": "Likely Blue Cave Excursion",
+          "date": "Summer 2026",
+          "location": "Likely Blue Cave, Biševo, Croatia"
+        }
+      ]
+    },
+    {
+      "id": "onboard-cctv-deckie-falling-in",
+      "type": "video",
+      "date": "Summer 2026",
+      "url": "media/videos/summer-2026-onboard-cctv-deckie-falling-in.mp4",
+      "title": "Onboard CCTV: deck mishap",
+      "caption": "Onboard CCTV captured a deckhand ending up in the water around the beach club area.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "onboard-cctv-crew-life",
+          "title": "Beach Club CCTV Moments",
+          "date": "Summer 2026",
+          "location": "On board Juno’s 7"
+        }
+      ]
+    },
+    {
+      "id": "onboard-cctv-meta-glasses-mishap",
+      "type": "video",
+      "date": "Summer 2026",
+      "url": "media/videos/summer-2026-onboard-cctv-meta-glasses-mishap.mp4",
+      "title": "Onboard CCTV: Meta glasses",
+      "caption": "Onboard CCTV captured the same deckhand a few weeks earlier being knocked and breaking his Meta glasses.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "onboard-cctv-crew-life",
+          "title": "Beach Club CCTV Moments",
+          "date": "Summer 2026",
+          "location": "On board Juno’s 7"
         }
       ]
     }
@@ -4376,33 +4663,33 @@
     },
     {
       "date": "5 Jul",
-      "title": "En route to Mljet",
-      "name": "En route to Mljet",
+      "title": "Passage to Mljet, Croatia",
+      "name": "Passage to Mljet, Croatia",
       "phase": "onboard",
       "lat": 42.718768,
       "lng": 17.762833,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
       "location": {
         "lookupStatus": "ok",
-        "lookupProvider": "OpenStreetMap Nominatim",
+        "lookupProvider": "manual editorial correction",
         "osmType": "relation",
         "osmId": 226750,
-        "displayName": "Near Dubrovnik-Neretva County, Croatia",
-        "shortName": "Dubrovnik-Neretva County",
-        "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+        "displayName": "Passage to Mljet, Croatia",
+        "shortName": "Croatia",
+        "rawDisplayName": "Passage to Mljet, Croatia",
         "country": "Croatia",
         "countryCode": "HR",
         "region": null,
         "county": "Dubrovnik-Neretva County",
         "municipality": null,
         "island": null,
-        "nearestPlace": "Dubrovnik-Neretva County",
-        "localArea": null,
-        "lookupSource": "OpenStreetMap Nominatim"
+        "nearestPlace": "Croatia",
+        "localArea": "Passage to Mljet, Croatia",
+        "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
         "fromTitle": "Lokrum Strait, Dubrovnik, Croatia",
-        "toTitle": "En route to Mljet",
+        "toTitle": "Passage to Mljet, Croatia",
         "distanceDirectNm": 16.7,
         "distanceEstimatedNm": 16.9,
         "usesManualSeaRoute": true,
@@ -4471,7 +4758,7 @@
         "nearestSettlement": "Polače"
       },
       "legFromPrevious": {
-        "fromTitle": "En route to Mljet",
+        "fromTitle": "Passage to Mljet, Croatia",
         "toTitle": "Polače Anchorage, Mljet, Croatia",
         "distanceDirectNm": 17.3,
         "distanceEstimatedNm": 17.5,
@@ -4736,33 +5023,33 @@
     },
     {
       "date": "7 Jul AM",
-      "title": "En route to Hvar",
-      "name": "En route to Hvar",
+      "title": "Passage to Hvar, Croatia",
+      "name": "Passage to Hvar, Croatia",
       "phase": "onboard",
       "lat": 43.0613,
       "lng": 16.718102,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
       "location": {
         "lookupStatus": "ok",
-        "lookupProvider": "OpenStreetMap Nominatim",
+        "lookupProvider": "manual editorial correction",
         "osmType": "relation",
         "osmId": 226749,
-        "displayName": "Near Split-Dalmatia County, Croatia",
-        "shortName": "Split-Dalmatia County",
-        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "displayName": "Passage to Hvar, Croatia",
+        "shortName": "Croatia",
+        "rawDisplayName": "Passage to Hvar, Croatia",
         "country": "Croatia",
         "countryCode": "HR",
         "region": null,
         "county": "Split-Dalmatia County",
         "municipality": null,
         "island": null,
-        "nearestPlace": "Split-Dalmatia County",
-        "localArea": null,
-        "lookupSource": "OpenStreetMap Nominatim"
+        "nearestPlace": "Croatia",
+        "localArea": "Passage to Hvar, Croatia",
+        "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
         "fromTitle": "Korčula Port, Croatia",
-        "toTitle": "En route to Hvar",
+        "toTitle": "Passage to Hvar, Croatia",
         "distanceDirectNm": 19.2,
         "distanceEstimatedNm": 19.4,
         "usesManualSeaRoute": true,
@@ -4835,7 +5122,7 @@
         "nearestSettlement": "Palmižana"
       },
       "legFromPrevious": {
-        "fromTitle": "En route to Hvar",
+        "fromTitle": "Passage to Hvar, Croatia",
         "toTitle": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia",
         "distanceDirectNm": 15.1,
         "distanceEstimatedNm": 17.6,
@@ -4919,33 +5206,33 @@
     },
     {
       "date": "8 Jul - Late afternoon",
-      "title": "En route to Split",
-      "name": "En route to Split",
+      "title": "Passage to Split, Croatia",
+      "name": "Passage to Split, Croatia",
       "phase": "onboard",
       "lat": 43.172564,
       "lng": 16.396708,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
       "location": {
         "lookupStatus": "ok",
-        "lookupProvider": "OpenStreetMap Nominatim",
+        "lookupProvider": "manual editorial correction",
         "osmType": "relation",
         "osmId": 226749,
-        "displayName": "Near Split-Dalmatia County, Croatia",
-        "shortName": "Split-Dalmatia County",
-        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "displayName": "Passage to Split, Croatia",
+        "shortName": "Croatia",
+        "rawDisplayName": "Passage to Split, Croatia",
         "country": "Croatia",
         "countryCode": "HR",
         "region": null,
         "county": "Split-Dalmatia County",
         "municipality": null,
         "island": null,
-        "nearestPlace": "Split-Dalmatia County",
-        "localArea": null,
-        "lookupSource": "OpenStreetMap Nominatim"
+        "nearestPlace": "Croatia",
+        "localArea": "Passage to Split, Croatia",
+        "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
         "fromTitle": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia",
-        "toTitle": "En route to Split",
+        "toTitle": "Passage to Split, Croatia",
         "distanceDirectNm": 0.7,
         "distanceEstimatedNm": 0.9,
         "usesManualSeaRoute": true,
@@ -5004,24 +5291,24 @@
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
       "location": {
         "lookupStatus": "ok",
-        "lookupProvider": "OpenStreetMap Nominatim",
+        "lookupProvider": "manual editorial correction",
         "osmType": "relation",
         "osmId": 226749,
-        "displayName": "Near Split-Dalmatia County, Croatia",
-        "shortName": "Split-Dalmatia County",
-        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "displayName": "Approaching Split, Croatia",
+        "shortName": "Croatia",
+        "rawDisplayName": "Approaching Split, Croatia",
         "country": "Croatia",
         "countryCode": "HR",
         "region": null,
         "county": "Split-Dalmatia County",
         "municipality": null,
         "island": null,
-        "nearestPlace": "Split-Dalmatia County",
-        "localArea": null,
-        "lookupSource": "OpenStreetMap Nominatim"
+        "nearestPlace": "Croatia",
+        "localArea": "Approaching Split, Croatia",
+        "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
-        "fromTitle": "En route to Split",
+        "fromTitle": "Passage to Split, Croatia",
         "toTitle": "Approaching Split",
         "distanceDirectNm": 13.6,
         "distanceEstimatedNm": 14.7,
@@ -5209,33 +5496,33 @@
     },
     {
       "date": "11 Jul - AM",
-      "title": "En route to Vis",
-      "name": "En route to Vis",
+      "title": "Passage to Vis, Croatia",
+      "name": "Passage to Vis, Croatia",
       "phase": "onboard",
       "lat": 43.118966,
       "lng": 16.22921,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
       "location": {
         "lookupStatus": "ok",
-        "lookupProvider": "OpenStreetMap Nominatim",
+        "lookupProvider": "manual editorial correction",
         "osmType": "relation",
         "osmId": 226749,
-        "displayName": "Near Split-Dalmatia County, Croatia",
-        "shortName": "Split-Dalmatia County",
-        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "displayName": "Passage to Vis, Croatia",
+        "shortName": "Croatia",
+        "rawDisplayName": "Passage to Vis, Croatia",
         "country": "Croatia",
         "countryCode": "HR",
         "region": null,
         "county": "Split-Dalmatia County",
         "municipality": null,
         "island": null,
-        "nearestPlace": "Split-Dalmatia County",
-        "localArea": null,
-        "lookupSource": "OpenStreetMap Nominatim"
+        "nearestPlace": "Croatia",
+        "localArea": "Passage to Vis, Croatia",
+        "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
         "fromTitle": "Zaglav Anchorage, Brač, Croatia",
-        "toTitle": "En route to Vis",
+        "toTitle": "Passage to Vis, Croatia",
         "distanceDirectNm": 15.2,
         "distanceEstimatedNm": 16.5,
         "usesManualSeaRoute": true,
@@ -5312,7 +5599,7 @@
         "nearestSettlement": "Vis"
       },
       "legFromPrevious": {
-        "fromTitle": "En route to Vis",
+        "fromTitle": "Passage to Vis, Croatia",
         "toTitle": "Vis Harbour, Vis Island, Croatia",
         "distanceDirectNm": 3.6,
         "distanceEstimatedNm": 3.7,
@@ -7857,27 +8144,27 @@
       "date": "3 Aug",
       "title": "Porto Grande, Syracuse, Sicily, Italy",
       "name": "Porto Grande, Syracuse, Sicily, Italy",
-      "phase": "current",
+      "phase": "onboard",
       "lat": 37.059785,
       "lng": 15.29148,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
       "location": {
         "lookupStatus": "ok",
-        "lookupProvider": "OpenStreetMap Nominatim",
+        "lookupProvider": "manual editorial correction",
         "osmType": "node",
         "osmId": 1932675079,
-        "displayName": "Near Syracuse, Sicily, Italy",
-        "shortName": "Syracuse",
-        "rawDisplayName": "Syracuse, Siracusa, Sicily, 96100, Italy",
+        "displayName": "Porto Grande, Syracuse, Sicily, Italy",
+        "shortName": "Porto Grande, Syracuse, Sicily, Italy",
+        "rawDisplayName": "Porto Grande, Syracuse, Sicily, Italy",
         "country": "Italy",
         "countryCode": "IT",
         "region": "Sicily",
         "county": "Siracusa",
         "municipality": "Syracuse",
         "island": null,
-        "nearestPlace": "Syracuse",
-        "localArea": null,
-        "lookupSource": "OpenStreetMap Nominatim"
+        "nearestPlace": "Porto Grande, Syracuse, Sicily, Italy",
+        "localArea": "Porto Grande, Syracuse, Sicily, Italy",
+        "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
         "fromTitle": "Passage to Sicily",
@@ -7937,6 +8224,443 @@
         ]
       },
       "status": "Moored"
+    },
+    {
+      "date": "6 Aug - Early morning departure",
+      "title": "Passage to Capo Passero, Sicily, Italy",
+      "name": "Passage to Capo Passero, Sicily, Italy",
+      "phase": "onboard",
+      "lat": 37.043032,
+      "lng": 15.374802,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "node",
+        "osmId": 1932675079,
+        "displayName": "Near Syracuse, Sicily, Italy",
+        "shortName": "Syracuse",
+        "rawDisplayName": "Syracuse, Siracusa, Sicily, 96100, Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": "Sicily",
+        "county": "Siracusa",
+        "municipality": "Syracuse",
+        "island": null,
+        "nearestPlace": "Syracuse",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Porto Grande, Syracuse, Sicily, Italy",
+        "toTitle": "Passage to Capo Passero, Sicily, Italy",
+        "distanceDirectNm": 4.1,
+        "distanceEstimatedNm": 4.9,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            37.059785,
+            15.29148
+          ],
+          [
+            37.058589,
+            15.288773
+          ],
+          [
+            37.054103,
+            15.287528
+          ],
+          [
+            37.051157,
+            15.287571
+          ],
+          [
+            37.048485,
+            15.289589
+          ],
+          [
+            37.049376,
+            15.306674
+          ],
+          [
+            37.048824,
+            15.34162
+          ],
+          [
+            37.043032,
+            15.374802
+          ]
+        ]
+      }
+    },
+    {
+      "date": "6 Aug",
+      "title": "Capo Passero Anchorage, Sicily, Italy",
+      "name": "Capo Passero Anchorage, Sicily, Italy",
+      "phase": "onboard",
+      "lat": 36.68925,
+      "lng": 15.141446,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 365331,
+        "displayName": "Capo Passero Anchorage, Sicily, Italy",
+        "shortName": "Capo Passero Anchorage, Sicily, Italy",
+        "rawDisplayName": "Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Passage to Capo Passero, Sicily, Italy",
+        "toTitle": "Capo Passero Anchorage, Sicily, Italy",
+        "distanceDirectNm": 24.0,
+        "distanceEstimatedNm": 25.1,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            37.043032,
+            15.374802
+          ],
+          [
+            37.027568,
+            15.392067
+          ],
+          [
+            37.013862,
+            15.392753
+          ],
+          [
+            37.00125,
+            15.386572
+          ],
+          [
+            36.988088,
+            15.37833
+          ],
+          [
+            36.695238,
+            15.148706
+          ],
+          [
+            36.69159,
+            15.146645
+          ],
+          [
+            36.690145,
+            15.143898
+          ],
+          [
+            36.68925,
+            15.141446
+          ]
+        ]
+      }
+    },
+    {
+      "date": "8 Aug AM",
+      "title": "Passage to undisclosed location",
+      "name": "Passage to undisclosed location",
+      "phase": "onboard",
+      "lat": 36.883314,
+      "lng": 15.311543,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 365331,
+        "displayName": "Passage to undisclosed location",
+        "shortName": "Passage to undisclosed location",
+        "rawDisplayName": "Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Capo Passero Anchorage, Sicily, Italy",
+        "toTitle": "Passage to undisclosed location",
+        "distanceDirectNm": 14.2,
+        "distanceEstimatedNm": 14.4,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.68925,
+            15.141446
+          ],
+          [
+            36.691062,
+            15.145357
+          ],
+          [
+            36.692989,
+            15.149132
+          ],
+          [
+            36.69409,
+            15.154793
+          ],
+          [
+            36.695467,
+            15.161827
+          ],
+          [
+            36.708267,
+            15.171778
+          ],
+          [
+            36.883314,
+            15.311543
+          ]
+        ]
+      }
+    },
+    {
+      "date": "8 Aug - Return to Syracuse",
+      "title": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+      "name": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+      "phase": "onboard",
+      "lat": 37.053025,
+      "lng": 15.283484,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "node",
+        "osmId": 1932675079,
+        "displayName": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+        "shortName": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+        "rawDisplayName": "Syracuse, Siracusa, Sicily, 96100, Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": "Sicily",
+        "county": "Siracusa",
+        "municipality": "Syracuse",
+        "island": null,
+        "nearestPlace": "Syracuse",
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Passage to undisclosed location",
+        "toTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+        "distanceDirectNm": 10.3,
+        "distanceEstimatedNm": 15.7,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            36.883314,
+            15.311543
+          ],
+          [
+            36.929744,
+            15.348415
+          ],
+          [
+            36.976934,
+            15.383091
+          ],
+          [
+            37.013129,
+            15.397167
+          ],
+          [
+            37.031221,
+            15.383778
+          ],
+          [
+            37.043279,
+            15.364895
+          ],
+          [
+            37.048759,
+            15.340176
+          ],
+          [
+            37.050952,
+            15.326443
+          ],
+          [
+            37.046567,
+            15.3055
+          ],
+          [
+            37.046841,
+            15.294857
+          ],
+          [
+            37.046841,
+            15.286617
+          ],
+          [
+            37.050148,
+            15.282025
+          ],
+          [
+            37.051792,
+            15.281339
+          ],
+          [
+            37.053025,
+            15.283484
+          ]
+        ]
+      },
+      "status": "At anchor"
+    },
+    {
+      "date": "9 Aug - Late afternoon",
+      "title": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+      "name": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+      "phase": "current",
+      "lat": 37.731443,
+      "lng": 15.208839,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 365331,
+        "displayName": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+        "shortName": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+        "rawDisplayName": "Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+        "toTitle": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+        "distanceDirectNm": 40.9,
+        "distanceEstimatedNm": 44.2,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            37.053025,
+            15.283484
+          ],
+          [
+            37.049228,
+            15.290995
+          ],
+          [
+            37.049639,
+            15.301809
+          ],
+          [
+            37.057174,
+            15.312452
+          ],
+          [
+            37.078268,
+            15.31949
+          ],
+          [
+            37.177048,
+            15.313225
+          ],
+          [
+            37.294036,
+            15.293999
+          ],
+          [
+            37.467859,
+            15.277176
+          ],
+          [
+            37.643138,
+            15.238724
+          ],
+          [
+            37.701558,
+            15.247564
+          ],
+          [
+            37.728038,
+            15.238638
+          ],
+          [
+            37.734801,
+            15.224583
+          ],
+          [
+            37.738331,
+            15.212095
+          ],
+          [
+            37.737618,
+            15.210078
+          ],
+          [
+            37.736362,
+            15.209262
+          ],
+          [
+            37.735106,
+            15.209091
+          ],
+          [
+            37.734481,
+            15.2093
+          ],
+          [
+            37.734175,
+            15.20974
+          ],
+          [
+            37.73359,
+            15.209976
+          ],
+          [
+            37.7332,
+            15.210137
+          ],
+          [
+            37.732555,
+            15.210158
+          ],
+          [
+            37.732113,
+            15.210094
+          ],
+          [
+            37.73174,
+            15.209461
+          ],
+          [
+            37.731664,
+            15.208967
+          ],
+          [
+            37.731664,
+            15.208742
+          ],
+          [
+            37.731443,
+            15.208839
+          ]
+        ]
+      }
     }
   ]
 }

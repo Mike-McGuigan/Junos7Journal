@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-06T18:07:36.500Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "6 Aug",
+    "title": "Capo Passero Anchorage, Sicily, Italy",
+    "name": "Capo Passero Anchorage, Sicily, Italy",
+    "phase": "current",
+    "lat": 36.68925,
+    "lng": 15.141446,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Capo Passero Anchorage, Sicily, Italy",
+      "shortName": "Capo Passero Anchorage, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-06T18:07:36.500Z",
+    "status": "At anchor",
+    "title": "Capo Passero Anchorage, Sicily, Italy",
+    "area": "Capo Passero Anchorage, Sicily, Italy",
+    "position": {
+      "lat": 36.68925,
+      "lng": 15.141446,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Capo Passero Anchorage, Sicily, Italy",
+      "shortName": "Capo Passero Anchorage, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

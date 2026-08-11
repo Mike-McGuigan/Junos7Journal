@@ -1372,6 +1372,28 @@
       "media": []
     },
     {
+      "id": "choppy-passage-to-syracuse",
+      "date": "2026-08-08",
+      "title": "Choppy Morning to Syracuse",
+      "location": "Passage to Syracuse, Sicily, Italy",
+      "type": "underway",
+      "person": "Sophie",
+      "quote": "Very choppy morning!!",
+      "mapStop": "Passage to Syracuse, Sicily, Italy",
+      "body": "During the passage from Capo Passero Anchorage towards Syracuse, Sophie sent two short videos from the water with the simple update: \"Very choppy morning!!\"\n\nIt was a useful reminder that even a relatively short leg around Sicily could feel lively once the wind and sea state picked up.",
+      "summary": "Sophie shared two videos from a choppy morning passage between Capo Passero Anchorage and Syracuse.",
+      "photos": [],
+      "videos": [
+        "passage-to-syracuse-choppy-1",
+        "passage-to-syracuse-choppy-2"
+      ],
+      "media": [
+        "passage-to-syracuse-choppy-1",
+        "passage-to-syracuse-choppy-2"
+      ],
+      "heroMedia": "passage-to-syracuse-choppy-1"
+    },
+    {
       "id": "return-to-syracuse-anchorage",
       "date": "2026-08-08",
       "title": "Return to Syracuse Anchorage",
@@ -2881,6 +2903,46 @@
           "title": "Mount Etna from Porto dell'Etna",
           "date": "2026-08-09",
           "location": "Porto dell'Etna Marina, Riposto, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "passage-to-syracuse-choppy-1",
+      "type": "video",
+      "date": "2026-08-08",
+      "url": "media/videos/2026-08-08-passage-to-syracuse-choppy-1.mp4",
+      "title": "Very choppy morning",
+      "caption": "First video from Sophie during the choppy morning passage from Capo Passero Anchorage towards Syracuse.",
+      "categories": [
+        "crew",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "choppy-passage-to-syracuse",
+          "title": "Choppy Morning to Syracuse",
+          "date": "2026-08-08",
+          "location": "Passage to Syracuse, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "passage-to-syracuse-choppy-2",
+      "type": "video",
+      "date": "2026-08-08",
+      "url": "media/videos/2026-08-08-passage-to-syracuse-choppy-2.mp4",
+      "title": "Choppy passage to Syracuse",
+      "caption": "Second video from Sophie showing the lively sea state on the passage towards Syracuse.",
+      "categories": [
+        "crew",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "choppy-passage-to-syracuse",
+          "title": "Choppy Morning to Syracuse",
+          "date": "2026-08-08",
+          "location": "Passage to Syracuse, Sicily, Italy"
         }
       ]
     },
@@ -8367,8 +8429,8 @@
     },
     {
       "date": "8 Aug AM",
-      "title": "Passage to undisclosed location",
-      "name": "Passage to undisclosed location",
+      "title": "Passage to Syracuse, Sicily, Italy",
+      "name": "Passage to Syracuse, Sicily, Italy",
       "phase": "onboard",
       "lat": 36.883314,
       "lng": 15.311543,
@@ -8378,8 +8440,8 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": "relation",
         "osmId": 365331,
-        "displayName": "Passage to undisclosed location",
-        "shortName": "Passage to undisclosed location",
+        "displayName": "Passage to Syracuse, Sicily, Italy",
+        "shortName": "Passage to Syracuse, Sicily, Italy",
         "rawDisplayName": "Italy",
         "country": "Italy",
         "countryCode": "IT",
@@ -8393,7 +8455,7 @@
       },
       "legFromPrevious": {
         "fromTitle": "Capo Passero Anchorage, Sicily, Italy",
-        "toTitle": "Passage to undisclosed location",
+        "toTitle": "Passage to Syracuse, Sicily, Italy",
         "distanceDirectNm": 14.2,
         "distanceEstimatedNm": 14.4,
         "usesManualSeaRoute": true,
@@ -8456,7 +8518,7 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
-        "fromTitle": "Passage to undisclosed location",
+        "fromTitle": "Passage to Syracuse, Sicily, Italy",
         "toTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
         "distanceDirectNm": 10.3,
         "distanceEstimatedNm": 15.7,
@@ -8526,7 +8588,7 @@
       "date": "9 Aug - Late afternoon",
       "title": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
       "name": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
-      "phase": "current",
+      "phase": "onboard",
       "lat": 37.731443,
       "lng": 15.208839,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -8658,6 +8720,98 @@
           [
             37.731443,
             15.208839
+          ]
+        ]
+      }
+    },
+    {
+      "date": "11 Aug - 9am arrival",
+      "title": "Taormina Anchorage, Sicily, Italy",
+      "name": "Taormina Anchorage, Sicily, Italy",
+      "phase": "current",
+      "lat": 37.845542,
+      "lng": 15.294498,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 365331,
+        "displayName": "Taormina Anchorage, Sicily, Italy",
+        "shortName": "Taormina Anchorage, Sicily, Italy",
+        "rawDisplayName": "Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+        "toTitle": "Taormina Anchorage, Sicily, Italy",
+        "distanceDirectNm": 8.0,
+        "distanceEstimatedNm": 8.2,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            37.731443,
+            15.208839
+          ],
+          [
+            37.731604,
+            15.209128
+          ],
+          [
+            37.731969,
+            15.210201
+          ],
+          [
+            37.734027,
+            15.20981
+          ],
+          [
+            37.734842,
+            15.209016
+          ],
+          [
+            37.737829,
+            15.209702
+          ],
+          [
+            37.760287,
+            15.234089
+          ],
+          [
+            37.795021,
+            15.269451
+          ],
+          [
+            37.815637,
+            15.281124
+          ],
+          [
+            37.829282,
+            15.288205
+          ],
+          [
+            37.84067,
+            15.292068
+          ],
+          [
+            37.84494,
+            15.294669
+          ],
+          [
+            37.845237,
+            15.294669
+          ],
+          [
+            37.845542,
+            15.294498
           ]
         ]
       }

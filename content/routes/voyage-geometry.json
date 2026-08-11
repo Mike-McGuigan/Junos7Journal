@@ -3298,7 +3298,7 @@
       "fromDate": "6 Aug",
       "toDate": "8 Aug AM",
       "fromTitle": "Capo Passero Anchorage, Sicily, Italy",
-      "toTitle": "Passage to undisclosed location",
+      "toTitle": "Passage to Syracuse, Sicily, Italy",
       "waypoints": [
         [
           36.691062,
@@ -3327,7 +3327,7 @@
       "toIndex": 64,
       "fromDate": "8 Aug AM",
       "toDate": "8 Aug - Return to Syracuse",
-      "fromTitle": "Passage to undisclosed location",
+      "fromTitle": "Passage to Syracuse, Sicily, Italy",
       "toTitle": "Porto Grande, Syracuse, Sicily, Italy",
       "waypoints": [
         [
@@ -3483,6 +3483,64 @@
         [
           37.731664,
           15.208742
+        ]
+      ]
+    },
+    {
+      "fromIndex": 65,
+      "toIndex": 66,
+      "fromDate": "9 Aug - Late afternoon",
+      "toDate": "11 Aug - 9am arrival",
+      "fromTitle": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+      "toTitle": "Taormina Anchorage, Sicily, Italy",
+      "waypoints": [
+        [
+          37.731604,
+          15.209128
+        ],
+        [
+          37.731969,
+          15.210201
+        ],
+        [
+          37.734027,
+          15.20981
+        ],
+        [
+          37.734842,
+          15.209016
+        ],
+        [
+          37.737829,
+          15.209702
+        ],
+        [
+          37.760287,
+          15.234089
+        ],
+        [
+          37.795021,
+          15.269451
+        ],
+        [
+          37.815637,
+          15.281124
+        ],
+        [
+          37.829282,
+          15.288205
+        ],
+        [
+          37.84067,
+          15.292068
+        ],
+        [
+          37.84494,
+          15.294669
+        ],
+        [
+          37.845237,
+          15.294669
         ]
       ]
     }

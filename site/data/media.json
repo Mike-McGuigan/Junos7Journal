@@ -1465,6 +1465,46 @@
     ]
   },
   {
+    "id": "passage-to-syracuse-choppy-1",
+    "type": "video",
+    "date": "2026-08-08",
+    "url": "media/videos/2026-08-08-passage-to-syracuse-choppy-1.mp4",
+    "title": "Very choppy morning",
+    "caption": "First video from Sophie during the choppy morning passage from Capo Passero Anchorage towards Syracuse.",
+    "categories": [
+      "crew",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "choppy-passage-to-syracuse",
+        "title": "Choppy Morning to Syracuse",
+        "date": "2026-08-08",
+        "location": "Passage to Syracuse, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "passage-to-syracuse-choppy-2",
+    "type": "video",
+    "date": "2026-08-08",
+    "url": "media/videos/2026-08-08-passage-to-syracuse-choppy-2.mp4",
+    "title": "Choppy passage to Syracuse",
+    "caption": "Second video from Sophie showing the lively sea state on the passage towards Syracuse.",
+    "categories": [
+      "crew",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "choppy-passage-to-syracuse",
+        "title": "Choppy Morning to Syracuse",
+        "date": "2026-08-08",
+        "location": "Passage to Syracuse, Sicily, Italy"
+      }
+    ]
+  },
+  {
     "id": "mount-etna-riposto-video-1",
     "type": "video",
     "date": "2026-08-09",

@@ -1656,33 +1656,33 @@
   },
   {
     "date": "5 Jul",
-    "title": "En route to Mljet",
-    "name": "En route to Mljet",
+    "title": "Passage to Mljet, Croatia",
+    "name": "Passage to Mljet, Croatia",
     "phase": "onboard",
     "lat": 42.718768,
     "lng": 17.762833,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
-      "lookupProvider": "OpenStreetMap Nominatim",
+      "lookupProvider": "manual editorial correction",
       "osmType": "relation",
       "osmId": 226750,
-      "displayName": "Near Dubrovnik-Neretva County, Croatia",
-      "shortName": "Dubrovnik-Neretva County",
-      "rawDisplayName": "Dubrovnik-Neretva County, Croatia",
+      "displayName": "Passage to Mljet, Croatia",
+      "shortName": "Croatia",
+      "rawDisplayName": "Passage to Mljet, Croatia",
       "country": "Croatia",
       "countryCode": "HR",
       "region": null,
       "county": "Dubrovnik-Neretva County",
       "municipality": null,
       "island": null,
-      "nearestPlace": "Dubrovnik-Neretva County",
-      "localArea": null,
-      "lookupSource": "OpenStreetMap Nominatim"
+      "nearestPlace": "Croatia",
+      "localArea": "Passage to Mljet, Croatia",
+      "lookupSource": "manual editorial correction for location naming consistency"
     },
     "legFromPrevious": {
       "fromTitle": "Lokrum Strait, Dubrovnik, Croatia",
-      "toTitle": "En route to Mljet",
+      "toTitle": "Passage to Mljet, Croatia",
       "distanceDirectNm": 16.7,
       "distanceEstimatedNm": 16.9,
       "usesManualSeaRoute": true,
@@ -1751,7 +1751,7 @@
       "nearestSettlement": "Polače"
     },
     "legFromPrevious": {
-      "fromTitle": "En route to Mljet",
+      "fromTitle": "Passage to Mljet, Croatia",
       "toTitle": "Polače Anchorage, Mljet, Croatia",
       "distanceDirectNm": 17.3,
       "distanceEstimatedNm": 17.5,
@@ -2016,33 +2016,33 @@
   },
   {
     "date": "7 Jul AM",
-    "title": "En route to Hvar",
-    "name": "En route to Hvar",
+    "title": "Passage to Hvar, Croatia",
+    "name": "Passage to Hvar, Croatia",
     "phase": "onboard",
     "lat": 43.0613,
     "lng": 16.718102,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
-      "lookupProvider": "OpenStreetMap Nominatim",
+      "lookupProvider": "manual editorial correction",
       "osmType": "relation",
       "osmId": 226749,
-      "displayName": "Near Split-Dalmatia County, Croatia",
-      "shortName": "Split-Dalmatia County",
-      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "displayName": "Passage to Hvar, Croatia",
+      "shortName": "Croatia",
+      "rawDisplayName": "Passage to Hvar, Croatia",
       "country": "Croatia",
       "countryCode": "HR",
       "region": null,
       "county": "Split-Dalmatia County",
       "municipality": null,
       "island": null,
-      "nearestPlace": "Split-Dalmatia County",
-      "localArea": null,
-      "lookupSource": "OpenStreetMap Nominatim"
+      "nearestPlace": "Croatia",
+      "localArea": "Passage to Hvar, Croatia",
+      "lookupSource": "manual editorial correction for location naming consistency"
     },
     "legFromPrevious": {
       "fromTitle": "Korčula Port, Croatia",
-      "toTitle": "En route to Hvar",
+      "toTitle": "Passage to Hvar, Croatia",
       "distanceDirectNm": 19.2,
       "distanceEstimatedNm": 19.4,
       "usesManualSeaRoute": true,
@@ -2115,7 +2115,7 @@
       "nearestSettlement": "Palmižana"
     },
     "legFromPrevious": {
-      "fromTitle": "En route to Hvar",
+      "fromTitle": "Passage to Hvar, Croatia",
       "toTitle": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia",
       "distanceDirectNm": 15.1,
       "distanceEstimatedNm": 17.6,
@@ -2199,33 +2199,33 @@
   },
   {
     "date": "8 Jul - Late afternoon",
-    "title": "En route to Split",
-    "name": "En route to Split",
+    "title": "Passage to Split, Croatia",
+    "name": "Passage to Split, Croatia",
     "phase": "onboard",
     "lat": 43.172564,
     "lng": 16.396708,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
-      "lookupProvider": "OpenStreetMap Nominatim",
+      "lookupProvider": "manual editorial correction",
       "osmType": "relation",
       "osmId": 226749,
-      "displayName": "Near Split-Dalmatia County, Croatia",
-      "shortName": "Split-Dalmatia County",
-      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "displayName": "Passage to Split, Croatia",
+      "shortName": "Croatia",
+      "rawDisplayName": "Passage to Split, Croatia",
       "country": "Croatia",
       "countryCode": "HR",
       "region": null,
       "county": "Split-Dalmatia County",
       "municipality": null,
       "island": null,
-      "nearestPlace": "Split-Dalmatia County",
-      "localArea": null,
-      "lookupSource": "OpenStreetMap Nominatim"
+      "nearestPlace": "Croatia",
+      "localArea": "Passage to Split, Croatia",
+      "lookupSource": "manual editorial correction for location naming consistency"
     },
     "legFromPrevious": {
       "fromTitle": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia",
-      "toTitle": "En route to Split",
+      "toTitle": "Passage to Split, Croatia",
       "distanceDirectNm": 0.7,
       "distanceEstimatedNm": 0.9,
       "usesManualSeaRoute": true,
@@ -2284,24 +2284,24 @@
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
-      "lookupProvider": "OpenStreetMap Nominatim",
+      "lookupProvider": "manual editorial correction",
       "osmType": "relation",
       "osmId": 226749,
-      "displayName": "Near Split-Dalmatia County, Croatia",
-      "shortName": "Split-Dalmatia County",
-      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "displayName": "Approaching Split, Croatia",
+      "shortName": "Croatia",
+      "rawDisplayName": "Approaching Split, Croatia",
       "country": "Croatia",
       "countryCode": "HR",
       "region": null,
       "county": "Split-Dalmatia County",
       "municipality": null,
       "island": null,
-      "nearestPlace": "Split-Dalmatia County",
-      "localArea": null,
-      "lookupSource": "OpenStreetMap Nominatim"
+      "nearestPlace": "Croatia",
+      "localArea": "Approaching Split, Croatia",
+      "lookupSource": "manual editorial correction for location naming consistency"
     },
     "legFromPrevious": {
-      "fromTitle": "En route to Split",
+      "fromTitle": "Passage to Split, Croatia",
       "toTitle": "Approaching Split",
       "distanceDirectNm": 13.6,
       "distanceEstimatedNm": 14.7,
@@ -2489,33 +2489,33 @@
   },
   {
     "date": "11 Jul - AM",
-    "title": "En route to Vis",
-    "name": "En route to Vis",
+    "title": "Passage to Vis, Croatia",
+    "name": "Passage to Vis, Croatia",
     "phase": "onboard",
     "lat": 43.118966,
     "lng": 16.22921,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
     "location": {
       "lookupStatus": "ok",
-      "lookupProvider": "OpenStreetMap Nominatim",
+      "lookupProvider": "manual editorial correction",
       "osmType": "relation",
       "osmId": 226749,
-      "displayName": "Near Split-Dalmatia County, Croatia",
-      "shortName": "Split-Dalmatia County",
-      "rawDisplayName": "Split-Dalmatia County, Croatia",
+      "displayName": "Passage to Vis, Croatia",
+      "shortName": "Croatia",
+      "rawDisplayName": "Passage to Vis, Croatia",
       "country": "Croatia",
       "countryCode": "HR",
       "region": null,
       "county": "Split-Dalmatia County",
       "municipality": null,
       "island": null,
-      "nearestPlace": "Split-Dalmatia County",
-      "localArea": null,
-      "lookupSource": "OpenStreetMap Nominatim"
+      "nearestPlace": "Croatia",
+      "localArea": "Passage to Vis, Croatia",
+      "lookupSource": "manual editorial correction for location naming consistency"
     },
     "legFromPrevious": {
       "fromTitle": "Zaglav Anchorage, Brač, Croatia",
-      "toTitle": "En route to Vis",
+      "toTitle": "Passage to Vis, Croatia",
       "distanceDirectNm": 15.2,
       "distanceEstimatedNm": 16.5,
       "usesManualSeaRoute": true,
@@ -2592,7 +2592,7 @@
       "nearestSettlement": "Vis"
     },
     "legFromPrevious": {
-      "fromTitle": "En route to Vis",
+      "fromTitle": "Passage to Vis, Croatia",
       "toTitle": "Vis Harbour, Vis Island, Croatia",
       "distanceDirectNm": 3.6,
       "distanceEstimatedNm": 3.7,
@@ -2943,7 +2943,7 @@
       "country": "Croatia",
       "countryCode": "HR",
       "region": null,
-      "county": "?ibenik-Knin County",
+      "county": "Šibenik-Knin County",
       "municipality": null,
       "island": "Smokvica Vela",
       "nearestPlace": "Smokvica Vela",
@@ -3149,7 +3149,7 @@
       "country": "Croatia",
       "countryCode": "HR",
       "region": null,
-      "county": "?ibenik-Knin County",
+      "county": "Šibenik-Knin County",
       "municipality": null,
       "island": "Levrnaka",
       "nearestPlace": "Levrnaka",
@@ -4640,7 +4640,7 @@
     "date": "29 Jul - In time for breakfast again",
     "title": "Grand Harbour Marina, Vittoriosa, Malta",
     "name": "Grand Harbour Marina, Vittoriosa, Malta",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 35.891002,
     "lng": 14.518052,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -4724,6 +4724,933 @@
         [
           35.891002,
           14.518052
+        ]
+      ]
+    }
+  },
+  {
+    "date": "30 Jul - Early afternoon",
+    "title": "Comino Anchorage, Malta",
+    "name": "Comino Anchorage, Malta",
+    "phase": "onboard",
+    "lat": 36.007951,
+    "lng": 14.325169,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365307,
+      "displayName": "Comino Anchorage, Malta",
+      "shortName": "Comino Anchorage, Malta",
+      "rawDisplayName": "Malta",
+      "country": "Malta",
+      "countryCode": "MT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Grand Harbour Marina, Vittoriosa, Malta",
+      "toTitle": "Comino Anchorage, Malta",
+      "distanceDirectNm": 11.7,
+      "distanceEstimatedNm": 14.1,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          35.891002,
+          14.518052
+        ],
+        [
+          35.890524,
+          14.517676
+        ],
+        [
+          35.891576,
+          14.515863
+        ],
+        [
+          35.893114,
+          14.516035
+        ],
+        [
+          35.894035,
+          14.517676
+        ],
+        [
+          35.896,
+          14.519693
+        ],
+        [
+          35.900536,
+          14.521946
+        ],
+        [
+          35.901423,
+          14.527611
+        ],
+        [
+          35.905864,
+          14.526452
+        ],
+        [
+          35.931536,
+          14.513025
+        ],
+        [
+          35.949465,
+          14.475431
+        ],
+        [
+          35.970665,
+          14.43346
+        ],
+        [
+          35.992613,
+          14.393978
+        ],
+        [
+          35.997671,
+          14.384623
+        ],
+        [
+          36.000032,
+          14.37398
+        ],
+        [
+          36.002393,
+          14.363165
+        ],
+        [
+          35.998366,
+          14.344797
+        ],
+        [
+          35.998782,
+          14.324541
+        ],
+        [
+          36.004971,
+          14.321086
+        ],
+        [
+          36.007951,
+          14.325169
+        ]
+      ]
+    }
+  },
+  {
+    "date": "31 Jul AM",
+    "title": "Dwejra Bay, Gozo, Malta",
+    "name": "Dwejra Bay, Gozo, Malta",
+    "phase": "onboard",
+    "lat": 36.04573,
+    "lng": 14.192356,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365307,
+      "displayName": "Dwejra Bay, Gozo, Malta",
+      "shortName": "Dwejra Bay, Gozo, Malta",
+      "rawDisplayName": "Malta",
+      "country": "Malta",
+      "countryCode": "MT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Comino Anchorage, Malta",
+      "toTitle": "Dwejra Bay, Gozo, Malta",
+      "distanceDirectNm": 6.8,
+      "distanceEstimatedNm": 8.7,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          36.007951,
+          14.325169
+        ],
+        [
+          36.008068,
+          14.31923
+        ],
+        [
+          36.006866,
+          14.311967
+        ],
+        [
+          36.005616,
+          14.290767
+        ],
+        [
+          36.006102,
+          14.259095
+        ],
+        [
+          36.009574,
+          14.233861
+        ],
+        [
+          36.01378,
+          14.215021
+        ],
+        [
+          36.020306,
+          14.203863
+        ],
+        [
+          36.027386,
+          14.190302
+        ],
+        [
+          36.031273,
+          14.182749
+        ],
+        [
+          36.041277,
+          14.181268
+        ],
+        [
+          36.046204,
+          14.190066
+        ],
+        [
+          36.046888,
+          14.190141
+        ],
+        [
+          36.047374,
+          14.190313
+        ],
+        [
+          36.047478,
+          14.191021
+        ],
+        [
+          36.047409,
+          14.191729
+        ],
+        [
+          36.04573,
+          14.192356
+        ]
+      ]
+    },
+    "status": "At anchor"
+  },
+  {
+    "date": "2 Aug",
+    "title": "Ramla Bay, Gozo, Malta",
+    "name": "Ramla Bay, Gozo, Malta",
+    "phase": "onboard",
+    "lat": 36.066492,
+    "lng": 14.276824,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365307,
+      "displayName": "Ramla Bay, Gozo, Malta",
+      "shortName": "Ramla Bay, Gozo, Malta",
+      "rawDisplayName": "Malta",
+      "country": "Malta",
+      "countryCode": "MT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Dwejra Bay, Gozo, Malta",
+      "toTitle": "Ramla Bay, Gozo, Malta",
+      "distanceDirectNm": 4.3,
+      "distanceEstimatedNm": 8.6,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          36.04573,
+          14.192356
+        ],
+        [
+          36.045911,
+          14.190438
+        ],
+        [
+          36.045805,
+          14.189403
+        ],
+        [
+          36.04551,
+          14.188374
+        ],
+        [
+          36.046169,
+          14.187302
+        ],
+        [
+          36.046898,
+          14.185565
+        ],
+        [
+          36.052864,
+          14.17619
+        ],
+        [
+          36.057721,
+          14.173959
+        ],
+        [
+          36.063965,
+          14.171214
+        ],
+        [
+          36.069655,
+          14.170871
+        ],
+        [
+          36.074233,
+          14.172072
+        ],
+        [
+          36.086442,
+          14.190086
+        ],
+        [
+          36.089633,
+          14.228001
+        ],
+        [
+          36.088614,
+          14.243214
+        ],
+        [
+          36.087574,
+          14.251584
+        ],
+        [
+          36.081864,
+          14.269136
+        ],
+        [
+          36.078387,
+          14.27525
+        ],
+        [
+          36.073878,
+          14.280225
+        ],
+        [
+          36.066797,
+          14.278994
+        ],
+        [
+          36.065996,
+          14.277857
+        ],
+        [
+          36.066492,
+          14.276824
+        ]
+      ]
+    }
+  },
+  {
+    "date": "3 Aug - 5AM departure",
+    "title": "Passage to Sicily",
+    "name": "Passage to Sicily",
+    "phase": "onboard",
+    "lat": 36.422995,
+    "lng": 14.823825,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": null,
+      "osmId": null,
+      "displayName": "Passage to Sicily",
+      "shortName": "Passage to Sicily",
+      "rawDisplayName": null,
+      "country": null,
+      "countryCode": null,
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Ramla Bay, Gozo, Malta",
+      "toTitle": "Passage to Sicily",
+      "distanceDirectNm": 34.1,
+      "distanceEstimatedNm": 34.1,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          36.066492,
+          14.276824
+        ],
+        [
+          36.066629,
+          14.276703
+        ],
+        [
+          36.066967,
+          14.276779
+        ],
+        [
+          36.07582,
+          14.287633
+        ],
+        [
+          36.167329,
+          14.435917
+        ],
+        [
+          36.301984,
+          14.648523
+        ],
+        [
+          36.422995,
+          14.823825
+        ]
+      ]
+    }
+  },
+  {
+    "date": "3 Aug",
+    "title": "Porto Grande, Syracuse, Sicily, Italy",
+    "name": "Porto Grande, Syracuse, Sicily, Italy",
+    "phase": "onboard",
+    "lat": 37.059785,
+    "lng": 15.29148,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "manual editorial correction",
+      "osmType": "node",
+      "osmId": 1932675079,
+      "displayName": "Porto Grande, Syracuse, Sicily, Italy",
+      "shortName": "Porto Grande, Syracuse, Sicily, Italy",
+      "rawDisplayName": "Porto Grande, Syracuse, Sicily, Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": "Sicily",
+      "county": "Siracusa",
+      "municipality": "Syracuse",
+      "island": null,
+      "nearestPlace": "Porto Grande, Syracuse, Sicily, Italy",
+      "localArea": "Porto Grande, Syracuse, Sicily, Italy",
+      "lookupSource": "manual editorial correction for location naming consistency"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Passage to Sicily",
+      "toTitle": "Porto Grande, Syracuse, Sicily, Italy",
+      "distanceDirectNm": 44.4,
+      "distanceEstimatedNm": 54.6,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          36.422995,
+          14.823825
+        ],
+        [
+          36.63881,
+          15.177542
+        ],
+        [
+          36.831409,
+          15.338122
+        ],
+        [
+          36.9994,
+          15.401256
+        ],
+        [
+          37.049834,
+          15.388904
+        ],
+        [
+          37.052197,
+          15.345111
+        ],
+        [
+          37.050553,
+          15.323152
+        ],
+        [
+          37.047813,
+          15.305996
+        ],
+        [
+          37.048087,
+          15.292957
+        ],
+        [
+          37.053019,
+          15.284722
+        ],
+        [
+          37.056838,
+          15.286441
+        ],
+        [
+          37.059785,
+          15.29148
+        ]
+      ]
+    },
+    "status": "Moored"
+  },
+  {
+    "date": "6 Aug - Early morning departure",
+    "title": "Passage to Capo Passero, Sicily, Italy",
+    "name": "Passage to Capo Passero, Sicily, Italy",
+    "phase": "onboard",
+    "lat": 37.043032,
+    "lng": 15.374802,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "node",
+      "osmId": 1932675079,
+      "displayName": "Near Syracuse, Sicily, Italy",
+      "shortName": "Syracuse",
+      "rawDisplayName": "Syracuse, Siracusa, Sicily, 96100, Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": "Sicily",
+      "county": "Siracusa",
+      "municipality": "Syracuse",
+      "island": null,
+      "nearestPlace": "Syracuse",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Porto Grande, Syracuse, Sicily, Italy",
+      "toTitle": "Passage to Capo Passero, Sicily, Italy",
+      "distanceDirectNm": 4.1,
+      "distanceEstimatedNm": 4.9,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          37.059785,
+          15.29148
+        ],
+        [
+          37.058589,
+          15.288773
+        ],
+        [
+          37.054103,
+          15.287528
+        ],
+        [
+          37.051157,
+          15.287571
+        ],
+        [
+          37.048485,
+          15.289589
+        ],
+        [
+          37.049376,
+          15.306674
+        ],
+        [
+          37.048824,
+          15.34162
+        ],
+        [
+          37.043032,
+          15.374802
+        ]
+      ]
+    }
+  },
+  {
+    "date": "6 Aug",
+    "title": "Capo Passero Anchorage, Sicily, Italy",
+    "name": "Capo Passero Anchorage, Sicily, Italy",
+    "phase": "onboard",
+    "lat": 36.68925,
+    "lng": 15.141446,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Capo Passero Anchorage, Sicily, Italy",
+      "shortName": "Capo Passero Anchorage, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Passage to Capo Passero, Sicily, Italy",
+      "toTitle": "Capo Passero Anchorage, Sicily, Italy",
+      "distanceDirectNm": 24.0,
+      "distanceEstimatedNm": 25.1,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          37.043032,
+          15.374802
+        ],
+        [
+          37.027568,
+          15.392067
+        ],
+        [
+          37.013862,
+          15.392753
+        ],
+        [
+          37.00125,
+          15.386572
+        ],
+        [
+          36.988088,
+          15.37833
+        ],
+        [
+          36.695238,
+          15.148706
+        ],
+        [
+          36.69159,
+          15.146645
+        ],
+        [
+          36.690145,
+          15.143898
+        ],
+        [
+          36.68925,
+          15.141446
+        ]
+      ]
+    }
+  },
+  {
+    "date": "8 Aug AM",
+    "title": "Passage to undisclosed location",
+    "name": "Passage to undisclosed location",
+    "phase": "onboard",
+    "lat": 36.883314,
+    "lng": 15.311543,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Passage to undisclosed location",
+      "shortName": "Passage to undisclosed location",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Capo Passero Anchorage, Sicily, Italy",
+      "toTitle": "Passage to undisclosed location",
+      "distanceDirectNm": 14.2,
+      "distanceEstimatedNm": 14.4,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          36.68925,
+          15.141446
+        ],
+        [
+          36.691062,
+          15.145357
+        ],
+        [
+          36.692989,
+          15.149132
+        ],
+        [
+          36.69409,
+          15.154793
+        ],
+        [
+          36.695467,
+          15.161827
+        ],
+        [
+          36.708267,
+          15.171778
+        ],
+        [
+          36.883314,
+          15.311543
+        ]
+      ]
+    }
+  },
+  {
+    "date": "8 Aug - Return to Syracuse",
+    "title": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+    "name": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+    "phase": "onboard",
+    "lat": 37.053025,
+    "lng": 15.283484,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "node",
+      "osmId": 1932675079,
+      "displayName": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+      "shortName": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+      "rawDisplayName": "Syracuse, Siracusa, Sicily, 96100, Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": "Sicily",
+      "county": "Siracusa",
+      "municipality": "Syracuse",
+      "island": null,
+      "nearestPlace": "Syracuse",
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Passage to undisclosed location",
+      "toTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+      "distanceDirectNm": 10.3,
+      "distanceEstimatedNm": 15.7,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          36.883314,
+          15.311543
+        ],
+        [
+          36.929744,
+          15.348415
+        ],
+        [
+          36.976934,
+          15.383091
+        ],
+        [
+          37.013129,
+          15.397167
+        ],
+        [
+          37.031221,
+          15.383778
+        ],
+        [
+          37.043279,
+          15.364895
+        ],
+        [
+          37.048759,
+          15.340176
+        ],
+        [
+          37.050952,
+          15.326443
+        ],
+        [
+          37.046567,
+          15.3055
+        ],
+        [
+          37.046841,
+          15.294857
+        ],
+        [
+          37.046841,
+          15.286617
+        ],
+        [
+          37.050148,
+          15.282025
+        ],
+        [
+          37.051792,
+          15.281339
+        ],
+        [
+          37.053025,
+          15.283484
+        ]
+      ]
+    },
+    "status": "At anchor"
+  },
+  {
+    "date": "9 Aug - Late afternoon",
+    "title": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+    "name": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+    "phase": "current",
+    "lat": 37.731443,
+    "lng": 15.208839,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+      "shortName": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+      "toTitle": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+      "distanceDirectNm": 40.9,
+      "distanceEstimatedNm": 44.2,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          37.053025,
+          15.283484
+        ],
+        [
+          37.049228,
+          15.290995
+        ],
+        [
+          37.049639,
+          15.301809
+        ],
+        [
+          37.057174,
+          15.312452
+        ],
+        [
+          37.078268,
+          15.31949
+        ],
+        [
+          37.177048,
+          15.313225
+        ],
+        [
+          37.294036,
+          15.293999
+        ],
+        [
+          37.467859,
+          15.277176
+        ],
+        [
+          37.643138,
+          15.238724
+        ],
+        [
+          37.701558,
+          15.247564
+        ],
+        [
+          37.728038,
+          15.238638
+        ],
+        [
+          37.734801,
+          15.224583
+        ],
+        [
+          37.738331,
+          15.212095
+        ],
+        [
+          37.737618,
+          15.210078
+        ],
+        [
+          37.736362,
+          15.209262
+        ],
+        [
+          37.735106,
+          15.209091
+        ],
+        [
+          37.734481,
+          15.2093
+        ],
+        [
+          37.734175,
+          15.20974
+        ],
+        [
+          37.73359,
+          15.209976
+        ],
+        [
+          37.7332,
+          15.210137
+        ],
+        [
+          37.732555,
+          15.210158
+        ],
+        [
+          37.732113,
+          15.210094
+        ],
+        [
+          37.73174,
+          15.209461
+        ],
+        [
+          37.731664,
+          15.208967
+        ],
+        [
+          37.731664,
+          15.208742
+        ],
+        [
+          37.731443,
+          15.208839
         ]
       ]
     }

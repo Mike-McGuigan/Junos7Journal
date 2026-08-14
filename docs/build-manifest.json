@@ -1,7 +1,7 @@
 {
   "version": "2.8.0",
-  "release": "Sicily and editorial refinements",
-  "buildUtc": "2026-08-14 11:30:55 UTC",
+  "release": "Drink the Voyage",
+  "buildUtc": "2026-08-14 12:47:28 UTC",
   "fileCount": 183,
   "files": [
     {
@@ -26,13 +26,13 @@
     },
     {
       "path": "build-info.json",
-      "sizeBytes": 217,
-      "sha256": "b80ff4ce0990782963b855a934a0e532439deed59357c92eb3e8f0e68451e7f8"
+      "sizeBytes": 201,
+      "sha256": "b0f497dfcdd93d6784a84ea4fa486b449cc9be89e51e7c812c5363ff023d1943"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 33740,
-      "sha256": "04e3cba3bc90908d24a3dff751c5d23208b32d6e075fc8de92bcabaa754a3e0e"
+      "sizeBytes": 33718,
+      "sha256": "7330d0efe5115643bad68800a425b6e28db48ce4145e8f4b19327a5e0084309a"
     },
     {
       "path": "crew.html",
@@ -51,13 +51,13 @@
     },
     {
       "path": "drink.html",
-      "sizeBytes": 15791,
-      "sha256": "6562e212411fdd53f3435e594c4905ad4ecd2aa3e677057d90869ae03aaa63aa"
+      "sizeBytes": 15965,
+      "sha256": "9564d52255bbb5e694eee74fda11dccb364bffff3cda8c28c9e98be3b576f6a4"
     },
     {
       "path": "index.html",
-      "sizeBytes": 8268,
-      "sha256": "27bf72ba59554e75f19d9c92f43345399b90a9254296a8a687b81132ccf327c1"
+      "sizeBytes": 9194,
+      "sha256": "f99d1829b1b41a96a2d62c816a568766cec752603f6ebf4897c20c58b6a1ec99"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -136,8 +136,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 3034,
-      "sha256": "6f919702abafef5e049d44bc441e8e723dd31208bff345c06470434ab9d0cd9c"
+      "sizeBytes": 3018,
+      "sha256": "3dea5d7f35ba4b6d923c58bc0abd8a41ff0bcc76bb6fda5c89af6ca751e116f3"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -172,7 +172,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 15935,
-      "sha256": "0641ea4b55f888e887db82e06872f0862466c8730f7a1104cf702dae80677a4d"
+      "sha256": "8f33f2894687476153639aa479431643f7eeaa38aba1bfa07184b139f51c8d77"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -271,8 +271,8 @@
     },
     {
       "path": "data/version.json",
-      "sizeBytes": 217,
-      "sha256": "b80ff4ce0990782963b855a934a0e532439deed59357c92eb3e8f0e68451e7f8"
+      "sizeBytes": 201,
+      "sha256": "b0f497dfcdd93d6784a84ea4fa486b449cc9be89e51e7c812c5363ff023d1943"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -806,8 +806,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 28854,
-      "sha256": "ac8a4ef0d160747b302b05044133f121035a97bd90a743ce25cbabdba625e158"
+      "sizeBytes": 28978,
+      "sha256": "a04bffda049cbff3ffd3b023d613a5d33386672847167df7dd19494507c00ddc"
     },
     {
       "path": "assets/css/version.css",

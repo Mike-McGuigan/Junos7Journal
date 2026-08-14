@@ -18,8 +18,8 @@ from geo_lookup import reverse_lookup
 
 ROOT = Path(__file__).resolve().parents[1]
 VERSION_FILE = ROOT / "VERSION"
+RELEASE_TITLE_FILE = ROOT / "RELEASE_TITLE"
 DEFAULT_VERSION = "2.7.5"
-RELEASE = "Sicily and editorial refinements"
 
 
 def current_version() -> str:
@@ -28,6 +28,14 @@ def current_version() -> str:
         if value:
             return value
     return DEFAULT_VERSION
+
+
+def current_release_title() -> str:
+    if RELEASE_TITLE_FILE.exists():
+        value = RELEASE_TITLE_FILE.read_text(encoding="utf-8").strip()
+        if value:
+            return value
+    return "Unreleased"
 
 def configure_console() -> None:
     """Avoid Windows cp1252 crashes if lookup text contains accented characters."""
@@ -127,7 +135,7 @@ def update_dashboard(path: Path, update: dict) -> bool:
 
     data = json.loads(path.read_text(encoding="utf-8"))
     data["version"] = current_version()
-    data["release"] = RELEASE
+    data["release"] = current_release_title()
 
     manual = update["tracker"]
     pos = manual["position"]
@@ -163,7 +171,7 @@ def update_version(path: Path) -> None:
     except Exception:
         data = {}
     data["version"] = current_version()
-    data["release"] = RELEASE
+    data["release"] = current_release_title()
     backup(path)
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 

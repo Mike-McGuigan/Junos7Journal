@@ -16,7 +16,7 @@ import webbrowser
 ROOT = Path(__file__).resolve().parents[1]
 PORT = 8765
 VERSION_FILE = ROOT / "VERSION"
-RELEASE = "Sicily and editorial refinements"
+RELEASE_TITLE_FILE = ROOT / "RELEASE_TITLE"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
 ROUTE_FILE = ROOT / "docs" / "data" / "route.json"
 
@@ -27,6 +27,14 @@ def current_version():
         if value:
             return value
     return "2.7.5"
+
+
+def current_release_title():
+    if RELEASE_TITLE_FILE.exists():
+        value = RELEASE_TITLE_FILE.read_text(encoding="utf-8").strip()
+        if value:
+            return value
+    return "Unreleased"
 
 
 def same_root(a, b):
@@ -77,7 +85,7 @@ def run(cmd, check=True):
 
 
 def git_health():
-    info = {"ok": True, "version": current_version(), "release": RELEASE, "repo": ROOT.name, "root": str(ROOT), "checks": []}
+    info = {"ok": True, "version": current_version(), "release": current_release_title(), "repo": ROOT.name, "root": str(ROOT), "checks": []}
 
     def check(name, cmd, required=True, warning_ok=False):
         try:

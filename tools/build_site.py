@@ -18,9 +18,15 @@ ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 SITE = ROOT / "site"
 VERSION_FILE = ROOT / "VERSION"
+RELEASE_TITLE_FILE = ROOT / "RELEASE_TITLE"
 GEOMETRY_FILE = ROOT / "content" / "routes" / "voyage-geometry.json"
-RELEASE_NAME = "Sicily and editorial refinements"
 
+def current_version() -> str:
+    return VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "2.3.0"
+
+
+def current_release_title() -> str:
+    return RELEASE_TITLE_FILE.read_text(encoding="utf-8").strip() if RELEASE_TITLE_FILE.exists() else "Unreleased"
 
 def sha256(path: Path) -> str:
     h = hashlib.sha256()
@@ -77,7 +83,7 @@ def sync_embedded_journal_media() -> int:
     if not isinstance(media, list):
         raise SystemExit(f"{media_path} must contain a media list")
 
-    journal["release"] = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else journal.get("release")
+    journal["release"] = current_version()
     journal["media"] = media
     journal_path.write_text(json.dumps(journal, indent=2, ensure_ascii=False), encoding="utf-8")
     return len(media)
@@ -229,8 +235,8 @@ def update_dashboard_stats(route_stats: dict, discovery_stats: dict | None = Non
     stats.update(media_stats())
     if discovery_stats is not None:
         stats["contextualDiscoveries"] = int(discovery_stats.get("count", 0))
-    data["version"] = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else data.get("version")
-    data["release"] = RELEASE_NAME
+    data["version"] = current_version()
+    data["release"] = current_release_title()
 
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
@@ -238,7 +244,7 @@ def update_dashboard_stats(route_stats: dict, discovery_stats: dict | None = Non
 def write_build_metadata(version: str, build_utc: str) -> None:
     info = {
         "version": version,
-        "release": RELEASE_NAME,
+        "release": current_release_title(),
         "buildUtc": build_utc,
         "project": "Juno's 7 Mediterranean Journal",
         "pagesSource": "docs",
@@ -262,7 +268,7 @@ def write_build_metadata(version: str, build_utc: str) -> None:
         json.dumps(
             {
                 "version": version,
-                "release": RELEASE_NAME,
+                "release": current_release_title(),
                 "buildUtc": build_utc,
                 "fileCount": len(manifest),
                 "files": manifest,
@@ -277,7 +283,7 @@ def main() -> None:
     if not DOCS.exists():
         raise SystemExit("docs/ does not exist. Nothing to build.")
 
-    version = VERSION_FILE.read_text(encoding="utf-8").strip() if VERSION_FILE.exists() else "2.3.0"
+    version = current_version()
     build_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
     media_validation = validate_media_catalogue()

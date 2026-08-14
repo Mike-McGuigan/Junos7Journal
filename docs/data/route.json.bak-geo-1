@@ -5360,8 +5360,8 @@
   },
   {
     "date": "8 Aug AM",
-    "title": "Passage to undisclosed location",
-    "name": "Passage to undisclosed location",
+    "title": "Passage to Syracuse, Sicily, Italy",
+    "name": "Passage to Syracuse, Sicily, Italy",
     "phase": "onboard",
     "lat": 36.883314,
     "lng": 15.311543,
@@ -5371,8 +5371,8 @@
       "lookupProvider": "OpenStreetMap Nominatim",
       "osmType": "relation",
       "osmId": 365331,
-      "displayName": "Passage to undisclosed location",
-      "shortName": "Passage to undisclosed location",
+      "displayName": "Passage to Syracuse, Sicily, Italy",
+      "shortName": "Passage to Syracuse, Sicily, Italy",
       "rawDisplayName": "Italy",
       "country": "Italy",
       "countryCode": "IT",
@@ -5386,7 +5386,7 @@
     },
     "legFromPrevious": {
       "fromTitle": "Capo Passero Anchorage, Sicily, Italy",
-      "toTitle": "Passage to undisclosed location",
+      "toTitle": "Passage to Syracuse, Sicily, Italy",
       "distanceDirectNm": 14.2,
       "distanceEstimatedNm": 14.4,
       "usesManualSeaRoute": true,
@@ -5449,7 +5449,7 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "legFromPrevious": {
-      "fromTitle": "Passage to undisclosed location",
+      "fromTitle": "Passage to Syracuse, Sicily, Italy",
       "toTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
       "distanceDirectNm": 10.3,
       "distanceEstimatedNm": 15.7,
@@ -5519,7 +5519,7 @@
     "date": "9 Aug - Late afternoon",
     "title": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
     "name": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 37.731443,
     "lng": 15.208839,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -5651,6 +5651,310 @@
         [
           37.731443,
           15.208839
+        ]
+      ]
+    }
+  },
+  {
+    "date": "11 Aug - 9am arrival",
+    "title": "Taormina Anchorage, Sicily, Italy",
+    "name": "Taormina Anchorage, Sicily, Italy",
+    "phase": "onboard",
+    "lat": 37.845542,
+    "lng": 15.294498,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Taormina Anchorage, Sicily, Italy",
+      "shortName": "Taormina Anchorage, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+      "toTitle": "Taormina Anchorage, Sicily, Italy",
+      "distanceDirectNm": 8.0,
+      "distanceEstimatedNm": 8.2,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          37.731443,
+          15.208839
+        ],
+        [
+          37.731604,
+          15.209128
+        ],
+        [
+          37.731969,
+          15.210201
+        ],
+        [
+          37.734027,
+          15.20981
+        ],
+        [
+          37.734842,
+          15.209016
+        ],
+        [
+          37.737829,
+          15.209702
+        ],
+        [
+          37.760287,
+          15.234089
+        ],
+        [
+          37.795021,
+          15.269451
+        ],
+        [
+          37.815637,
+          15.281124
+        ],
+        [
+          37.829282,
+          15.288205
+        ],
+        [
+          37.84067,
+          15.292068
+        ],
+        [
+          37.84494,
+          15.294669
+        ],
+        [
+          37.845237,
+          15.294669
+        ],
+        [
+          37.845542,
+          15.294498
+        ]
+      ]
+    }
+  },
+  {
+    "date": "13 Aug - Early afternoon",
+    "title": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+    "name": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+    "phase": "onboard",
+    "lat": 38.620746,
+    "lng": 15.059531,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "shortName": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Taormina Anchorage, Sicily, Italy",
+      "toTitle": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "distanceDirectNm": 47.8,
+      "distanceEstimatedNm": 70.4,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          37.845542,
+          15.294498
+        ],
+        [
+          37.845211,
+          15.294809
+        ],
+        [
+          37.843619,
+          15.295013
+        ],
+        [
+          37.843153,
+          15.295184
+        ],
+        [
+          37.842763,
+          15.295485
+        ],
+        [
+          37.842051,
+          15.297148
+        ],
+        [
+          37.841678,
+          15.298929
+        ],
+        [
+          37.840515,
+          15.306079
+        ],
+        [
+          37.840753,
+          15.30741
+        ],
+        [
+          37.858834,
+          15.324941
+        ],
+        [
+          37.877061,
+          15.340648
+        ],
+        [
+          37.905103,
+          15.370688
+        ],
+        [
+          38.045472,
+          15.527115
+        ],
+        [
+          38.144902,
+          15.597153
+        ],
+        [
+          38.189397,
+          15.605736
+        ],
+        [
+          38.229323,
+          15.610542
+        ],
+        [
+          38.237413,
+          15.616035
+        ],
+        [
+          38.257366,
+          15.673027
+        ],
+        [
+          38.276234,
+          15.693626
+        ],
+        [
+          38.296176,
+          15.6847
+        ],
+        [
+          38.617177,
+          15.072598
+        ],
+        [
+          38.617695,
+          15.073221
+        ],
+        [
+          38.621176,
+          15.059654
+        ],
+        [
+          38.620746,
+          15.059531
+        ]
+      ]
+    }
+  },
+  {
+    "date": "13 Aug - Early evening volcano watch",
+    "title": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+    "name": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+    "phase": "current",
+    "lat": 38.822936,
+    "lng": 15.189028,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "shortName": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "toTitle": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "distanceDirectNm": 13.6,
+      "distanceEstimatedNm": 16.3,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          38.620746,
+          15.059531
+        ],
+        [
+          38.622006,
+          15.048909
+        ],
+        [
+          38.635885,
+          15.045304
+        ],
+        [
+          38.650366,
+          15.048652
+        ],
+        [
+          38.76296,
+          15.142937
+        ],
+        [
+          38.802569,
+          15.15667
+        ],
+        [
+          38.824618,
+          15.165424
+        ],
+        [
+          38.83457,
+          15.187654
+        ],
+        [
+          38.830692,
+          15.194693
+        ],
+        [
+          38.827082,
+          15.194521
+        ],
+        [
+          38.822936,
+          15.189028
         ]
       ]
     }

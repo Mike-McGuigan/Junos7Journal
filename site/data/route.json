@@ -5659,7 +5659,7 @@
     "date": "11 Aug - 9am arrival",
     "title": "Taormina Anchorage, Sicily, Italy",
     "name": "Taormina Anchorage, Sicily, Italy",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 37.845542,
     "lng": 15.294498,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -5743,6 +5743,323 @@
         [
           37.845542,
           15.294498
+        ]
+      ]
+    }
+  },
+  {
+    "date": "13 Aug - Early afternoon",
+    "title": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+    "name": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+    "phase": "onboard",
+    "lat": 38.620746,
+    "lng": 15.059531,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "shortName": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Taormina Anchorage, Sicily, Italy",
+      "toTitle": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "distanceDirectNm": 47.8,
+      "distanceEstimatedNm": 70.4,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          37.845542,
+          15.294498
+        ],
+        [
+          37.845211,
+          15.294809
+        ],
+        [
+          37.843619,
+          15.295013
+        ],
+        [
+          37.843153,
+          15.295184
+        ],
+        [
+          37.842763,
+          15.295485
+        ],
+        [
+          37.842051,
+          15.297148
+        ],
+        [
+          37.841678,
+          15.298929
+        ],
+        [
+          37.840515,
+          15.306079
+        ],
+        [
+          37.840753,
+          15.30741
+        ],
+        [
+          37.858834,
+          15.324941
+        ],
+        [
+          37.877061,
+          15.340648
+        ],
+        [
+          37.905103,
+          15.370688
+        ],
+        [
+          38.045472,
+          15.527115
+        ],
+        [
+          38.144902,
+          15.597153
+        ],
+        [
+          38.189397,
+          15.605736
+        ],
+        [
+          38.229323,
+          15.610542
+        ],
+        [
+          38.237413,
+          15.616035
+        ],
+        [
+          38.257366,
+          15.673027
+        ],
+        [
+          38.276234,
+          15.693626
+        ],
+        [
+          38.296176,
+          15.6847
+        ],
+        [
+          38.617177,
+          15.072598
+        ],
+        [
+          38.617695,
+          15.073221
+        ],
+        [
+          38.621176,
+          15.059654
+        ],
+        [
+          38.620746,
+          15.059531
+        ]
+      ]
+    }
+  },
+  {
+    "date": "13 Aug - Early evening volcano watch",
+    "title": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+    "name": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+    "phase": "onboard",
+    "lat": 38.822936,
+    "lng": 15.189028,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "shortName": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "toTitle": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "distanceDirectNm": 13.6,
+      "distanceEstimatedNm": 16.3,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          38.620746,
+          15.059531
+        ],
+        [
+          38.622006,
+          15.048909
+        ],
+        [
+          38.635885,
+          15.045304
+        ],
+        [
+          38.650366,
+          15.048652
+        ],
+        [
+          38.76296,
+          15.142937
+        ],
+        [
+          38.802569,
+          15.15667
+        ],
+        [
+          38.824618,
+          15.165424
+        ],
+        [
+          38.83457,
+          15.187654
+        ],
+        [
+          38.830692,
+          15.194693
+        ],
+        [
+          38.827082,
+          15.194521
+        ],
+        [
+          38.822936,
+          15.189028
+        ]
+      ]
+    },
+    "status": "Underway"
+  },
+  {
+    "date": "14 Aug - Early hours arrival",
+    "title": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+    "name": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+    "phase": "current",
+    "lat": 38.441032,
+    "lng": 14.942077,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "shortName": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "toTitle": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "distanceDirectNm": 25.7,
+      "distanceEstimatedNm": 28.6,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          38.822936,
+          15.189028
+        ],
+        [
+          38.820243,
+          15.186957
+        ],
+        [
+          38.815207,
+          15.191474
+        ],
+        [
+          38.813267,
+          15.190959
+        ],
+        [
+          38.810325,
+          15.190444
+        ],
+        [
+          38.810793,
+          15.187268
+        ],
+        [
+          38.810926,
+          15.185981
+        ],
+        [
+          38.812331,
+          15.185208
+        ],
+        [
+          38.800732,
+          15.171518
+        ],
+        [
+          38.619172,
+          15.144482
+        ],
+        [
+          38.466167,
+          15.000544
+        ],
+        [
+          38.440491,
+          14.970675
+        ],
+        [
+          38.434306,
+          14.95162
+        ],
+        [
+          38.435861,
+          14.939797
+        ],
+        [
+          38.43966,
+          14.937437
+        ],
+        [
+          38.440803,
+          14.940827
+        ],
+        [
+          38.441032,
+          14.942077
         ]
       ]
     }

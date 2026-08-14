@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-13T13:19:18.807Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "13 Aug - Early afternoon",
+    "title": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+    "name": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+    "phase": "current",
+    "lat": 38.620746,
+    "lng": 15.059531,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "shortName": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-13T13:19:18.807Z",
+    "status": "At anchor",
+    "title": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+    "area": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+    "position": {
+      "lat": 38.620746,
+      "lng": 15.059531,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "shortName": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

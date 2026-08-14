@@ -1623,5 +1623,25 @@
         "location": "On board Juno’s 7"
       }
     ]
+  },
+  {
+    "id": "off-stromboli-volcano-video",
+    "type": "video",
+    "date": "2026-08-13",
+    "url": "media/videos/2026-08-13-off-stromboli-volcano.mp4",
+    "title": "Stromboli popping off",
+    "caption": "Cameron's video from off Stromboli as the volcano was active during the evening passage.",
+    "categories": [
+      "crew",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "off-stromboli-volcano-watch",
+        "title": "Stromboli Volcano Watch",
+        "date": "2026-08-13",
+        "location": "Off Stromboli, Aeolian Islands, Sicily, Italy"
+      }
+    ]
   }
 ]

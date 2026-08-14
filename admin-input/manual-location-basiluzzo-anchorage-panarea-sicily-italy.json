@@ -1,27 +1,27 @@
 {
   "schemaVersion": 5,
-  "generatedUtc": "2026-08-14T08:39:58.907Z",
+  "generatedUtc": "2026-08-13T13:19:18.807Z",
   "vesselKey": "junos7",
   "displayName": "JUNOS 7",
   "mmsi": "319303300",
   "imo": "1109712",
   "routePoint": {
-    "date": "14 Aug - Early hours arrival",
-    "title": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
-    "name": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+    "date": "13 Aug - Early afternoon",
+    "title": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+    "name": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
     "phase": "current",
-    "lat": 38.441032,
-    "lng": 14.942077,
+    "lat": 38.620746,
+    "lng": 15.059531,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
   },
   "tracker": {
-    "timestampUtc": "2026-08-14T08:39:58.907Z",
+    "timestampUtc": "2026-08-13T13:19:18.807Z",
     "status": "At anchor",
-    "title": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
-    "area": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+    "title": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+    "area": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
     "position": {
-      "lat": 38.441032,
-      "lng": 14.942077,
+      "lat": 38.620746,
+      "lng": 15.059531,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },

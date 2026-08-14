@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "release": "2.7.5",
+  "release": "2.8.0",
   "entries": [
     {
       "date": "2026-06-17",
@@ -1437,6 +1437,109 @@
       "didYouKnow": {
         "title": "Riposto beneath Europe's most active volcano",
         "body": "Riposto's Basilica di San Pietro is dedicated to St Peter, patron saint of the town and of sailors, making it a fitting landmark beside Porto dell'Etna Marina. Behind it rises Mount Etna, Europe's most active volcano and one of the world's most closely monitored. INGV bulletins for 9 August reported active vents and lava flows high on the volcano, and longer-term satellite studies have found lava being emitted for roughly a quarter of the 1970-2010 period."
+      },
+      "flavourOf": {
+        "title": "Flavour of Etna",
+        "body": "Etna gives eastern Sicily a food identity of its own: pistachios from Bronte, citrus from the volcanic slopes, honey, almonds and wines grown in mineral-rich soil around the volcano.",
+        "image": "assets/images/flavour/sicilian-etna-table.png",
+        "imageAlt": "Etna-region table with pistachios, citrus, honey, bread and wine",
+        "imageCaption": "Illustrative Etna flavour image"
+      }
+    },
+    {
+      "id": "taormina-anchorage",
+      "date": "2026-08-11",
+      "title": "Taormina Anchorage",
+      "location": "Taormina Anchorage, Sicily, Italy",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Taormina Anchorage, Sicily, Italy",
+      "body": "After leaving Porto dell'Etna Marina at Riposto, Juno's 7 made the short passage north along Sicily's east coast and arrived at Taormina Anchorage during the morning.\n\nThe stop placed the yacht below one of Sicily's most famous coastal towns, with Taormina sitting high above the Ionian Sea and the coastline around Capo Taormina nearby. The cape is also known for its rocky shoreline, small sea caves and grottoes, giving the anchorage a natural point of interest as well as the view back towards the town.",
+      "summary": "Juno's 7 made the short passage from Riposto to Taormina Anchorage, close to Capo Taormina's rocky shoreline and sea caves.",
+      "photos": [],
+      "videos": [],
+      "media": [],
+      "didYouKnow": {
+        "title": "Taormina above the Ionian Sea",
+        "body": "Taormina is famous for its ancient theatre, first built by the Greeks and later adapted by the Romans. Its position high above the Ionian Sea gives one of Sicily's classic views, with Mount Etna often visible beyond the stage and coastline."
+      },
+      "flavourOf": {
+        "title": "Flavour of Taormina",
+        "body": "Around Taormina, Sicilian cooking leans into citrus, seafood, caponata, swordfish, granita and almond sweets. It is close enough to Etna for volcanic-soil wines and pistachio desserts to feel part of the same table.",
+        "image": "assets/images/flavour/sicilian-taormina-table.png",
+        "imageAlt": "Taormina-style Sicilian table with swordfish, caponata, citrus, granita and almond sweets",
+        "imageCaption": "Illustrative Taormina flavour image"
+      }
+    },
+    {
+      "id": "basiluzzo-anchorage-v-toto-wolff",
+      "date": "2026-08-13",
+      "title": "Basiluzzo Anchorage",
+      "location": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "type": "notable-encounter",
+      "person": "Cameron",
+      "quote": "we are right next to 'V' Toto Wolffs yacht",
+      "mapStop": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "body": "After the longer run north from Taormina, Juno's 7 anchored off Panarea at Basiluzzo Anchorage in the Aeolian Islands.\n\nThe afternoon also brought a notable neighbour. Cameron spotted V nearby and messaged: \"we are right next to 'V' Toto Wolffs yacht\".",
+      "summary": "Juno's 7 anchored at Basiluzzo Anchorage off Panarea, where Cameron spotted V nearby.",
+      "photos": [],
+      "videos": [],
+      "media": [],
+      "notableEncounter": {
+        "title": "V",
+        "body": "While anchored at Basiluzzo Anchorage, Juno's 7 was lying close to V, the yacht associated with Formula One team principal Toto Wolff. Cameron spotted the neighbour and sent the update: \"we are right next to 'V' Toto Wolffs yacht\"."
+      },
+      "didYouKnow": {
+        "title": "Panarea and the Aeolian Islands",
+        "body": "Basiluzzo sits among Panarea's smaller satellite islets in the Aeolian Islands, a volcanic archipelago recognised by UNESCO for the way its islands illustrate ongoing volcanic processes. The setting feels remote, but it is part of one of the Mediterranean's most distinctive island chains."
+      }
+    },
+    {
+      "id": "off-stromboli-volcano-watch",
+      "date": "2026-08-13",
+      "title": "Stromboli Volcano Watch",
+      "location": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "type": "crew-life",
+      "person": "Cameron",
+      "quote": "Soph may get better videos as I'm off to bed but we're near Stromboli now and it's popping off",
+      "mapStop": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "body": "Later in the evening, as Juno's 7 made a slow cruise-by off Stromboli in the Aeolian Islands, Cameron sent a short video of the volcano active in the distance. His message captured the moment simply: \"Soph may get better videos as I'm off to bed but we're near Stromboli now and it's popping off.\"\n\nThe VesselFinder waypoints show Juno's 7 moving in closer to Stromboli at low speed before continuing towards Lipari, making this a passage moment rather than an anchorage.",
+      "summary": "Cameron sent a short video while Juno's 7 was off Stromboli, with the volcano active in the distance.",
+      "photos": [],
+      "videos": [
+        "off-stromboli-volcano-video"
+      ],
+      "media": [
+        "off-stromboli-volcano-video"
+      ],
+      "didYouKnow": {
+        "title": "Stromboli and the lighthouse of the Mediterranean",
+        "body": "Stromboli is one of the world's most persistently active volcanoes. Its regular bursts of activity have long been visible from the sea, earning it the nickname the lighthouse of the Mediterranean, and the word Strombolian is used for this style of volcanic eruption."
+      },
+      "category": "Crew Life"
+    },
+    {
+      "id": "lipari-anchorage",
+      "date": "2026-08-14",
+      "title": "Lipari Anchorage",
+      "location": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "summary": "Juno's 7 continued through the Aeolian Islands and arrived at Faraglioni di Lipari Anchorage after the night-time cruise-by off Stromboli.",
+      "photos": [],
+      "videos": [],
+      "body": "After the slow cruise-by off Stromboli, Juno's 7 continued on towards Lipari and arrived at Faraglioni di Lipari Anchorage in the early hours. It marked another Aeolian stop after a night shaped by volcanic islands rather than harbour towns.\n\nNearby Vulcano offered a quieter contrast: despite the name, its volcanic alert level was Green at the time, a small anti-climax after the recent glow from Etna and Stromboli.",
+      "didYouKnow": {
+        "title": "Lipari, obsidian and pumice",
+        "body": "Lipari is the largest of the Aeolian Islands and has been important since prehistoric times. Its obsidian was once traded widely across the Mediterranean, while the island later became known for pumice quarried from its pale volcanic slopes."
+      },
+      "flavourOf": {
+        "title": "Flavour of the Aeolian Islands",
+        "body": "The Aeolian table is strongly shaped by the sea and volcanic islands: capers, olives, tomatoes, fresh fish, pasta, herbs and sweet Malvasia wine all suit a chain of islands where meals often feel tied to the water.",
+        "image": "assets/images/flavour/aeolian-islands-table.png",
+        "imageAlt": "Aeolian Islands table with capers, olives, tomatoes, fish, pasta, bread and Malvasia wine",
+        "imageCaption": "Illustrative Aeolian flavour image"
       }
     }
   ],
@@ -3063,6 +3166,26 @@
           "title": "Beach Club CCTV Moments",
           "date": "Summer 2026",
           "location": "On board Juno’s 7"
+        }
+      ]
+    },
+    {
+      "id": "off-stromboli-volcano-video",
+      "type": "video",
+      "date": "2026-08-13",
+      "url": "media/videos/2026-08-13-off-stromboli-volcano.mp4",
+      "title": "Stromboli popping off",
+      "caption": "Cameron's video from off Stromboli as the volcano was active during the evening passage.",
+      "categories": [
+        "crew",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "off-stromboli-volcano-watch",
+          "title": "Stromboli Volcano Watch",
+          "date": "2026-08-13",
+          "location": "Off Stromboli, Aeolian Islands, Sicily, Italy"
         }
       ]
     }
@@ -8728,7 +8851,7 @@
       "date": "11 Aug - 9am arrival",
       "title": "Taormina Anchorage, Sicily, Italy",
       "name": "Taormina Anchorage, Sicily, Italy",
-      "phase": "current",
+      "phase": "onboard",
       "lat": 37.845542,
       "lng": 15.294498,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -8812,6 +8935,323 @@
           [
             37.845542,
             15.294498
+          ]
+        ]
+      }
+    },
+    {
+      "date": "13 Aug - Early afternoon",
+      "title": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "name": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "phase": "onboard",
+      "lat": 38.620746,
+      "lng": 15.059531,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 365331,
+        "displayName": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+        "shortName": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+        "rawDisplayName": "Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Taormina Anchorage, Sicily, Italy",
+        "toTitle": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+        "distanceDirectNm": 47.8,
+        "distanceEstimatedNm": 70.4,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            37.845542,
+            15.294498
+          ],
+          [
+            37.845211,
+            15.294809
+          ],
+          [
+            37.843619,
+            15.295013
+          ],
+          [
+            37.843153,
+            15.295184
+          ],
+          [
+            37.842763,
+            15.295485
+          ],
+          [
+            37.842051,
+            15.297148
+          ],
+          [
+            37.841678,
+            15.298929
+          ],
+          [
+            37.840515,
+            15.306079
+          ],
+          [
+            37.840753,
+            15.30741
+          ],
+          [
+            37.858834,
+            15.324941
+          ],
+          [
+            37.877061,
+            15.340648
+          ],
+          [
+            37.905103,
+            15.370688
+          ],
+          [
+            38.045472,
+            15.527115
+          ],
+          [
+            38.144902,
+            15.597153
+          ],
+          [
+            38.189397,
+            15.605736
+          ],
+          [
+            38.229323,
+            15.610542
+          ],
+          [
+            38.237413,
+            15.616035
+          ],
+          [
+            38.257366,
+            15.673027
+          ],
+          [
+            38.276234,
+            15.693626
+          ],
+          [
+            38.296176,
+            15.6847
+          ],
+          [
+            38.617177,
+            15.072598
+          ],
+          [
+            38.617695,
+            15.073221
+          ],
+          [
+            38.621176,
+            15.059654
+          ],
+          [
+            38.620746,
+            15.059531
+          ]
+        ]
+      }
+    },
+    {
+      "date": "13 Aug - Early evening volcano watch",
+      "title": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "name": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "phase": "onboard",
+      "lat": 38.822936,
+      "lng": 15.189028,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 365331,
+        "displayName": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+        "shortName": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+        "rawDisplayName": "Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+        "toTitle": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+        "distanceDirectNm": 13.6,
+        "distanceEstimatedNm": 16.3,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            38.620746,
+            15.059531
+          ],
+          [
+            38.622006,
+            15.048909
+          ],
+          [
+            38.635885,
+            15.045304
+          ],
+          [
+            38.650366,
+            15.048652
+          ],
+          [
+            38.76296,
+            15.142937
+          ],
+          [
+            38.802569,
+            15.15667
+          ],
+          [
+            38.824618,
+            15.165424
+          ],
+          [
+            38.83457,
+            15.187654
+          ],
+          [
+            38.830692,
+            15.194693
+          ],
+          [
+            38.827082,
+            15.194521
+          ],
+          [
+            38.822936,
+            15.189028
+          ]
+        ]
+      },
+      "status": "Underway"
+    },
+    {
+      "date": "14 Aug - Early hours arrival",
+      "title": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "name": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "phase": "current",
+      "lat": 38.441032,
+      "lng": 14.942077,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 365331,
+        "displayName": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+        "shortName": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+        "rawDisplayName": "Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+        "toTitle": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+        "distanceDirectNm": 25.7,
+        "distanceEstimatedNm": 28.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            38.822936,
+            15.189028
+          ],
+          [
+            38.820243,
+            15.186957
+          ],
+          [
+            38.815207,
+            15.191474
+          ],
+          [
+            38.813267,
+            15.190959
+          ],
+          [
+            38.810325,
+            15.190444
+          ],
+          [
+            38.810793,
+            15.187268
+          ],
+          [
+            38.810926,
+            15.185981
+          ],
+          [
+            38.812331,
+            15.185208
+          ],
+          [
+            38.800732,
+            15.171518
+          ],
+          [
+            38.619172,
+            15.144482
+          ],
+          [
+            38.466167,
+            15.000544
+          ],
+          [
+            38.440491,
+            14.970675
+          ],
+          [
+            38.434306,
+            14.95162
+          ],
+          [
+            38.435861,
+            14.939797
+          ],
+          [
+            38.43966,
+            14.937437
+          ],
+          [
+            38.440803,
+            14.940827
+          ],
+          [
+            38.441032,
+            14.942077
           ]
         ]
       }

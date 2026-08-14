@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-13T20:50:11.956Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "13 Aug - Early evening volcano watch",
+    "title": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+    "name": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+    "phase": "onboard",
+    "lat": 38.822936,
+    "lng": 15.189028,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "shortName": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "status": "Underway"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-13T20:50:11.956Z",
+    "status": "Underway",
+    "title": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+    "area": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+    "position": {
+      "lat": 38.822936,
+      "lng": 15.189028,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "shortName": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

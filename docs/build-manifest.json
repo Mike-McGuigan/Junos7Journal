@@ -1,8 +1,8 @@
 {
-  "version": "2.7.5",
+  "version": "2.8.0",
   "release": "Sicily and editorial refinements",
-  "buildUtc": "2026-08-11 16:45:11 UTC",
-  "fileCount": 178,
+  "buildUtc": "2026-08-14 11:30:55 UTC",
+  "fileCount": 183,
   "files": [
     {
       "path": ".gitkeep",
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 217,
-      "sha256": "3c44dc3b3d7a015811a7c3c3c718fa81931accf4825c714b022ba60c9659ca98"
+      "sha256": "b80ff4ce0990782963b855a934a0e532439deed59357c92eb3e8f0e68451e7f8"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 32395,
-      "sha256": "55495f5be34be375943460be1faa77cf38d7915f65339d697b42f7af66aacc4e"
+      "sizeBytes": 33740,
+      "sha256": "04e3cba3bc90908d24a3dff751c5d23208b32d6e075fc8de92bcabaa754a3e0e"
     },
     {
       "path": "crew.html",
@@ -50,9 +50,14 @@
       "sha256": "554597426e9a4721b46d208c128bcc97cbff0e23f0d55a1b4223df46e26a6ffe"
     },
     {
+      "path": "drink.html",
+      "sizeBytes": 15791,
+      "sha256": "6562e212411fdd53f3435e594c4905ad4ecd2aa3e677057d90869ae03aaa63aa"
+    },
+    {
       "path": "index.html",
-      "sizeBytes": 7332,
-      "sha256": "191a9fcde093fe8b23fdf6269f4a536620fe955aa44b8fde1466f1005b725934"
+      "sizeBytes": 8268,
+      "sha256": "27bf72ba59554e75f19d9c92f43345399b90a9254296a8a687b81132ccf327c1"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -131,8 +136,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2914,
-      "sha256": "f87005d5909c52810f6039bfc5cbcfea639fa6dadfc2bae4438b5354ec48a472"
+      "sizeBytes": 3034,
+      "sha256": "6f919702abafef5e049d44bc441e8e723dd31208bff345c06470434ab9d0cd9c"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -161,13 +166,13 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 2992,
-      "sha256": "f06ca8808242dd84d5eb4ce5d28b6f9ccecdfa5ee41b26db50c13e1a136599e5"
+      "sizeBytes": 2986,
+      "sha256": "aba6a790882d5e8337cf69057c928d3bbecb3aba98502e6eeb0817d19b8b29a3"
     },
     {
       "path": "data/discoveries.json",
       "sizeBytes": 15935,
-      "sha256": "b1afe62a1146ba9a22da3f9f8cdae5f0e19e2be934ebbf503dc6e83e0b3e46cd"
+      "sha256": "0641ea4b55f888e887db82e06872f0862466c8730f7a1104cf702dae80677a4d"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -176,8 +181,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 278572,
-      "sha256": "851a4a387bc364681b23923333aa3eabb813c27577c044efea61e023bb1de0fe"
+      "sizeBytes": 294667,
+      "sha256": "4221aa612d64d112d63565461610d16e6f259678ca81162be005e203f3a35a7e"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -201,8 +206,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 50327,
-      "sha256": "8a7d03544232aefb94a7d88c49cf588ae31b53abb96d1cd248dcf269497a768b"
+      "sizeBytes": 50942,
+      "sha256": "143e655198e7f468af0f6d42ef210256ff1943aebba3d7d50e79ec5eb4e459a6"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -211,8 +216,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 136808,
-      "sha256": "5ac8e2e2ee9fcf2149b141b60819e491dacd14743a0fa4c2a9dda566d1120209"
+      "sizeBytes": 144143,
+      "sha256": "c250c058315d35b3174d8c2b615b802211e0b15b3d29bb50e9d5b454fea24f19"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -251,8 +256,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 134650,
-      "sha256": "e9408474df53ebc0bb5955c5546aaa060b85d41742347775c552fc0ee7bea834"
+      "sizeBytes": 141668,
+      "sha256": "e0ff48332e9cc56e5085c437bd5f9fa06c70e276b859f07d84834f24ffac9795"
     },
     {
       "path": "data/site.json",
@@ -267,7 +272,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 217,
-      "sha256": "3c44dc3b3d7a015811a7c3c3c718fa81931accf4825c714b022ba60c9659ca98"
+      "sha256": "b80ff4ce0990782963b855a934a0e532439deed59357c92eb3e8f0e68451e7f8"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -312,7 +317,7 @@
     {
       "path": "data/version.json.bak-geo-1",
       "sizeBytes": 217,
-      "sha256": "f91b70f970df9eefb27131181aec656c9fc72c51e7d494ac05dfe0f8f7ec4d09"
+      "sha256": "f095cb2d8e98d3d4950c68927ec295c1d9a7e4c4e3446b805a5939f6615c6b1d"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -670,6 +675,11 @@
       "sha256": "8f9e6693561a11e296bdca3b707818e0a698fd0cbe4cec38b53798563af30607"
     },
     {
+      "path": "media/videos/2026-08-13-off-stromboli-volcano.mp4",
+      "sizeBytes": 1940938,
+      "sha256": "b518090ef7e731e017480c45d90d87808fe084d3facb7f28b598eb0279226f3a"
+    },
+    {
       "path": "media/videos/summer-2026-cave-excursion.mp4",
       "sizeBytes": 3392806,
       "sha256": "5137e0bb5dc04c4a29afaa3f5ebc5b2cb0f51792cfddeb7d9682b522b1bb20cc"
@@ -796,8 +806,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 25865,
-      "sha256": "fbb54f5e36be5c955562d3c4eacc354431a11ee3ca9d53fc8f41593a7061a40f"
+      "sizeBytes": 28854,
+      "sha256": "ac8a4ef0d160747b302b05044133f121035a97bd90a743ce25cbabdba625e158"
     },
     {
       "path": "assets/css/version.css",
@@ -875,6 +885,11 @@
       "sha256": "5e3d1db9a351972a4a4a115839eec0675ca6ac8642c087f9aa14c23ec40464ce"
     },
     {
+      "path": "assets/images/flavour/aeolian-islands-table.png",
+      "sizeBytes": 2676412,
+      "sha256": "08ca867465fee2b96ff0318f05a1501c2906befc4459df8630618511a1c2c1a1"
+    },
+    {
       "path": "assets/images/flavour/calabrian-table.png",
       "sizeBytes": 2761997,
       "sha256": "31c75698909718035b44b0daa7097cbafb36c99fb2f4ade6aabc3312e10f5ae5"
@@ -893,6 +908,16 @@
       "path": "assets/images/flavour/maltese-table.png",
       "sizeBytes": 2835514,
       "sha256": "802f0f02e96b98062a415365572087747717f62bec14a2150674f353026441ce"
+    },
+    {
+      "path": "assets/images/flavour/sicilian-etna-table.png",
+      "sizeBytes": 2468719,
+      "sha256": "73d179330c77978fcf8904cbb88f0ce81e22f1b5cc8e12053e64fe7261a21696"
+    },
+    {
+      "path": "assets/images/flavour/sicilian-taormina-table.png",
+      "sizeBytes": 2869872,
+      "sha256": "96fb6b93dfe2f7558126b270f9140a050ae8e547b72acf7b57ef340f2d6ec181"
     }
   ]
 }

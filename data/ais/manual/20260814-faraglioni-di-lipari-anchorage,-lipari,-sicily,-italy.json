@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-14T08:39:58.907Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "14 Aug - Early hours arrival",
+    "title": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+    "name": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+    "phase": "current",
+    "lat": 38.441032,
+    "lng": 14.942077,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "shortName": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-14T08:39:58.907Z",
+    "status": "At anchor",
+    "title": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+    "area": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+    "position": {
+      "lat": 38.441032,
+      "lng": 14.942077,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "shortName": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

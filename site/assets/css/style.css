@@ -1,4 +1,4 @@
-:root{
+﻿:root{
   --navy:#061928;--navy-2:#0b2638;--sea:#0f6f91;--sea-light:#9ed4ff;
   --gold:#c9a45c;--gold-light:#f0d594;--ivory:#f6efe2;--paper:#fffaf0;
   --ink:#132333;--muted:#6d7b86;--orange:#ff8a2a;--white:#fff;
@@ -29,7 +29,7 @@
 @media(max-width:900px){.chapter-grid,.timeline .chapter:nth-child(even) .chapter-grid{grid-template-columns:1fr}.timeline .chapter:nth-child(even) .chapter-media{order:0}.chapter-media{min-height:0}.chapter-media.multi{grid-template-columns:1fr 1fr}.section-header{display:block}.hero{min-height:86vh}.version-badge{display:none}}
 @media(max-width:620px){.journal-toolbar{align-items:flex-start}.journal-order{width:100%;display:grid;grid-template-columns:1fr 1fr}.journal-order button{padding:.62rem .45rem;font-size:.76rem}.section{padding:4rem 1rem}.hero{padding:4rem 1rem}.hero h1{font-size:clamp(3.5rem,20vw,6rem)}.nav{gap:.45rem}.nav a{padding:.66rem .82rem;font-size:.84rem}.chapter-copy{padding:1.45rem 1.25rem}.chapter-media.multi{grid-template-columns:1fr}.chapter-media.multi figure:first-child:nth-last-child(3){grid-row:auto}.chapter-media.multi img,.chapter-media.multi video{min-height:0;max-height:none}.gallery-card img,.gallery-card video{height:210px}#voyageMap{min-height:440px!important;height:62vh!important}.map-stop{min-width:175px}.voyage-playback{grid-template-columns:1fr 1fr}.voyage-playback label:first-of-type{grid-column:1/-1}.voyage-playback #playbackLabel{grid-column:1/-1}.rich-sections{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
-/* Contextual Discovery · v2.3.0 */
+/* Contextual Discovery Â· v2.3.0 */
 .rich-card.discovery{grid-column:1/-1;background:linear-gradient(135deg,#071f31,#0d3349);border-color:rgba(240,213,148,.34);color:var(--ivory);box-shadow:0 12px 32px rgba(6,25,40,.14)}
 .rich-card.discovery .rich-label{color:var(--gold-light)}.rich-card.discovery h4{font-size:1.35rem;color:var(--ivory)}.rich-card.discovery p{color:rgba(246,239,226,.86);font-size:.96rem}.discovery-meta{display:flex;gap:.65rem 1rem;flex-wrap:wrap;align-items:center;margin-top:.85rem;padding-top:.75rem;border-top:1px solid rgba(240,213,148,.2);font-size:.78rem;color:var(--gold-light)}.discovery-source{color:var(--gold-light);font-weight:700}.discovery-source:hover{color:#fff}
 .discovery-metric{grid-column:1/-1;background:linear-gradient(135deg,#0a263a,#0d3349)!important;border-color:rgba(240,213,148,.34)!important;color:var(--ivory)}.discovery-metric .value{font-size:clamp(1.45rem,3vw,2rem)}.discovery-metric .sub{max-width:80ch;color:rgba(246,239,226,.82)!important;line-height:1.6}.discovery-metric .discovery-meta a{color:var(--gold-light)}
@@ -61,3 +61,38 @@
 .entry-map-link{display:inline-flex;align-items:center;gap:.4rem;margin-top:1rem;padding:.65rem .9rem;border:1px solid rgba(15,111,145,.28);border-radius:999px;background:#eef8fb;color:#075b78;font-weight:750;text-decoration:none}.entry-map-link:hover{background:#dff2f8;transform:translateY(-1px)}
 .search-section{background:linear-gradient(180deg,#f4efe5 0%,#fff 100%)}.voyage-search{max-width:980px;margin:0 auto}.search-label{display:block;font-weight:800;margin-bottom:.55rem}.search-input-wrap{display:flex;align-items:center;gap:.75rem;padding:.8rem 1rem;background:#fff;border:1px solid rgba(6,25,40,.18);border-radius:16px;box-shadow:0 12px 30px rgba(6,25,40,.08)}.search-input-wrap span{font-size:1.7rem}.search-input-wrap input{flex:1;border:0;outline:0;font:inherit;font-size:1.08rem;background:transparent;min-width:0}.search-input-wrap button{border:0;background:#e8edf0;border-radius:999px;padding:.45rem .75rem;font-weight:700;cursor:pointer}.search-summary{min-height:1.5rem;color:#52616b;margin:.7rem 0 1rem}.search-results{display:grid;gap:1rem}.search-result-group{background:#fff;border:1px solid rgba(6,25,40,.1);border-radius:18px;padding:1rem 1.1rem;box-shadow:0 10px 24px rgba(6,25,40,.05)}.search-result-group h3{display:flex;justify-content:space-between;align-items:center;margin:0 0 .6rem;font-size:1rem;color:#31505f}.search-result-group h3 span{background:#e8f3f7;border-radius:999px;padding:.15rem .55rem}.search-result-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:.55rem}.search-result-list a{display:flex;flex-direction:column;gap:.18rem;padding:.72rem .8rem;border-radius:12px;text-decoration:none;color:#0a2a3a;background:#f7fafb}.search-result-list a:hover{background:#eaf5f8}.search-result-list small{color:#667780}.popup-journal-links{display:grid;gap:.35rem;margin-top:.7rem;padding-top:.65rem;border-top:1px solid rgba(0,0,0,.12)}.popup-journal-links a,.journal-link-card a{font-weight:750;color:#075b78;text-decoration:none}.journal-link-card .sub{line-height:1.8}
 @media(max-width:640px){.search-result-list{grid-template-columns:1fr}.search-input-wrap{border-radius:12px}.entry-map-link{width:100%;justify-content:center}}
+
+.drink-teaser-grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(280px,.75fr);gap:1.2rem;align-items:center}.drink-teaser-panel{background:var(--paper);border:1px solid rgba(6,25,40,.08);border-left:6px solid var(--gold);border-radius:12px;padding:1.35rem;box-shadow:0 12px 35px rgba(6,25,40,.08)}.drink-teaser-panel p{margin:.2rem 0 1rem;color:#3e5362;line-height:1.65}.drink-button{display:inline-block;background:var(--navy);color:var(--ivory)}.drink-hero{background:linear-gradient(120deg,rgba(6,25,40,.97),rgba(6,25,40,.76)),radial-gradient(circle at 72% 18%,#7f4d2b 0,#0f6f91 36%,#061928 66%)}.drink-route-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:1rem;margin-top:2rem}.drink-card{background:var(--paper);color:var(--ink);border:1px solid rgba(6,25,40,.09);border-top:5px solid var(--gold);border-radius:12px;padding:1.25rem;box-shadow:0 12px 35px rgba(6,25,40,.08)}.drink-card-top{display:flex;justify-content:space-between;gap:.8rem;align-items:center;margin-bottom:.7rem;color:#9b7224;text-transform:uppercase;letter-spacing:.11em;font-size:.68rem;font-weight:900}.drink-card h3{font-family:var(--serif);font-size:1.55rem;line-height:1.16;margin:.25rem 0 .65rem}.drink-card p,.drink-card li{color:#3e5362;line-height:1.62}.drink-card ul{padding-left:1.1rem;margin:.75rem 0}.drink-links{display:flex;flex-wrap:wrap;gap:.55rem;margin-top:1rem}.drink-links a{display:inline-flex;align-items:center;border:1px solid rgba(15,111,145,.28);border-radius:999px;padding:.45rem .65rem;text-decoration:none;color:#075b78;background:#eef8fb;font-size:.78rem;font-weight:800}.drink-links a:hover{background:var(--gold);color:var(--navy);border-color:var(--gold)}.beer-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-top:2rem}.shopping-list{background:rgba(255,255,255,.1);border:1px solid rgba(201,164,92,.45);border-left:6px solid var(--gold);border-radius:12px;padding:1.2rem 1.4rem;margin:1.5rem 0}.shopping-list ol{margin:0;padding-left:1.25rem}.shopping-list li{margin:.55rem 0;line-height:1.6;color:rgba(246,239,226,.9)}.drink-note h3{font-family:var(--serif);font-size:1.35rem;margin:.15rem 0 .4rem;color:var(--ink)}.drink-note p{color:#3e5362;line-height:1.6}@media(max-width:760px){.drink-teaser-grid{grid-template-columns:1fr}.drink-route-grid{grid-template-columns:1fr}}
+.drink-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.drink-filters button {
+  border: 1px solid rgba(198, 154, 73, 0.55);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  color: var(--ink);
+  cursor: pointer;
+  font-weight: 800;
+  padding: 0.65rem 1rem;
+}
+
+.drink-filters button:hover,
+.drink-filters button:focus-visible,
+.drink-filters button.is-active {
+  background: var(--gold);
+  color: var(--navy);
+}
+
+.drink-filter-summary {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0 0 1.25rem;
+}
+
+.drink-card[hidden] {
+  display: none;
+}

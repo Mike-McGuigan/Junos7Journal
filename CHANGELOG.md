@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.8.0 - Drink the Voyage
+
+- Added the Drink the Voyage page with wine, beer and shopping-list ideas inspired by the route.
+- Added homepage navigation and a journal teaser linking to the new drink guide.
+- Added route-specific drink cards and separate same-style alternatives for Greece, Croatia, Malta, Sicily, Etna and the Aeolian Islands.
+- Added filter controls for all drink suggestions, actually-from-the-route options and same-style substitutes.
+- Added UK-friendly shopping examples for practical same-style wine choices.
+- Added latest Aeolian route, journal and media refinements, including Stromboli, Panarea and Lipari updates.
+- Added Sicilian and Aeolian flavour imagery and rebuilt generated site data.
+- Updated version and build metadata to `2.8.0`.
 ## 2.7.5 - Sicily and Editorial Refinements
 
 - Added Sicily route and journal updates for Capo Passero, Syracuse and Riposto.
@@ -41,18 +51,18 @@
 - Labelled generated food assets as illustrative so they remain distinct from Cameron and Sophie's own media.
 - Updated version and build metadata to `2.7.2`.
 
-## 2.7.1 — Crotone Arrival and Dashboard Save Flow
+## 2.7.1 - Crotone Arrival and Dashboard Save Flow
 
 - Added the 26 July arrival at **Crotone Old Harbour, Calabria, Italy**.
 - Added Crotone contextual discovery for ancient Kroton, Pythagoras and Capo Colonna.
 - Added **Flavour of Calabria** to the Crotone journal entry.
-- Confirmed Italy is counted in **Countries visited** now that Juno’s 7 has made a confirmed Italian stop.
+- Confirmed Italy is counted in **Countries visited** now that Juno's 7 has made a confirmed Italian stop.
 - Renamed the Captain's Dashboard new-position action from **Publish** to **Save Route Update**.
 - Changed the dashboard save flow so it saves and rebuilds locally without committing or pushing automatically.
 - Refreshes the dashboard tab after successful local route-update saves.
 - Updated version and build metadata to `2.7.1`.
 
-## 2.7.0 — Voyage Playback and Map Usability
+## 2.7.0 - Voyage Playback and Map Usability
 
 - Added distance-spaced directional arrows along the rendered voyage route geometry.
 - Centred the directional route arrows on the plotted line.
@@ -68,7 +78,7 @@
 - Preserved the v2.6.3 route-points/passages statistics separation.
 - Updated version and build metadata to `2.7.0`.
 
-## 2.6.3 — Passage Statistics Refinement
+## 2.6.3 - Passage Statistics Refinement
 
 - Changed longest and average passage calculations so underway/AIS transit markers no longer split continuous passages.
 - Kept all route nodes visible on the voyage map while calculating passage statistics between real stops and anchorages.
@@ -77,14 +87,14 @@
 - Renamed **Route stops** to **Route points** to reflect that the map includes underway markers and other plotted positions.
 - Updated version and build metadata to `2.6.3`.
 
-## 2.6.2 — Cave Location Refinement
+## 2.6.2 - Cave Location Refinement
 
 - Updated the recovered cave excursion from a generic Croatian Adriatic location to **Likely Blue Cave, Biševo, Croatia**.
 - Preserved the entry as an undated season highlight because Cameron and Sophie have not directly confirmed the exact cave or date.
 - Added the 13 July Vis-to-Komiža route loop towards Biševo as supporting context without creating a false yacht stop.
 - Updated version and build metadata to `2.6.2`.
 
-## 2.6.1 — Maintenance & Editorial Consistency
+## 2.6.1 - Maintenance & Editorial Consistency
 
 - Fixed the recurring version downgrade by removing hard-coded `2.2.0` values from the manual-location publishing tools.
 - Set the authoritative root `VERSION` source to `2.6.1` and aligned generated version metadata through the normal build.
@@ -98,33 +108,33 @@
 - Added the 24 July Zadar Anchorage guest-transfer entry.
 - Completed the Lapatica Bay / Kablin Bay naming consistency fixes across journal, route and geometry data.
 
-## 2.6.0 — Navigation & Discovery
+## 2.6.0 - Navigation & Discovery
 
 - Added grouped unified search across journal entries, route locations, gallery captions, discoveries, Did You Know, Flavour and notable encounters.
 - Added reusable-tab Journal → Map navigation and Map → Journal links.
-- Added the 20 July Antiquus Sushi & More evening and Toni’s dockside accident in Zadar.
+- Added the 20 July Antiquus Sushi & More evening and Toni's dockside accident in Zadar.
 - Kept the accident entry factual and left the injured arm unspecified.
 
 
-## v2.5.4 — Authentic Yacht Wordmark
+## v2.5.4 - Authentic Yacht Wordmark
 
-- Added `docs/assets/icons/junos7-wordmark.svg`, an outlined vector wordmark inspired by the yacht’s real hull lettering.
+- Added `docs/assets/icons/junos7-wordmark.svg`, an outlined vector wordmark inspired by the yacht's real hull lettering.
 - Updated the homepage hero to use the SVG wordmark while preserving accessible alternative text.
 - Added responsive wordmark sizing and presentation styling.
 - Added a complete release-specific Git workflow to `RELEASE_2_5_4.md`.
 
-## 2.4.1 — Gallery Classification Fix
+## 2.4.1 - Gallery Classification Fix
 
 - Makes gallery categories part of the canonical media index so later publishes preserve them.
 - Corrects category assignments for the Cavtat passage, Black Pearl and Smokvica media.
 - Removes the unsupported claim that SETE is visible in the Cavtat passage photograph.
-- Standardises current journal, route and dashboard wording from “under way” to “underway”.
+- Standardises current journal, route and dashboard wording from "under way" to "underway".
 - Rebuilds and validates the generated site as version 2.4.1.
 
 ## 2.3.1 - Contextual Discovery Polish
 
 - Separated the on-page hero mark from the square app/favicon icon.
-- Made the hero Juno’s 7 artwork transparent so the live header gradient shows through without a mismatched tile.
+- Made the hero Juno's 7 artwork transparent so the live header gradient shows through without a mismatched tile.
 - Increased the hero mark substantially and tightened the artwork inside its canvas for stronger visual presence.
 - Retained the approved rounded-square logo for browser and installed-app icons.
 
@@ -140,19 +150,19 @@
 ## 2.2.2 - Journal Experience Polish
 
 - Identified Kos immediately in the opening chapter and changed its displayed location to Kos, Greece.
-- Rebuilt the supplied Juno’s 7 logo with the exact site navy and removed white corner/rim artefacts.
+- Rebuilt the supplied Juno's 7 logo with the exact site navy and removed white corner/rim artefacts.
 - Removed gallery-card ivory gaps and corner slivers by using a complete navy card surface.
 - Increased gallery title contrast and strengthened description weight and readability.
 - Restored the lightweight changed-files patch workflow for point releases.
 
 ## 2.2.1 - Journal Experience Patch
 
-- Replaced the incorrect mark with the approved Juno’s 7 yacht logo supplied by Mike, including the ivory monogram, gold bow accent and wake.
+- Replaced the incorrect mark with the approved Juno's 7 yacht logo supplied by Mike, including the ivory monogram, gold bow accent and wake.
 - Added a remembered Oldest → Newest / Newest → Oldest journal-order toggle.
 - Kept the latest chapter featured at the top and retained it in the full journal with a Latest badge.
-- Honoured explicit entry media order, placing the rainy video before the clearer-weather photograph in “Much Nicer”.
+- Honoured explicit entry media order, placing the rainy video before the clearer-weather photograph in "Much Nicer".
 - Added the 13 July roundabout passage towards Biševo and back to Komiža.
-- Added Cameron and Sophie’s two dolphin-at-the-bow videos, including the owner’s child’s delighted reaction.
+- Added Cameron and Sophie's two dolphin-at-the-bow videos, including the owner's child's delighted reaction.
 - Updated route, dashboard, journal, media and build metadata to v2.2.1.
 
 ## 2.2.0 - Journal Experience
@@ -161,7 +171,7 @@
 - Added structured Crew Moment, Did You Know?, Flavour and Notable Encounter sections.
 - Added uncropped story media, cropped gallery browsing and a full-screen media viewer.
 - Added non-destructive enhanced-media support and selected enhanced working copies.
-- Added Juno’s 7 favicon branding and responsive polish across the site.
+- Added Juno's 7 favicon branding and responsive polish across the site.
 - Enabled mouse-wheel map zoom and improved voyage-map exploration.
 - Standardised Underway / Moored / At anchor terminology and date labels.
 - Preserved and aligned the supplied route and manual voyage geometry through Vis.
@@ -183,7 +193,7 @@
 - Synchronises the embedded journal media catalogue with the canonical media index during every site build.
 - Restores the Komiža dawn and Smokvica storm photographs in the journal and gallery.
 
-## 2.5.0 — Connected Storytelling
+## 2.5.0 - Connected Storytelling
 - Audited all 42 gallery records and clarified the Crew Life taxonomy.
 - Added visible category badges and links from gallery media back to related journal chapters.
 - Labelled chapter media and persisted media-to-entry relationships in canonical data.

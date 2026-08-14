@@ -1,7 +1,7 @@
 {
   "version": "2.8.0",
   "release": "Drink the Voyage",
-  "buildUtc": "2026-08-14 12:47:28 UTC",
+  "buildUtc": "2026-08-14 13:33:28 UTC",
   "fileCount": 183,
   "files": [
     {
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 201,
-      "sha256": "b0f497dfcdd93d6784a84ea4fa486b449cc9be89e51e7c812c5363ff023d1943"
+      "sha256": "4f9af77f2bbd76ec68409a0c69b6cb658b0c0246cfd80df13a17108ee7bac356"
     },
     {
       "path": "build-manifest.json",
       "sizeBytes": 33718,
-      "sha256": "7330d0efe5115643bad68800a425b6e28db48ce4145e8f4b19327a5e0084309a"
+      "sha256": "ab9d54c541c2e59baed7500efc555514740965c428b7b395505b0a1badd5dcb4"
     },
     {
       "path": "crew.html",
@@ -51,8 +51,8 @@
     },
     {
       "path": "drink.html",
-      "sizeBytes": 15965,
-      "sha256": "9564d52255bbb5e694eee74fda11dccb364bffff3cda8c28c9e98be3b576f6a4"
+      "sizeBytes": 18706,
+      "sha256": "fe7ebdccca51884dfc2019c87d39e2fc1088993b98c457b610d29f8ca1c65e6d"
     },
     {
       "path": "index.html",
@@ -172,7 +172,7 @@
     {
       "path": "data/discoveries.json",
       "sizeBytes": 15935,
-      "sha256": "8f33f2894687476153639aa479431643f7eeaa38aba1bfa07184b139f51c8d77"
+      "sha256": "760d665438db75e2c865ab55acbd91347eab086b538c5d1ea9d574030856b93b"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -272,7 +272,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 201,
-      "sha256": "b0f497dfcdd93d6784a84ea4fa486b449cc9be89e51e7c812c5363ff023d1943"
+      "sha256": "4f9af77f2bbd76ec68409a0c69b6cb658b0c0246cfd80df13a17108ee7bac356"
     },
     {
       "path": "data/version.json.bak-1-0-1",

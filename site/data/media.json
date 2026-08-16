@@ -1643,5 +1643,107 @@
         "location": "Off Stromboli, Aeolian Islands, Sicily, Italy"
       }
     ]
+  },
+  {
+    "id": "lipari-sunglasses-watch",
+    "type": "video",
+    "date": "2026-08-14",
+    "url": "media/videos/2026-08-14-lipari-sunglasses-watch.mp4",
+    "title": "Sunglasses watch",
+    "caption": "Sophie's evening video of Cameron making sure another pair of sunglasses stayed safe at Lipari.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "lipari-sunglasses-watch",
+        "title": "Sunglasses Watch",
+        "date": "2026-08-14",
+        "location": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "menorca-sunrise",
+    "type": "video",
+    "date": "2026-08-16",
+    "url": "media/videos/2026-08-16-menorca-sunrise.mp4",
+    "title": "Sunrise to Menorca",
+    "caption": "Cam captured a beautiful sunrise on the passage to Menorca, with SETE in tow and a calm sea below the orange sky.",
+    "categories": [
+      "junos7",
+      "scenic",
+      "weather"
+    ],
+    "journalEntries": [
+      {
+        "id": "sunrise-to-menorca",
+        "title": "Sunrise to Menorca",
+        "date": "2026-08-16",
+        "location": "Passage to Menorca"
+      }
+    ]
+  },
+  {
+    "id": "sophie-comino-gozo-compilation",
+    "type": "video",
+    "date": "2026-08-15",
+    "url": "media/videos/2026-08-15-sophie-comino-gozo-compilation.mp4",
+    "title": "Comino and Gozo compilation",
+    "caption": "Sophie’s short TikTok compilation from around Comino and Gozo, showing the sea, rocky shoreline and a sunset over the water.",
+    "categories": [
+      "crew",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "comino-gozo-compilation",
+        "title": "Comino and Gozo Compilation",
+        "date": "2026-08-15",
+        "location": "Comino and Gozo, Malta"
+      }
+    ]
+  },
+  {
+    "id": "cam-syracuse-compilation",
+    "type": "video",
+    "date": "2026-08-04",
+    "url": "media/videos/2026-08-04-cam-syracuse-compilation.mp4",
+    "title": "Syracuse compilation",
+    "caption": "Cam's TikTok compilation from Syracuse, showing the old city streets, a drink by the waterfront and the harbour in the evening.",
+    "categories": [
+      "crew",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "syracuse-dinner-and-drinks",
+        "title": "Dinner and Drinks in Syracuse",
+        "date": "2026-08-04",
+        "location": "Porto Grande, Syracuse, Sicily, Italy"
+      }
+    ]
+  },
+  {
+    "id": "cam-malta-sicily-dolphins",
+    "type": "video",
+    "date": "2026-08-08",
+    "url": "media/videos/2026-08-08-cam-malta-sicily-dolphins.mp4",
+    "title": "Passage to Sicily dolphins",
+    "caption": "Cam's TikTok from the Malta to Sicily passage, with dolphins surfacing beside the boat over bright blue water.",
+    "categories": [
+      "crew",
+      "scenic",
+      "wildlife"
+    ],
+    "journalEntries": [
+      {
+        "id": "passage-to-sicily-dolphins",
+        "title": "Dolphins on the Passage to Sicily",
+        "date": "2026-08-08",
+        "location": "Passage to Sicily"
+      }
+    ]
   }
 ]

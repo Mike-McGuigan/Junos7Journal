@@ -1643,5 +1643,25 @@
         "location": "Off Stromboli, Aeolian Islands, Sicily, Italy"
       }
     ]
+  },
+  {
+    "id": "lipari-sunglasses-watch",
+    "type": "video",
+    "date": "2026-08-14",
+    "url": "media/videos/2026-08-14-lipari-sunglasses-watch.mp4",
+    "title": "Sunglasses watch",
+    "caption": "Sophie's evening video of Cameron making sure another pair of sunglasses stayed safe at Lipari.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "lipari-sunglasses-watch",
+        "title": "Sunglasses Watch",
+        "date": "2026-08-14",
+        "location": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy"
+      }
+    ]
   }
 ]

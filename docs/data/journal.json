@@ -1240,7 +1240,8 @@
       "type": "anchorage",
       "media": [
         "comino-anchorage-evening",
-        "comino-anchorage-video"
+        "comino-anchorage-video",
+        "sophie-comino-gozo-compilation"
       ],
       "body": "With the owners back on board and four guests joining them for a few days, Juno’s 7 left Grand Harbour and anchored off Comino. While the yacht remained at anchor, SETE took the guests across to the Blue Lagoon for an excursion. Later, Sophie shared the evening view across the anchorage, with Comino’s limestone cliffs and cave openings catching the last warm light.",
       "id": "comino-anchorage-blue-lagoon",
@@ -1254,7 +1255,8 @@
         "comino-anchorage-evening"
       ],
       "videos": [
-        "comino-anchorage-video"
+        "comino-anchorage-video",
+        "sophie-comino-gozo-compilation"
       ],
       "heroMedia": "comino-anchorage-evening"
     },
@@ -1348,11 +1350,14 @@
         "syracuse-dinner-with-sophie",
         "syracuse-seafood-pasta"
       ],
-      "videos": [],
+      "videos": [
+        "cam-syracuse-compilation"
+      ],
       "media": [
         "syracuse-dinner-gnocchi",
         "syracuse-dinner-with-sophie",
-        "syracuse-seafood-pasta"
+        "syracuse-seafood-pasta",
+        "cam-syracuse-compilation"
       ],
       "heroMedia": "syracuse-seafood-pasta"
     },
@@ -1392,6 +1397,26 @@
         "passage-to-syracuse-choppy-2"
       ],
       "heroMedia": "passage-to-syracuse-choppy-1"
+    },
+    {
+      "id": "passage-to-sicily-dolphins",
+      "date": "2026-08-08",
+      "title": "Dolphins on the Passage to Sicily",
+      "location": "Passage to Sicily",
+      "type": "underway",
+      "person": "Cam",
+      "quote": "",
+      "mapStop": "Passage to Sicily",
+      "body": "Cam captured a short TikTok from the Malta to Sicily passage, with dolphins breaking the surface beside the boat over bright blue water. It fits neatly with the long underway leg from Gozo toward Sicily and gives the passage a more vivid moving-memory version than a still photo could.",
+      "summary": "A dolphin-filled TikTok from the Malta to Sicily passage.",
+      "photos": [],
+      "videos": [
+        "cam-malta-sicily-dolphins"
+      ],
+      "media": [
+        "cam-malta-sicily-dolphins"
+      ],
+      "heroMedia": "cam-malta-sicily-dolphins"
     },
     {
       "id": "return-to-syracuse-anchorage",
@@ -1540,6 +1565,49 @@
         "image": "assets/images/flavour/aeolian-islands-table.png",
         "imageAlt": "Aeolian Islands table with capers, olives, tomatoes, fish, pasta, bread and Malvasia wine",
         "imageCaption": "Illustrative Aeolian flavour image"
+      }
+    },
+    {
+      "id": "lipari-sunglasses-watch",
+      "date": "2026-08-14",
+      "title": "Sunglasses Watch",
+      "location": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "type": "crew-life",
+      "person": "Sophie",
+      "quote": "Cam ensuring that a third pair of sunglasses was not lost 🫠",
+      "mapStop": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "body": "During the evening at Faraglioni di Lipari Anchorage, Sophie sent a short video of Cameron taking no chances with another pair of sunglasses. Her message summed it up neatly: \"Cam ensuring that a third pair of sunglasses was not lost 🫠.\"\n\nIt is a small moment, but exactly the sort of detail that captures the rhythm of life on board: practical, slightly ridiculous, and very human.",
+      "summary": "Sophie captured Cameron making sure another pair of sunglasses stayed safe during the evening at Lipari.",
+      "photos": [],
+      "videos": [
+        "lipari-sunglasses-watch"
+      ],
+      "media": [
+        "lipari-sunglasses-watch"
+      ],
+      "category": "Crew Life"
+    },
+    {
+      "id": "sunrise-to-menorca",
+      "date": "2026-08-16",
+      "title": "Sunrise to Menorca",
+      "location": "Passage to Menorca",
+      "type": "at-sea",
+      "person": "Cameron",
+      "quote": "Beautiful sunrise on the passage to Menorca.",
+      "body": "Cam captured a beautiful sunrise on the passage to Menorca, with SETE in tow. The sea was calm and glassy, and the boat's wake cuts through the foreground as the orange sun lifts over a pale horizon.",
+      "summary": "A calm sunrise on the passage to Menorca, with SETE astern and the wake cutting across the foreground.",
+      "photos": [],
+      "videos": [
+        "menorca-sunrise"
+      ],
+      "media": [
+        "menorca-sunrise"
+      ],
+      "heroMedia": "menorca-sunrise",
+      "crewMoment": {
+        "title": "Sunrise underway",
+        "body": "Cam caught the sunrise at the start of a calm passage, with SETE following astern and the wake carrying both boats toward Menorca."
       }
     }
   ],
@@ -3186,6 +3254,108 @@
           "title": "Stromboli Volcano Watch",
           "date": "2026-08-13",
           "location": "Off Stromboli, Aeolian Islands, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "lipari-sunglasses-watch",
+      "type": "video",
+      "date": "2026-08-14",
+      "url": "media/videos/2026-08-14-lipari-sunglasses-watch.mp4",
+      "title": "Sunglasses watch",
+      "caption": "Sophie's evening video of Cameron making sure another pair of sunglasses stayed safe at Lipari.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "lipari-sunglasses-watch",
+          "title": "Sunglasses Watch",
+          "date": "2026-08-14",
+          "location": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "menorca-sunrise",
+      "type": "video",
+      "date": "2026-08-16",
+      "url": "media/videos/2026-08-16-menorca-sunrise.mp4",
+      "title": "Sunrise to Menorca",
+      "caption": "Cam captured a beautiful sunrise on the passage to Menorca, with SETE in tow and a calm sea below the orange sky.",
+      "categories": [
+        "junos7",
+        "scenic",
+        "weather"
+      ],
+      "journalEntries": [
+        {
+          "id": "sunrise-to-menorca",
+          "title": "Sunrise to Menorca",
+          "date": "2026-08-16",
+          "location": "Passage to Menorca"
+        }
+      ]
+    },
+    {
+      "id": "sophie-comino-gozo-compilation",
+      "type": "video",
+      "date": "2026-08-15",
+      "url": "media/videos/2026-08-15-sophie-comino-gozo-compilation.mp4",
+      "title": "Comino and Gozo compilation",
+      "caption": "Sophie’s short TikTok compilation from around Comino and Gozo, showing the sea, rocky shoreline and a sunset over the water.",
+      "categories": [
+        "crew",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "comino-gozo-compilation",
+          "title": "Comino and Gozo Compilation",
+          "date": "2026-08-15",
+          "location": "Comino and Gozo, Malta"
+        }
+      ]
+    },
+    {
+      "id": "cam-syracuse-compilation",
+      "type": "video",
+      "date": "2026-08-04",
+      "url": "media/videos/2026-08-04-cam-syracuse-compilation.mp4",
+      "title": "Syracuse compilation",
+      "caption": "Cam's TikTok compilation from Syracuse, showing the old city streets, a drink by the waterfront and the harbour in the evening.",
+      "categories": [
+        "crew",
+        "scenic"
+      ],
+      "journalEntries": [
+        {
+          "id": "syracuse-dinner-and-drinks",
+          "title": "Dinner and Drinks in Syracuse",
+          "date": "2026-08-04",
+          "location": "Porto Grande, Syracuse, Sicily, Italy"
+        }
+      ]
+    },
+    {
+      "id": "cam-malta-sicily-dolphins",
+      "type": "video",
+      "date": "2026-08-08",
+      "url": "media/videos/2026-08-08-cam-malta-sicily-dolphins.mp4",
+      "title": "Passage to Sicily dolphins",
+      "caption": "Cam's TikTok from the Malta to Sicily passage, with dolphins surfacing beside the boat over bright blue water.",
+      "categories": [
+        "crew",
+        "scenic",
+        "wildlife"
+      ],
+      "journalEntries": [
+        {
+          "id": "passage-to-sicily-dolphins",
+          "title": "Dolphins on the Passage to Sicily",
+          "date": "2026-08-08",
+          "location": "Passage to Sicily"
         }
       ]
     }
@@ -9156,7 +9326,7 @@
       "date": "14 Aug - Early hours arrival",
       "title": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
       "name": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
-      "phase": "current",
+      "phase": "onboard",
       "lat": 38.441032,
       "lng": 14.942077,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -9252,6 +9422,202 @@
           [
             38.441032,
             14.942077
+          ]
+        ]
+      }
+    },
+    {
+      "date": "15 Aug mid morning",
+      "title": "Passage to Palermo (estimated)",
+      "name": "Passage to Palermo (estimated)",
+      "phase": "onboard",
+      "lat": 38.33213,
+      "lng": 14.305573,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": null,
+        "osmId": null,
+        "displayName": "Passage to Palermo (estimated)",
+        "shortName": "Passage to Palermo (estimated)",
+        "rawDisplayName": null,
+        "country": null,
+        "countryCode": null,
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+        "toTitle": "Passage to Palermo (estimated)",
+        "distanceDirectNm": 30.7,
+        "distanceEstimatedNm": 30.7,
+        "usesManualSeaRoute": false,
+        "geometry": [
+          [
+            38.441032,
+            14.942077
+          ],
+          [
+            38.33213,
+            14.305573
+          ]
+        ]
+      }
+    },
+    {
+      "date": "15 Aug - early afternoon",
+      "title": "Mondello Anchorage, Sicily, Italy",
+      "name": "Mondello Anchorage, Sicily, Italy",
+      "phase": "onboard",
+      "lat": 38.20445,
+      "lng": 13.336523,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 365331,
+        "displayName": "Mondello Anchorage, Sicily, Italy",
+        "shortName": "Mondello Anchorage, Sicily, Italy",
+        "rawDisplayName": "Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Passage to Palermo (estimated)",
+        "toTitle": "Mondello Anchorage, Sicily, Italy",
+        "distanceDirectNm": 46.3,
+        "distanceEstimatedNm": 46.3,
+        "usesManualSeaRoute": false,
+        "geometry": [
+          [
+            38.33213,
+            14.305573
+          ],
+          [
+            38.20445,
+            13.336523
+          ]
+        ]
+      }
+    },
+    {
+      "date": "15 Aug - Evening",
+      "title": "Passage to Menorca",
+      "name": "Passage to Menorca",
+      "phase": "onboard",
+      "lat": 38.343356,
+      "lng": 12.65419,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 365331,
+        "displayName": "Passage to Menorca",
+        "shortName": "Passage to Menorca",
+        "rawDisplayName": "Italy",
+        "country": "Italy",
+        "countryCode": "IT",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Mondello Anchorage, Sicily, Italy",
+        "toTitle": "Passage to Menorca",
+        "distanceDirectNm": 33.2,
+        "distanceEstimatedNm": 34.5,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            38.20445,
+            13.336523
+          ],
+          [
+            38.212096,
+            13.339205
+          ],
+          [
+            38.226931,
+            13.336973
+          ],
+          [
+            38.237314,
+            13.325644
+          ],
+          [
+            38.343356,
+            12.65419
+          ]
+        ]
+      }
+    },
+    {
+      "date": "16 Aug - early evening",
+      "title": "Sicily to Menorca passage update",
+      "name": "Sicily to Menorca passage update",
+      "phase": "current",
+      "lat": 38.900201,
+      "lng": 8.090744,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": null,
+        "osmId": null,
+        "displayName": "Sicily to Menorca passage update",
+        "shortName": "Sicily to Menorca passage update",
+        "rawDisplayName": null,
+        "country": null,
+        "countryCode": null,
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Passage to Menorca",
+        "toTitle": "Sicily to Menorca passage update",
+        "distanceDirectNm": 216.6,
+        "distanceEstimatedNm": 216.8,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            38.343356,
+            12.65419
+          ],
+          [
+            38.792401,
+            8.64521
+          ],
+          [
+            38.82718,
+            8.44471
+          ],
+          [
+            38.900201,
+            8.090744
           ]
         ]
       }

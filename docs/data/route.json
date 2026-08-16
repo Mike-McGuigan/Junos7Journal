@@ -5964,7 +5964,7 @@
     "date": "14 Aug - Early hours arrival",
     "title": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
     "name": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 38.441032,
     "lng": 14.942077,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -6060,6 +6060,202 @@
         [
           38.441032,
           14.942077
+        ]
+      ]
+    }
+  },
+  {
+    "date": "15 Aug mid morning",
+    "title": "Passage to Palermo (estimated)",
+    "name": "Passage to Palermo (estimated)",
+    "phase": "onboard",
+    "lat": 38.33213,
+    "lng": 14.305573,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": null,
+      "osmId": null,
+      "displayName": "Passage to Palermo (estimated)",
+      "shortName": "Passage to Palermo (estimated)",
+      "rawDisplayName": null,
+      "country": null,
+      "countryCode": null,
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "toTitle": "Passage to Palermo (estimated)",
+      "distanceDirectNm": 30.7,
+      "distanceEstimatedNm": 30.7,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          38.441032,
+          14.942077
+        ],
+        [
+          38.33213,
+          14.305573
+        ]
+      ]
+    }
+  },
+  {
+    "date": "15 Aug - early afternoon",
+    "title": "Mondello Anchorage, Sicily, Italy",
+    "name": "Mondello Anchorage, Sicily, Italy",
+    "phase": "onboard",
+    "lat": 38.20445,
+    "lng": 13.336523,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Mondello Anchorage, Sicily, Italy",
+      "shortName": "Mondello Anchorage, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Passage to Palermo (estimated)",
+      "toTitle": "Mondello Anchorage, Sicily, Italy",
+      "distanceDirectNm": 46.3,
+      "distanceEstimatedNm": 46.3,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          38.33213,
+          14.305573
+        ],
+        [
+          38.20445,
+          13.336523
+        ]
+      ]
+    }
+  },
+  {
+    "date": "15 Aug - Evening",
+    "title": "Passage to Menorca",
+    "name": "Passage to Menorca",
+    "phase": "onboard",
+    "lat": 38.343356,
+    "lng": 12.65419,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Passage to Menorca",
+      "shortName": "Passage to Menorca",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Mondello Anchorage, Sicily, Italy",
+      "toTitle": "Passage to Menorca",
+      "distanceDirectNm": 33.2,
+      "distanceEstimatedNm": 34.5,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          38.20445,
+          13.336523
+        ],
+        [
+          38.212096,
+          13.339205
+        ],
+        [
+          38.226931,
+          13.336973
+        ],
+        [
+          38.237314,
+          13.325644
+        ],
+        [
+          38.343356,
+          12.65419
+        ]
+      ]
+    }
+  },
+  {
+    "date": "16 Aug - early evening",
+    "title": "Sicily to Menorca passage update",
+    "name": "Sicily to Menorca passage update",
+    "phase": "current",
+    "lat": 38.900201,
+    "lng": 8.090744,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": null,
+      "osmId": null,
+      "displayName": "Sicily to Menorca passage update",
+      "shortName": "Sicily to Menorca passage update",
+      "rawDisplayName": null,
+      "country": null,
+      "countryCode": null,
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Passage to Menorca",
+      "toTitle": "Sicily to Menorca passage update",
+      "distanceDirectNm": 216.6,
+      "distanceEstimatedNm": 216.8,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          38.343356,
+          12.65419
+        ],
+        [
+          38.792401,
+          8.64521
+        ],
+        [
+          38.82718,
+          8.44471
+        ],
+        [
+          38.900201,
+          8.090744
         ]
       ]
     }

@@ -3757,6 +3757,46 @@
           14.940827
         ]
       ]
+    },
+    {
+      "fromIndex": 71,
+      "toIndex": 72,
+      "fromDate": "15 Aug - early afternoon",
+      "toDate": "15 Aug - Evening",
+      "fromTitle": "Mondello Anchorage, Sicily, Italy",
+      "toTitle": "Passage to Menorca",
+      "waypoints": [
+        [
+          38.212096,
+          13.339205
+        ],
+        [
+          38.226931,
+          13.336973
+        ],
+        [
+          38.237314,
+          13.325644
+        ]
+      ]
+    },
+    {
+      "fromIndex": 72,
+      "toIndex": 73,
+      "fromDate": "15 Aug - Evening",
+      "toDate": "16 Aug - early evening",
+      "fromTitle": "Passage to Menorca",
+      "toTitle": "Sicily to Menorca passage update",
+      "waypoints": [
+        [
+          38.792401,
+          8.64521
+        ],
+        [
+          38.82718,
+          8.44471
+        ]
+      ]
     }
   ]
 }

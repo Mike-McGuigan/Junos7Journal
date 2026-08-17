@@ -6212,7 +6212,7 @@
     "date": "16 Aug - early evening",
     "title": "Sicily to Menorca passage update",
     "name": "Sicily to Menorca passage update",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 38.900201,
     "lng": 8.090744,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -6256,6 +6256,138 @@
         [
           38.900201,
           8.090744
+        ]
+      ]
+    }
+  },
+  {
+    "date": "17 Aug - 9am",
+    "title": "Menorca approach",
+    "name": "Menorca approach",
+    "phase": "onboard",
+    "lat": 39.79196,
+    "lng": 4.570656,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": null,
+      "osmId": null,
+      "displayName": "Menorca approach",
+      "shortName": "Menorca approach",
+      "rawDisplayName": null,
+      "country": null,
+      "countryCode": null,
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Sicily to Menorca passage update",
+      "toTitle": "Menorca approach",
+      "distanceDirectNm": 172.0,
+      "distanceEstimatedNm": 172.0,
+      "usesManualSeaRoute": false,
+      "geometry": [
+        [
+          38.900201,
+          8.090744
+        ],
+        [
+          39.79196,
+          4.570656
+        ]
+      ]
+    }
+  },
+  {
+    "date": "17 Aug morning arrival",
+    "title": "Port de Maó Mooring, Menorca, Spain",
+    "name": "Port de Maó Mooring, Menorca, Spain",
+    "phase": "current",
+    "lat": 39.889073,
+    "lng": 4.27727,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Port de Maó Mooring, Menorca, Spain",
+      "shortName": "Port de Maó Mooring, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "legFromPrevious": {
+      "fromTitle": "Menorca approach",
+      "toTitle": "Port de Maó Mooring, Menorca, Spain",
+      "distanceDirectNm": 14.7,
+      "distanceEstimatedNm": 15.0,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.79196,
+          4.570656
+        ],
+        [
+          39.857123,
+          4.358397
+        ],
+        [
+          39.866355,
+          4.311254
+        ],
+        [
+          39.87179,
+          4.304602
+        ],
+        [
+          39.881011,
+          4.296706
+        ],
+        [
+          39.883613,
+          4.293573
+        ],
+        [
+          39.884469,
+          4.288423
+        ],
+        [
+          39.886017,
+          4.283745
+        ],
+        [
+          39.887489,
+          4.281267
+        ],
+        [
+          39.889267,
+          4.278992
+        ],
+        [
+          39.889518,
+          4.277785
+        ],
+        [
+          39.889271,
+          4.277399
+        ],
+        [
+          39.889073,
+          4.27727
         ]
       ]
     }

@@ -1594,17 +1594,20 @@
       "location": "Passage to Menorca",
       "type": "at-sea",
       "person": "Cameron",
-      "quote": "Beautiful sunrise on the passage to Menorca.",
-      "body": "Cam captured a beautiful sunrise on the passage to Menorca, with SETE in tow. The sea was calm and glassy, and the boat's wake cuts through the foreground as the orange sun lifts over a pale horizon.",
-      "summary": "A calm sunrise on the passage to Menorca, with SETE astern and the wake cutting across the foreground.",
+      "quote": "",
+      "body": "Cam captured a beautiful sunrise on the passage to Menorca, with SETE in tow. The sea was calm and glassy, and the boat's wake cuts through the foreground as the orange sun lifts over a pale horizon. Later in the same passage, a short dolphin video added another moving note to the crossing.",
+      "summary": "A calm sunrise on the passage to Menorca, with SETE astern and later dolphin footage from the same crossing.",
       "photos": [],
       "videos": [
-        "menorca-sunrise"
+        "menorca-sunrise",
+        "cam-menorca-dolphins"
       ],
       "media": [
-        "menorca-sunrise"
+        "menorca-sunrise",
+        "cam-menorca-dolphins"
       ],
       "heroMedia": "menorca-sunrise",
+      "mapStop": "Passage to Menorca",
       "crewMoment": {
         "title": "Sunrise underway",
         "body": "Cam caught the sunrise at the start of a calm passage, with SETE following astern and the wake carrying both boats toward Menorca."
@@ -3283,7 +3286,7 @@
       "date": "2026-08-16",
       "url": "media/videos/2026-08-16-menorca-sunrise.mp4",
       "title": "Sunrise to Menorca",
-      "caption": "Cam captured a beautiful sunrise on the passage to Menorca, with SETE in tow and a calm sea below the orange sky.",
+      "caption": "A beautiful sunrise on the passage to Menorca, with SETE in tow and a calm sea below the orange sky.",
       "categories": [
         "junos7",
         "scenic",
@@ -3358,6 +3361,55 @@
           "location": "Passage to Sicily"
         }
       ]
+    },
+    {
+      "id": "cam-menorca-dolphins",
+      "type": "video",
+      "date": "2026-08-16",
+      "url": "media/videos/2026-08-16-cam-menorca-dolphins.mp4",
+      "title": "Dolphins on the passage to Menorca",
+      "caption": "Cam's video from the Sicily to Menorca passage, with dolphins riding alongside the boat over deep blue water.",
+      "categories": [
+        "crew",
+        "scenic",
+        "wildlife"
+      ],
+      "journalEntries": [
+        {
+          "id": "sicily-to-menorca-passage-update",
+          "title": "Sicily to Menorca passage update",
+          "date": "2026-08-16",
+          "location": "Sicily to Menorca passage update"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Port de Maó Mooring",
+      "location": "Port de Maó Mooring, Menorca, Spain",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Port de Maó Mooring, Menorca, Spain",
+      "body": "Juno's 7 settled into the Port de Maó mooring on the morning arrival into Menorca. The harbour put the yacht within easy reach of the town and alongside a busy line-up of visiting boats, making it a fitting first stop after the passage in.",
+      "summary": "Juno's 7 settled into the Port de Maó mooring after the arrival into Menorca.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "lionheart-mahon",
+      "date": "2026-08-17",
+      "title": "Lionheart in Mahon",
+      "location": "Port de Maó Mooring, Menorca, Spain",
+      "type": "notable-encounter",
+      "person": "",
+      "quote": "",
+      "mapStop": "Port de Maó Mooring, Menorca, Spain",
+      "body": "Moored nearby in Mahon, Lionheart stood out immediately. The J Class yacht carries serious pedigree, with a hull lineage traced back to the never-built 1936 Ranger design studies by Starling Burgess and Olin Stephens, and a racing record that includes major international success under Bouwe Bekking.",
+      "summary": "Lionheart was a notable neighbour in Mahon, with deep J Class and racing history.",
+      "photos": [],
+      "videos": [],
+      "media": []
     }
   ],
   "route": [
@@ -9574,7 +9626,7 @@
       "date": "16 Aug - early evening",
       "title": "Sicily to Menorca passage update",
       "name": "Sicily to Menorca passage update",
-      "phase": "current",
+      "phase": "onboard",
       "lat": 38.900201,
       "lng": 8.090744,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -9618,6 +9670,138 @@
           [
             38.900201,
             8.090744
+          ]
+        ]
+      }
+    },
+    {
+      "date": "17 Aug - 9am",
+      "title": "Menorca approach",
+      "name": "Menorca approach",
+      "phase": "onboard",
+      "lat": 39.79196,
+      "lng": 4.570656,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": null,
+        "osmId": null,
+        "displayName": "Menorca approach",
+        "shortName": "Menorca approach",
+        "rawDisplayName": null,
+        "country": null,
+        "countryCode": null,
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Sicily to Menorca passage update",
+        "toTitle": "Menorca approach",
+        "distanceDirectNm": 172.0,
+        "distanceEstimatedNm": 172.0,
+        "usesManualSeaRoute": false,
+        "geometry": [
+          [
+            38.900201,
+            8.090744
+          ],
+          [
+            39.79196,
+            4.570656
+          ]
+        ]
+      }
+    },
+    {
+      "date": "17 Aug morning arrival",
+      "title": "Port de Maó Mooring, Menorca, Spain",
+      "name": "Port de Maó Mooring, Menorca, Spain",
+      "phase": "current",
+      "lat": 39.889073,
+      "lng": 4.27727,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Port de Maó Mooring, Menorca, Spain",
+        "shortName": "Port de Maó Mooring, Menorca, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "legFromPrevious": {
+        "fromTitle": "Menorca approach",
+        "toTitle": "Port de Maó Mooring, Menorca, Spain",
+        "distanceDirectNm": 14.7,
+        "distanceEstimatedNm": 15.0,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.79196,
+            4.570656
+          ],
+          [
+            39.857123,
+            4.358397
+          ],
+          [
+            39.866355,
+            4.311254
+          ],
+          [
+            39.87179,
+            4.304602
+          ],
+          [
+            39.881011,
+            4.296706
+          ],
+          [
+            39.883613,
+            4.293573
+          ],
+          [
+            39.884469,
+            4.288423
+          ],
+          [
+            39.886017,
+            4.283745
+          ],
+          [
+            39.887489,
+            4.281267
+          ],
+          [
+            39.889267,
+            4.278992
+          ],
+          [
+            39.889518,
+            4.277785
+          ],
+          [
+            39.889271,
+            4.277399
+          ],
+          [
+            39.889073,
+            4.27727
           ]
         ]
       }

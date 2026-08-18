@@ -100,44 +100,6 @@ def update_media_json(path: Path):
     path.write_text(json.dumps(data, indent=2), encoding="utf-8")
     return True
 
-def update_markdown():
-    md_path = ROOT / "content" / "journal" / "2026" / "2026-06-30-underway-changing-conditions.md"
-    md_path.parent.mkdir(parents=True, exist_ok=True)
-
-    if md_path.exists():
-        text = md_path.read_text(encoding="utf-8")
-    else:
-        text = """---
-date: 2026-06-30
-title: Underway — Changing Conditions
-location: At Sea
-type: at-sea
-media:
-  - underway-aft-deck
-  - sophie-stormy
----
-
-# 30 June 2026 — Underway
-"""
-
-    if "cam-towing-toys" not in text:
-        text = text.replace("  - sophie-stormy", "  - sophie-stormy\n  - cam-towing-toys")
-    if "Cam on a mission" not in text:
-        text += """
-
-## Sophie
-
-> "Cam on a mission."
-
-Sophie captured Cameron towing the yacht's inflatable water toys from the tender during livelier conditions. It has since been confirmed that no-one was on the toys at the time.
-
-**Video caption**
-
-> Cameron towing the yacht's inflatable water toys from the tender during livelier conditions. No-one was on the toys at the time.
-"""
-    backup(md_path)
-    md_path.write_text(text, encoding="utf-8")
-
 def update_version_files():
     (ROOT / "VERSION").write_text(VERSION + "\n", encoding="utf-8")
     path = ROOT / "site" / "data" / "version.json"
@@ -161,7 +123,6 @@ def main():
         if update_media_json(ROOT / rel):
             changed.append(rel)
 
-    update_markdown()
     update_version_files()
 
     print("Added/updated Cam on a mission video content.")

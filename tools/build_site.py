@@ -188,9 +188,6 @@ def count_journal_entries() -> int | None:
         for key in ("entries", "journal", "items"):
             if isinstance(data.get(key), list):
                 return len(data[key])
-    journal_dir = ROOT / "content" / "journal"
-    if journal_dir.exists():
-        return len([p for p in journal_dir.rglob("*.md") if not p.name.startswith(".")])
     return None
 
 

@@ -33,11 +33,12 @@
       "nearestKnownPlaceDistanceKm": 0.6,
       "nearestKnownPlaceDistanceNm": 0.3,
       "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
-    }
+    },
+    "id": "route-019"
   },
   "tracker": {
     "timestampUtc": "2026-07-02T10:03:23.602Z",
-    "status": "Approximate area",
+    "status": "Moored",
     "title": "Barbati Anchorage, Corfu, Greece",
     "area": "Barbati Anchorage, Corfu, Greece",
     "position": {
@@ -68,6 +69,7 @@
       "nearestKnownPlaceDistanceKm": 0.6,
       "nearestKnownPlaceDistanceNm": 0.3,
       "lookupSource": "OpenStreetMap Nominatim + curated voyage gazetteer"
-    }
+    },
+    "routePointId": "route-019"
   }
 }

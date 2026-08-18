@@ -91,14 +91,42 @@ def title_of(point: dict[str, Any]) -> str:
     return str(point.get("title") or point.get("name") or "Route stop")
 
 
-def is_transit_marker(point: dict[str, Any]) -> bool:
-    """Return True when a route point should not split passage statistics."""
+def ensure_route_ids(route: list[dict[str, Any]]) -> None:
+    """Assign stable route ids in place when a point does not already have one."""
+    used_ids: set[str] = set()
+    highest_seq = 0
+    for point in route:
+        raw_id = point.get("id")
+        if not raw_id:
+            continue
+        route_id = str(raw_id).strip()
+        if not route_id:
+            continue
+        point["id"] = route_id
+        used_ids.add(route_id)
+        if route_id.startswith("route-"):
+            suffix = route_id[6:]
+            if suffix.isdigit():
+                highest_seq = max(highest_seq, int(suffix))
+
+    next_seq = highest_seq + 1 if highest_seq else 1
+    for point in route:
+        route_id = str(point.get("id") or "").strip()
+        if route_id:
+            continue
+        while True:
+            candidate = f"route-{next_seq:03d}"
+            next_seq += 1
+            if candidate not in used_ids:
+                point["id"] = candidate
+                used_ids.add(candidate)
+                break
+
+
+def is_hard_stop(point: dict[str, Any]) -> bool:
+    """Return True when a route point should count as a stop boundary."""
     status = str(point.get("status") or "").strip().lower()
-    phase = str(point.get("phase") or "").strip().lower()
-    title = title_of(point).strip().lower()
-    if status == "underway" or phase in {"ais", "milestone"}:
-        return True
-    return title.startswith(("en route", "heading towards", "approaching")) or " / underway" in title
+    return status in {"at anchor", "moored"}
 
 
 def load_geometry(path: Path) -> dict[str, Any]:
@@ -116,11 +144,15 @@ def find_waypoints(geometry_data: dict[str, Any], previous: dict[str, Any], curr
     - fromDate/fromTitle/toDate/toTitle for readable explicit matching.
     """
     key = leg_key(previous, current)
+    prev_id = previous.get("id")
+    cur_id = current.get("id")
     prev_title = previous.get("title") or previous.get("name")
     cur_title = current.get("title") or current.get("name")
 
     for leg in geometry_data.get("legs", []):
         if leg.get("fromIndex") == index - 1 and leg.get("toIndex") == index:
+            return leg.get("waypoints") or leg.get("geometry")
+        if leg.get("fromId") in {None, prev_id} and leg.get("toId") in {None, cur_id} and prev_id and cur_id:
             return leg.get("waypoints") or leg.get("geometry")
         if leg.get("key") == key:
             return leg.get("waypoints") or leg.get("geometry")
@@ -136,6 +168,7 @@ def find_waypoints(geometry_data: dict[str, Any], previous: dict[str, Any], curr
 
 def enrich_route(route: list[dict[str, Any]], geometry_data: dict[str, Any]) -> dict[str, Any]:
     """Add leg distance and geometry metadata to each route point after the first."""
+    ensure_route_ids(route)
     total_direct = 0.0
     total_estimated = 0.0
     routed_legs = 0
@@ -154,6 +187,8 @@ def enrich_route(route: list[dict[str, Any]], geometry_data: dict[str, Any]) -> 
         has_manual_geometry = bool(waypoints)
 
         point["legFromPrevious"] = {
+            "fromId": previous.get("id"),
+            "toId": point.get("id"),
             "fromTitle": previous.get("title") or previous.get("name"),
             "toTitle": point.get("title") or point.get("name"),
             "distanceDirectNm": direct_nm,
@@ -169,13 +204,13 @@ def enrich_route(route: list[dict[str, Any]], geometry_data: dict[str, Any]) -> 
 
     legs = [point.get("legFromPrevious") for point in route[1:] if point.get("legFromPrevious")]
     passages: list[dict[str, Any]] = []
-    passage_start: dict[str, Any] | None = route[0] if route and not is_transit_marker(route[0]) else None
+    passage_start: dict[str, Any] | None = route[0] if route and is_hard_stop(route[0]) else None
     passage_nm = 0.0
 
     for point in route[1:]:
         leg = point.get("legFromPrevious")
         if passage_start is None:
-            if not is_transit_marker(point):
+            if is_hard_stop(point):
                 passage_start = point
                 passage_nm = 0.0
             continue
@@ -183,10 +218,12 @@ def enrich_route(route: list[dict[str, Any]], geometry_data: dict[str, Any]) -> 
         if leg:
             passage_nm += float(leg.get("distanceEstimatedNm", 0) or 0)
 
-        if not is_transit_marker(point):
+        if is_hard_stop(point):
             if passage_nm > 0:
                 passages.append(
                     {
+                        "fromId": passage_start.get("id"),
+                        "toId": point.get("id"),
                         "fromTitle": title_of(passage_start),
                         "toTitle": title_of(point),
                         "distanceEstimatedNm": round(passage_nm, 1),
@@ -195,9 +232,11 @@ def enrich_route(route: list[dict[str, Any]], geometry_data: dict[str, Any]) -> 
             passage_start = point
             passage_nm = 0.0
 
-    if passage_start is not None and passage_nm > 0 and route and is_transit_marker(route[-1]):
+    if passage_start is not None and passage_nm > 0 and route and is_hard_stop(route[-1]):
         passages.append(
             {
+                "fromId": passage_start.get("id"),
+                "toId": route[-1].get("id"),
                 "fromTitle": title_of(passage_start),
                 "toTitle": title_of(route[-1]),
                 "distanceEstimatedNm": round(passage_nm, 1),
@@ -208,7 +247,7 @@ def enrich_route(route: list[dict[str, Any]], geometry_data: dict[str, Any]) -> 
     longest = max(passages, key=lambda leg: float(leg.get("distanceEstimatedNm", 0)), default=None)
     countries = []
     for point in route:
-        if is_transit_marker(point):
+        if not is_hard_stop(point):
             continue
         country = (point.get("location") or {}).get("country")
         if country and country not in countries:

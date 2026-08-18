@@ -26,6 +26,7 @@
       "source": "captains dashboard map click"
     },
     "source": "captains dashboard",
-    "confidence": "manual map-click marker"
+    "confidence": "manual map-click marker",
+    "routePointId": "route-058"
   }
 }

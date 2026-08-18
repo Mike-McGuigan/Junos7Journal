@@ -1670,7 +1670,7 @@
     "date": "2026-08-16",
     "url": "media/videos/2026-08-16-menorca-sunrise.mp4",
     "title": "Sunrise to Menorca",
-    "caption": "Cam captured a beautiful sunrise on the passage to Menorca, with SETE in tow and a calm sea below the orange sky.",
+    "caption": "A beautiful sunrise on the passage to Menorca, with SETE in tow and a calm sea below the orange sky.",
     "categories": [
       "junos7",
       "scenic",
@@ -1743,6 +1743,27 @@
         "title": "Dolphins on the Passage to Sicily",
         "date": "2026-08-08",
         "location": "Passage to Sicily"
+      }
+    ]
+  },
+  {
+    "id": "cam-menorca-dolphins",
+    "type": "video",
+    "date": "2026-08-16",
+    "url": "media/videos/2026-08-16-cam-menorca-dolphins.mp4",
+    "title": "Dolphins on the passage to Menorca",
+    "caption": "Cam's video from the Sicily to Menorca passage, with dolphins riding alongside the boat over deep blue water.",
+    "categories": [
+      "crew",
+      "scenic",
+      "wildlife"
+    ],
+    "journalEntries": [
+      {
+        "id": "sicily-to-menorca-passage-update",
+        "title": "Sicily to Menorca passage update",
+        "date": "2026-08-16",
+        "location": "Sicily to Menorca passage update"
       }
     ]
   }

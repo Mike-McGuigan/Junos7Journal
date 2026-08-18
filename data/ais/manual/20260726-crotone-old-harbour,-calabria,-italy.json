@@ -30,7 +30,8 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-053"
   },
   "tracker": {
     "timestampUtc": "2026-07-26T08:48:25.006Z",
@@ -62,6 +63,7 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-053"
   }
 }

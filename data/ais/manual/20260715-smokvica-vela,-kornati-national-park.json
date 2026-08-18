@@ -30,7 +30,8 @@
       "nearestPlace": "Šibenik-Knin County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-039"
   },
   "tracker": {
     "timestampUtc": "2026-07-15T09:33:10.262Z",
@@ -62,6 +63,7 @@
       "nearestPlace": "Šibenik-Knin County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-039"
   }
 }

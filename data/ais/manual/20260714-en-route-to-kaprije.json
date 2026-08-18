@@ -7,8 +7,8 @@
   "imo": "1109712",
   "routePoint": {
     "date": "14 Jul - AM",
-    "title": "En route to Kaprije",
-    "name": "En route to Kaprije",
+    "title": "Passage to Kaprije, Croatia",
+    "name": "Passage to Kaprije, Croatia",
     "phase": "current",
     "lat": 43.412623,
     "lng": 15.884171,
@@ -30,13 +30,14 @@
       "nearestPlace": "Šibenik-Knin County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-037"
   },
   "tracker": {
     "timestampUtc": "2026-07-14T07:25:27.723Z",
     "status": "Underway",
-    "title": "En route to Kaprije",
-    "area": "En route to Kaprije",
+    "title": "Passage to Kaprije, Croatia",
+    "area": "Passage to Kaprije, Croatia",
     "position": {
       "lat": 43.412623,
       "lng": 15.884171,
@@ -62,6 +63,7 @@
       "nearestPlace": "Šibenik-Knin County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-037"
   }
 }

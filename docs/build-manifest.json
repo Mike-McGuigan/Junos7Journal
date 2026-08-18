@@ -1,8 +1,8 @@
 {
-  "version": "2.8.0",
+  "version": "2.8.1",
   "release": "Drink the Voyage",
-  "buildUtc": "2026-08-16 16:11:04 UTC",
-  "fileCount": 188,
+  "buildUtc": "2026-08-18 14:25:47 UTC",
+  "fileCount": 190,
   "files": [
     {
       "path": ".gitkeep",
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 201,
-      "sha256": "016556a2185235c779a46dbe7fcb1544ef7e4844b7d103af09bfda117f135d84"
+      "sha256": "4d79374944227c5999d0a0e7ed7dc36de78791ad03f48aa040e22bd5d054c8bc"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 34710,
-      "sha256": "1e395041abf1056c29b411328514e10395562f632863be0b3bbb849b0612833c"
+      "sizeBytes": 35075,
+      "sha256": "77ace1c0aac7a82e122438b6e016bdd2ac25ef8658615463813540c768509b84"
     },
     {
       "path": "crew.html",
@@ -46,8 +46,8 @@
     },
     {
       "path": "discoveries.html",
-      "sizeBytes": 2957,
-      "sha256": "554597426e9a4721b46d208c128bcc97cbff0e23f0d55a1b4223df46e26a6ffe"
+      "sizeBytes": 2947,
+      "sha256": "3ba0a3b61906ef743464eb6a694596b2e97385b53cc4af14557e447a37521a1d"
     },
     {
       "path": "drink.html",
@@ -116,8 +116,8 @@
     },
     {
       "path": "voyage.html",
-      "sizeBytes": 2630,
-      "sha256": "4bf3129dddff4b1a3e460c71f25b77c1772b66c29465d2822e604789c22b14d7"
+      "sizeBytes": 2678,
+      "sha256": "4eabef91d67c2348e3856f99918979af1f538b4a10977da3c8933978a3976a9e"
     },
     {
       "path": "voyage.html.bak-1-2-0-dashboard-nav",
@@ -136,8 +136,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2877,
-      "sha256": "e522daf9f73b79dbe9760390233b0a448e50acaeca90b9680fc6d4e62abe8054"
+      "sizeBytes": 2940,
+      "sha256": "a9e0f8b07a668b90228903b0346bdc06f0206d6f6832c576f64a62d8ad1fbeb4"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -166,13 +166,13 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 2807,
-      "sha256": "f939fe76a29eb4f9bb181584d32286e66d11e52ea0b3148ee6364013b256142c"
+      "sizeBytes": 2916,
+      "sha256": "f3cb6771b73f1569ed167fd0e1d89bcadc7848d15f4e1e94be2e013c163cc3d0"
     },
     {
       "path": "data/discoveries.json",
-      "sizeBytes": 15935,
-      "sha256": "588a72f8f97d31a45d69595b1dea52123363cdf4afd11608024f28bede72c833"
+      "sizeBytes": 17296,
+      "sha256": "3001f9edd9ba701a3da75f0ad96013e73a9756891944bbe1c2f051d6d8a377d0"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -181,8 +181,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 307148,
-      "sha256": "bfef8aa50a74073316d793c098bf99d0b250db777b2bc0b52a0ef8ff773a3f07"
+      "sizeBytes": 321543,
+      "sha256": "3b427cdd17e59077e09931d57bf5b4ea48e0ccc33dee75e02d7b3bfb06cf64bc"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -206,8 +206,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 54027,
-      "sha256": "90a3594e3a2fefb1301cf216cf73112d3c9aaf905b5125ce318f1c6b49848272"
+      "sizeBytes": 54714,
+      "sha256": "2511dd6eede31b23183d9703aeda28d1ce3578d7cc136bd03496df52239974fc"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 149700,
-      "sha256": "e4e35d9330806a3a30cd0d1ecb507377872c63c6cc479df1853d14e4f24fc870"
+      "sizeBytes": 160438,
+      "sha256": "011a24c5abd539b80ec8df7cab30a05b2063e2333d87944394223698ecec95e8"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -256,8 +256,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 148266,
-      "sha256": "4db6773f0b7b2978c2597722ec1d0b5e41a309b881596c7bfc776bf43ca54030"
+      "sizeBytes": 153004,
+      "sha256": "c5d21a4c4f76f1950c15785f12a06cad82d4c49998e36adfe31c6b1532e50ef8"
     },
     {
       "path": "data/site.json",
@@ -272,7 +272,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 201,
-      "sha256": "016556a2185235c779a46dbe7fcb1544ef7e4844b7d103af09bfda117f135d84"
+      "sha256": "4d79374944227c5999d0a0e7ed7dc36de78791ad03f48aa040e22bd5d054c8bc"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -317,7 +317,7 @@
     {
       "path": "data/version.json.bak-geo-1",
       "sizeBytes": 201,
-      "sha256": "2fc18dbd2085fe0997d1b40ddf466a7e5d04e5517224ddb131f4fbc0985a3b1c"
+      "sha256": "4bd788011cb7f1b3e0f49021a9688a7ac96342963334df5fe7e919c37ba5ad9e"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -700,6 +700,11 @@
       "sha256": "152f43faedb294d0492e267c120868c756f7c14f657cbcd26e7cfc64f684ed12"
     },
     {
+      "path": "media/videos/2026-08-16-cam-menorca-dolphins.mp4",
+      "sizeBytes": 6521226,
+      "sha256": "8f1c85028898057c46e010a16df46fb51511503dad733426ecdfda5d89b6c45e"
+    },
+    {
       "path": "media/videos/2026-08-16-menorca-sunrise.mp4",
       "sizeBytes": 1795112,
       "sha256": "59b26fa3745835118bb047162e86c86b3d03f4d3fcb42fe67c0e594d3414e8bf"
@@ -876,13 +881,13 @@
     },
     {
       "path": "assets/js/admin-map.js",
-      "sizeBytes": 30947,
-      "sha256": "0c40cc2ec294c402cefc27616e38b26297032b1cd88adc41e6a75c7a4760ce54"
+      "sizeBytes": 31226,
+      "sha256": "13e98aae68a201bb3d423921ba2e826d1d5a8cb815fcb111d4b2afceaa0a1c9e"
     },
     {
       "path": "assets/js/app.js",
-      "sizeBytes": 15785,
-      "sha256": "c339cee4a48a4d9dec56d517a055529ae71aa0a082b2fa62fad1bfcabb6a4f1f"
+      "sizeBytes": 16004,
+      "sha256": "cacda469966bbdc2bf4b04c903ccf5ac7a46966090bc6a63b6a5426f5cead6f5"
     },
     {
       "path": "assets/js/dashboard.js",
@@ -908,6 +913,11 @@
       "path": "assets/js/version.js",
       "sizeBytes": 744,
       "sha256": "5e3d1db9a351972a4a4a115839eec0675ca6ac8642c087f9aa14c23ec40464ce"
+    },
+    {
+      "path": "assets/js/voyage-scroll.js",
+      "sizeBytes": 2784,
+      "sha256": "409e31af8086a6b0e4841f6f26cf881c5257b6f28384f28fb4a60cd6ecfef239"
     },
     {
       "path": "assets/images/flavour/aeolian-islands-table.png",

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-16T16:10:02.539Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "16 Aug - early evening",
+    "title": "Sicily to Menorca passage update",
+    "name": "Sicily to Menorca passage update",
+    "phase": "current",
+    "lat": 38.900201,
+    "lng": 8.090744,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "id": "route-074"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-16T16:10:02.539Z",
+    "status": "At anchor",
+    "title": "Sicily to Menorca passage update",
+    "area": "Sicily to Menorca passage update",
+    "position": {
+      "lat": 38.900201,
+      "lng": 8.090744,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "routePointId": "route-074"
+  }
+}

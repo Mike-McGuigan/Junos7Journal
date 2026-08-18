@@ -30,11 +30,12 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-063"
   },
   "tracker": {
     "timestampUtc": "2026-08-06T18:07:36.500Z",
-    "status": "At anchor",
+    "status": "Underway",
     "title": "Capo Passero Anchorage, Sicily, Italy",
     "area": "Capo Passero Anchorage, Sicily, Italy",
     "position": {
@@ -62,6 +63,7 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-063"
   }
 }

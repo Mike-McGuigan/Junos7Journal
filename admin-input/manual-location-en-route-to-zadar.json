@@ -7,18 +7,19 @@
   "imo": "1109712",
   "routePoint": {
     "date": "19 Jul AM",
-    "title": "En route to Zadar",
-    "name": "En route to Zadar",
+    "title": "Passage to Zadar, Croatia",
+    "name": "Passage to Zadar, Croatia",
     "phase": "current",
     "lat": 44.057565,
     "lng": 15.270395,
-    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "id": "route-043"
   },
   "tracker": {
     "timestampUtc": "2026-07-19T08:40:10.166Z",
     "status": "Underway",
-    "title": "En route to Zadar",
-    "area": "En route to Zadar",
+    "title": "Passage to Zadar, Croatia",
+    "area": "Passage to Zadar, Croatia",
     "position": {
       "lat": 44.057565,
       "lng": 15.270395,
@@ -26,6 +27,7 @@
       "source": "captains dashboard map click"
     },
     "source": "captains dashboard",
-    "confidence": "manual map-click marker"
+    "confidence": "manual map-click marker",
+    "routePointId": "route-043"
   }
 }

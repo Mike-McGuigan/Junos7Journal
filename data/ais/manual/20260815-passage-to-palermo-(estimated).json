@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-15T08:51:05.508Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "15 Aug mid morning",
+    "title": "Passage to Palermo (estimated)",
+    "name": "Passage to Palermo (estimated)",
+    "phase": "current",
+    "lat": 38.33213,
+    "lng": 14.305573,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": null,
+      "osmId": null,
+      "displayName": "Passage to Palermo (estimated)",
+      "shortName": "Passage to Palermo (estimated)",
+      "rawDisplayName": null,
+      "country": null,
+      "countryCode": null,
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-071"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-15T08:51:05.508Z",
+    "status": "Underway",
+    "title": "Passage to Palermo (estimated)",
+    "area": "Passage to Palermo (estimated)",
+    "position": {
+      "lat": 38.33213,
+      "lng": 14.305573,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": null,
+      "osmId": null,
+      "displayName": "Passage to Palermo (estimated)",
+      "shortName": "Passage to Palermo (estimated)",
+      "rawDisplayName": null,
+      "country": null,
+      "countryCode": null,
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "routePointId": "route-071"
+  }
+}

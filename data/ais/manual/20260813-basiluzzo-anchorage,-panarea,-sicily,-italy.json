@@ -30,11 +30,12 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-068"
   },
   "tracker": {
     "timestampUtc": "2026-08-13T13:19:18.807Z",
-    "status": "At anchor",
+    "status": "Moored",
     "title": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
     "area": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
     "position": {
@@ -62,6 +63,7 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-068"
   }
 }

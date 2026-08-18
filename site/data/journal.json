@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "release": "2.8.0",
+  "release": "2.8.1",
   "entries": [
     {
       "date": "2026-06-17",
@@ -1612,6 +1612,40 @@
         "title": "Sunrise underway",
         "body": "Cam caught the sunrise at the start of a calm passage, with SETE following astern and the wake carrying both boats toward Menorca."
       }
+    },
+    {
+      "id": "lionheart-in-mahon",
+      "date": "2026-08-17",
+      "title": "Lionheart in Mahon",
+      "location": "Port de Maó Mooring, Menorca, Spain",
+      "type": "notable-encounter",
+      "person": "",
+      "quote": "",
+      "mapStop": "Port de Maó Mooring, Menorca, Spain",
+      "body": "Moored nearby in Mahon, Lionheart stood out immediately. The J Class yacht carries serious pedigree, with a hull lineage traced back to the never-built 1936 Ranger design studies by Starling Burgess and Olin Stephens, and with later racing success under tactician Bouwe Bekking.",
+      "summary": "Lionheart stood out near Juno's 7 in Port de Maó, with a remarkable design and racing history.",
+      "photos": [],
+      "videos": [],
+      "media": [],
+      "notableEncounter": {
+        "title": "Lionheart",
+        "body": "Lionheart's hull design traces back to the 1936 Ranger syndicate Model 77F studies by Starling Burgess and Olin Stephens, one of the variants not selected by Harold Vanderbilt for the 1937 America's Cup. Under tactician Bouwe Bekking she later won major J Class and superyacht honours, including the 2017 America's Cup Superyacht Regatta in Bermuda and the inaugural J Class World Championship in Newport."
+      }
+    },
+    {
+      "id": "port-de-mao-mooring",
+      "date": "2026-08-17",
+      "title": "Port de Maó Mooring",
+      "location": "Port de Maó Mooring, Menorca, Spain",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "quote": "",
+      "mapStop": "Port de Maó Mooring, Menorca, Spain",
+      "body": "Juno's 7 settled into the Port de Maó mooring on the morning arrival into Menorca. The harbour put the yacht within easy reach of the town and alongside a busy line-up of visiting boats, making it a fitting first stop after the passage in.",
+      "summary": "Juno's 7 settled into the Port de Maó mooring after the arrival into Menorca.",
+      "photos": [],
+      "videos": [],
+      "media": []
     }
   ],
   "media": [
@@ -3382,34 +3416,6 @@
           "location": "Sicily to Menorca passage update"
         }
       ]
-    },
-    {
-      "date": "2026-08-17",
-      "title": "Port de Maó Mooring",
-      "location": "Port de Maó Mooring, Menorca, Spain",
-      "type": "voyage-stop",
-      "person": "Cameron and Sophie",
-      "mapStop": "Port de Maó Mooring, Menorca, Spain",
-      "body": "Juno's 7 settled into the Port de Maó mooring on the morning arrival into Menorca. The harbour put the yacht within easy reach of the town and alongside a busy line-up of visiting boats, making it a fitting first stop after the passage in.",
-      "summary": "Juno's 7 settled into the Port de Maó mooring after the arrival into Menorca.",
-      "photos": [],
-      "videos": [],
-      "media": []
-    },
-    {
-      "id": "lionheart-mahon",
-      "date": "2026-08-17",
-      "title": "Lionheart in Mahon",
-      "location": "Port de Maó Mooring, Menorca, Spain",
-      "type": "notable-encounter",
-      "person": "",
-      "quote": "",
-      "mapStop": "Port de Maó Mooring, Menorca, Spain",
-      "body": "Moored nearby in Mahon, Lionheart stood out immediately. The J Class yacht carries serious pedigree, with a hull lineage traced back to the never-built 1936 Ranger design studies by Starling Burgess and Olin Stephens, and a racing record that includes major international success under Bouwe Bekking.",
-      "summary": "Lionheart was a notable neighbour in Mahon, with deep J Class and racing history.",
-      "photos": [],
-      "videos": [],
-      "media": []
     }
   ],
   "route": [
@@ -3435,7 +3441,8 @@
         "nearestSettlement": "Lindos"
       },
       "title": "Lindos Anchorage, Rhodes, Greece",
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-001"
     },
     {
       "date": "11-12 Jun",
@@ -3462,6 +3469,8 @@
       },
       "title": "Chalki Anchorage, Chalki, Greece",
       "legFromPrevious": {
+        "fromId": "route-001",
+        "toId": "route-002",
         "fromTitle": "Lindos Anchorage, Rhodes, Greece",
         "toTitle": "Chalki Anchorage, Chalki, Greece",
         "distanceDirectNm": 24.1,
@@ -3526,7 +3535,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-002"
     },
     {
       "date": "12-13 Jun",
@@ -3551,6 +3561,8 @@
       },
       "title": "Symi Harbour, Symi, Greece",
       "legFromPrevious": {
+        "fromId": "route-002",
+        "toId": "route-003",
         "fromTitle": "Chalki Anchorage, Chalki, Greece",
         "toTitle": "Symi Harbour, Symi, Greece",
         "distanceDirectNm": 26.0,
@@ -3631,7 +3643,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Moored",
+      "id": "route-003"
     },
     {
       "date": "15-16 Jun",
@@ -3656,6 +3669,8 @@
       },
       "title": "Mandraki Anchorage, Nisyros, Greece",
       "legFromPrevious": {
+        "fromId": "route-003",
+        "toId": "route-004",
         "fromTitle": "Symi Harbour, Symi, Greece",
         "toTitle": "Mandraki Anchorage, Nisyros, Greece",
         "distanceDirectNm": 34.1,
@@ -3724,7 +3739,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-004"
     },
     {
       "date": "16-18 Jun",
@@ -3749,6 +3765,8 @@
       },
       "title": "Kos Harbour, Kos, Greece",
       "legFromPrevious": {
+        "fromId": "route-004",
+        "toId": "route-005",
         "fromTitle": "Mandraki Anchorage, Nisyros, Greece",
         "toTitle": "Kos Harbour, Kos, Greece",
         "distanceDirectNm": 18.5,
@@ -3805,7 +3823,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Moored",
+      "id": "route-005"
     },
     {
       "date": "17 Jun",
@@ -3830,6 +3849,8 @@
       },
       "title": "Cameron & Sophie join",
       "legFromPrevious": {
+        "fromId": "route-005",
+        "toId": "route-006",
         "fromTitle": "Kos Harbour, Kos, Greece",
         "toTitle": "Cameron & Sophie join",
         "distanceDirectNm": 0.0,
@@ -3845,7 +3866,8 @@
             27.288634
           ]
         ]
-      }
+      },
+      "id": "route-006"
     },
     {
       "date": "18-19 Jun",
@@ -3870,6 +3892,8 @@
       },
       "title": "Lipsi Harbour Anchorage, Lipsi, Greece",
       "legFromPrevious": {
+        "fromId": "route-006",
+        "toId": "route-007",
         "fromTitle": "Cameron & Sophie join",
         "toTitle": "Lipsi Harbour Anchorage, Lipsi, Greece",
         "distanceDirectNm": 34.7,
@@ -3918,7 +3942,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-007"
     },
     {
       "date": "19-21 Jun",
@@ -3943,6 +3968,8 @@
       },
       "title": "Skala Harbour, Patmos, Greece",
       "legFromPrevious": {
+        "fromId": "route-007",
+        "toId": "route-008",
         "fromTitle": "Lipsi Harbour Anchorage, Lipsi, Greece",
         "toTitle": "Skala Harbour, Patmos, Greece",
         "distanceDirectNm": 10.7,
@@ -3979,7 +4006,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Moored",
+      "id": "route-008"
     },
     {
       "date": "22 Jun",
@@ -4004,6 +4032,8 @@
       },
       "title": "Katapola Harbour, Amorgos, Greece",
       "legFromPrevious": {
+        "fromId": "route-008",
+        "toId": "route-009",
         "fromTitle": "Skala Harbour, Patmos, Greece",
         "toTitle": "Katapola Harbour, Amorgos, Greece",
         "distanceDirectNm": 44.3,
@@ -4088,7 +4118,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Moored",
+      "id": "route-009"
     },
     {
       "date": "22-23 Jun",
@@ -4113,6 +4144,8 @@
       },
       "title": "Ios Harbour, Ios, Greece",
       "legFromPrevious": {
+        "fromId": "route-009",
+        "toId": "route-010",
         "fromTitle": "Katapola Harbour, Amorgos, Greece",
         "toTitle": "Ios Harbour, Ios, Greece",
         "distanceDirectNm": 29.1,
@@ -4181,7 +4214,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Moored",
+      "id": "route-010"
     },
     {
       "date": "23 Jun",
@@ -4208,6 +4242,8 @@
       },
       "title": "Agios Ioannis Bay, Ios, Greece",
       "legFromPrevious": {
+        "fromId": "route-010",
+        "toId": "route-011",
         "fromTitle": "Ios Harbour, Ios, Greece",
         "toTitle": "Agios Ioannis Bay, Ios, Greece",
         "distanceDirectNm": 0.9,
@@ -4252,7 +4288,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-011"
     },
     {
       "date": "24 Jun",
@@ -4275,6 +4312,8 @@
       },
       "title": "Passage to Zakynthos, Greece",
       "legFromPrevious": {
+        "fromId": "route-011",
+        "toId": "route-012",
         "fromTitle": "Agios Ioannis Bay, Ios, Greece",
         "toTitle": "Passage to Zakynthos, Greece",
         "distanceDirectNm": 45.8,
@@ -4331,7 +4370,8 @@
           ]
         ]
       },
-      "status": "Underway"
+      "status": "Underway",
+      "id": "route-012"
     },
     {
       "date": "25 Jun",
@@ -4354,6 +4394,8 @@
       },
       "title": "Passage to Zakynthos, Greece",
       "legFromPrevious": {
+        "fromId": "route-012",
+        "toId": "route-013",
         "fromTitle": "Passage to Zakynthos, Greece",
         "toTitle": "Passage to Zakynthos, Greece",
         "distanceDirectNm": 0.3,
@@ -4370,7 +4412,8 @@
           ]
         ]
       },
-      "status": "Underway"
+      "status": "Underway",
+      "id": "route-013"
     },
     {
       "date": "26-27 Jun",
@@ -4397,6 +4440,8 @@
       },
       "title": "Zakynthos Harbour, Greece",
       "legFromPrevious": {
+        "fromId": "route-013",
+        "toId": "route-014",
         "fromTitle": "Passage to Zakynthos, Greece",
         "toTitle": "Zakynthos Harbour, Greece",
         "distanceDirectNm": 177.9,
@@ -4468,7 +4513,9 @@
             20.904086
           ]
         ]
-      }
+      },
+      "id": "route-014",
+      "status": "Moored"
     },
     {
       "date": "28 Jun",
@@ -4493,6 +4540,8 @@
       },
       "title": "Sami Harbour, Kefalonia, Greece",
       "legFromPrevious": {
+        "fromId": "route-014",
+        "toId": "route-015",
         "fromTitle": "Zakynthos Harbour, Greece",
         "toTitle": "Sami Harbour, Kefalonia, Greece",
         "distanceDirectNm": 30.7,
@@ -4549,11 +4598,12 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Moored",
+      "id": "route-015"
     },
     {
       "date": "29-30 Jun",
-      "name": "Passage to Paxos, Greece",
+      "name": "Kaminia Anchorage, Kefalonia, Greece",
       "phase": "onboard",
       "lat": 38.43164,
       "lng": 20.58843,
@@ -4566,16 +4616,18 @@
         "localArea": "Passage past Ithaca",
         "lookupStatus": "ok",
         "lookupProvider": "manual editorial correction",
-        "displayName": "Passage to Paxos, Greece",
-        "shortName": "Passage to Paxos, Greece",
-        "rawDisplayName": "Passage to Paxos, Greece",
+        "displayName": "Kaminia Anchorage, Kefalonia, Greece",
+        "shortName": "Kaminia Anchorage, Kefalonia, Greece",
+        "rawDisplayName": "Kaminia Anchorage, Kefalonia, Greece",
         "lookupSource": "manual editorial correction for early historical AIS/location naming consistency",
         "nearestSettlement": "Ithaca"
       },
-      "title": "Passage to Paxos, Greece",
+      "title": "Kaminia Anchorage, Kefalonia, Greece",
       "legFromPrevious": {
+        "fromId": "route-015",
+        "toId": "route-016",
         "fromTitle": "Sami Harbour, Kefalonia, Greece",
-        "toTitle": "Passage to Paxos, Greece",
+        "toTitle": "Kaminia Anchorage, Kefalonia, Greece",
         "distanceDirectNm": 11.1,
         "distanceEstimatedNm": 11.6,
         "usesManualSeaRoute": true,
@@ -4606,7 +4658,8 @@
           ]
         ]
       },
-      "status": "Underway"
+      "status": "At anchor",
+      "id": "route-016"
     },
     {
       "date": "30 Jun",
@@ -4631,7 +4684,9 @@
       },
       "title": "Gaios Harbour Anchorage, Paxos, Greece",
       "legFromPrevious": {
-        "fromTitle": "Passage to Paxos, Greece",
+        "fromId": "route-016",
+        "toId": "route-017",
+        "fromTitle": "Kaminia Anchorage, Kefalonia, Greece",
         "toTitle": "Gaios Harbour Anchorage, Paxos, Greece",
         "distanceDirectNm": 49.9,
         "distanceEstimatedNm": 52.2,
@@ -4695,7 +4750,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-017"
     },
     {
       "date": "1 Jul",
@@ -4725,6 +4781,8 @@
         "nearestSettlement": "Barbati"
       },
       "legFromPrevious": {
+        "fromId": "route-017",
+        "toId": "route-018",
         "fromTitle": "Gaios Harbour Anchorage, Paxos, Greece",
         "toTitle": "Barbati Anchorage, Corfu, Greece",
         "distanceDirectNm": 34.0,
@@ -4761,7 +4819,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-018"
     },
     {
       "date": "1 Jul PM",
@@ -4794,6 +4853,8 @@
         "nearestSettlement": "Corfu Town"
       },
       "legFromPrevious": {
+        "fromId": "route-018",
+        "toId": "route-019",
         "fromTitle": "Barbati Anchorage, Corfu, Greece",
         "toTitle": "Garitsa Bay, Corfu, Greece",
         "distanceDirectNm": 6.1,
@@ -4822,7 +4883,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "Moored",
+      "id": "route-019"
     },
     {
       "date": "2 Jul",
@@ -4847,6 +4909,8 @@
         "nearestSettlement": "Cavtat"
       },
       "legFromPrevious": {
+        "fromId": "route-019",
+        "toId": "route-020",
         "fromTitle": "Garitsa Bay, Corfu, Greece",
         "toTitle": "Passage to Cavtat, Croatia",
         "distanceDirectNm": 26.0,
@@ -4883,7 +4947,8 @@
           ]
         ]
       },
-      "status": "Underway"
+      "status": "Underway",
+      "id": "route-020"
     },
     {
       "date": "3 Jul",
@@ -4913,6 +4978,8 @@
         "nearestSettlement": "Cavtat"
       },
       "legFromPrevious": {
+        "fromId": "route-020",
+        "toId": "route-021",
         "fromTitle": "Passage to Cavtat, Croatia",
         "toTitle": "Cavtat Harbour, Croatia",
         "distanceDirectNm": 168.0,
@@ -5001,7 +5068,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Moored",
+      "id": "route-021"
     },
     {
       "date": "4 Jul",
@@ -5026,6 +5094,8 @@
         "nearestSettlement": "Dubrovnik"
       },
       "legFromPrevious": {
+        "fromId": "route-021",
+        "toId": "route-022",
         "fromTitle": "Cavtat Harbour, Croatia",
         "toTitle": "Lokrum Strait, Dubrovnik, Croatia",
         "distanceDirectNm": 5.2,
@@ -5066,7 +5136,8 @@
           ]
         ]
       },
-      "status": "Underway"
+      "status": "Underway",
+      "id": "route-022"
     },
     {
       "date": "5 Jul",
@@ -5095,6 +5166,8 @@
         "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
+        "fromId": "route-022",
+        "toId": "route-023",
         "fromTitle": "Lokrum Strait, Dubrovnik, Croatia",
         "toTitle": "Passage to Mljet, Croatia",
         "distanceDirectNm": 16.7,
@@ -5139,7 +5212,8 @@
           ]
         ]
       },
-      "status": "Underway"
+      "status": "Underway",
+      "id": "route-023"
     },
     {
       "date": "5 Jul",
@@ -5165,6 +5239,8 @@
         "nearestSettlement": "Polače"
       },
       "legFromPrevious": {
+        "fromId": "route-023",
+        "toId": "route-024",
         "fromTitle": "Passage to Mljet, Croatia",
         "toTitle": "Polače Anchorage, Mljet, Croatia",
         "distanceDirectNm": 17.3,
@@ -5221,7 +5297,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-024"
     },
     {
       "date": "6 Jul",
@@ -5248,6 +5325,8 @@
         "lookupSource": "manual editorial correction from route map near Lumbarda/Korčula islets"
       },
       "legFromPrevious": {
+        "fromId": "route-024",
+        "toId": "route-025",
         "fromTitle": "Polače Anchorage, Mljet, Croatia",
         "toTitle": "Lumbarda Anchorage, Korčula, Croatia",
         "distanceDirectNm": 12.2,
@@ -5312,7 +5391,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-025"
     },
     {
       "date": "6 Jul",
@@ -5338,6 +5418,8 @@
         "nearestSettlement": "Korčula"
       },
       "legFromPrevious": {
+        "fromId": "route-025",
+        "toId": "route-026",
         "fromTitle": "Lumbarda Anchorage, Korčula, Croatia",
         "toTitle": "Korčula Port, Croatia",
         "distanceDirectNm": 2.9,
@@ -5426,7 +5508,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Moored",
+      "id": "route-026"
     },
     {
       "date": "7 Jul AM",
@@ -5455,6 +5538,8 @@
         "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
+        "fromId": "route-026",
+        "toId": "route-027",
         "fromTitle": "Korčula Port, Croatia",
         "toTitle": "Passage to Hvar, Croatia",
         "distanceDirectNm": 19.2,
@@ -5503,7 +5588,8 @@
           ]
         ]
       },
-      "status": "Underway"
+      "status": "Underway",
+      "id": "route-027"
     },
     {
       "date": "7 Jul",
@@ -5529,6 +5615,8 @@
         "nearestSettlement": "Palmižana"
       },
       "legFromPrevious": {
+        "fromId": "route-027",
+        "toId": "route-028",
         "fromTitle": "Passage to Hvar, Croatia",
         "toTitle": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia",
         "distanceDirectNm": 15.1,
@@ -5609,7 +5697,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-028"
     },
     {
       "date": "8 Jul - Late afternoon",
@@ -5638,6 +5727,8 @@
         "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
+        "fromId": "route-028",
+        "toId": "route-029",
         "fromTitle": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia",
         "toTitle": "Passage to Split, Croatia",
         "distanceDirectNm": 0.7,
@@ -5686,12 +5777,13 @@
           ]
         ]
       },
-      "status": "Underway"
+      "status": "Underway",
+      "id": "route-029"
     },
     {
       "date": "8 Jul - Early evening",
-      "title": "Approaching Split",
-      "name": "Approaching Split",
+      "title": "Approaching Split, Croatia",
+      "name": "Approaching Split, Croatia",
       "phase": "onboard",
       "lat": 43.398297,
       "lng": 16.415548,
@@ -5702,7 +5794,7 @@
         "osmType": "relation",
         "osmId": 226749,
         "displayName": "Approaching Split, Croatia",
-        "shortName": "Croatia",
+        "shortName": "Approaching Split, Croatia",
         "rawDisplayName": "Approaching Split, Croatia",
         "country": "Croatia",
         "countryCode": "HR",
@@ -5715,8 +5807,10 @@
         "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
+        "fromId": "route-029",
+        "toId": "route-030",
         "fromTitle": "Passage to Split, Croatia",
-        "toTitle": "Approaching Split",
+        "toTitle": "Approaching Split, Croatia",
         "distanceDirectNm": 13.6,
         "distanceEstimatedNm": 14.7,
         "usesManualSeaRoute": true,
@@ -5747,7 +5841,8 @@
           ]
         ]
       },
-      "status": "Underway"
+      "status": "Underway",
+      "id": "route-030"
     },
     {
       "date": "8 Jul - Evening",
@@ -5777,7 +5872,9 @@
         "nearestSettlement": "Split"
       },
       "legFromPrevious": {
-        "fromTitle": "Approaching Split",
+        "fromId": "route-030",
+        "toId": "route-031",
+        "fromTitle": "Approaching Split, Croatia",
         "toTitle": "Split City Harbour, Croatia",
         "distanceDirectNm": 6.5,
         "distanceEstimatedNm": 6.5,
@@ -5813,7 +5910,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Moored",
+      "id": "route-031"
     },
     {
       "date": "10 Jul",
@@ -5839,6 +5937,8 @@
         "nearestSettlement": "Milna"
       },
       "legFromPrevious": {
+        "fromId": "route-031",
+        "toId": "route-032",
         "fromTitle": "Split City Harbour, Croatia",
         "toTitle": "Zaglav Anchorage, Brač, Croatia",
         "distanceDirectNm": 10.8,
@@ -5899,7 +5999,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-032"
     },
     {
       "date": "11 Jul - AM",
@@ -5928,6 +6029,8 @@
         "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
+        "fromId": "route-032",
+        "toId": "route-033",
         "fromTitle": "Zaglav Anchorage, Brač, Croatia",
         "toTitle": "Passage to Vis, Croatia",
         "distanceDirectNm": 15.2,
@@ -5976,12 +6079,13 @@
           ]
         ]
       },
-      "status": "Underway"
+      "status": "Underway",
+      "id": "route-033"
     },
     {
       "date": "11 Jul - Late morning",
-      "title": "Vis Harbour, Vis Island, Croatia",
-      "name": "Vis Harbour, Vis Island, Croatia",
+      "title": "Passage to Vis, Croatia",
+      "name": "Passage to Vis, Croatia",
       "phase": "onboard",
       "lat": 43.063962,
       "lng": 16.195414,
@@ -5991,9 +6095,9 @@
         "lookupProvider": "manual editorial correction",
         "osmType": "relation",
         "osmId": 226749,
-        "displayName": "Vis Harbour, Vis Island, Croatia",
-        "shortName": "Vis Harbour, Vis Island, Croatia",
-        "rawDisplayName": "Vis Harbour, Vis Island, Croatia",
+        "displayName": "Passage to Vis, Croatia",
+        "shortName": "Passage to Vis, Croatia",
+        "rawDisplayName": "Passage to Vis, Croatia",
         "country": "Croatia",
         "countryCode": "HR",
         "region": null,
@@ -6006,8 +6110,10 @@
         "nearestSettlement": "Vis"
       },
       "legFromPrevious": {
+        "fromId": "route-033",
+        "toId": "route-034",
         "fromTitle": "Passage to Vis, Croatia",
-        "toTitle": "Vis Harbour, Vis Island, Croatia",
+        "toTitle": "Passage to Vis, Croatia",
         "distanceDirectNm": 3.6,
         "distanceEstimatedNm": 3.7,
         "usesManualSeaRoute": true,
@@ -6038,7 +6144,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Underway",
+      "id": "route-034"
     },
     {
       "date": "11 Jul - PM",
@@ -6068,7 +6175,9 @@
         "nearestSettlement": "Vis"
       },
       "legFromPrevious": {
-        "fromTitle": "Vis Harbour, Vis Island, Croatia",
+        "fromId": "route-034",
+        "toId": "route-035",
+        "fromTitle": "Passage to Vis, Croatia",
         "toTitle": "Vis Harbour, Vis Island, Croatia",
         "distanceDirectNm": 0.4,
         "distanceEstimatedNm": 0.4,
@@ -6088,7 +6197,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Moored",
+      "id": "route-035"
     },
     {
       "date": "13 Jul - At anchor off Komiža (Mamma Mia 2 town)",
@@ -6114,6 +6224,8 @@
         "nearestSettlement": "Komiža"
       },
       "legFromPrevious": {
+        "fromId": "route-035",
+        "toId": "route-036",
         "fromTitle": "Vis Harbour, Vis Island, Croatia",
         "toTitle": "Komiža Anchorage, Vis Island, Croatia",
         "distanceDirectNm": 4.7,
@@ -6194,12 +6306,13 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-036"
     },
     {
       "date": "14 Jul - AM",
-      "title": "En route to Kaprije",
-      "name": "En route to Kaprije",
+      "title": "Passage to Kaprije, Croatia",
+      "name": "Passage to Kaprije, Croatia",
       "phase": "onboard",
       "lat": 43.412623,
       "lng": 15.884171,
@@ -6209,9 +6322,9 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": "relation",
         "osmId": 226741,
-        "displayName": "Near Šibenik-Knin County, Croatia",
-        "shortName": "Šibenik-Knin County",
-        "rawDisplayName": "Šibenik-Knin County, Croatia",
+        "displayName": "Passage to Kaprije, Croatia",
+        "shortName": "Passage to Kaprije, Croatia",
+        "rawDisplayName": "Passage to Kaprije, Croatia",
         "country": "Croatia",
         "countryCode": "HR",
         "region": null,
@@ -6223,8 +6336,10 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-036",
+        "toId": "route-037",
         "fromTitle": "Komiža Anchorage, Vis Island, Croatia",
-        "toTitle": "En route to Kaprije",
+        "toTitle": "Passage to Kaprije, Croatia",
         "distanceDirectNm": 23.7,
         "distanceEstimatedNm": 26.2,
         "usesManualSeaRoute": true,
@@ -6254,7 +6369,9 @@
             15.884171
           ]
         ]
-      }
+      },
+      "id": "route-037",
+      "status": "Underway"
     },
     {
       "date": "14 Jul - Kakan",
@@ -6280,7 +6397,9 @@
         "nearestSettlement": "Kakan"
       },
       "legFromPrevious": {
-        "fromTitle": "En route to Kaprije",
+        "fromId": "route-037",
+        "toId": "route-038",
+        "fromTitle": "Passage to Kaprije, Croatia",
         "toTitle": "Potkućina Bay, Kakan, Croatia",
         "distanceDirectNm": 19.5,
         "distanceEstimatedNm": 20.2,
@@ -6336,7 +6455,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-038"
     },
     {
       "date": "15 Jul - AM",
@@ -6366,6 +6486,8 @@
         "nearestSettlement": "Smokvica Vela"
       },
       "legFromPrevious": {
+        "fromId": "route-038",
+        "toId": "route-039",
         "fromTitle": "Potkućina Bay, Kakan, Croatia",
         "toTitle": "Lojena Bay, Smokvica Vela, Croatia",
         "distanceDirectNm": 8.3,
@@ -6438,7 +6560,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-039"
     },
     {
       "date": "16 Jul - late morning",
@@ -6467,6 +6590,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-039",
+        "toId": "route-040",
         "fromTitle": "Lojena Bay, Smokvica Vela, Croatia",
         "toTitle": "Lapatica Bay, Kornat Island, Croatia",
         "distanceDirectNm": 7.1,
@@ -6542,7 +6667,9 @@
             15.339296
           ]
         ]
-      }
+      },
+      "id": "route-040",
+      "status": "At anchor"
     },
     {
       "date": "17 Jul - AM",
@@ -6572,6 +6699,8 @@
         "nearestSettlement": "Levrnaka"
       },
       "legFromPrevious": {
+        "fromId": "route-040",
+        "toId": "route-041",
         "fromTitle": "Lapatica Bay, Kornat Island, Croatia",
         "toTitle": "Levrnaka Bay, Kornati National Park, Croatia",
         "distanceDirectNm": 4.3,
@@ -6644,7 +6773,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-041"
     },
     {
       "date": "18 Jul",
@@ -6670,6 +6800,8 @@
         "nearestSettlement": "Žut"
       },
       "legFromPrevious": {
+        "fromId": "route-041",
+        "toId": "route-042",
         "fromTitle": "Levrnaka Bay, Kornati National Park, Croatia",
         "toTitle": "Hiljača Anchorage, Žut, Croatia",
         "distanceDirectNm": 4.2,
@@ -6838,12 +6970,13 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-042"
     },
     {
       "date": "19 Jul AM",
-      "title": "En route to Zadar",
-      "name": "En route to Zadar",
+      "title": "Passage to Zadar, Croatia",
+      "name": "Passage to Zadar, Croatia",
       "phase": "onboard",
       "lat": 44.057565,
       "lng": 15.270395,
@@ -6853,9 +6986,9 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": "relation",
         "osmId": 226726,
-        "displayName": "Near Zadar County, Croatia",
-        "shortName": "Zadar County",
-        "rawDisplayName": "Zadar County, Croatia",
+        "displayName": "Passage to Zadar, Croatia",
+        "shortName": "Passage to Zadar, Croatia",
+        "rawDisplayName": "Passage to Zadar, Croatia",
         "country": "Croatia",
         "countryCode": "HR",
         "region": null,
@@ -6867,8 +7000,10 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-042",
+        "toId": "route-043",
         "fromTitle": "Hiljača Anchorage, Žut, Croatia",
-        "toTitle": "En route to Zadar",
+        "toTitle": "Passage to Zadar, Croatia",
         "distanceDirectNm": 11.7,
         "distanceEstimatedNm": 19.9,
         "usesManualSeaRoute": true,
@@ -6942,7 +7077,9 @@
             15.270395
           ]
         ]
-      }
+      },
+      "id": "route-043",
+      "status": "Underway"
     },
     {
       "date": "19 Jul 09:35 UTC",
@@ -6972,7 +7109,9 @@
         "nearestSettlement": "Zadar"
       },
       "legFromPrevious": {
-        "fromTitle": "En route to Zadar",
+        "fromId": "route-043",
+        "toId": "route-044",
+        "fromTitle": "Passage to Zadar, Croatia",
         "toTitle": "Zadar Harbour, Croatia",
         "distanceDirectNm": 4.2,
         "distanceEstimatedNm": 4.7,
@@ -7012,7 +7151,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Moored",
+      "id": "route-044"
     },
     {
       "date": "22 Jul",
@@ -7041,6 +7181,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-044",
+        "toId": "route-045",
         "fromTitle": "Zadar Harbour, Croatia",
         "toTitle": "Kablin Bay, Zverinac Island, Croatia",
         "distanceDirectNm": 12.8,
@@ -7168,7 +7310,9 @@
             14.928773
           ]
         ]
-      }
+      },
+      "id": "route-045",
+      "status": "At anchor"
     },
     {
       "date": "23 Jul",
@@ -7197,6 +7341,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-045",
+        "toId": "route-046",
         "fromTitle": "Kablin Bay, Zverinac Island, Croatia",
         "toTitle": "Sakarun Bay, Dugi Otok, Croatia",
         "distanceDirectNm": 2.6,
@@ -7296,7 +7442,9 @@
             14.878653
           ]
         ]
-      }
+      },
+      "id": "route-046",
+      "status": "At anchor"
     },
     {
       "date": "24 Jul",
@@ -7325,6 +7473,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-046",
+        "toId": "route-047",
         "fromTitle": "Sakarun Bay, Dugi Otok, Croatia",
         "toTitle": "Zadar Anchorage, Croatia",
         "distanceDirectNm": 14.6,
@@ -7420,12 +7570,14 @@
             15.218028
           ]
         ]
-      }
+      },
+      "id": "route-047",
+      "status": "At anchor"
     },
     {
       "date": "24 Jul - Early evening",
-      "title": "En route to Crotone, Italy",
-      "name": "En route to Crotone, Italy",
+      "title": "Passage to Crotone, Italy",
+      "name": "Passage to Crotone, Italy",
       "phase": "onboard",
       "lat": 43.72784,
       "lng": 15.546513,
@@ -7435,9 +7587,9 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": "relation",
         "osmId": 226741,
-        "displayName": "Near Šibenik-Knin County, Croatia",
-        "shortName": "Šibenik-Knin County",
-        "rawDisplayName": "Šibenik-Knin County, Croatia",
+        "displayName": "Passage to Crotone, Italy",
+        "shortName": "Passage to Crotone, Italy",
+        "rawDisplayName": "Passage to Crotone, Italy",
         "country": "Croatia",
         "countryCode": "HR",
         "region": null,
@@ -7449,8 +7601,10 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-047",
+        "toId": "route-048",
         "fromTitle": "Zadar Anchorage, Croatia",
-        "toTitle": "En route to Crotone, Italy",
+        "toTitle": "Passage to Crotone, Italy",
         "distanceDirectNm": 27.6,
         "distanceEstimatedNm": 28.7,
         "usesManualSeaRoute": true,
@@ -7524,12 +7678,14 @@
             15.546513
           ]
         ]
-      }
+      },
+      "id": "route-048",
+      "status": "Underway"
     },
     {
       "date": "25 Jul - Very early hours",
-      "title": "En route to Crotone, Italy",
-      "name": "En route to Crotone, Italy",
+      "title": "Passage to Crotone, Italy",
+      "name": "Passage to Crotone, Italy",
       "phase": "onboard",
       "lat": 43.247797,
       "lng": 16.11763,
@@ -7539,9 +7695,9 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": "relation",
         "osmId": 226749,
-        "displayName": "Near Split-Dalmatia County, Croatia",
-        "shortName": "Split-Dalmatia County",
-        "rawDisplayName": "Split-Dalmatia County, Croatia",
+        "displayName": "Passage to Crotone, Italy",
+        "shortName": "Passage to Crotone, Italy",
+        "rawDisplayName": "Passage to Crotone, Italy",
         "country": "Croatia",
         "countryCode": "HR",
         "region": null,
@@ -7553,8 +7709,10 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
-        "fromTitle": "En route to Crotone, Italy",
-        "toTitle": "En route to Crotone, Italy",
+        "fromId": "route-048",
+        "toId": "route-049",
+        "fromTitle": "Passage to Crotone, Italy",
+        "toTitle": "Passage to Crotone, Italy",
         "distanceDirectNm": 38.1,
         "distanceEstimatedNm": 38.4,
         "usesManualSeaRoute": true,
@@ -7576,12 +7734,14 @@
             16.11763
           ]
         ]
-      }
+      },
+      "id": "route-049",
+      "status": "Underway"
     },
     {
       "date": "25 Jul - Mid morning",
-      "title": "En route to Crotone, Italy",
-      "name": "En route to Crotone, Italy",
+      "title": "Passage to Crotone, Italy",
+      "name": "Passage to Crotone, Italy",
       "phase": "onboard",
       "lat": 41.900616,
       "lng": 17.295227,
@@ -7591,9 +7751,9 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": null,
         "osmId": null,
-        "displayName": "En route to Crotone, Italy",
-        "shortName": "En route to Crotone, Italy",
-        "rawDisplayName": null,
+        "displayName": "Passage to Crotone, Italy",
+        "shortName": "Passage to Crotone, Italy",
+        "rawDisplayName": "Passage to Crotone, Italy",
         "country": null,
         "countryCode": null,
         "region": null,
@@ -7605,8 +7765,10 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
-        "fromTitle": "En route to Crotone, Italy",
-        "toTitle": "En route to Crotone, Italy",
+        "fromId": "route-049",
+        "toId": "route-050",
+        "fromTitle": "Passage to Crotone, Italy",
+        "toTitle": "Passage to Crotone, Italy",
         "distanceDirectNm": 96.2,
         "distanceEstimatedNm": 96.6,
         "usesManualSeaRoute": true,
@@ -7640,12 +7802,14 @@
             17.295227
           ]
         ]
-      }
+      },
+      "id": "route-050",
+      "status": "Underway"
     },
     {
       "date": "25 Jul - Mid afternoon",
-      "title": "En route to Crotone, Italy",
-      "name": "En route to Crotone, Italy",
+      "title": "Passage to Crotone, Italy",
+      "name": "Passage to Crotone, Italy",
       "phase": "onboard",
       "lat": 41.230702,
       "lng": 17.822571,
@@ -7655,9 +7819,9 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": null,
         "osmId": null,
-        "displayName": "En route to Crotone, Italy",
-        "shortName": "En route to Crotone, Italy",
-        "rawDisplayName": null,
+        "displayName": "Passage to Crotone, Italy",
+        "shortName": "Passage to Crotone, Italy",
+        "rawDisplayName": "Passage to Crotone, Italy",
         "country": null,
         "countryCode": null,
         "region": null,
@@ -7669,8 +7833,10 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
-        "fromTitle": "En route to Crotone, Italy",
-        "toTitle": "En route to Crotone, Italy",
+        "fromId": "route-050",
+        "toId": "route-051",
+        "fromTitle": "Passage to Crotone, Italy",
+        "toTitle": "Passage to Crotone, Italy",
         "distanceDirectNm": 46.7,
         "distanceEstimatedNm": 46.7,
         "usesManualSeaRoute": false,
@@ -7684,12 +7850,14 @@
             17.822571
           ]
         ]
-      }
+      },
+      "id": "route-051",
+      "status": "Underway"
     },
     {
       "date": "25 Jul - Early evening",
-      "title": "En route to Crotone, Italy",
-      "name": "En route to Crotone, Italy",
+      "title": "Passage to Crotone, Italy",
+      "name": "Passage to Crotone, Italy",
       "phase": "onboard",
       "lat": 40.416829,
       "lng": 18.386993,
@@ -7699,9 +7867,9 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": "relation",
         "osmId": 365331,
-        "displayName": "En route to Crotone, Italy",
-        "shortName": "En route to Crotone, Italy",
-        "rawDisplayName": "Italy",
+        "displayName": "Passage to Crotone, Italy",
+        "shortName": "Passage to Crotone, Italy",
+        "rawDisplayName": "Passage to Crotone, Italy",
         "country": "Italy",
         "countryCode": "IT",
         "region": null,
@@ -7713,8 +7881,10 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
-        "fromTitle": "En route to Crotone, Italy",
-        "toTitle": "En route to Crotone, Italy",
+        "fromId": "route-051",
+        "toId": "route-052",
+        "fromTitle": "Passage to Crotone, Italy",
+        "toTitle": "Passage to Crotone, Italy",
         "distanceDirectNm": 55.2,
         "distanceEstimatedNm": 55.3,
         "usesManualSeaRoute": true,
@@ -7732,7 +7902,9 @@
             18.386993
           ]
         ]
-      }
+      },
+      "id": "route-052",
+      "status": "Underway"
     },
     {
       "date": "26 Jul - In time for breakfast",
@@ -7761,7 +7933,9 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
-        "fromTitle": "En route to Crotone, Italy",
+        "fromId": "route-052",
+        "toId": "route-053",
+        "fromTitle": "Passage to Crotone, Italy",
         "toTitle": "Crotone Old Harbour, Calabria, Italy",
         "distanceDirectNm": 98.9,
         "distanceEstimatedNm": 117.4,
@@ -7852,7 +8026,9 @@
             17.137229
           ]
         ]
-      }
+      },
+      "id": "route-053",
+      "status": "Moored"
     },
     {
       "date": "28 Jul 4 AM - Early departure",
@@ -7881,6 +8057,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-053",
+        "toId": "route-054",
         "fromTitle": "Crotone Old Harbour, Calabria, Italy",
         "toTitle": "Passage to Valletta, Malta",
         "distanceDirectNm": 164.9,
@@ -7972,7 +8150,9 @@
             15.423431
           ]
         ]
-      }
+      },
+      "id": "route-054",
+      "status": "Underway"
     },
     {
       "date": "29 Jul - AM",
@@ -8001,6 +8181,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-054",
+        "toId": "route-055",
         "fromTitle": "Passage to Valletta, Malta",
         "toTitle": "Passage to Valletta, Malta",
         "distanceDirectNm": 63.8,
@@ -8048,11 +8230,14 @@
             14.532788
           ]
         ]
-      }
+      },
+      "id": "route-055",
+      "status": "Underway"
     },
     {
       "date": "29 Jul - In time for breakfast again",
       "title": "Grand Harbour Marina, Vittoriosa, Malta",
+      "status": "Underway",
       "name": "Grand Harbour Marina, Vittoriosa, Malta",
       "phase": "onboard",
       "lat": 35.891002,
@@ -8077,6 +8262,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-055",
+        "toId": "route-056",
         "fromTitle": "Passage to Valletta, Malta",
         "toTitle": "Grand Harbour Marina, Vittoriosa, Malta",
         "distanceDirectNm": 1.0,
@@ -8140,7 +8327,8 @@
             14.518052
           ]
         ]
-      }
+      },
+      "id": "route-056"
     },
     {
       "date": "30 Jul - Early afternoon",
@@ -8169,6 +8357,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-056",
+        "toId": "route-057",
         "fromTitle": "Grand Harbour Marina, Vittoriosa, Malta",
         "toTitle": "Comino Anchorage, Malta",
         "distanceDirectNm": 11.7,
@@ -8256,7 +8446,9 @@
             14.325169
           ]
         ]
-      }
+      },
+      "id": "route-057",
+      "status": "At anchor"
     },
     {
       "date": "31 Jul AM",
@@ -8285,6 +8477,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-057",
+        "toId": "route-058",
         "fromTitle": "Comino Anchorage, Malta",
         "toTitle": "Dwejra Bay, Gozo, Malta",
         "distanceDirectNm": 6.8,
@@ -8361,7 +8555,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "At anchor",
+      "id": "route-058"
     },
     {
       "date": "2 Aug",
@@ -8390,6 +8585,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-058",
+        "toId": "route-059",
         "fromTitle": "Dwejra Bay, Gozo, Malta",
         "toTitle": "Ramla Bay, Gozo, Malta",
         "distanceDirectNm": 4.3,
@@ -8481,7 +8678,9 @@
             14.276824
           ]
         ]
-      }
+      },
+      "id": "route-059",
+      "status": "At anchor"
     },
     {
       "date": "3 Aug - 5AM departure",
@@ -8510,6 +8709,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-059",
+        "toId": "route-060",
         "fromTitle": "Ramla Bay, Gozo, Malta",
         "toTitle": "Passage to Sicily",
         "distanceDirectNm": 34.1,
@@ -8545,12 +8746,14 @@
             14.823825
           ]
         ]
-      }
+      },
+      "id": "route-060",
+      "status": "At anchor"
     },
     {
       "date": "3 Aug",
-      "title": "Porto Grande, Syracuse, Sicily, Italy",
-      "name": "Porto Grande, Syracuse, Sicily, Italy",
+      "title": "Passage to Syracuse, Sicily, Italy",
+      "name": "Passage to Syracuse, Sicily, Italy",
       "phase": "onboard",
       "lat": 37.059785,
       "lng": 15.29148,
@@ -8560,9 +8763,9 @@
         "lookupProvider": "manual editorial correction",
         "osmType": "node",
         "osmId": 1932675079,
-        "displayName": "Porto Grande, Syracuse, Sicily, Italy",
-        "shortName": "Porto Grande, Syracuse, Sicily, Italy",
-        "rawDisplayName": "Porto Grande, Syracuse, Sicily, Italy",
+        "displayName": "Passage to Syracuse, Sicily, Italy",
+        "shortName": "Passage to Syracuse, Sicily, Italy",
+        "rawDisplayName": "Passage to Syracuse, Sicily, Italy",
         "country": "Italy",
         "countryCode": "IT",
         "region": "Sicily",
@@ -8574,8 +8777,10 @@
         "lookupSource": "manual editorial correction for location naming consistency"
       },
       "legFromPrevious": {
+        "fromId": "route-060",
+        "toId": "route-061",
         "fromTitle": "Passage to Sicily",
-        "toTitle": "Porto Grande, Syracuse, Sicily, Italy",
+        "toTitle": "Passage to Syracuse, Sicily, Italy",
         "distanceDirectNm": 44.4,
         "distanceEstimatedNm": 54.6,
         "usesManualSeaRoute": true,
@@ -8630,7 +8835,8 @@
           ]
         ]
       },
-      "status": "Moored"
+      "status": "Underway",
+      "id": "route-061"
     },
     {
       "date": "6 Aug - Early morning departure",
@@ -8659,7 +8865,9 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
-        "fromTitle": "Porto Grande, Syracuse, Sicily, Italy",
+        "fromId": "route-061",
+        "toId": "route-062",
+        "fromTitle": "Passage to Syracuse, Sicily, Italy",
         "toTitle": "Passage to Capo Passero, Sicily, Italy",
         "distanceDirectNm": 4.1,
         "distanceEstimatedNm": 4.9,
@@ -8698,7 +8906,9 @@
             15.374802
           ]
         ]
-      }
+      },
+      "id": "route-062",
+      "status": "Underway"
     },
     {
       "date": "6 Aug",
@@ -8727,6 +8937,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-062",
+        "toId": "route-063",
         "fromTitle": "Passage to Capo Passero, Sicily, Italy",
         "toTitle": "Capo Passero Anchorage, Sicily, Italy",
         "distanceDirectNm": 24.0,
@@ -8770,7 +8982,9 @@
             15.141446
           ]
         ]
-      }
+      },
+      "id": "route-063",
+      "status": "Underway"
     },
     {
       "date": "8 Aug AM",
@@ -8799,6 +9013,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-063",
+        "toId": "route-064",
         "fromTitle": "Capo Passero Anchorage, Sicily, Italy",
         "toTitle": "Passage to Syracuse, Sicily, Italy",
         "distanceDirectNm": 14.2,
@@ -8834,7 +9050,9 @@
             15.311543
           ]
         ]
-      }
+      },
+      "id": "route-064",
+      "status": "At anchor"
     },
     {
       "date": "8 Aug - Return to Syracuse",
@@ -8863,6 +9081,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-064",
+        "toId": "route-065",
         "fromTitle": "Passage to Syracuse, Sicily, Italy",
         "toTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
         "distanceDirectNm": 10.3,
@@ -8927,7 +9147,8 @@
           ]
         ]
       },
-      "status": "At anchor"
+      "status": "Underway",
+      "id": "route-065"
     },
     {
       "date": "9 Aug - Late afternoon",
@@ -8956,6 +9177,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-065",
+        "toId": "route-066",
         "fromTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
         "toTitle": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
         "distanceDirectNm": 40.9,
@@ -9067,7 +9290,9 @@
             15.208839
           ]
         ]
-      }
+      },
+      "id": "route-066",
+      "status": "Moored"
     },
     {
       "date": "11 Aug - 9am arrival",
@@ -9096,6 +9321,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-066",
+        "toId": "route-067",
         "fromTitle": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
         "toTitle": "Taormina Anchorage, Sicily, Italy",
         "distanceDirectNm": 8.0,
@@ -9159,7 +9386,9 @@
             15.294498
           ]
         ]
-      }
+      },
+      "id": "route-067",
+      "status": "At anchor"
     },
     {
       "date": "13 Aug - Early afternoon",
@@ -9188,6 +9417,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-067",
+        "toId": "route-068",
         "fromTitle": "Taormina Anchorage, Sicily, Italy",
         "toTitle": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
         "distanceDirectNm": 47.8,
@@ -9291,7 +9522,9 @@
             15.059531
           ]
         ]
-      }
+      },
+      "id": "route-068",
+      "status": "Moored"
     },
     {
       "date": "13 Aug - Early evening volcano watch",
@@ -9320,6 +9553,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-068",
+        "toId": "route-069",
         "fromTitle": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
         "toTitle": "Off Stromboli, Aeolian Islands, Sicily, Italy",
         "distanceDirectNm": 13.6,
@@ -9372,7 +9607,8 @@
           ]
         ]
       },
-      "status": "Underway"
+      "status": "At anchor",
+      "id": "route-069"
     },
     {
       "date": "14 Aug - Early hours arrival",
@@ -9401,6 +9637,8 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-069",
+        "toId": "route-070",
         "fromTitle": "Off Stromboli, Aeolian Islands, Sicily, Italy",
         "toTitle": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
         "distanceDirectNm": 25.7,
@@ -9476,12 +9714,14 @@
             14.942077
           ]
         ]
-      }
+      },
+      "id": "route-070",
+      "status": "At anchor"
     },
     {
       "date": "15 Aug mid morning",
-      "title": "Passage to Palermo (estimated)",
-      "name": "Passage to Palermo (estimated)",
+      "title": "Passage to Mondello, Sicily, Italy",
+      "name": "Passage to Mondello, Sicily, Italy",
       "phase": "onboard",
       "lat": 38.33213,
       "lng": 14.305573,
@@ -9491,8 +9731,8 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": null,
         "osmId": null,
-        "displayName": "Passage to Palermo (estimated)",
-        "shortName": "Passage to Palermo (estimated)",
+        "displayName": "Passage to Mondello, Sicily, Italy",
+        "shortName": "Passage to Mondello, Sicily, Italy",
         "rawDisplayName": null,
         "country": null,
         "countryCode": null,
@@ -9505,8 +9745,10 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-070",
+        "toId": "route-071",
         "fromTitle": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
-        "toTitle": "Passage to Palermo (estimated)",
+        "toTitle": "Passage to Mondello, Sicily, Italy",
         "distanceDirectNm": 30.7,
         "distanceEstimatedNm": 30.7,
         "usesManualSeaRoute": false,
@@ -9520,7 +9762,9 @@
             14.305573
           ]
         ]
-      }
+      },
+      "id": "route-071",
+      "status": "Underway"
     },
     {
       "date": "15 Aug - early afternoon",
@@ -9549,7 +9793,9 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
-        "fromTitle": "Passage to Palermo (estimated)",
+        "fromId": "route-071",
+        "toId": "route-072",
+        "fromTitle": "Passage to Mondello, Sicily, Italy",
         "toTitle": "Mondello Anchorage, Sicily, Italy",
         "distanceDirectNm": 46.3,
         "distanceEstimatedNm": 46.3,
@@ -9564,12 +9810,14 @@
             13.336523
           ]
         ]
-      }
+      },
+      "id": "route-072",
+      "status": "At anchor"
     },
     {
       "date": "15 Aug - Evening",
-      "title": "Passage to Menorca",
-      "name": "Passage to Menorca",
+      "title": "Passage to Mondello, Sicily, Italy",
+      "name": "Passage to Mondello, Sicily, Italy",
       "phase": "onboard",
       "lat": 38.343356,
       "lng": 12.65419,
@@ -9579,9 +9827,9 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": "relation",
         "osmId": 365331,
-        "displayName": "Passage to Menorca",
-        "shortName": "Passage to Menorca",
-        "rawDisplayName": "Italy",
+        "displayName": "Passage to Mondello, Sicily, Italy",
+        "shortName": "Passage to Mondello, Sicily, Italy",
+        "rawDisplayName": "Passage to Mondello, Sicily, Italy",
         "country": "Italy",
         "countryCode": "IT",
         "region": null,
@@ -9593,8 +9841,10 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
+        "fromId": "route-072",
+        "toId": "route-073",
         "fromTitle": "Mondello Anchorage, Sicily, Italy",
-        "toTitle": "Passage to Menorca",
+        "toTitle": "Passage to Mondello, Sicily, Italy",
         "distanceDirectNm": 33.2,
         "distanceEstimatedNm": 34.5,
         "usesManualSeaRoute": true,
@@ -9620,12 +9870,14 @@
             12.65419
           ]
         ]
-      }
+      },
+      "id": "route-073",
+      "status": "Underway"
     },
     {
       "date": "16 Aug - early evening",
-      "title": "Sicily to Menorca passage update",
-      "name": "Sicily to Menorca passage update",
+      "title": "Passage to Menorca, Spain update",
+      "name": "Passage to Menorca, Spain update",
       "phase": "onboard",
       "lat": 38.900201,
       "lng": 8.090744,
@@ -9635,8 +9887,8 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": null,
         "osmId": null,
-        "displayName": "Sicily to Menorca passage update",
-        "shortName": "Sicily to Menorca passage update",
+        "displayName": "Passage to Menorca, Spain update",
+        "shortName": "Passage to Menorca, Spain update",
         "rawDisplayName": null,
         "country": null,
         "countryCode": null,
@@ -9649,8 +9901,10 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
-        "fromTitle": "Passage to Menorca",
-        "toTitle": "Sicily to Menorca passage update",
+        "fromId": "route-073",
+        "toId": "route-074",
+        "fromTitle": "Passage to Mondello, Sicily, Italy",
+        "toTitle": "Passage to Menorca, Spain update",
         "distanceDirectNm": 216.6,
         "distanceEstimatedNm": 216.8,
         "usesManualSeaRoute": true,
@@ -9672,12 +9926,14 @@
             8.090744
           ]
         ]
-      }
+      },
+      "id": "route-074",
+      "status": "Underway"
     },
     {
       "date": "17 Aug - 9am",
-      "title": "Menorca approach",
-      "name": "Menorca approach",
+      "title": "Approaching Menorca, Spain",
+      "name": "Approaching Menorca, Spain",
       "phase": "onboard",
       "lat": 39.79196,
       "lng": 4.570656,
@@ -9687,9 +9943,9 @@
         "lookupProvider": "OpenStreetMap Nominatim",
         "osmType": null,
         "osmId": null,
-        "displayName": "Menorca approach",
-        "shortName": "Menorca approach",
-        "rawDisplayName": null,
+        "displayName": "Approaching Menorca, Spain",
+        "shortName": "Approaching Menorca, Spain",
+        "rawDisplayName": "Approaching Menorca, Spain",
         "country": null,
         "countryCode": null,
         "region": null,
@@ -9701,8 +9957,10 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
-        "fromTitle": "Sicily to Menorca passage update",
-        "toTitle": "Menorca approach",
+        "fromId": "route-074",
+        "toId": "route-075",
+        "fromTitle": "Passage to Menorca, Spain update",
+        "toTitle": "Approaching Menorca, Spain",
         "distanceDirectNm": 172.0,
         "distanceEstimatedNm": 172.0,
         "usesManualSeaRoute": false,
@@ -9716,16 +9974,19 @@
             4.570656
           ]
         ]
-      }
+      },
+      "id": "route-075",
+      "status": "Underway"
     },
     {
       "date": "17 Aug morning arrival",
       "title": "Port de Maó Mooring, Menorca, Spain",
       "name": "Port de Maó Mooring, Menorca, Spain",
       "phase": "current",
-      "lat": 39.889073,
-      "lng": 4.27727,
+      "lat": 39.888975,
+      "lng": 4.27726,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "status": "Moored",
       "location": {
         "lookupStatus": "ok",
         "lookupProvider": "OpenStreetMap Nominatim",
@@ -9733,7 +9994,7 @@
         "osmId": 1311341,
         "displayName": "Port de Maó Mooring, Menorca, Spain",
         "shortName": "Port de Maó Mooring, Menorca, Spain",
-        "rawDisplayName": "Spain",
+        "rawDisplayName": "Port de Maó Mooring, Menorca, Spain",
         "country": "Spain",
         "countryCode": "ES",
         "region": null,
@@ -9745,7 +10006,9 @@
         "lookupSource": "OpenStreetMap Nominatim"
       },
       "legFromPrevious": {
-        "fromTitle": "Menorca approach",
+        "fromId": "route-075",
+        "toId": "route-076",
+        "fromTitle": "Approaching Menorca, Spain",
         "toTitle": "Port de Maó Mooring, Menorca, Spain",
         "distanceDirectNm": 14.7,
         "distanceEstimatedNm": 15.0,
@@ -9800,11 +10063,12 @@
             4.277399
           ],
           [
-            39.889073,
-            4.27727
+            39.888975,
+            4.27726
           ]
         ]
-      }
+      },
+      "id": "route-076"
     }
   ]
 }

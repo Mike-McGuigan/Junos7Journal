@@ -7,8 +7,8 @@
   "imo": "1109712",
   "routePoint": {
     "date": "8 Jul - Early evening",
-    "title": "Approaching Split",
-    "name": "Approaching Split",
+    "title": "Approaching Split, Croatia",
+    "name": "Approaching Split, Croatia",
     "phase": "current",
     "lat": 43.398297,
     "lng": 16.415548,
@@ -30,13 +30,14 @@
       "nearestPlace": "Split-Dalmatia County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-030"
   },
   "tracker": {
     "timestampUtc": "2026-07-08T16:16:58.701Z",
     "status": "Underway",
-    "title": "Approaching Split",
-    "area": "Approaching Split",
+    "title": "Approaching Split, Croatia",
+    "area": "Approaching Split, Croatia",
     "position": {
       "lat": 43.398297,
       "lng": 16.415548,
@@ -62,6 +63,7 @@
       "nearestPlace": "Split-Dalmatia County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-030"
   }
 }

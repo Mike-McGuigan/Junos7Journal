@@ -62,6 +62,7 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-058"
   }
 }

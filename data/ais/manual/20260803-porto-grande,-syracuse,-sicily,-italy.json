@@ -7,8 +7,8 @@
   "imo": "1109712",
   "routePoint": {
     "date": "3 Aug",
-    "title": "Porto Grande, Syracuse, Sicily, Italy",
-    "name": "Porto Grande, Syracuse, Sicily, Italy",
+    "title": "Passage to Syracuse, Sicily, Italy",
+    "name": "Passage to Syracuse, Sicily, Italy",
     "phase": "current",
     "lat": 37.059785,
     "lng": 15.29148,
@@ -30,13 +30,14 @@
       "nearestPlace": "Syracuse",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-061"
   },
   "tracker": {
     "timestampUtc": "2026-08-03T17:19:34.746Z",
-    "status": "Moored",
-    "title": "Porto Grande, Syracuse, Sicily, Italy",
-    "area": "Porto Grande, Syracuse, Sicily, Italy",
+    "status": "Underway",
+    "title": "Passage to Syracuse, Sicily, Italy",
+    "area": "Passage to Syracuse, Sicily, Italy",
     "position": {
       "lat": 37.059785,
       "lng": 15.29148,
@@ -62,6 +63,7 @@
       "nearestPlace": "Syracuse",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-061"
   }
 }

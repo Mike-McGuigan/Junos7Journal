@@ -12,7 +12,8 @@
     "phase": "current",
     "lat": 43.172564,
     "lng": 16.396708,
-    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "id": "route-029"
   },
   "tracker": {
     "timestampUtc": "2026-07-08T15:00:08.417Z",
@@ -26,6 +27,7 @@
       "source": "captains dashboard map click"
     },
     "source": "captains dashboard",
-    "confidence": "manual map-click marker"
+    "confidence": "manual map-click marker",
+    "routePointId": "route-029"
   }
 }

@@ -31,8 +31,8 @@ python tools/build_site.py
 ## Project structure
 
 ```text
-content/                    Source journal, route and media-index content
-docs/                       Source website and GitHub Pages output
+content/                    Route geometry and media-index source files
+docs/                       Source website, journal data and GitHub Pages output
 site/                       Clean build copied from docs/
 admin-input/                Latest and archived manual location updates
 tools/                      Build, publishing, routing and media utilities

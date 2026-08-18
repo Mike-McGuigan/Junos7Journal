@@ -1,31 +1,33 @@
 {
-    "schemaVersion":  5,
-    "generatedUtc":  "2026-07-31T09:03:20.647Z",
-    "vesselKey":  "junos7",
-    "displayName":  "JUNOS 7",
-    "mmsi":  "319303300",
-    "imo":  "1109712",
-    "routePoint":  {
-                       "date":  "31 Jul AM",
-                       "title":  "Dwejra Bay, Gozo, Malta",
-                       "name":  "Dwejra Bay, Gozo, Malta",
-                       "phase":  "current",
-                       "lat":  36.04573,
-                       "lng":  14.192356,
-                       "note":  "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
-                   },
-    "tracker":  {
-                    "timestampUtc":  "2026-07-31T09:03:20.647Z",
-                    "status":  "At anchor",
-                    "title":  "Dwejra Bay, Gozo, Malta",
-                    "area":  "Dwejra Bay, Gozo, Malta",
-                    "position":  {
-                                     "lat":  36.04573,
-                                     "lng":  14.192356,
-                                     "precision":  "map click approximate marker",
-                                     "source":  "captains dashboard map click"
-                                 },
-                    "source":  "captains dashboard",
-                    "confidence":  "manual map-click marker"
-                }
+  "schemaVersion": 5,
+  "generatedUtc": "2026-07-31T09:03:20.647Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "31 Jul AM",
+    "title": "Dwejra Bay, Gozo, Malta",
+    "name": "Dwejra Bay, Gozo, Malta",
+    "phase": "current",
+    "lat": 36.04573,
+    "lng": 14.192356,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "id": "route-058"
+  },
+  "tracker": {
+    "timestampUtc": "2026-07-31T09:03:20.647Z",
+    "status": "At anchor",
+    "title": "Dwejra Bay, Gozo, Malta",
+    "area": "Dwejra Bay, Gozo, Malta",
+    "position": {
+      "lat": 36.04573,
+      "lng": 14.192356,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "routePointId": "route-058"
+  }
 }

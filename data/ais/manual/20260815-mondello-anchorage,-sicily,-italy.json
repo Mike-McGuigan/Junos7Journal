@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-15T15:58:46.622Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "15 Aug - early afternoon",
+    "title": "Mondello Anchorage, Sicily, Italy",
+    "name": "Mondello Anchorage, Sicily, Italy",
+    "phase": "current",
+    "lat": 38.20445,
+    "lng": 13.336523,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Mondello Anchorage, Sicily, Italy",
+      "shortName": "Mondello Anchorage, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-072"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-15T15:58:46.622Z",
+    "status": "At anchor",
+    "title": "Mondello Anchorage, Sicily, Italy",
+    "area": "Mondello Anchorage, Sicily, Italy",
+    "position": {
+      "lat": 38.20445,
+      "lng": 13.336523,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 365331,
+      "displayName": "Mondello Anchorage, Sicily, Italy",
+      "shortName": "Mondello Anchorage, Sicily, Italy",
+      "rawDisplayName": "Italy",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "routePointId": "route-072"
+  }
+}

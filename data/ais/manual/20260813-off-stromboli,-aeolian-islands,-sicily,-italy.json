@@ -31,11 +31,12 @@
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
     },
-    "status": "Underway"
+    "status": "Underway",
+    "id": "route-069"
   },
   "tracker": {
     "timestampUtc": "2026-08-13T20:50:11.956Z",
-    "status": "Underway",
+    "status": "At anchor",
     "title": "Off Stromboli, Aeolian Islands, Sicily, Italy",
     "area": "Off Stromboli, Aeolian Islands, Sicily, Italy",
     "position": {
@@ -63,6 +64,7 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-069"
   }
 }

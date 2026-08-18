@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-17T08:07:43.168Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "17 Aug - 9am",
+    "title": "Approaching Menorca, Spain",
+    "name": "Approaching Menorca, Spain",
+    "phase": "current",
+    "lat": 39.79196,
+    "lng": 4.570656,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": null,
+      "osmId": null,
+      "displayName": "Menorca approach",
+      "shortName": "Menorca approach",
+      "rawDisplayName": null,
+      "country": null,
+      "countryCode": null,
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-075"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-17T08:07:43.168Z",
+    "status": "Underway",
+    "title": "Approaching Menorca, Spain",
+    "area": "Approaching Menorca, Spain",
+    "position": {
+      "lat": 39.79196,
+      "lng": 4.570656,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": null,
+      "osmId": null,
+      "displayName": "Menorca approach",
+      "shortName": "Menorca approach",
+      "rawDisplayName": null,
+      "country": null,
+      "countryCode": null,
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "routePointId": "route-075"
+  }
+}

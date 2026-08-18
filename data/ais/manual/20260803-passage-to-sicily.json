@@ -30,11 +30,12 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-060"
   },
   "tracker": {
     "timestampUtc": "2026-08-03T08:20:02.743Z",
-    "status": "Underway",
+    "status": "At anchor",
     "title": "Passage to Sicily",
     "area": "Passage to Sicily",
     "position": {
@@ -62,6 +63,7 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-060"
   }
 }

@@ -30,7 +30,8 @@
       "nearestPlace": "Zadar County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-046"
   },
   "tracker": {
     "timestampUtc": "2026-07-23T12:05:15.488Z",
@@ -62,6 +63,7 @@
       "nearestPlace": "Zadar County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-046"
   }
 }

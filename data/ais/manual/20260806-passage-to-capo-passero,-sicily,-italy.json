@@ -30,7 +30,8 @@
       "nearestPlace": "Syracuse",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-062"
   },
   "tracker": {
     "timestampUtc": "2026-08-06T18:06:16.671Z",
@@ -62,6 +63,7 @@
       "nearestPlace": "Syracuse",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-062"
   }
 }

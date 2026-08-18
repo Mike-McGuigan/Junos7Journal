@@ -30,11 +30,12 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-056"
   },
   "tracker": {
     "timestampUtc": "2026-07-29T11:31:40.864Z",
-    "status": "Moored",
+    "status": "Underway",
     "title": "Grand Harbour Marina, Vittoriosa, Malta",
     "area": "Grand Harbour Marina, Vittoriosa, Malta",
     "position": {
@@ -62,6 +63,7 @@
       "nearestPlace": null,
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-056"
   }
 }

@@ -30,7 +30,8 @@
       "nearestPlace": "Split-Dalmatia County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-031"
   },
   "tracker": {
     "timestampUtc": "2026-07-09T07:23:36.878Z",
@@ -62,6 +63,7 @@
       "nearestPlace": "Split-Dalmatia County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-031"
   }
 }

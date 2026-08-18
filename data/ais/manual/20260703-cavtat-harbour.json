@@ -30,7 +30,8 @@
       "nearestPlace": "Dubrovnik-Neretva County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-021"
   },
   "tracker": {
     "timestampUtc": "2026-07-03T08:09:17.641Z",
@@ -62,6 +63,7 @@
       "nearestPlace": "Dubrovnik-Neretva County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-021"
   }
 }

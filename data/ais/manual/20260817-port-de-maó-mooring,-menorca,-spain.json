@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-17T11:03:36.144Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "17 Aug morning arrival",
+    "title": "Port de Maó Mooring, Menorca, Spain",
+    "name": "Port de Maó Mooring, Menorca, Spain",
+    "phase": "current",
+    "lat": 39.888975,
+    "lng": 4.27726,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "status": "Moored",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Port de Maó Mooring, Menorca, Spain",
+      "shortName": "Port de Maó Mooring, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-076"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-17T11:03:36.144Z",
+    "status": "Moored",
+    "title": "Port de Maó Mooring, Menorca, Spain",
+    "area": "Port de Maó Mooring, Menorca, Spain",
+    "position": {
+      "lat": 39.888975,
+      "lng": 4.27726,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Port de Maó Mooring, Menorca, Spain",
+      "shortName": "Port de Maó Mooring, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "routePointId": "route-076"
+  }
+}

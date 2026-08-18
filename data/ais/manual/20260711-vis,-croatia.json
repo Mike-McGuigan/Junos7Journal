@@ -7,8 +7,8 @@
   "imo": "1109712",
   "routePoint": {
     "date": "11 Jul - late morning",
-    "title": "Vis Harbour, Vis Island, Croatia",
-    "name": "Vis Harbour, Vis Island, Croatia",
+    "title": "Passage to Vis, Croatia",
+    "name": "Passage to Vis, Croatia",
     "phase": "current",
     "lat": 43.063962,
     "lng": 16.195414,
@@ -30,13 +30,14 @@
       "nearestPlace": "Split-Dalmatia County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "id": "route-034"
   },
   "tracker": {
     "timestampUtc": "2026-07-11T08:58:43.409Z",
-    "status": "At anchor",
-    "title": "Vis Harbour, Vis Island, Croatia",
-    "area": "Vis Harbour, Vis Island, Croatia",
+    "status": "Underway",
+    "title": "Passage to Vis, Croatia",
+    "area": "Passage to Vis, Croatia",
     "position": {
       "lat": 43.063962,
       "lng": 16.195414,
@@ -62,6 +63,7 @@
       "nearestPlace": "Split-Dalmatia County",
       "localArea": null,
       "lookupSource": "OpenStreetMap Nominatim"
-    }
+    },
+    "routePointId": "route-034"
   }
 }

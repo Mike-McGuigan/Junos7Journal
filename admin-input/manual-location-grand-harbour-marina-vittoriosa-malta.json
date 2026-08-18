@@ -12,11 +12,12 @@
     "phase": "current",
     "lat": 35.891002,
     "lng": 14.518052,
-    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "id": "route-056"
   },
   "tracker": {
     "timestampUtc": "2026-07-29T11:31:40.864Z",
-    "status": "Moored",
+    "status": "Underway",
     "title": "Grand Harbour Marina, Vittoriosa, Malta",
     "area": "Grand Harbour Marina, Vittoriosa, Malta",
     "position": {
@@ -26,6 +27,7 @@
       "source": "captains dashboard map click"
     },
     "source": "captains dashboard",
-    "confidence": "manual map-click marker"
+    "confidence": "manual map-click marker",
+    "routePointId": "route-056"
   }
 }

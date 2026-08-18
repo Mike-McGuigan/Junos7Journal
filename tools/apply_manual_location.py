@@ -37,6 +37,38 @@ def current_release_title() -> str:
             return value
     return "Unreleased"
 
+
+def ensure_route_ids(route: list[dict]) -> None:
+    """Assign stable route ids in place when a point does not already have one."""
+    used_ids: set[str] = set()
+    highest_seq = 0
+    for point in route:
+        raw_id = point.get("id")
+        if not raw_id:
+            continue
+        route_id = str(raw_id).strip()
+        if not route_id:
+            continue
+        point["id"] = route_id
+        used_ids.add(route_id)
+        if route_id.startswith("route-"):
+            suffix = route_id[6:]
+            if suffix.isdigit():
+                highest_seq = max(highest_seq, int(suffix))
+
+    next_seq = highest_seq + 1 if highest_seq else 1
+    for point in route:
+        route_id = str(point.get("id") or "").strip()
+        if route_id:
+            continue
+        while True:
+            candidate = f"route-{next_seq:03d}"
+            next_seq += 1
+            if candidate not in used_ids:
+                point["id"] = candidate
+                used_ids.add(candidate)
+                break
+
 def configure_console() -> None:
     """Avoid Windows cp1252 crashes if lookup text contains accented characters."""
     for stream_name in ("stdout", "stderr"):
@@ -82,6 +114,9 @@ def enrich_update(data: dict) -> dict:
     route_point = data["routePoint"]
     tracker = data.setdefault("tracker", {})
     title = ensure_title(route_point, tracker)
+    status = str(tracker.get("status") or "").strip()
+    if status:
+        route_point["status"] = status
     lat = route_point.get("lat")
     lng = route_point.get("lng")
 
@@ -106,16 +141,34 @@ def load_update(path: Path) -> dict:
 
 def normalise_route(route: list, new_point: dict) -> list:
     cleaned = []
+    ensure_route_ids(route)
     new_title = ensure_title(new_point)
+    new_id = str(new_point.get("id") or "").strip()
     for item in route:
         item.setdefault("title", item.get("name", "Route stop"))
-        same_title = item.get("title") == new_title or item.get("name") == new_point.get("name")
-        if same_title and item.get("date") == new_point.get("date"):
+        item_id = str(item.get("id") or "").strip()
+        same_point = False
+        if new_id and item_id and item_id == new_id:
+            same_point = True
+        else:
+            same_title = item.get("title") == new_title or item.get("name") == new_point.get("name")
+            same_point = same_title and item.get("date") == new_point.get("date")
+        if same_point:
+            new_point["id"] = item_id or new_id
             continue
         if item.get("phase") == "current":
             item["phase"] = "onboard"
         cleaned.append(item)
     new_point["phase"] = "current"
+    if not str(new_point.get("id") or "").strip():
+        used_ids = {str(item.get("id") or "").strip() for item in cleaned if str(item.get("id") or "").strip()}
+        next_seq = 1
+        while True:
+            candidate = f"route-{next_seq:03d}"
+            next_seq += 1
+            if candidate not in used_ids:
+                new_point["id"] = candidate
+                break
     cleaned.append(new_point)
     return cleaned
 

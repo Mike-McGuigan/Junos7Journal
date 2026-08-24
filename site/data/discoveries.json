@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "Contextual Discovery",
-  "generatedUtc": "2026-08-18T14:25:47+00:00",
+  "generatedUtc": "2026-08-24T11:41:33+00:00",
   "principle": "One great story beats five interesting facts.",
   "policy": {
     "mooredRadiusMetres": 300,
@@ -16,7 +16,7 @@
     ],
     "editorialRule": "Include a discovery only when it is close, exceptional, visible, or directly connected to Cameron and Sophie's experience. No discovery is better than forced trivia."
   },
-  "count": 12,
+  "count": 11,
   "discoveries": [
     {
       "id": "kos-neratzia-castle",
@@ -329,34 +329,6 @@
       "distanceMetres": null,
       "distanceBand": "contextual",
       "qualification": "place-defining context"
-    },
-    {
-      "id": "lionheart-mahon",
-      "routeStopTitle": "Port de Maó Mooring, Menorca, Spain",
-      "journalEntryId": "lionheart-in-mahon",
-      "date": "2026-08-17",
-      "category": "Yacht history",
-      "title": "A modern J Class built from a 1936 design",
-      "featureName": "Lionheart, JH1",
-      "body": "Lionheart was built and launched in July 2010, but her shape came from the Burgess and Stephens Ranger design studies of 1936, one of the lines rejected for the 1937 America’s Cup. Seeing her in Mahon made the yacht feel like a living link between the 1930s design brief and a much later build.",
-      "proximity": "Moored nearby in Mahon",
-      "distanceMetres": 60,
-      "exceptional": true,
-      "evidence": [
-        "visible-from-yacht",
-        "appears-in-media"
-      ],
-      "whyIncluded": "The yacht was close enough to be unmistakable from Juno’s 7, and her design lineage and racing pedigree made the sighting well worth recording.",
-      "source": {
-        "title": "Lionheart, JH1",
-        "publisher": "J Class Association",
-        "url": "https://www.jclassyachts.com/yachts/eos"
-      },
-      "routeStopIndex": 75,
-      "routeStopDate": "17 Aug morning arrival",
-      "routeStopStatus": "Moored",
-      "distanceBand": "gold",
-      "qualification": "within 300 m moored radius"
     }
   ]
 }

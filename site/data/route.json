@@ -6562,7 +6562,7 @@
     "date": "17 Aug morning arrival",
     "title": "Port de Maó Mooring, Menorca, Spain",
     "name": "Port de Maó Mooring, Menorca, Spain",
-    "phase": "current",
+    "phase": "onboard",
     "lat": 39.888975,
     "lng": 4.27726,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -6649,5 +6649,569 @@
       ]
     },
     "id": "route-076"
+  },
+  {
+    "date": "19 Aug - mid morning",
+    "title": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+    "name": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+    "phase": "onboard",
+    "status": "At anchor",
+    "lat": 39.964948,
+    "lng": 4.270458,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "shortName": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-077",
+    "legFromPrevious": {
+      "fromId": "route-076",
+      "toId": "route-077",
+      "fromTitle": "Port de Maó Mooring, Menorca, Spain",
+      "toTitle": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "distanceDirectNm": 4.6,
+      "distanceEstimatedNm": 10.5,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.888975,
+          4.27726
+        ],
+        [
+          39.889559,
+          4.277807
+        ],
+        [
+          39.889987,
+          4.279266
+        ],
+        [
+          39.887423,
+          4.281782
+        ],
+        [
+          39.885036,
+          4.285601
+        ],
+        [
+          39.884394,
+          4.288756
+        ],
+        [
+          39.884097,
+          4.291481
+        ],
+        [
+          39.882978,
+          4.293712
+        ],
+        [
+          39.881134,
+          4.295579
+        ],
+        [
+          39.878483,
+          4.298304
+        ],
+        [
+          39.875584,
+          4.300622
+        ],
+        [
+          39.872218,
+          4.304173
+        ],
+        [
+          39.869517,
+          4.306362
+        ],
+        [
+          39.86787,
+          4.315803
+        ],
+        [
+          39.873305,
+          4.333355
+        ],
+        [
+          39.882856,
+          4.337518
+        ],
+        [
+          39.932533,
+          4.310589
+        ],
+        [
+          39.959041,
+          4.293165
+        ],
+        [
+          39.9652,
+          4.289324
+        ],
+        [
+          39.970956,
+          4.279025
+        ],
+        [
+          39.970397,
+          4.276192
+        ],
+        [
+          39.96941,
+          4.272673
+        ],
+        [
+          39.967536,
+          4.271472
+        ],
+        [
+          39.966417,
+          4.270914
+        ],
+        [
+          39.965299,
+          4.270442
+        ],
+        [
+          39.964948,
+          4.270458
+        ]
+      ]
+    }
+  },
+  {
+    "date": "20 Aug - late morning",
+    "title": "Rincó dels Forats Anchorage, Menorca, Spain",
+    "name": "Rincó dels Forats Anchorage, Menorca, Spain",
+    "phase": "onboard",
+    "status": "At anchor",
+    "lat": 40.030002,
+    "lng": 4.175304,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "shortName": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-078",
+    "legFromPrevious": {
+      "fromId": "route-077",
+      "toId": "route-078",
+      "fromTitle": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "toTitle": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "distanceDirectNm": 5.9,
+      "distanceEstimatedNm": 8.1,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.964948,
+          4.270458
+        ],
+        [
+          39.965055,
+          4.268231
+        ],
+        [
+          39.977027,
+          4.276471
+        ],
+        [
+          39.994257,
+          4.280076
+        ],
+        [
+          40.008524,
+          4.271836
+        ],
+        [
+          40.031897,
+          4.222269
+        ],
+        [
+          40.039782,
+          4.188108
+        ],
+        [
+          40.038731,
+          4.181585
+        ],
+        [
+          40.030002,
+          4.175304
+        ]
+      ]
+    }
+  },
+  {
+    "date": "21 Aug - PM",
+    "title": "Cala Presili Anchorage, Menorca, Spain",
+    "name": "Cala Presili Anchorage, Menorca, Spain",
+    "phase": "onboard",
+    "status": "At anchor",
+    "lat": 39.992481,
+    "lng": 4.260249,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Presili Anchorage, Menorca, Spain",
+      "shortName": "Cala Presili Anchorage, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-079",
+    "legFromPrevious": {
+      "fromId": "route-078",
+      "toId": "route-079",
+      "fromTitle": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "toTitle": "Cala Presili Anchorage, Menorca, Spain",
+      "distanceDirectNm": 4.5,
+      "distanceEstimatedNm": 6.6,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          40.030002,
+          4.175304
+        ],
+        [
+          40.037023,
+          4.180727
+        ],
+        [
+          40.038337,
+          4.19755
+        ],
+        [
+          40.027428,
+          4.222784
+        ],
+        [
+          40.010337,
+          4.261923
+        ],
+        [
+          40.002974,
+          4.272223
+        ],
+        [
+          39.998503,
+          4.275484
+        ],
+        [
+          39.994558,
+          4.274969
+        ],
+        [
+          39.993054,
+          4.273231
+        ],
+        [
+          39.992265,
+          4.268339
+        ],
+        [
+          39.992481,
+          4.260249
+        ]
+      ]
+    }
+  },
+  {
+    "date": "22 Aug - AM",
+    "title": "Cala Blanca Anchorage, Menorca, Spain",
+    "name": "Cala Blanca Anchorage, Menorca, Spain",
+    "phase": "onboard",
+    "status": "At anchor",
+    "lat": 39.961158,
+    "lng": 3.830205,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Blanca Anchorage, Menorca, Spain",
+      "shortName": "Cala Blanca Anchorage, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-080",
+    "legFromPrevious": {
+      "fromId": "route-079",
+      "toId": "route-080",
+      "fromTitle": "Cala Presili Anchorage, Menorca, Spain",
+      "toTitle": "Cala Blanca Anchorage, Menorca, Spain",
+      "distanceDirectNm": 19.9,
+      "distanceEstimatedNm": 40.3,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.992481,
+          4.260249
+        ],
+        [
+          39.993186,
+          4.261644
+        ],
+        [
+          39.991575,
+          4.271042
+        ],
+        [
+          39.982589,
+          4.282351
+        ],
+        [
+          39.966014,
+          4.291792
+        ],
+        [
+          39.95154,
+          4.29883
+        ],
+        [
+          39.882155,
+          4.336767
+        ],
+        [
+          39.86292,
+          4.333162
+        ],
+        [
+          39.832872,
+          4.326811
+        ],
+        [
+          39.811645,
+          4.316683
+        ],
+        [
+          39.79859,
+          4.303465
+        ],
+        [
+          39.794369,
+          4.296255
+        ],
+        [
+          39.794105,
+          4.279776
+        ],
+        [
+          39.811777,
+          4.222956
+        ],
+        [
+          39.846053,
+          4.12837
+        ],
+        [
+          39.920486,
+          3.906605
+        ],
+        [
+          39.921144,
+          3.906519
+        ],
+        [
+          39.918906,
+          3.905404
+        ],
+        [
+          39.915342,
+          3.857145
+        ],
+        [
+          39.915737,
+          3.82453
+        ],
+        [
+          39.921794,
+          3.814402
+        ],
+        [
+          39.937195,
+          3.814402
+        ],
+        [
+          39.949961,
+          3.818007
+        ],
+        [
+          39.956804,
+          3.820925
+        ],
+        [
+          39.961158,
+          3.830205
+        ]
+      ]
+    }
+  },
+  {
+    "date": "24 Aug",
+    "title": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+    "name": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 39.925841,
+    "lng": 3.060647,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "shortName": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-081",
+    "legFromPrevious": {
+      "fromId": "route-080",
+      "toId": "route-081",
+      "fromTitle": "Cala Blanca Anchorage, Menorca, Spain",
+      "toTitle": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "distanceDirectNm": 35.5,
+      "distanceEstimatedNm": 45.2,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.961158,
+          3.830205
+        ],
+        [
+          39.960882,
+          3.829926
+        ],
+        [
+          39.961244,
+          3.829433
+        ],
+        [
+          39.884228,
+          3.334007
+        ],
+        [
+          39.878335,
+          3.253584
+        ],
+        [
+          39.868059,
+          3.207579
+        ],
+        [
+          39.863809,
+          3.192269
+        ],
+        [
+          39.864204,
+          3.190874
+        ],
+        [
+          39.864204,
+          3.191882
+        ],
+        [
+          39.88192,
+          3.211827
+        ],
+        [
+          39.894169,
+          3.217063
+        ],
+        [
+          39.916264,
+          3.23144
+        ],
+        [
+          39.966803,
+          3.220797
+        ],
+        [
+          39.974171,
+          3.208952
+        ],
+        [
+          39.976012,
+          3.189726
+        ],
+        [
+          39.967856,
+          3.156767
+        ],
+        [
+          39.946408,
+          3.108358
+        ],
+        [
+          39.927153,
+          3.065658
+        ],
+        [
+          39.925216,
+          3.060776
+        ],
+        [
+          39.925841,
+          3.060647
+        ]
+      ]
+    }
   }
 ]

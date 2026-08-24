@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-20T14:36:57.399Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "20 Aug - late morning",
+    "title": "Rincó dels Forats Anchorage, Menorca, Spain",
+    "name": "Rincó dels Forats Anchorage, Menorca, Spain",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 40.030002,
+    "lng": 4.175304,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "shortName": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-078"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-20T14:36:57.399Z",
+    "status": "At anchor",
+    "title": "Rincó dels Forats Anchorage, Menorca, Spain",
+    "area": "Rincó dels Forats Anchorage, Menorca, Spain",
+    "position": {
+      "lat": 40.030002,
+      "lng": 4.175304,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "shortName": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

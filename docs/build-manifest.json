@@ -1,8 +1,8 @@
 {
   "version": "2.8.1",
   "release": "Drink the Voyage",
-  "buildUtc": "2026-08-18 14:25:47 UTC",
-  "fileCount": 190,
+  "buildUtc": "2026-08-24 11:41:33 UTC",
+  "fileCount": 200,
   "files": [
     {
       "path": ".gitkeep",
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 201,
-      "sha256": "4d79374944227c5999d0a0e7ed7dc36de78791ad03f48aa040e22bd5d054c8bc"
+      "sha256": "7b2dcd4fd7b3e8bac313e18ec26123ac136aae743fc011da50ab15cec2fb597a"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 35075,
-      "sha256": "77ace1c0aac7a82e122438b6e016bdd2ac25ef8658615463813540c768509b84"
+      "sizeBytes": 37022,
+      "sha256": "e72eca9da0b66f69af0dcf884331fc7e39553a03deee16be140341440e744b4e"
     },
     {
       "path": "crew.html",
@@ -51,13 +51,18 @@
     },
     {
       "path": "drink.html",
-      "sizeBytes": 18706,
-      "sha256": "fe7ebdccca51884dfc2019c87d39e2fc1088993b98c457b610d29f8ca1c65e6d"
+      "sizeBytes": 24174,
+      "sha256": "b65b1de4a03b8ea1b7e5e7a848e22b12198d47a9fb2a9ce2af3185105a921c40"
+    },
+    {
+      "path": "eat.html",
+      "sizeBytes": 6806,
+      "sha256": "8b94dbad73456a4e02738ec3d61903e5bc912dc79adb40d26cd8ac6d9931dd51"
     },
     {
       "path": "index.html",
-      "sizeBytes": 9194,
-      "sha256": "f99d1829b1b41a96a2d62c816a568766cec752603f6ebf4897c20c58b6a1ec99"
+      "sizeBytes": 10018,
+      "sha256": "23c51165acf3e68a77f2c53607c57dcd68997dadb383e322f5f08f4c19056d28"
     },
     {
       "path": "index.html.bak-0-7-1",
@@ -116,8 +121,8 @@
     },
     {
       "path": "voyage.html",
-      "sizeBytes": 2678,
-      "sha256": "4eabef91d67c2348e3856f99918979af1f538b4a10977da3c8933978a3976a9e"
+      "sizeBytes": 2676,
+      "sha256": "73be57406f85407e3e53ca179b6485240bb4c182acf246183d4215eaff84ac9d"
     },
     {
       "path": "voyage.html.bak-1-2-0-dashboard-nav",
@@ -136,8 +141,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2940,
-      "sha256": "a9e0f8b07a668b90228903b0346bdc06f0206d6f6832c576f64a62d8ad1fbeb4"
+      "sizeBytes": 2983,
+      "sha256": "ddfdcf33e5ac73baebdd6ffddcaaed3b404082be1d0ddf7e8b581892b340eef4"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -166,13 +171,13 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 2916,
-      "sha256": "f3cb6771b73f1569ed167fd0e1d89bcadc7848d15f4e1e94be2e013c163cc3d0"
+      "sizeBytes": 2947,
+      "sha256": "25999407d0bad4f70743fd2fa7a47c2a11f65159735e95793bc679a1f3e6f925"
     },
     {
       "path": "data/discoveries.json",
-      "sizeBytes": 17296,
-      "sha256": "3001f9edd9ba701a3da75f0ad96013e73a9756891944bbe1c2f051d6d8a377d0"
+      "sizeBytes": 15925,
+      "sha256": "1eef967f4cc68256b9ea0bdb9b7a250e52831f8f9b8e4a6dbd89369fb11cf477"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -181,8 +186,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 321543,
-      "sha256": "3b427cdd17e59077e09931d57bf5b4ea48e0ccc33dee75e02d7b3bfb06cf64bc"
+      "sizeBytes": 340625,
+      "sha256": "b8dbea9224d325ea381b1306971af390b7a91a217f39aeba8e37a2b5de7a9e56"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -206,8 +211,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 54714,
-      "sha256": "2511dd6eede31b23183d9703aeda28d1ce3578d7cc136bd03496df52239974fc"
+      "sizeBytes": 55452,
+      "sha256": "00b7216934b57b47be6dc7ab3fbe600a634b7c4c0629c58b738103cef5a18231"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -216,8 +221,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 160438,
-      "sha256": "011a24c5abd539b80ec8df7cab30a05b2063e2333d87944394223698ecec95e8"
+      "sizeBytes": 173210,
+      "sha256": "03f0c3b2383a7d682eea4d9f6bd2f1fb026a1157d9bce12213af8e045f16391e"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -256,8 +261,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 153004,
-      "sha256": "c5d21a4c4f76f1950c15785f12a06cad82d4c49998e36adfe31c6b1532e50ef8"
+      "sizeBytes": 170554,
+      "sha256": "29f1ee16999a14f35d471180b10e3479856733b90956f9e123c23d525713e36d"
     },
     {
       "path": "data/site.json",
@@ -272,7 +277,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 201,
-      "sha256": "4d79374944227c5999d0a0e7ed7dc36de78791ad03f48aa040e22bd5d054c8bc"
+      "sha256": "7b2dcd4fd7b3e8bac313e18ec26123ac136aae743fc011da50ab15cec2fb597a"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -317,7 +322,177 @@
     {
       "path": "data/version.json.bak-geo-1",
       "sizeBytes": 201,
-      "sha256": "4bd788011cb7f1b3e0f49021a9688a7ac96342963334df5fe7e919c37ba5ad9e"
+      "sha256": "1e96479850418b610ec7d2a759c8e266b381d9c5b9449e5a22ee44abd4f5ab51"
+    },
+    {
+      "path": "assets/css/admin-map.css",
+      "sizeBytes": 4297,
+      "sha256": "f1739137ffb4f89a4d46e127b062154c0aa9316e9b85ab9d4677fd2d1e6df332"
+    },
+    {
+      "path": "assets/css/companion.css",
+      "sizeBytes": 2515,
+      "sha256": "8d1e3ade6f95c358b5df39a5871a65acdf1001a4299ebff71ab0e22e464dfb5d"
+    },
+    {
+      "path": "assets/css/dashboard.css",
+      "sizeBytes": 1755,
+      "sha256": "e185ff032c5ae8bb4a5bb3c5cb4133492aee88c7dfe878af083611f14ba5f4da"
+    },
+    {
+      "path": "assets/css/style.css",
+      "sizeBytes": 29099,
+      "sha256": "c8a58bb9fbfc49522157803e20a3459281ca440081eb3b3b460caecf450fccae"
+    },
+    {
+      "path": "assets/css/version.css",
+      "sizeBytes": 836,
+      "sha256": "13574efb008adf89f18ce276fc725874a1a9ae41f4e4f6c98bda1347888feb00"
+    },
+    {
+      "path": "assets/icons/j7-hero-mark.png",
+      "sizeBytes": 59532,
+      "sha256": "90e255a52312d32f058e3b640393fd6f28b7a9ac92bae609ed1805e2f9e055ad"
+    },
+    {
+      "path": "assets/icons/j7-hero-mark.svg",
+      "sizeBytes": 79561,
+      "sha256": "99062ab01c5d4f5a6a6e10247ea14541019eb4d787d5a9919130177bb10c3aeb"
+    },
+    {
+      "path": "assets/icons/j7-mark-source.png",
+      "sizeBytes": 46614,
+      "sha256": "967c7208fd1d198396dfc88c09647c31fe94c25824a4edb1e2124ba9ec14d2fd"
+    },
+    {
+      "path": "assets/icons/j7-mark.svg",
+      "sizeBytes": 62337,
+      "sha256": "e5740868d1b5cf6d2b05a5e43565a071c4b2a66c17467b8211b91ee410f7e60e"
+    },
+    {
+      "path": "assets/icons/junos7-summary.png",
+      "sizeBytes": 22745,
+      "sha256": "49932231f9f3d877479dbc2258cfda9cffaa221cd7d49ec8cde676565c60dc30"
+    },
+    {
+      "path": "assets/icons/junos7-wordmark.svg",
+      "sizeBytes": 3398,
+      "sha256": "f59c0e74f3e5a991c8fa4619603e9e7581797e0d771bdb25b060738ef5c2a6d8"
+    },
+    {
+      "path": "assets/images/.gitkeep",
+      "sizeBytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/js/admin-map.js",
+      "sizeBytes": 31226,
+      "sha256": "13e98aae68a201bb3d423921ba2e826d1d5a8cb815fcb111d4b2afceaa0a1c9e"
+    },
+    {
+      "path": "assets/js/app.js",
+      "sizeBytes": 16003,
+      "sha256": "252fb9fc6163c7a9a88e3de46bd6d04c9386628d36945f17adca07d87745c3a8"
+    },
+    {
+      "path": "assets/js/dashboard.js",
+      "sizeBytes": 17371,
+      "sha256": "5c4579f020eed309109139f569483a6b3bd6323863bc857a8f1010ccf375b3c8"
+    },
+    {
+      "path": "assets/js/dashboard.js.bak-0-7-3",
+      "sizeBytes": 4221,
+      "sha256": "8c5d1a9b019df533ba1bd4ed69065beaefab46518b9b1be45168611ee94d0e9c"
+    },
+    {
+      "path": "assets/js/dashboard.js.bak-1-0-5",
+      "sizeBytes": 3126,
+      "sha256": "9ac0f25c616f84a636ec25d17a9fd65da9c0a4064e5b349a51ad2db274025f5e"
+    },
+    {
+      "path": "assets/js/discoveries.js",
+      "sizeBytes": 3522,
+      "sha256": "819207d0a9e86b2cd730cbedd5d17878ccdc919ddab84d67a85313504a0b0c84"
+    },
+    {
+      "path": "assets/js/version.js",
+      "sizeBytes": 744,
+      "sha256": "5e3d1db9a351972a4a4a115839eec0675ca6ac8642c087f9aa14c23ec40464ce"
+    },
+    {
+      "path": "assets/js/voyage-scroll.js",
+      "sizeBytes": 2784,
+      "sha256": "409e31af8086a6b0e4841f6f26cf881c5257b6f28384f28fb4a60cd6ecfef239"
+    },
+    {
+      "path": "assets/images/flavour/aeolian-islands-table.png",
+      "sizeBytes": 2676412,
+      "sha256": "08ca867465fee2b96ff0318f05a1501c2906befc4459df8630618511a1c2c1a1"
+    },
+    {
+      "path": "assets/images/flavour/calabrian-table.png",
+      "sizeBytes": 2761997,
+      "sha256": "31c75698909718035b44b0daa7097cbafb36c99fb2f4ade6aabc3312e10f5ae5"
+    },
+    {
+      "path": "assets/images/flavour/cavtat-flavour-generated.png",
+      "sizeBytes": 2624811,
+      "sha256": "635074c79022f6433c5b2a023b17443d566d8bb73b474b92682e39c8c079198a"
+    },
+    {
+      "path": "assets/images/flavour/dalmatian-seafood-table.png",
+      "sizeBytes": 2967933,
+      "sha256": "cc3181709b541c349cbe1d5e3eecdb7dffb35d66cedaa34a84272db70fcf2ccd"
+    },
+    {
+      "path": "assets/images/flavour/greek-island-table.png",
+      "sizeBytes": 2639115,
+      "sha256": "5dc23d393527d9ca23538f0bbe6c287872b4add1a7f43fb70303f44ddb57bdfb"
+    },
+    {
+      "path": "assets/images/flavour/hvar-flavour-generated.png",
+      "sizeBytes": 2595648,
+      "sha256": "1c283fb552883b12cc98761eeafe19c926189493960cde533d5b30baf950b40d"
+    },
+    {
+      "path": "assets/images/flavour/kos-flavour-generated.png",
+      "sizeBytes": 2300408,
+      "sha256": "ad35bd3f7847bc15b4f3febc20a1dc19f92d6a88d0603e6f2558d868ffe8a4cc"
+    },
+    {
+      "path": "assets/images/flavour/lipsi-flavour-generated.png",
+      "sizeBytes": 2548682,
+      "sha256": "be721ca92690ff23fa94ae62261688686f2f4a3e24190ced74b923fdf79db3c0"
+    },
+    {
+      "path": "assets/images/flavour/maltese-table.png",
+      "sizeBytes": 2835514,
+      "sha256": "802f0f02e96b98062a415365572087747717f62bec14a2150674f353026441ce"
+    },
+    {
+      "path": "assets/images/flavour/mljet-flavour-generated.png",
+      "sizeBytes": 2607626,
+      "sha256": "b14af01ced086dcc76b083bd29f8a92ec5fcd141e0b4d9c4ac234aafacce3353"
+    },
+    {
+      "path": "assets/images/flavour/sicilian-etna-table.png",
+      "sizeBytes": 2468719,
+      "sha256": "73d179330c77978fcf8904cbb88f0ce81e22f1b5cc8e12053e64fe7261a21696"
+    },
+    {
+      "path": "assets/images/flavour/sicilian-taormina-table.png",
+      "sizeBytes": 2869872,
+      "sha256": "96fb6b93dfe2f7558126b270f9140a050ae8e547b72acf7b57ef340f2d6ec181"
+    },
+    {
+      "path": "assets/images/flavour/vis-flavour-generated.png",
+      "sizeBytes": 2648696,
+      "sha256": "bb4d361386d32f509220fa570da1db77ad21bc5b87eff11e348b3c5cb8b8bf96"
+    },
+    {
+      "path": "assets/images/flavour/zakynthos-flavour-generated.png",
+      "sizeBytes": 2709216,
+      "sha256": "94380a6b381865102af4f7bd2470010b80c69e78f6d2b76dffc735657b3e68c5"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -710,6 +885,16 @@
       "sha256": "59b26fa3745835118bb047162e86c86b3d03f4d3fcb42fe67c0e594d3414e8bf"
     },
     {
+      "path": "media/videos/2026-08-20-cam-rinco-dels-forats-storm-incoming.mp4",
+      "sizeBytes": 4349307,
+      "sha256": "6893767c03ecbaa52b2d55804e6a3cd1210f07b110e316a29cfacce3a5902479"
+    },
+    {
+      "path": "media/videos/2026-08-21-cam-rinco-dels-forats-storm-incoming.mp4",
+      "sizeBytes": 4349307,
+      "sha256": "6893767c03ecbaa52b2d55804e6a3cd1210f07b110e316a29cfacce3a5902479"
+    },
+    {
       "path": "media/videos/summer-2026-cave-excursion.mp4",
       "sizeBytes": 3392806,
       "sha256": "5137e0bb5dc04c4a29afaa3f5ebc5b2cb0f51792cfddeb7d9682b522b1bb20cc"
@@ -818,141 +1003,6 @@
       "path": "media/photos/enhanced/2026-07-15-smokvica-storm-calm-enhanced.jpg",
       "sizeBytes": 167268,
       "sha256": "a8c858d6909bf9b377c41328cf8c4945d452e16503b86ff137144d535483abb1"
-    },
-    {
-      "path": "assets/css/admin-map.css",
-      "sizeBytes": 4297,
-      "sha256": "f1739137ffb4f89a4d46e127b062154c0aa9316e9b85ab9d4677fd2d1e6df332"
-    },
-    {
-      "path": "assets/css/companion.css",
-      "sizeBytes": 2515,
-      "sha256": "8d1e3ade6f95c358b5df39a5871a65acdf1001a4299ebff71ab0e22e464dfb5d"
-    },
-    {
-      "path": "assets/css/dashboard.css",
-      "sizeBytes": 1755,
-      "sha256": "e185ff032c5ae8bb4a5bb3c5cb4133492aee88c7dfe878af083611f14ba5f4da"
-    },
-    {
-      "path": "assets/css/style.css",
-      "sizeBytes": 28978,
-      "sha256": "a04bffda049cbff3ffd3b023d613a5d33386672847167df7dd19494507c00ddc"
-    },
-    {
-      "path": "assets/css/version.css",
-      "sizeBytes": 836,
-      "sha256": "13574efb008adf89f18ce276fc725874a1a9ae41f4e4f6c98bda1347888feb00"
-    },
-    {
-      "path": "assets/icons/j7-hero-mark.png",
-      "sizeBytes": 59532,
-      "sha256": "90e255a52312d32f058e3b640393fd6f28b7a9ac92bae609ed1805e2f9e055ad"
-    },
-    {
-      "path": "assets/icons/j7-hero-mark.svg",
-      "sizeBytes": 79561,
-      "sha256": "99062ab01c5d4f5a6a6e10247ea14541019eb4d787d5a9919130177bb10c3aeb"
-    },
-    {
-      "path": "assets/icons/j7-mark-source.png",
-      "sizeBytes": 46614,
-      "sha256": "967c7208fd1d198396dfc88c09647c31fe94c25824a4edb1e2124ba9ec14d2fd"
-    },
-    {
-      "path": "assets/icons/j7-mark.svg",
-      "sizeBytes": 62337,
-      "sha256": "e5740868d1b5cf6d2b05a5e43565a071c4b2a66c17467b8211b91ee410f7e60e"
-    },
-    {
-      "path": "assets/icons/junos7-summary.png",
-      "sizeBytes": 22745,
-      "sha256": "49932231f9f3d877479dbc2258cfda9cffaa221cd7d49ec8cde676565c60dc30"
-    },
-    {
-      "path": "assets/icons/junos7-wordmark.svg",
-      "sizeBytes": 3398,
-      "sha256": "f59c0e74f3e5a991c8fa4619603e9e7581797e0d771bdb25b060738ef5c2a6d8"
-    },
-    {
-      "path": "assets/images/.gitkeep",
-      "sizeBytes": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    {
-      "path": "assets/js/admin-map.js",
-      "sizeBytes": 31226,
-      "sha256": "13e98aae68a201bb3d423921ba2e826d1d5a8cb815fcb111d4b2afceaa0a1c9e"
-    },
-    {
-      "path": "assets/js/app.js",
-      "sizeBytes": 16004,
-      "sha256": "cacda469966bbdc2bf4b04c903ccf5ac7a46966090bc6a63b6a5426f5cead6f5"
-    },
-    {
-      "path": "assets/js/dashboard.js",
-      "sizeBytes": 17371,
-      "sha256": "5c4579f020eed309109139f569483a6b3bd6323863bc857a8f1010ccf375b3c8"
-    },
-    {
-      "path": "assets/js/dashboard.js.bak-0-7-3",
-      "sizeBytes": 4221,
-      "sha256": "8c5d1a9b019df533ba1bd4ed69065beaefab46518b9b1be45168611ee94d0e9c"
-    },
-    {
-      "path": "assets/js/dashboard.js.bak-1-0-5",
-      "sizeBytes": 3126,
-      "sha256": "9ac0f25c616f84a636ec25d17a9fd65da9c0a4064e5b349a51ad2db274025f5e"
-    },
-    {
-      "path": "assets/js/discoveries.js",
-      "sizeBytes": 3522,
-      "sha256": "819207d0a9e86b2cd730cbedd5d17878ccdc919ddab84d67a85313504a0b0c84"
-    },
-    {
-      "path": "assets/js/version.js",
-      "sizeBytes": 744,
-      "sha256": "5e3d1db9a351972a4a4a115839eec0675ca6ac8642c087f9aa14c23ec40464ce"
-    },
-    {
-      "path": "assets/js/voyage-scroll.js",
-      "sizeBytes": 2784,
-      "sha256": "409e31af8086a6b0e4841f6f26cf881c5257b6f28384f28fb4a60cd6ecfef239"
-    },
-    {
-      "path": "assets/images/flavour/aeolian-islands-table.png",
-      "sizeBytes": 2676412,
-      "sha256": "08ca867465fee2b96ff0318f05a1501c2906befc4459df8630618511a1c2c1a1"
-    },
-    {
-      "path": "assets/images/flavour/calabrian-table.png",
-      "sizeBytes": 2761997,
-      "sha256": "31c75698909718035b44b0daa7097cbafb36c99fb2f4ade6aabc3312e10f5ae5"
-    },
-    {
-      "path": "assets/images/flavour/dalmatian-seafood-table.png",
-      "sizeBytes": 2967933,
-      "sha256": "cc3181709b541c349cbe1d5e3eecdb7dffb35d66cedaa34a84272db70fcf2ccd"
-    },
-    {
-      "path": "assets/images/flavour/greek-island-table.png",
-      "sizeBytes": 2639115,
-      "sha256": "5dc23d393527d9ca23538f0bbe6c287872b4add1a7f43fb70303f44ddb57bdfb"
-    },
-    {
-      "path": "assets/images/flavour/maltese-table.png",
-      "sizeBytes": 2835514,
-      "sha256": "802f0f02e96b98062a415365572087747717f62bec14a2150674f353026441ce"
-    },
-    {
-      "path": "assets/images/flavour/sicilian-etna-table.png",
-      "sizeBytes": 2468719,
-      "sha256": "73d179330c77978fcf8904cbb88f0ce81e22f1b5cc8e12053e64fe7261a21696"
-    },
-    {
-      "path": "assets/images/flavour/sicilian-taormina-table.png",
-      "sizeBytes": 2869872,
-      "sha256": "96fb6b93dfe2f7558126b270f9140a050ae8e547b72acf7b57ef340f2d6ec181"
     }
   ]
 }

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-19T10:55:54.753Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "19 Aug - mid morning",
+    "title": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+    "name": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 39.964247,
+    "lng": 4.270484,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "shortName": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-077"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-19T10:55:54.753Z",
+    "status": "At anchor",
+    "title": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+    "area": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+    "position": {
+      "lat": 39.964247,
+      "lng": 4.270484,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "shortName": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-22T09:25:11.105Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "22 Aug - AM",
+    "title": "Cala Blanca Anchorage, Menorca, Spain",
+    "name": "Cala Blanca Anchorage, Menorca, Spain",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 39.961158,
+    "lng": 3.830205,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Blanca Anchorage, Menorca, Spain",
+      "shortName": "Cala Blanca Anchorage, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-080"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-22T09:25:11.105Z",
+    "status": "At anchor",
+    "title": "Cala Blanca Anchorage, Menorca, Spain",
+    "area": "Cala Blanca Anchorage, Menorca, Spain",
+    "position": {
+      "lat": 39.961158,
+      "lng": 3.830205,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Blanca Anchorage, Menorca, Spain",
+      "shortName": "Cala Blanca Anchorage, Menorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

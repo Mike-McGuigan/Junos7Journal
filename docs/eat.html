@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#061928">
+<meta name="description" content="Food notes from the Juno's 7 journal, gathered into one place so the Flavour of the Place cards are easy to browse.">
+<title>Eat the Voyage - Juno's 7</title>
+<link rel="icon" href="assets/icons/j7-mark.svg" type="image/svg+xml"><link rel="manifest" href="site.webmanifest">
+<link rel="stylesheet" href="assets/css/style.css"><link rel="stylesheet" href="assets/css/companion.css">
+<style>
+.eat-hero{background:linear-gradient(120deg,rgba(6,25,40,.97),rgba(20,84,58,.82)),radial-gradient(circle at 74% 18%,#c9a45c 0,#0f6f91 38%,#061928 68%)}
+.eat-hero .lead{margin:auto}
+</style>
+</head><body>
+<a class="skip-link" href="#main">Skip to food list</a>
+<header class="companion-hero eat-hero"><div class="hero-inner"><img class="brand-mark" src="assets/icons/j7-hero-mark.svg" alt="J7"><p class="eyebrow">Eat the voyage</p><h1>Flavour of the Place</h1><h2>Food notes from the journal</h2><p class="lead">The journal already carries food, local dishes and useful flavour notes inside individual chapters. This page gathers those cards together so they are easy to browse without hunting through the full story.</p><nav class="nav"><a href="index.html">Journal</a><a href="voyage.html">Voyage Map</a><a href="discoveries.html">Discoveries</a><a class="nav-drink-link" href="drink.html"><svg class="nav-drink-icon" viewBox="0 0 48 34" aria-hidden="true" focusable="false"><g transform="translate(2 1) rotate(10 11 16)"><path d="M8 3h12l-1.1 9.5c-.4 4-3.2 6.5-6.4 6.9l-1 7.1 6.2 1 .4 2.7H4.1l.4-2.7 6.2-1-1-7.1c-3.2-.4-6-2.9-6.4-6.9L2.2 3H8z" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/><path d="M5.7 8.7h11.8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></g><g transform="translate(25 2) rotate(-10 10 15)"><path d="M4 11h15v10.5a5.8 5.8 0 0 1-5.8 5.8H9.8A5.8 5.8 0 0 1 4 21.5V11z" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/><path d="M19 14.2h3.2c2 0 3.3 1.4 3.3 3.5s-1.3 3.5-3.3 3.5H19" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M5.2 15h12.6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></g></svg><span>Drink the Voyage</span></a><a href="about.html">About Juno's 7</a><a href="crew.html">Meet the Crew</a></nav></div></header>
+<main id="main">
+<section class="section"><p class="kicker">How to use it</p><h2>A single shelf for the food cards</h2><p class="lead">Each card below comes from a journal chapter. The title shows the flavour note, while the chapter link takes you back to the full entry if you want the context, map stop or related media.</p><div class="feature-grid"><article class="panel drink-note"><h3>Browse by place</h3><p>The cards stay tied to the chapter they came from, so the food still feels anchored to the voyage rather than becoming a separate recipe page.</p></article><article class="panel drink-note"><h3>Keep the route feel</h3><p>Menorca, Sicily, Malta and the islands all carry their own table style, and the page keeps those small differences visible at a glance.</p></article><article class="panel drink-note"><h3>Jump back fast</h3><p>Every card links back to the journal chapter, so you can move straight from flavour note to the story, the route point or the nearby map view.</p></article></div></section>
+<section class="section soft"><div class="wrap"><p class="kicker">Browse the cards</p><h2>The food notes, in one place</h2><p id="eatSummary" class="drink-filter-summary" aria-live="polite">Loading the food cards…</p><div id="eatGrid" class="drink-route-grid"><div class="empty-note">Loading the journal food cards…</div></div></div></section>
+<section class="section dark"><div class="wrap"><p class="kicker">Back to the story</p><h2>Return to the journal</h2><p class="lead">If a card catches your eye, jump straight back to the full chapter for the route context and the surrounding memories.</p><p><a class="button" href="index.html#journal">Return to the journal</a> <a class="button eat-button" href="drink.html">See the drinks page</a></p></div></section>
+</main>
+<footer class="footer"><p>Juno's 7 Mediterranean Journal - Eat the voyage</p><p><a href="index.html">Return to the journal</a></p></footer>
+<script>
+(function () {
+  const grid = document.getElementById('eatGrid');
+  const summary = document.getElementById('eatSummary');
+
+  function esc(value) {
+    return String(value ?? '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
+  function card(entry) {
+    const flavour = entry.flavourOf || {};
+    const image = flavour.image ? `<figure class="rich-card-media"><img loading="lazy" src="${esc(flavour.image)}" alt="${esc(flavour.imageAlt || flavour.title || entry.title || 'Flavour image')}"><figcaption>${esc(flavour.imageCaption || 'Illustrative local flavour image')}</figcaption></figure>` : '';
+    const journalLink = entry.id ? `<a href="index.html#${esc(entry.id)}">Read the journal chapter</a>` : '';
+    const mapLink = entry.mapStop ? `<a href="voyage.html?stop=${encodeURIComponent(entry.mapStop)}" target="Junos7MapLink">View on map</a>` : '';
+    return `<article class="drink-card" id="eat-${esc(entry.id)}">${image}<div class="drink-card-top"><span>${esc(entry.location || 'Journal chapter')}</span><strong>${esc(entry.title || 'Flavour of the place')}</strong></div><h3>${esc(flavour.title || entry.title || 'Flavour of the place')}</h3><p>${esc(flavour.body || '')}</p><div class="drink-links">${journalLink}${mapLink}</div></article>`;
+  }
+
+  fetch('data/journal.json?cache=' + Date.now())
+    .then((response) => response.json())
+    .then((data) => {
+      const entries = (data.entries || [])
+        .filter((entry) => entry.flavourOf)
+        .slice()
+        .sort((a, b) => String(a.date || '').localeCompare(String(b.date || '')));
+
+      if (!entries.length) {
+        grid.innerHTML = '<div class="empty-note">No flavour cards have been added yet.</div>';
+        summary.textContent = 'No flavour cards are available yet.';
+        return;
+      }
+
+      grid.innerHTML = entries.map(card).join('');
+      summary.textContent = `Showing ${entries.length} flavour card${entries.length === 1 ? '' : 's'} from the journal.`;
+    })
+    .catch((error) => {
+      console.error(error);
+      grid.innerHTML = '<div class="empty-note">The food cards could not be loaded.</div>';
+      summary.textContent = 'The food cards could not be loaded.';
+    });
+}());
+</script>
+<script src="assets/js/version.js"></script>
+</body></html>

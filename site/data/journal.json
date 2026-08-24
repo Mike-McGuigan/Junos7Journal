@@ -28,9 +28,9 @@
       "flavourOf": {
         "title": "Flavour of Kos",
         "body": "Kos is known for relaxed island cooking: grilled fish, tomato-rich stews, honey, soft cheeses and mezze shared beside the water.",
-        "image": "assets/images/flavour/greek-island-table.png",
-        "imageAlt": "Greek island table with grilled fish, mezze, cheese, honey and bread",
-        "imageCaption": "Illustrative local flavour image"
+        "image": "assets/images/flavour/kos-flavour-generated.png",
+        "imageAlt": "Greek island meal with grilled fish, tomato stew, honey, cheeses and mezze",
+        "imageCaption": "Generated food image based on the Kos flavour note"
       },
       "photos": [
         "join-selfie",
@@ -58,9 +58,9 @@
       "flavourOf": {
         "title": "Flavour of Lipsi",
         "body": "Harbour tables tend towards grilled octopus, fresh fish, local cheeses and small plates made for long, unhurried meals.",
-        "image": "assets/images/flavour/greek-island-table.png",
-        "imageAlt": "Greek island table with grilled fish, mezze, cheese, honey and bread",
-        "imageCaption": "Illustrative local flavour image"
+        "image": "assets/images/flavour/lipsi-flavour-generated.png",
+        "imageAlt": "Greek island table with grilled octopus, fish, cheeses and small plates",
+        "imageCaption": "Generated food image based on the Lipsi flavour note"
       },
       "photos": [],
       "videos": []
@@ -273,9 +273,9 @@
       "flavourOf": {
         "title": "Flavour of Zakynthos",
         "body": "Island cooking brings together olive oil, local cheeses, grilled meat and fish, sweet pastries and long meals close to the sea.",
-        "image": "assets/images/flavour/greek-island-table.png",
-        "imageAlt": "Greek island table with grilled fish, mezze, cheese, honey and bread",
-        "imageCaption": "Illustrative local flavour image"
+        "image": "assets/images/flavour/zakynthos-flavour-generated.png",
+        "imageAlt": "Greek island lunch with olive oil, cheeses, grilled meat or fish, tomatoes and pastries",
+        "imageCaption": "Generated food image based on the Zakynthos flavour note"
       },
       "photos": [
         "nice-spot-1",
@@ -430,9 +430,9 @@
       "flavourOf": {
         "title": "Flavour of Cavtat",
         "body": "The southern Dalmatian table centres on grilled Adriatic fish, black risotto, olive oil, figs, citrus and crisp local white wine.",
-        "image": "assets/images/flavour/dalmatian-seafood-table.png",
-        "imageAlt": "Dalmatian seafood table with grilled fish, octopus salad, black risotto, figs and wine",
-        "imageCaption": "Illustrative local flavour image"
+        "image": "assets/images/flavour/cavtat-flavour-generated.png",
+        "imageAlt": "Dalmatian table with grilled fish, black risotto, figs, citrus and white wine",
+        "imageCaption": "Generated food image based on the Cavtat flavour note"
       },
       "photos": [
         "cavtat-waterfront",
@@ -470,9 +470,9 @@
       "flavourOf": {
         "title": "Flavour of Mljet",
         "body": "Seafood, olive oil, herbs and local white wine suit the island’s quiet, forested setting.",
-        "image": "assets/images/flavour/dalmatian-seafood-table.png",
-        "imageAlt": "Dalmatian seafood table with grilled fish, octopus salad, black risotto, figs and wine",
-        "imageCaption": "Illustrative local flavour image"
+        "image": "assets/images/flavour/mljet-flavour-generated.png",
+        "imageAlt": "Quiet island meal with seafood, olive oil, herbs, bread and white wine",
+        "imageCaption": "Generated food image based on the Mljet flavour note"
       },
       "heroMedia": "black-pearl-polace-photo",
       "mapStop": "Polače Anchorage, Mljet, Croatia"
@@ -533,9 +533,9 @@
       "flavourOf": {
         "title": "Flavour of Hvar",
         "body": "Hvar brings grilled fish, octopus salad, olive oil, herbs and local wines into an island setting known for both glamour and quiet coves.",
-        "image": "assets/images/flavour/dalmatian-seafood-table.png",
-        "imageAlt": "Dalmatian seafood table with grilled fish, octopus salad, black risotto, figs and wine",
-        "imageCaption": "Illustrative local flavour image"
+        "image": "assets/images/flavour/hvar-flavour-generated.png",
+        "imageAlt": "Croatian island meal with grilled fish, octopus salad, herbs, bread and white wine",
+        "imageCaption": "Generated food image based on the Hvar flavour note"
       },
       "heroMedia": "pakleni-approach-bow",
       "mapStop": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia"
@@ -786,9 +786,9 @@
       "flavourOf": {
         "title": "Flavour of Vis",
         "body": "Vis is known for seafood, slow-cooked island dishes, local wine and the kind of harbour meals that feel rooted in the landscape.",
-        "image": "assets/images/flavour/dalmatian-seafood-table.png",
-        "imageAlt": "Dalmatian seafood table with grilled fish, octopus salad, black risotto, figs and wine",
-        "imageCaption": "Illustrative local flavour image"
+        "image": "assets/images/flavour/vis-flavour-generated.png",
+        "imageAlt": "Harbour-side meal with seafood, slow-cooked island dishes, bread and wine",
+        "imageCaption": "Generated food image based on the Vis flavour note"
       },
       "mapStop": "Vis Harbour, Vis Island, Croatia"
     },
@@ -1643,6 +1643,70 @@
       "mapStop": "Port de Maó Mooring, Menorca, Spain",
       "body": "Juno's 7 settled into the Port de Maó mooring on the morning arrival into Menorca. The harbour put the yacht within easy reach of the town and alongside a busy line-up of visiting boats, making it a fitting first stop after the passage in.",
       "summary": "Juno's 7 settled into the Port de Maó mooring after the arrival into Menorca.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "cala-tamarells-anchorage",
+      "date": "2026-08-19",
+      "title": "Cala Tamarells Anchorage",
+      "location": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "mapStop": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "body": "After leaving Mahon, Juno's 7 settled at anchor off Cala Tamarells on Illa d'en Colom, where the bay opens into pale sand and shallow Menorcan water. The change from harbour bustle to a quieter island anchorage felt immediate, with the sheltered water and low coastline giving the stop a calmer, more private feel.",
+      "summary": "Juno's 7 anchored off Cala Tamarells on Illa d'en Colom after leaving Mahon, finding a quieter island bay.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "rinco-dels-forats-anchorage",
+      "date": "2026-08-20",
+      "title": "Rincó dels Forats Anchorage",
+      "location": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "type": "anchorage",
+      "person": "Cameron",
+      "quote": "Party or a storm incoming?",
+      "mapStop": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "body": "After the short hop north from Cala Tamarells, Juno's 7 settled at anchor in the broad water of Rincó dels Forats, off Menorca's north coast. The bay sits in a sheltered sweep between the headlands around Cap Gros and na Tortuga, with the shoreline opening out toward Arenal d'en Castell and the smaller coves tucked inside the larger inlet.\n\nJust after midnight, Cam sent a very early-hours shift clip from the same anchorage, with the deck almost black and lightning flickering over the water. He asked whether it was 'party or a storm incoming?', noting that it had been doing that consistently since he started 20 minutes earlier.\n\nIt is the sort of anchorage that feels calm and enclosed even from a distance, a quiet north-coast pause before the next move on.",
+      "summary": "Juno's 7 anchored in Rincó dels Forats, Menorca, with a very early-hours shift video and lightning over the water.",
+      "photos": [],
+      "videos": [
+        "cam-rinco-dels-forats-storm-incoming"
+      ],
+      "media": [
+        "cam-rinco-dels-forats-storm-incoming"
+      ],
+      "heroMedia": "cam-rinco-dels-forats-storm-incoming"
+    },
+    {
+      "id": "cala-blanca-anchorage",
+      "date": "2026-08-22",
+      "title": "Cala Blanca Anchorage",
+      "location": "Cala Blanca Anchorage, Menorca, Spain",
+      "type": "anchorage",
+      "person": "Cameron and Sophie",
+      "quote": "",
+      "mapStop": "Cala Blanca Anchorage, Menorca, Spain",
+      "body": "Juno's 7 had now worked roughly three-quarters of the way around Menorca in a clockwise direction, settling at anchor in Cala Blanca, just south of Ciutadella. The approach passed Cala n Bosch, which carried a pleasant holiday echo for Cameron from an earlier family holiday with his aunt and her family.\n\nThe anchorage itself sits in a straightforward, practical pocket of water, with the island town close enough to feel within reach but the bay still giving the yacht a quieter place to pause.",
+      "summary": "Juno's 7 settled into Cala Blanca, south of Ciutadella, after passing Cala n Bosch.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "cala-sant-vicenc-anchorage",
+      "date": "2026-08-24",
+      "title": "Cala Sant Vicenç Anchorage",
+      "location": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "type": "anchorage",
+      "person": "Cameron and Sophie",
+      "quote": "",
+      "mapStop": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "body": "After the short crossing over to Majorca, Juno's 7 passed through Cala des Coll Baix, seemingly checking conditions and how busy it was before continuing on. The yacht then settled at anchor in Cala Sant Vicenç on the island's north coast, where the surrounding headlands and quieter water gave a calmer place to pause after the move across.",
+      "summary": "Juno's 7 settled at anchor in Cala Sant Vicenç after crossing over to Majorca.",
       "photos": [],
       "videos": [],
       "media": []
@@ -3414,6 +3478,26 @@
           "title": "Sicily to Menorca passage update",
           "date": "2026-08-16",
           "location": "Sicily to Menorca passage update"
+        }
+      ]
+    },
+    {
+      "id": "cam-rinco-dels-forats-storm-incoming",
+      "type": "video",
+      "date": "2026-08-20",
+      "url": "media/videos/2026-08-20-cam-rinco-dels-forats-storm-incoming.mp4",
+      "title": "Party or a storm incoming?",
+      "caption": "Cam's very early-hours start-of-shift video from Rincó dels Forats, with lightning flickering over the water and the deck lit against the dark.",
+      "categories": [
+        "crew",
+        "weather"
+      ],
+      "journalEntries": [
+        {
+          "id": "rinco-dels-forats-anchorage",
+          "title": "Rincó dels Forats Anchorage",
+          "date": "2026-08-20",
+          "location": "Rincó dels Forats Anchorage, Menorca, Spain"
         }
       ]
     }
@@ -9982,7 +10066,7 @@
       "date": "17 Aug morning arrival",
       "title": "Port de Maó Mooring, Menorca, Spain",
       "name": "Port de Maó Mooring, Menorca, Spain",
-      "phase": "current",
+      "phase": "onboard",
       "lat": 39.888975,
       "lng": 4.27726,
       "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
@@ -10069,6 +10153,570 @@
         ]
       },
       "id": "route-076"
+    },
+    {
+      "date": "19 Aug - mid morning",
+      "title": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "name": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+      "phase": "onboard",
+      "status": "At anchor",
+      "lat": 39.964948,
+      "lng": 4.270458,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+        "shortName": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-077",
+      "legFromPrevious": {
+        "fromId": "route-076",
+        "toId": "route-077",
+        "fromTitle": "Port de Maó Mooring, Menorca, Spain",
+        "toTitle": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+        "distanceDirectNm": 4.6,
+        "distanceEstimatedNm": 10.5,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.888975,
+            4.27726
+          ],
+          [
+            39.889559,
+            4.277807
+          ],
+          [
+            39.889987,
+            4.279266
+          ],
+          [
+            39.887423,
+            4.281782
+          ],
+          [
+            39.885036,
+            4.285601
+          ],
+          [
+            39.884394,
+            4.288756
+          ],
+          [
+            39.884097,
+            4.291481
+          ],
+          [
+            39.882978,
+            4.293712
+          ],
+          [
+            39.881134,
+            4.295579
+          ],
+          [
+            39.878483,
+            4.298304
+          ],
+          [
+            39.875584,
+            4.300622
+          ],
+          [
+            39.872218,
+            4.304173
+          ],
+          [
+            39.869517,
+            4.306362
+          ],
+          [
+            39.86787,
+            4.315803
+          ],
+          [
+            39.873305,
+            4.333355
+          ],
+          [
+            39.882856,
+            4.337518
+          ],
+          [
+            39.932533,
+            4.310589
+          ],
+          [
+            39.959041,
+            4.293165
+          ],
+          [
+            39.9652,
+            4.289324
+          ],
+          [
+            39.970956,
+            4.279025
+          ],
+          [
+            39.970397,
+            4.276192
+          ],
+          [
+            39.96941,
+            4.272673
+          ],
+          [
+            39.967536,
+            4.271472
+          ],
+          [
+            39.966417,
+            4.270914
+          ],
+          [
+            39.965299,
+            4.270442
+          ],
+          [
+            39.964948,
+            4.270458
+          ]
+        ]
+      }
+    },
+    {
+      "date": "20 Aug - late morning",
+      "title": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "name": "Rincó dels Forats Anchorage, Menorca, Spain",
+      "phase": "onboard",
+      "status": "At anchor",
+      "lat": 40.030002,
+      "lng": 4.175304,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Rincó dels Forats Anchorage, Menorca, Spain",
+        "shortName": "Rincó dels Forats Anchorage, Menorca, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-078",
+      "legFromPrevious": {
+        "fromId": "route-077",
+        "toId": "route-078",
+        "fromTitle": "Cala Tamarells Anchorage, Illa d'en Colom, Menorca, Spain",
+        "toTitle": "Rincó dels Forats Anchorage, Menorca, Spain",
+        "distanceDirectNm": 5.9,
+        "distanceEstimatedNm": 8.1,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.964948,
+            4.270458
+          ],
+          [
+            39.965055,
+            4.268231
+          ],
+          [
+            39.977027,
+            4.276471
+          ],
+          [
+            39.994257,
+            4.280076
+          ],
+          [
+            40.008524,
+            4.271836
+          ],
+          [
+            40.031897,
+            4.222269
+          ],
+          [
+            40.039782,
+            4.188108
+          ],
+          [
+            40.038731,
+            4.181585
+          ],
+          [
+            40.030002,
+            4.175304
+          ]
+        ]
+      }
+    },
+    {
+      "date": "21 Aug - PM",
+      "title": "Cala Presili Anchorage, Menorca, Spain",
+      "name": "Cala Presili Anchorage, Menorca, Spain",
+      "phase": "onboard",
+      "status": "At anchor",
+      "lat": 39.992481,
+      "lng": 4.260249,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Cala Presili Anchorage, Menorca, Spain",
+        "shortName": "Cala Presili Anchorage, Menorca, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-079",
+      "legFromPrevious": {
+        "fromId": "route-078",
+        "toId": "route-079",
+        "fromTitle": "Rincó dels Forats Anchorage, Menorca, Spain",
+        "toTitle": "Cala Presili Anchorage, Menorca, Spain",
+        "distanceDirectNm": 4.5,
+        "distanceEstimatedNm": 6.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            40.030002,
+            4.175304
+          ],
+          [
+            40.037023,
+            4.180727
+          ],
+          [
+            40.038337,
+            4.19755
+          ],
+          [
+            40.027428,
+            4.222784
+          ],
+          [
+            40.010337,
+            4.261923
+          ],
+          [
+            40.002974,
+            4.272223
+          ],
+          [
+            39.998503,
+            4.275484
+          ],
+          [
+            39.994558,
+            4.274969
+          ],
+          [
+            39.993054,
+            4.273231
+          ],
+          [
+            39.992265,
+            4.268339
+          ],
+          [
+            39.992481,
+            4.260249
+          ]
+        ]
+      }
+    },
+    {
+      "date": "22 Aug - AM",
+      "title": "Cala Blanca Anchorage, Menorca, Spain",
+      "name": "Cala Blanca Anchorage, Menorca, Spain",
+      "phase": "onboard",
+      "status": "At anchor",
+      "lat": 39.961158,
+      "lng": 3.830205,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Cala Blanca Anchorage, Menorca, Spain",
+        "shortName": "Cala Blanca Anchorage, Menorca, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-080",
+      "legFromPrevious": {
+        "fromId": "route-079",
+        "toId": "route-080",
+        "fromTitle": "Cala Presili Anchorage, Menorca, Spain",
+        "toTitle": "Cala Blanca Anchorage, Menorca, Spain",
+        "distanceDirectNm": 19.9,
+        "distanceEstimatedNm": 40.3,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.992481,
+            4.260249
+          ],
+          [
+            39.993186,
+            4.261644
+          ],
+          [
+            39.991575,
+            4.271042
+          ],
+          [
+            39.982589,
+            4.282351
+          ],
+          [
+            39.966014,
+            4.291792
+          ],
+          [
+            39.95154,
+            4.29883
+          ],
+          [
+            39.882155,
+            4.336767
+          ],
+          [
+            39.86292,
+            4.333162
+          ],
+          [
+            39.832872,
+            4.326811
+          ],
+          [
+            39.811645,
+            4.316683
+          ],
+          [
+            39.79859,
+            4.303465
+          ],
+          [
+            39.794369,
+            4.296255
+          ],
+          [
+            39.794105,
+            4.279776
+          ],
+          [
+            39.811777,
+            4.222956
+          ],
+          [
+            39.846053,
+            4.12837
+          ],
+          [
+            39.920486,
+            3.906605
+          ],
+          [
+            39.921144,
+            3.906519
+          ],
+          [
+            39.918906,
+            3.905404
+          ],
+          [
+            39.915342,
+            3.857145
+          ],
+          [
+            39.915737,
+            3.82453
+          ],
+          [
+            39.921794,
+            3.814402
+          ],
+          [
+            39.937195,
+            3.814402
+          ],
+          [
+            39.949961,
+            3.818007
+          ],
+          [
+            39.956804,
+            3.820925
+          ],
+          [
+            39.961158,
+            3.830205
+          ]
+        ]
+      }
+    },
+    {
+      "date": "24 Aug",
+      "title": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "name": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "phase": "current",
+      "status": "At anchor",
+      "lat": 39.925841,
+      "lng": 3.060647,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+        "shortName": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-081",
+      "legFromPrevious": {
+        "fromId": "route-080",
+        "toId": "route-081",
+        "fromTitle": "Cala Blanca Anchorage, Menorca, Spain",
+        "toTitle": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+        "distanceDirectNm": 35.5,
+        "distanceEstimatedNm": 45.2,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.961158,
+            3.830205
+          ],
+          [
+            39.960882,
+            3.829926
+          ],
+          [
+            39.961244,
+            3.829433
+          ],
+          [
+            39.884228,
+            3.334007
+          ],
+          [
+            39.878335,
+            3.253584
+          ],
+          [
+            39.868059,
+            3.207579
+          ],
+          [
+            39.863809,
+            3.192269
+          ],
+          [
+            39.864204,
+            3.190874
+          ],
+          [
+            39.864204,
+            3.191882
+          ],
+          [
+            39.88192,
+            3.211827
+          ],
+          [
+            39.894169,
+            3.217063
+          ],
+          [
+            39.916264,
+            3.23144
+          ],
+          [
+            39.966803,
+            3.220797
+          ],
+          [
+            39.974171,
+            3.208952
+          ],
+          [
+            39.976012,
+            3.189726
+          ],
+          [
+            39.967856,
+            3.156767
+          ],
+          [
+            39.946408,
+            3.108358
+          ],
+          [
+            39.927153,
+            3.065658
+          ],
+          [
+            39.925216,
+            3.060776
+          ],
+          [
+            39.925841,
+            3.060647
+          ]
+        ]
+      }
     }
   ]
 }

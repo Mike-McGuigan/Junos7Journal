@@ -1766,5 +1766,25 @@
         "location": "Sicily to Menorca passage update"
       }
     ]
+  },
+  {
+    "id": "cam-rinco-dels-forats-storm-incoming",
+    "type": "video",
+    "date": "2026-08-20",
+    "url": "media/videos/2026-08-20-cam-rinco-dels-forats-storm-incoming.mp4",
+    "title": "Party or a storm incoming?",
+    "caption": "Cam's very early-hours start-of-shift video from Rincó dels Forats, with lightning flickering over the water and the deck lit against the dark.",
+    "categories": [
+      "crew",
+      "weather"
+    ],
+    "journalEntries": [
+      {
+        "id": "rinco-dels-forats-anchorage",
+        "title": "Rincó dels Forats Anchorage",
+        "date": "2026-08-20",
+        "location": "Rincó dels Forats Anchorage, Menorca, Spain"
+      }
+    ]
   }
 ]

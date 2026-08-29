@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-26T20:03:46.782Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "26 Aug - Evening",
+    "title": "Cala Sant Vicenç Anchorage",
+    "name": "Cala Sant Vicenç Anchorage",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 39.928845,
+    "lng": 3.063877,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Sant Vicenç Anchorage",
+      "shortName": "Cala Sant Vicenç Anchorage",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-084"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-26T20:03:46.782Z",
+    "status": "At anchor",
+    "title": "Cala Sant Vicenç Anchorage",
+    "area": "Cala Sant Vicenç Anchorage",
+    "position": {
+      "lat": 39.928845,
+      "lng": 3.063877,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Sant Vicenç Anchorage",
+      "shortName": "Cala Sant Vicenç Anchorage",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

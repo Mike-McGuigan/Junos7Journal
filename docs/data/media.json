@@ -1706,6 +1706,26 @@
     ]
   },
   {
+    "id": "seven-seas-majorca-photo",
+    "type": "photo",
+    "date": "2026-08-26",
+    "url": "media/photos/2026-08-26-seven-seas-majorca.jpg",
+    "title": "Seven Seas off Majorca",
+    "caption": "Seven Seas seen off Majorca’s north coast, captured by Sophie while Juno’s 7 was underway.",
+    "categories": [
+      "ports-anchorages",
+      "scenic"
+    ],
+    "journalEntries": [
+      {
+        "id": "seven-seas-majorca",
+        "title": "Seven Seas off Majorca",
+        "date": "2026-08-26",
+        "location": "Cala de Sa Callobra, Majorca, Spain"
+      }
+    ]
+  },
+  {
     "id": "cam-syracuse-compilation",
     "type": "video",
     "date": "2026-08-04",
@@ -1784,6 +1804,27 @@
         "title": "Rincó dels Forats Anchorage",
         "date": "2026-08-20",
         "location": "Rincó dels Forats Anchorage, Menorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "sophie-port-de-soller-after-work-drink",
+    "type": "video",
+    "date": "2026-08-27",
+    "url": "media/videos/2026-08-27-sophie-after-work-drink.mp4",
+    "title": "Only one after-work drink",
+    "caption": "Sophie’s video from Moll Pesquer in Port de Sóller, showing Cameron dancing in a club under strobe lights while her \"only one after-work drink\" comment plays out ironically 🥲.",
+    "categories": [
+      "crew",
+      "ports-anchorages",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "port-de-soller-mooring",
+        "title": "Port de Sóller Mooring",
+        "date": "2026-08-27",
+        "location": "Moll Pesquer, Port de Sóller, Majorca, Spain"
       }
     ]
   }

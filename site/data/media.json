@@ -1827,5 +1827,26 @@
         "location": "Moll Pesquer, Port de Sóller, Majorca, Spain"
       }
     ]
+  },
+  {
+    "id": "cala-deia-beach-club-retrieval",
+    "type": "video",
+    "date": "2026-08-29",
+    "url": "media/videos/2026-08-29-cala-deia-beach-club-retrieval.mp4",
+    "title": "Beach club retrieval",
+    "caption": "Cam’s video from Cala Deià Anchorage showing the end-of-day beach club retrieval, with a strange little skip-and-jump on deck.",
+    "categories": [
+      "crew",
+      "ports-anchorages",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "cala-deia-anchorage",
+        "title": "Cala Deià Anchorage",
+        "date": "2026-08-29",
+        "location": "Cala Deià Anchorage, Majorca, Spain"
+      }
+    ]
   }
 ]

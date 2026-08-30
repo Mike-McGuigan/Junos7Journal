@@ -6915,7 +6915,7 @@
     "date": "29 Aug - late morning",
     "title": "Cala Deià Anchorage, Majorca, Spain",
     "name": "Cala Deià Anchorage, Majorca, Spain",
-    "phase": "current",
+    "phase": "onboard",
     "status": "At anchor",
     "lat": 39.750153,
     "lng": 2.618469,
@@ -6939,5 +6939,34 @@
       "lookupSource": "OpenStreetMap Nominatim"
     },
     "id": "route-086"
+  },
+  {
+    "date": "30 Aug - AM",
+    "title": "Illetes Anchorage, Majorca, Spain",
+    "name": "Illetes Anchorage, Majorca, Spain",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 39.528897,
+    "lng": 2.58094,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Illetes Anchorage, Majorca, Spain",
+      "shortName": "Illetes Anchorage, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-087"
   }
 ]

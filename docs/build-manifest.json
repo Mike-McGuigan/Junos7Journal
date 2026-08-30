@@ -1,8 +1,8 @@
 {
   "version": "2.8.1",
   "release": "Drink the Voyage",
-  "buildUtc": "2026-08-29 16:35:32 UTC",
-  "fileCount": 202,
+  "buildUtc": "2026-08-30 11:40:26 UTC",
+  "fileCount": 203,
   "files": [
     {
       "path": ".gitkeep",
@@ -27,12 +27,12 @@
     {
       "path": "build-info.json",
       "sizeBytes": 201,
-      "sha256": "180350d69d7054c229c0538d4fb2c68e819ca61e5e1042aed6e9eece26c7bfb3"
+      "sha256": "0e5316960a6d7d997d70f1cdde6b0f5d7d30979de9b215f7b0eb97fcdec8bc9d"
     },
     {
       "path": "build-manifest.json",
-      "sizeBytes": 37412,
-      "sha256": "b8705a925e39a490b9c713d452263a5ce086dba5324cb3d726d8e3e5e58995bf"
+      "sizeBytes": 37617,
+      "sha256": "687fb57576a79a9be0c56d8b45f9005863e5b15a37212ae882130d5539f33095"
     },
     {
       "path": "crew.html",
@@ -141,8 +141,8 @@
     },
     {
       "path": "data/dashboard.json",
-      "sizeBytes": 2941,
-      "sha256": "558ad789be2c8989ce59c7d657480bb948a714d1bc87728783e4caf0a7f7c465"
+      "sizeBytes": 2922,
+      "sha256": "76424735cbc39702ebb042385ec6b254a55c0343d8912f1827ad2058990709f4"
     },
     {
       "path": "data/dashboard.json.bak-1-0-2",
@@ -171,13 +171,13 @@
     },
     {
       "path": "data/dashboard.json.bak-geo-1",
-      "sizeBytes": 3034,
-      "sha256": "aee03064fc351dbcf761e154ac0a1ad0ed5adb7130fc3240c96b75eb4681e77d"
+      "sizeBytes": 2941,
+      "sha256": "558ad789be2c8989ce59c7d657480bb948a714d1bc87728783e4caf0a7f7c465"
     },
     {
       "path": "data/discoveries.json",
       "sizeBytes": 15925,
-      "sha256": "3fa5b6804ef0bf8c335f26af668f46e3c056d4ba6209a80b5ccbc3319f99ee3a"
+      "sha256": "8816cb79d2aa445c4f510de390e281ef0ae78a9ea945ca0304a346b4800cc934"
     },
     {
       "path": "data/journal-update-2026-06-30-cam-on-a-mission.json",
@@ -186,8 +186,8 @@
     },
     {
       "path": "data/journal.json",
-      "sizeBytes": 357998,
-      "sha256": "5687de7faa341c1c497a4cdcf48a64a6c1a01fd58764e9cefece58756cb663b5"
+      "sizeBytes": 362639,
+      "sha256": "0a56799bae6389b807c1e322be6684ae408f72fbe9bc78f5373ead028cdff43c"
     },
     {
       "path": "data/journal.json.bak-0-7-4",
@@ -211,8 +211,8 @@
     },
     {
       "path": "data/media.json",
-      "sizeBytes": 56746,
-      "sha256": "0c6e43960e6590101e2bf290d11fa4ed70f01953e4c7785f27d42b51711ee3b7"
+      "sizeBytes": 57464,
+      "sha256": "a7b02af93f3d7903f53c9e86419cfb3bc348d8b85da9164f6e1cd5f6e8ceb79d"
     },
     {
       "path": "data/media.json.bak-1-0-1",
@@ -221,8 +221,8 @@
     },
     {
       "path": "data/route.json",
-      "sizeBytes": 184401,
-      "sha256": "c33de78b62098c9724964937ee53414663d05799117ff8717d92c8c0747ea003"
+      "sizeBytes": 187069,
+      "sha256": "eac8be983cae8951981e237a463eff0618ab505c7515b88377c5619a03bf453c"
     },
     {
       "path": "data/route.json.bak-1-0-2",
@@ -261,8 +261,8 @@
     },
     {
       "path": "data/route.json.bak-geo-1",
-      "sizeBytes": 182279,
-      "sha256": "3bc4d972a0d14b7888071200ef3cccb6054e43145f10df766b39b936fefdd43b"
+      "sizeBytes": 184401,
+      "sha256": "c33de78b62098c9724964937ee53414663d05799117ff8717d92c8c0747ea003"
     },
     {
       "path": "data/site.json",
@@ -277,7 +277,7 @@
     {
       "path": "data/version.json",
       "sizeBytes": 201,
-      "sha256": "180350d69d7054c229c0538d4fb2c68e819ca61e5e1042aed6e9eece26c7bfb3"
+      "sha256": "0e5316960a6d7d997d70f1cdde6b0f5d7d30979de9b215f7b0eb97fcdec8bc9d"
     },
     {
       "path": "data/version.json.bak-1-0-1",
@@ -322,7 +322,7 @@
     {
       "path": "data/version.json.bak-geo-1",
       "sizeBytes": 201,
-      "sha256": "b998c14ad818d7ae4166bedb9396769b7eecfd059af83aa62cfcfc4f1bfd8b3b"
+      "sha256": "180350d69d7054c229c0538d4fb2c68e819ca61e5e1042aed6e9eece26c7bfb3"
     },
     {
       "path": "media/photos/2026-06-17-cameron-sophie-selfie.jpg",
@@ -735,6 +735,11 @@
       "sha256": "ad103d613fb1e8fad71f211337487c8a759a9902d4a6d3a3248cdd3eaf671876"
     },
     {
+      "path": "media/videos/2026-08-29-cala-deia-beach-club-retrieval.mp4",
+      "sizeBytes": 2174104,
+      "sha256": "6bfc53d4b943bbc6832a042b63ee8348c51db6b427ad9e6382fb78bcd78ff989"
+    },
+    {
       "path": "media/videos/summer-2026-cave-excursion.mp4",
       "sizeBytes": 3392806,
       "sha256": "5137e0bb5dc04c4a29afaa3f5ebc5b2cb0f51792cfddeb7d9682b522b1bb20cc"
@@ -861,8 +866,8 @@
     },
     {
       "path": "assets/css/style.css",
-      "sizeBytes": 29152,
-      "sha256": "8d782b951dcd7379f93ce67a3c5cbec7dd00e1914d84bb66191521a55210f97a"
+      "sizeBytes": 29151,
+      "sha256": "fd743431dfa94df16e96284845620bcf06ad5c88e19b235fdc728dfc34103568"
     },
     {
       "path": "assets/css/version.css",

@@ -1769,8 +1769,25 @@
       "person": "Cameron and Sophie",
       "quote": "",
       "mapStop": "Cala Deià Anchorage, Majorca, Spain",
-      "body": "After moving on from Port de Sóller, Juno's 7 settled at anchor in Cala Deià, a small cove on Majorca's northwest coast beneath the cliffs around Deià. The bay gave the yacht a quieter place to pause, with the rugged shoreline and clear water making for a neat change of scene after the mooring.",
-      "summary": "Juno's 7 settled at anchor in Cala Deià after leaving Port de Sóller.",
+      "body": "After moving on from Port de Sóller, Juno's 7 settled at anchor in Cala Deià, a small cove on Majorca's northwest coast beneath the cliffs around Deià. The bay gave the yacht a quieter place to pause, with the rugged shoreline and clear water making for a neat change of scene after the mooring.\n\nCam also sent a short evening clip from the anchorage showing the end-of-day beach club retrieval, with a strange little skip-and-jump on deck before everything was packed away.",
+      "summary": "Juno's 7 settled at anchor in Cala Deià, with Cam sharing a short evening clip from the beach club retrieval.",
+      "photos": [],
+      "videos": [
+        "cala-deia-beach-club-retrieval"
+      ],
+      "media": []
+    },
+    {
+      "id": "illetes-anchorage",
+      "date": "2026-08-30",
+      "title": "Illetes Anchorage",
+      "location": "Illetes Anchorage, Majorca, Spain",
+      "type": "anchorage",
+      "person": "Cameron and Sophie",
+      "quote": "",
+      "mapStop": "Illetes Anchorage, Majorca, Spain",
+      "body": "After moving south along Majorca's coast, Juno's 7 settled at anchor in Illetes, just west of Palma. The bay gave the yacht a calm pause close to the city, with the more built-up shoreline on one side and open water to seaward.",
+      "summary": "Juno's 7 settled at anchor in Illetes, just west of Palma, after the move from Cala Deià.",
       "photos": [],
       "videos": [],
       "media": []
@@ -3603,6 +3620,27 @@
           "title": "Port de Sóller Mooring",
           "date": "2026-08-27",
           "location": "Moll Pesquer, Port de Sóller, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "cala-deia-beach-club-retrieval",
+      "type": "video",
+      "date": "2026-08-29",
+      "url": "media/videos/2026-08-29-cala-deia-beach-club-retrieval.mp4",
+      "title": "Beach club retrieval",
+      "caption": "Cam’s video from Cala Deià Anchorage showing the end-of-day beach club retrieval, with a strange little skip-and-jump on deck.",
+      "categories": [
+        "crew",
+        "ports-anchorages",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "cala-deia-anchorage",
+          "title": "Cala Deià Anchorage",
+          "date": "2026-08-29",
+          "location": "Cala Deià Anchorage, Majorca, Spain"
         }
       ]
     }
@@ -11223,7 +11261,7 @@
       "date": "29 Aug - late morning",
       "title": "Cala Deià Anchorage, Majorca, Spain",
       "name": "Cala Deià Anchorage, Majorca, Spain",
-      "phase": "current",
+      "phase": "onboard",
       "status": "At anchor",
       "lat": 39.750153,
       "lng": 2.618469,
@@ -11303,6 +11341,130 @@
           [
             39.750153,
             2.618469
+          ]
+        ]
+      }
+    },
+    {
+      "date": "30 Aug - AM",
+      "title": "Illetes Anchorage, Majorca, Spain",
+      "name": "Illetes Anchorage, Majorca, Spain",
+      "phase": "current",
+      "status": "At anchor",
+      "lat": 39.528897,
+      "lng": 2.58094,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Illetes Anchorage, Majorca, Spain",
+        "shortName": "Illetes Anchorage, Majorca, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-087",
+      "legFromPrevious": {
+        "fromId": "route-086",
+        "toId": "route-087",
+        "fromTitle": "Cala Deià Anchorage, Majorca, Spain",
+        "toTitle": "Illetes Anchorage, Majorca, Spain",
+        "distanceDirectNm": 13.4,
+        "distanceEstimatedNm": 38.7,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.750153,
+            2.618469
+          ],
+          [
+            39.75066,
+            2.611957
+          ],
+          [
+            39.74604,
+            2.594705
+          ],
+          [
+            39.65359,
+            2.397423
+          ],
+          [
+            39.603878,
+            2.306786
+          ],
+          [
+            39.585471,
+            2.292194
+          ],
+          [
+            39.575151,
+            2.290478
+          ],
+          [
+            39.566682,
+            2.294254
+          ],
+          [
+            39.558477,
+            2.303867
+          ],
+          [
+            39.539946,
+            2.328243
+          ],
+          [
+            39.527766,
+            2.352962
+          ],
+          [
+            39.50022,
+            2.402058
+          ],
+          [
+            39.482734,
+            2.417507
+          ],
+          [
+            39.4557,
+            2.453213
+          ],
+          [
+            39.449868,
+            2.488575
+          ],
+          [
+            39.447482,
+            2.530804
+          ],
+          [
+            39.468688,
+            2.553463
+          ],
+          [
+            39.52751,
+            2.580366
+          ],
+          [
+            39.528329,
+            2.582415
+          ],
+          [
+            39.528329,
+            2.580838
+          ],
+          [
+            39.528897,
+            2.58094
           ]
         ]
       }

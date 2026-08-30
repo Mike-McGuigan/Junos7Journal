@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-29T16:31:14.879Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "29 Aug - late morning",
+    "title": "Cala Deià Anchorage, Majorca, Spain",
+    "name": "Cala Deià Anchorage, Majorca, Spain",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 39.750153,
+    "lng": 2.618469,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Deià Anchorage, Majorca, Spain",
+      "shortName": "Cala Deià Anchorage, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-086"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-29T16:31:14.879Z",
+    "status": "At anchor",
+    "title": "Cala Deià Anchorage, Majorca, Spain",
+    "area": "Cala Deià Anchorage, Majorca, Spain",
+    "position": {
+      "lat": 39.750153,
+      "lng": 2.618469,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Deià Anchorage, Majorca, Spain",
+      "shortName": "Cala Deià Anchorage, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

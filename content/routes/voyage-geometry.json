@@ -1007,7 +1007,7 @@
       "fromDate": "4 Jul",
       "toDate": "5 Jul",
       "fromTitle": "Lokrum Strait, Dubrovnik, Croatia",
-      "toTitle": "En route to Mljet",
+      "toTitle": "Passage to Mljet, Croatia",
       "waypoints": [
         [
           42.63503,
@@ -1047,7 +1047,7 @@
       "toIndex": 23,
       "fromDate": "5 Jul",
       "toDate": "5 Jul",
-      "fromTitle": "En route to Mljet",
+      "fromTitle": "Passage to Mljet, Croatia",
       "toTitle": "Polače Anchorage, Mljet, Croatia",
       "waypoints": [
         [
@@ -1247,7 +1247,7 @@
       "fromDate": "6 Jul",
       "toDate": "7 Jul AM",
       "fromTitle": "Korčula Port, Croatia",
-      "toTitle": "En route to Hvar",
+      "toTitle": "Passage to Hvar, Croatia",
       "waypoints": [
         [
           42.962004,
@@ -1291,7 +1291,7 @@
       "toIndex": 27,
       "fromDate": "7 Jul AM",
       "toDate": "7 Jul",
-      "fromTitle": "En route to Hvar",
+      "fromTitle": "Passage to Hvar, Croatia",
       "toTitle": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia",
       "waypoints": [
         [
@@ -1369,7 +1369,7 @@
       "fromDate": "7 Jul",
       "toDate": "8 Jul - Late afternoon",
       "fromTitle": "Velo Ždrilo Anchorage, Pakleni Islands, Croatia",
-      "toTitle": "En route to Split",
+      "toTitle": "Passage to Split, Croatia",
       "waypoints": [
         [
           43.162145,
@@ -1413,7 +1413,7 @@
       "toIndex": 29,
       "fromDate": "8 Jul - Late afternoon",
       "toDate": "8 Jul - Early evening",
-      "fromTitle": "En route to Split",
+      "fromTitle": "Passage to Split, Croatia",
       "toTitle": "Approaching Split, Croatia",
       "waypoints": [
         [
@@ -1533,7 +1533,7 @@
       "fromDate": "10 Jul",
       "toDate": "11 Jul - AM",
       "fromTitle": "Zaglav Anchorage, Brač, Croatia",
-      "toTitle": "En route to Vis",
+      "toTitle": "Passage to Vis, Croatia",
       "waypoints": [
         [
           43.326035,
@@ -1577,7 +1577,7 @@
       "toIndex": 33,
       "fromDate": "11 Jul - AM",
       "toDate": "11 Jul - Late morning",
-      "fromTitle": "En route to Vis",
+      "fromTitle": "Passage to Vis, Croatia",
       "toTitle": "Passage to Vis, Croatia",
       "waypoints": [
         [
@@ -2817,7 +2817,7 @@
       "fromDate": "26 Jul - In time for breakfast",
       "toDate": "28 Jul 4 AM - Early departure",
       "fromTitle": "Crotone Old Harbour, Calabria, Italy",
-      "toTitle": "Manual location",
+      "toTitle": "Passage to Valletta, Malta",
       "waypoints": [
         [
           39.077568,
@@ -2905,7 +2905,7 @@
       "toIndex": 54,
       "fromDate": "28 Jul 4 AM - Early departure",
       "toDate": "29 Jul - AM",
-      "fromTitle": "Manual location",
+      "fromTitle": "Passage to Valletta, Malta",
       "toTitle": "Passage to Valletta, Malta",
       "waypoints": [
         [
@@ -2951,7 +2951,7 @@
       "fromDate": "29 Jul - AM",
       "toDate": "29 Jul - In time for breakfast again",
       "fromTitle": "Passage to Valletta, Malta",
-      "toTitle": "Passage to Valletta, Malta",
+      "toTitle": "Grand Harbour Marina, Vittoriosa, Malta",
       "waypoints": [
         [
           35.89989,
@@ -3011,8 +3011,8 @@
       "toIndex": 56,
       "fromDate": "29 Jul - In time for breakfast again",
       "toDate": "30 Jul - Early afternoon",
-      "fromTitle": "Passage to Valletta, Malta",
-      "toTitle": "Grand Harbour Marina, Vittoriosa, Malta",
+      "fromTitle": "Grand Harbour Marina, Vittoriosa, Malta",
+      "toTitle": "Comino Anchorage, Malta",
       "waypoints": [
         [
           35.890524,
@@ -3096,8 +3096,8 @@
       "toIndex": 57,
       "fromDate": "30 Jul - Early afternoon",
       "toDate": "31 Jul AM",
-      "fromTitle": "Grand Harbour Marina, Vittoriosa, Malta",
-      "toTitle": "Comino Anchorage, Malta",
+      "fromTitle": "Comino Anchorage, Malta",
+      "toTitle": "Dwejra Bay, Gozo, Malta",
       "waypoints": [
         [
           36.008068,
@@ -3169,8 +3169,8 @@
       "toIndex": 58,
       "fromDate": "31 Jul AM",
       "toDate": "2 Aug",
-      "fromTitle": "Comino Anchorage, Malta",
-      "toTitle": "Dwejra Bay, Gozo, Malta",
+      "fromTitle": "Dwejra Bay, Gozo, Malta",
+      "toTitle": "Ramla Bay, Gozo, Malta",
       "waypoints": [
         [
           36.045911,
@@ -3258,8 +3258,8 @@
       "toIndex": 59,
       "fromDate": "2 Aug",
       "toDate": "3 Aug - 5AM departure",
-      "fromTitle": "Dwejra Bay, Gozo, Malta",
-      "toTitle": "Ramla Bay, Gozo, Malta",
+      "fromTitle": "Ramla Bay, Gozo, Malta",
+      "toTitle": "Passage to Sicily",
       "waypoints": [
         [
           36.066629,
@@ -3291,7 +3291,7 @@
       "toIndex": 60,
       "fromDate": "3 Aug - 5AM departure",
       "toDate": "3 Aug",
-      "fromTitle": "Ramla Bay, Gozo, Malta",
+      "fromTitle": "Passage to Sicily",
       "toTitle": "Passage to Syracuse, Sicily, Italy",
       "waypoints": [
         [
@@ -3345,7 +3345,7 @@
       "fromDate": "3 Aug",
       "toDate": "6 Aug - Early morning departure",
       "fromTitle": "Passage to Syracuse, Sicily, Italy",
-      "toTitle": "Porto Grande, Syracuse, Sicily, Italy",
+      "toTitle": "Passage to Capo Passero, Sicily, Italy",
       "waypoints": [
         [
           37.058589,
@@ -3381,8 +3381,8 @@
       "toIndex": 62,
       "fromDate": "6 Aug - Early morning departure",
       "toDate": "6 Aug",
-      "fromTitle": "Porto Grande, Syracuse, Sicily, Italy",
-      "toTitle": "Passage to Capo Passero, Sicily, Italy",
+      "fromTitle": "Passage to Capo Passero, Sicily, Italy",
+      "toTitle": "Capo Passero Anchorage, Sicily, Italy",
       "waypoints": [
         [
           37.027568,
@@ -3422,8 +3422,8 @@
       "toIndex": 63,
       "fromDate": "6 Aug",
       "toDate": "8 Aug AM",
-      "fromTitle": "Passage to Capo Passero, Sicily, Italy",
-      "toTitle": "Capo Passero Anchorage, Sicily, Italy",
+      "fromTitle": "Capo Passero Anchorage, Sicily, Italy",
+      "toTitle": "Passage to Syracuse, Sicily, Italy",
       "waypoints": [
         [
           36.691062,
@@ -3455,8 +3455,8 @@
       "toIndex": 64,
       "fromDate": "8 Aug AM",
       "toDate": "8 Aug - Return to Syracuse",
-      "fromTitle": "Capo Passero Anchorage, Sicily, Italy",
-      "toTitle": "Passage to Syracuse, Sicily, Italy",
+      "fromTitle": "Passage to Syracuse, Sicily, Italy",
+      "toTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
       "waypoints": [
         [
           36.929744,
@@ -3516,7 +3516,7 @@
       "toIndex": 65,
       "fromDate": "8 Aug - Return to Syracuse",
       "toDate": "9 Aug - Late afternoon",
-      "fromTitle": "Passage to Syracuse, Sicily, Italy",
+      "fromTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
       "toTitle": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
       "waypoints": [
         [
@@ -3626,7 +3626,7 @@
       "fromDate": "9 Aug - Late afternoon",
       "toDate": "11 Aug - 9am arrival",
       "fromTitle": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
-      "toTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
+      "toTitle": "Taormina Anchorage, Sicily, Italy",
       "waypoints": [
         [
           37.731604,
@@ -3686,8 +3686,8 @@
       "toIndex": 67,
       "fromDate": "11 Aug - 9am arrival",
       "toDate": "13 Aug - Early afternoon",
-      "fromTitle": "Porto Grande Anchorage, Syracuse, Sicily, Italy",
-      "toTitle": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
+      "fromTitle": "Taormina Anchorage, Sicily, Italy",
+      "toTitle": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
       "waypoints": [
         [
           37.845211,
@@ -3787,8 +3787,8 @@
       "toIndex": 68,
       "fromDate": "13 Aug - Early afternoon",
       "toDate": "13 Aug - Early evening volcano watch",
-      "fromTitle": "Porto dell'Etna Marina, Riposto, Sicily, Italy",
-      "toTitle": "Taormina Anchorage, Sicily, Italy",
+      "fromTitle": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "toTitle": "Off Stromboli, Aeolian Islands, Sicily, Italy",
       "waypoints": [
         [
           38.622006,
@@ -3836,8 +3836,8 @@
       "toIndex": 69,
       "fromDate": "13 Aug - Early evening volcano watch",
       "toDate": "14 Aug - Early hours arrival",
-      "fromTitle": "Taormina Anchorage, Sicily, Italy",
-      "toTitle": "Basiluzzo Anchorage, Panarea, Sicily, Italy",
+      "fromTitle": "Off Stromboli, Aeolian Islands, Sicily, Italy",
+      "toTitle": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
       "waypoints": [
         [
           38.820243,
@@ -3909,7 +3909,7 @@
       "toIndex": 72,
       "fromDate": "15 Aug - early afternoon",
       "toDate": "15 Aug - Evening",
-      "fromTitle": "Faraglioni di Lipari Anchorage, Lipari, Sicily, Italy",
+      "fromTitle": "Mondello Anchorage, Sicily, Italy",
       "toTitle": "Passage to Mondello, Sicily, Italy",
       "waypoints": [
         [
@@ -3935,7 +3935,7 @@
       "fromDate": "15 Aug - Evening",
       "toDate": "16 Aug - early evening",
       "fromTitle": "Passage to Mondello, Sicily, Italy",
-      "toTitle": "Mondello Anchorage, Sicily, Italy",
+      "toTitle": "Passage to Menorca, Spain update",
       "waypoints": [
         [
           38.792401,
@@ -4388,6 +4388,310 @@
         [
           39.925216,
           3.060776
+        ]
+      ]
+    },
+    {
+      "fromIndex": 80,
+      "toIndex": 81,
+      "fromDate": "24 Aug",
+      "toDate": "26 Aug - AM Underway",
+      "fromId": "route-081",
+      "toId": "route-082",
+      "fromTitle": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "toTitle": "Cala de Sa Callobra, Majorca, Spain",
+      "waypoints": [
+        [
+          39.928121,
+          3.06319
+        ],
+        [
+          39.932729,
+          3.06392
+        ],
+        [
+          39.935065,
+          3.062375
+        ],
+        [
+          39.940692,
+          3.053534
+        ],
+        [
+          39.943752,
+          3.041346
+        ],
+        [
+          39.933904,
+          2.961245
+        ],
+        [
+          39.913575,
+          2.895069
+        ],
+        [
+          39.894613,
+          2.841167
+        ],
+        [
+          39.875381,
+          2.807865
+        ],
+        [
+          39.867823,
+          2.799926
+        ],
+        [
+          39.862882,
+          2.798123
+        ],
+        [
+          39.860115,
+          2.79881
+        ]
+      ]
+    },
+    {
+      "fromIndex": 81,
+      "toIndex": 82,
+      "fromDate": "26 Aug - AM Underway",
+      "toDate": "26 Aug - AM",
+      "fromId": "route-082",
+      "toId": "route-083",
+      "fromTitle": "Cala de Sa Callobra, Majorca, Spain",
+      "toTitle": "Cala Tuent, Majorca, Spain",
+      "waypoints": [
+        [
+          39.85788,
+          2.799808
+        ],
+        [
+          39.860498,
+          2.796825
+        ],
+        [
+          39.859955,
+          2.778651
+        ],
+        [
+          39.857715,
+          2.775475
+        ],
+        [
+          39.854799,
+          2.773329
+        ],
+        [
+          39.850015,
+          2.771537
+        ],
+        [
+          39.843938,
+          2.770974
+        ],
+        [
+          39.843362,
+          2.770749
+        ],
+        [
+          39.84318,
+          2.77091
+        ]
+      ]
+    },
+    {
+      "fromIndex": 82,
+      "toIndex": 83,
+      "fromDate": "26 Aug - AM",
+      "toDate": "26 Aug - Evening",
+      "fromId": "route-083",
+      "toId": "route-084",
+      "fromTitle": "Cala Tuent, Majorca, Spain",
+      "toTitle": "Cala Sant Vicenç Anchorage",
+      "waypoints": [
+        [
+          39.84415,
+          2.76922
+        ],
+        [
+          39.855912,
+          2.764757
+        ],
+        [
+          39.857743,
+          2.766709
+        ],
+        [
+          39.85972,
+          2.770486
+        ],
+        [
+          39.87907,
+          2.805462
+        ],
+        [
+          39.912674,
+          2.893181
+        ],
+        [
+          39.932851,
+          2.963991
+        ],
+        [
+          39.940485,
+          3.012571
+        ],
+        [
+          39.941538,
+          3.043814
+        ],
+        [
+          39.94088,
+          3.054972
+        ],
+        [
+          39.938116,
+          3.060122
+        ],
+        [
+          39.934957,
+          3.063555
+        ],
+        [
+          39.929757,
+          3.063394
+        ]
+      ]
+    },
+    {
+      "fromIndex": 83,
+      "toIndex": 84,
+      "fromDate": "26 Aug - Evening",
+      "toDate": "27 Aug - PM",
+      "fromId": "route-084",
+      "toId": "route-085",
+      "fromTitle": "Cala Sant Vicenç Anchorage",
+      "toTitle": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+      "waypoints": [
+        [
+          39.933077,
+          3.063684
+        ],
+        [
+          39.938539,
+          3.057504
+        ],
+        [
+          39.940447,
+          3.047204
+        ],
+        [
+          39.939592,
+          3.025489
+        ],
+        [
+          39.931216,
+          2.963047
+        ],
+        [
+          39.925424,
+          2.945881
+        ],
+        [
+          39.909888,
+          2.923908
+        ],
+        [
+          39.890925,
+          2.8549
+        ],
+        [
+          39.86247,
+          2.778339
+        ],
+        [
+          39.838935,
+          2.726412
+        ],
+        [
+          39.824435,
+          2.706499
+        ],
+        [
+          39.808522,
+          2.693861
+        ],
+        [
+          39.800181,
+          2.687638
+        ],
+        [
+          39.797741,
+          2.686093
+        ],
+        [
+          39.795631,
+          2.687938
+        ],
+        [
+          39.794411,
+          2.689912
+        ],
+        [
+          39.794776,
+          2.692085
+        ]
+      ]
+    },
+    {
+      "fromIndex": 84,
+      "toIndex": 85,
+      "fromDate": "27 Aug - PM",
+      "toDate": "29 Aug - late morning",
+      "fromId": "route-085",
+      "toId": "route-086",
+      "fromTitle": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+      "toTitle": "Cala Deià Anchorage, Majorca, Spain",
+      "waypoints": [
+        [
+          39.794652,
+          2.692975
+        ],
+        [
+          39.794537,
+          2.692063
+        ],
+        [
+          39.795699,
+          2.689081
+        ],
+        [
+          39.799917,
+          2.680042
+        ],
+        [
+          39.800873,
+          2.674506
+        ],
+        [
+          39.789846,
+          2.65676
+        ],
+        [
+          39.772339,
+          2.631655
+        ],
+        [
+          39.762047,
+          2.618265
+        ],
+        [
+          39.754442,
+          2.616924
+        ],
+        [
+          39.750928,
+          2.61746
         ]
       ]
     }

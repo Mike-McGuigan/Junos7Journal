@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-27T13:17:30.154Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "27 Aug - PM",
+    "title": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+    "name": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+    "phase": "current",
+    "status": "Moored",
+    "lat": 39.795295,
+    "lng": 2.692965,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+      "shortName": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-085"
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-27T13:17:30.154Z",
+    "status": "Moored",
+    "title": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+    "area": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+    "position": {
+      "lat": 39.795295,
+      "lng": 2.692965,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+      "shortName": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

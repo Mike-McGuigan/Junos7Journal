@@ -6958,7 +6958,7 @@
     "date": "22 Aug - AM",
     "title": "Cala Blanca Anchorage, Menorca, Spain",
     "name": "Cala Blanca Anchorage, Menorca, Spain",
-    "phase": "current",
+    "phase": "onboard",
     "status": "At anchor",
     "lat": 39.961158,
     "lng": 3.830205,
@@ -7090,6 +7090,522 @@
         [
           39.961158,
           3.830205
+        ]
+      ]
+    }
+  },
+  {
+    "date": "24 Aug",
+    "title": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+    "name": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+    "phase": "onboard",
+    "status": "At anchor",
+    "lat": 39.925841,
+    "lng": 3.060647,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "shortName": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-081",
+    "legFromPrevious": {
+      "fromId": "route-080",
+      "toId": "route-081",
+      "fromTitle": "Cala Blanca Anchorage, Menorca, Spain",
+      "toTitle": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "distanceDirectNm": 35.5,
+      "distanceEstimatedNm": 45.2,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.961158,
+          3.830205
+        ],
+        [
+          39.960882,
+          3.829926
+        ],
+        [
+          39.961244,
+          3.829433
+        ],
+        [
+          39.884228,
+          3.334007
+        ],
+        [
+          39.878335,
+          3.253584
+        ],
+        [
+          39.868059,
+          3.207579
+        ],
+        [
+          39.863809,
+          3.192269
+        ],
+        [
+          39.864204,
+          3.190874
+        ],
+        [
+          39.864204,
+          3.191882
+        ],
+        [
+          39.88192,
+          3.211827
+        ],
+        [
+          39.894169,
+          3.217063
+        ],
+        [
+          39.916264,
+          3.23144
+        ],
+        [
+          39.966803,
+          3.220797
+        ],
+        [
+          39.974171,
+          3.208952
+        ],
+        [
+          39.976012,
+          3.189726
+        ],
+        [
+          39.967856,
+          3.156767
+        ],
+        [
+          39.946408,
+          3.108358
+        ],
+        [
+          39.927153,
+          3.065658
+        ],
+        [
+          39.925216,
+          3.060776
+        ],
+        [
+          39.925841,
+          3.060647
+        ]
+      ]
+    }
+  },
+  {
+    "date": "26 Aug - AM Underway",
+    "title": "Cala de Sa Callobra, Majorca, Spain",
+    "name": "Cala de Sa Callobra, Majorca, Spain",
+    "phase": "onboard",
+    "status": "Underway",
+    "lat": 39.855912,
+    "lng": 2.801449,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala de Sa Callobra, Majorca, Spain",
+      "shortName": "Cala de Sa Callobra, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-082",
+    "legFromPrevious": {
+      "fromId": "route-081",
+      "toId": "route-082",
+      "fromTitle": "Cala Sant Vicenç Anchorage, Majorca, Spain",
+      "toTitle": "Cala de Sa Callobra, Majorca, Spain",
+      "distanceDirectNm": 12.7,
+      "distanceEstimatedNm": 14.7,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.925841,
+          3.060647
+        ],
+        [
+          39.928121,
+          3.06319
+        ],
+        [
+          39.932729,
+          3.06392
+        ],
+        [
+          39.935065,
+          3.062375
+        ],
+        [
+          39.940692,
+          3.053534
+        ],
+        [
+          39.943752,
+          3.041346
+        ],
+        [
+          39.933904,
+          2.961245
+        ],
+        [
+          39.913575,
+          2.895069
+        ],
+        [
+          39.894613,
+          2.841167
+        ],
+        [
+          39.875381,
+          2.807865
+        ],
+        [
+          39.867823,
+          2.799926
+        ],
+        [
+          39.862882,
+          2.798123
+        ],
+        [
+          39.860115,
+          2.79881
+        ],
+        [
+          39.855912,
+          2.801449
+        ]
+      ]
+    }
+  },
+  {
+    "date": "26 Aug - AM",
+    "title": "Cala Tuent, Majorca, Spain",
+    "name": "Cala Tuent, Majorca, Spain",
+    "phase": "onboard",
+    "status": "At anchor",
+    "lat": 39.843515,
+    "lng": 2.771269,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Tuent, Majorca, Spain",
+      "shortName": "Cala Tuent, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-083",
+    "legFromPrevious": {
+      "fromId": "route-082",
+      "toId": "route-083",
+      "fromTitle": "Cala de Sa Callobra, Majorca, Spain",
+      "toTitle": "Cala Tuent, Majorca, Spain",
+      "distanceDirectNm": 1.6,
+      "distanceEstimatedNm": 2.3,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.855912,
+          2.801449
+        ],
+        [
+          39.85788,
+          2.799808
+        ],
+        [
+          39.860498,
+          2.796825
+        ],
+        [
+          39.859955,
+          2.778651
+        ],
+        [
+          39.857715,
+          2.775475
+        ],
+        [
+          39.854799,
+          2.773329
+        ],
+        [
+          39.850015,
+          2.771537
+        ],
+        [
+          39.843938,
+          2.770974
+        ],
+        [
+          39.843362,
+          2.770749
+        ],
+        [
+          39.84318,
+          2.77091
+        ],
+        [
+          39.843515,
+          2.771269
+        ]
+      ]
+    }
+  },
+  {
+    "date": "26 Aug - Evening",
+    "title": "Cala Sant Vicenç Anchorage",
+    "name": "Cala Sant Vicenç Anchorage",
+    "phase": "onboard",
+    "status": "At anchor",
+    "lat": 39.928845,
+    "lng": 3.063877,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Sant Vicenç Anchorage",
+      "shortName": "Cala Sant Vicenç Anchorage",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-084",
+    "legFromPrevious": {
+      "fromId": "route-083",
+      "toId": "route-084",
+      "fromTitle": "Cala Tuent, Majorca, Spain",
+      "toTitle": "Cala Sant Vicenç Anchorage",
+      "distanceDirectNm": 14.4,
+      "distanceEstimatedNm": 16.3,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.843515,
+          2.771269
+        ],
+        [
+          39.84415,
+          2.76922
+        ],
+        [
+          39.855912,
+          2.764757
+        ],
+        [
+          39.857743,
+          2.766709
+        ],
+        [
+          39.85972,
+          2.770486
+        ],
+        [
+          39.87907,
+          2.805462
+        ],
+        [
+          39.912674,
+          2.893181
+        ],
+        [
+          39.932851,
+          2.963991
+        ],
+        [
+          39.940485,
+          3.012571
+        ],
+        [
+          39.941538,
+          3.043814
+        ],
+        [
+          39.94088,
+          3.054972
+        ],
+        [
+          39.938116,
+          3.060122
+        ],
+        [
+          39.934957,
+          3.063555
+        ],
+        [
+          39.929757,
+          3.063394
+        ],
+        [
+          39.928845,
+          3.063877
+        ]
+      ]
+    }
+  },
+  {
+    "date": "27 Aug - PM",
+    "title": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+    "name": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+    "phase": "onboard",
+    "status": "Moored",
+    "lat": 39.795493,
+    "lng": 2.693287,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+      "shortName": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-085",
+    "legFromPrevious": {
+      "fromId": "route-084",
+      "toId": "route-085",
+      "fromTitle": "Cala Sant Vicenç Anchorage",
+      "toTitle": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+      "distanceDirectNm": 18.9,
+      "distanceEstimatedNm": 21.0,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.928845,
+          3.063877
+        ],
+        [
+          39.933077,
+          3.063684
+        ],
+        [
+          39.938539,
+          3.057504
+        ],
+        [
+          39.940447,
+          3.047204
+        ],
+        [
+          39.939592,
+          3.025489
+        ],
+        [
+          39.931216,
+          2.963047
+        ],
+        [
+          39.925424,
+          2.945881
+        ],
+        [
+          39.909888,
+          2.923908
+        ],
+        [
+          39.890925,
+          2.8549
+        ],
+        [
+          39.86247,
+          2.778339
+        ],
+        [
+          39.838935,
+          2.726412
+        ],
+        [
+          39.824435,
+          2.706499
+        ],
+        [
+          39.808522,
+          2.693861
+        ],
+        [
+          39.800181,
+          2.687638
+        ],
+        [
+          39.797741,
+          2.686093
+        ],
+        [
+          39.795631,
+          2.687938
+        ],
+        [
+          39.794411,
+          2.689912
+        ],
+        [
+          39.794776,
+          2.692085
+        ],
+        [
+          39.795493,
+          2.693287
         ]
       ]
     }

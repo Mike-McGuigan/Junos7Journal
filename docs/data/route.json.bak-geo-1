@@ -7609,5 +7609,93 @@
         ]
       ]
     }
+  },
+  {
+    "date": "29 Aug - late morning",
+    "title": "Cala Deià Anchorage, Majorca, Spain",
+    "name": "Cala Deià Anchorage, Majorca, Spain",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 39.750153,
+    "lng": 2.618469,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Deià Anchorage, Majorca, Spain",
+      "shortName": "Cala Deià Anchorage, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-086",
+    "legFromPrevious": {
+      "fromId": "route-085",
+      "toId": "route-086",
+      "fromTitle": "Moll Pesquer, Port de Sóller, Majorca, Spain",
+      "toTitle": "Cala Deià Anchorage, Majorca, Spain",
+      "distanceDirectNm": 4.4,
+      "distanceEstimatedNm": 5.2,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.795493,
+          2.693287
+        ],
+        [
+          39.794652,
+          2.692975
+        ],
+        [
+          39.794537,
+          2.692063
+        ],
+        [
+          39.795699,
+          2.689081
+        ],
+        [
+          39.799917,
+          2.680042
+        ],
+        [
+          39.800873,
+          2.674506
+        ],
+        [
+          39.789846,
+          2.65676
+        ],
+        [
+          39.772339,
+          2.631655
+        ],
+        [
+          39.762047,
+          2.618265
+        ],
+        [
+          39.754442,
+          2.616924
+        ],
+        [
+          39.750928,
+          2.61746
+        ],
+        [
+          39.750153,
+          2.618469
+        ]
+      ]
+    }
   }
 ]

@@ -7614,7 +7614,7 @@
     "date": "29 Aug - late morning",
     "title": "Cala Deià Anchorage, Majorca, Spain",
     "name": "Cala Deià Anchorage, Majorca, Spain",
-    "phase": "current",
+    "phase": "onboard",
     "status": "At anchor",
     "lat": 39.750153,
     "lng": 2.618469,
@@ -7694,6 +7694,818 @@
         [
           39.750153,
           2.618469
+        ]
+      ]
+    }
+  },
+  {
+    "date": "30 Aug - AM",
+    "title": "Illetes Anchorage, Majorca, Spain",
+    "name": "Illetes Anchorage, Majorca, Spain",
+    "phase": "onboard",
+    "status": "At anchor",
+    "lat": 39.528897,
+    "lng": 2.58094,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Illetes Anchorage, Majorca, Spain",
+      "shortName": "Illetes Anchorage, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-087",
+    "legFromPrevious": {
+      "fromId": "route-086",
+      "toId": "route-087",
+      "fromTitle": "Cala Deià Anchorage, Majorca, Spain",
+      "toTitle": "Illetes Anchorage, Majorca, Spain",
+      "distanceDirectNm": 13.4,
+      "distanceEstimatedNm": 38.7,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.750153,
+          2.618469
+        ],
+        [
+          39.75066,
+          2.611957
+        ],
+        [
+          39.74604,
+          2.594705
+        ],
+        [
+          39.65359,
+          2.397423
+        ],
+        [
+          39.603878,
+          2.306786
+        ],
+        [
+          39.585471,
+          2.292194
+        ],
+        [
+          39.575151,
+          2.290478
+        ],
+        [
+          39.566682,
+          2.294254
+        ],
+        [
+          39.558477,
+          2.303867
+        ],
+        [
+          39.539946,
+          2.328243
+        ],
+        [
+          39.527766,
+          2.352962
+        ],
+        [
+          39.50022,
+          2.402058
+        ],
+        [
+          39.482734,
+          2.417507
+        ],
+        [
+          39.4557,
+          2.453213
+        ],
+        [
+          39.449868,
+          2.488575
+        ],
+        [
+          39.447482,
+          2.530804
+        ],
+        [
+          39.468688,
+          2.553463
+        ],
+        [
+          39.52751,
+          2.580366
+        ],
+        [
+          39.528329,
+          2.582415
+        ],
+        [
+          39.528329,
+          2.580838
+        ],
+        [
+          39.528897,
+          2.58094
+        ]
+      ]
+    }
+  },
+  {
+    "date": "30 Aug - Evening",
+    "title": "Palma Bay Anchorage, Majorca, Spain",
+    "name": "Palma Bay Anchorage, Majorca, Spain",
+    "phase": "onboard",
+    "status": "At anchor",
+    "lat": 39.56013,
+    "lng": 2.651975,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Palma Bay Anchorage, Majorca, Spain",
+      "shortName": "Palma Bay Anchorage, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-088",
+    "legFromPrevious": {
+      "fromId": "route-087",
+      "toId": "route-088",
+      "fromTitle": "Illetes Anchorage, Majorca, Spain",
+      "toTitle": "Palma Bay Anchorage, Majorca, Spain",
+      "distanceDirectNm": 3.8,
+      "distanceEstimatedNm": 4.6,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.528897,
+          2.58094
+        ],
+        [
+          39.528062,
+          2.580564
+        ],
+        [
+          39.525646,
+          2.589962
+        ],
+        [
+          39.531529,
+          2.622042
+        ],
+        [
+          39.537222,
+          2.639551
+        ],
+        [
+          39.542252,
+          2.650537
+        ],
+        [
+          39.553107,
+          2.654657
+        ],
+        [
+          39.56013,
+          2.651975
+        ]
+      ]
+    }
+  },
+  {
+    "date": "31 Aug - AM",
+    "title": "Palma Harbour Mooring, Majorca, Spain",
+    "name": "Palma Harbour Mooring, Majorca, Spain",
+    "phase": "onboard",
+    "status": "Moored",
+    "lat": 39.559884,
+    "lng": 2.62989,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Palma Harbour Mooring, Majorca, Spain",
+      "shortName": "Palma Harbour Mooring, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-089",
+    "legFromPrevious": {
+      "fromId": "route-088",
+      "toId": "route-089",
+      "fromTitle": "Palma Bay Anchorage, Majorca, Spain",
+      "toTitle": "Palma Harbour Mooring, Majorca, Spain",
+      "distanceDirectNm": 1.0,
+      "distanceEstimatedNm": 1.1,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.56013,
+          2.651975
+        ],
+        [
+          39.558773,
+          2.650645
+        ],
+        [
+          39.558575,
+          2.645366
+        ],
+        [
+          39.557615,
+          2.637684
+        ],
+        [
+          39.557483,
+          2.635581
+        ],
+        [
+          39.557913,
+          2.633822
+        ],
+        [
+          39.558443,
+          2.632706
+        ],
+        [
+          39.559237,
+          2.632234
+        ],
+        [
+          39.559766,
+          2.631676
+        ],
+        [
+          39.559884,
+          2.62989
+        ]
+      ]
+    }
+  },
+  {
+    "date": "19 Sept - late morning",
+    "title": "Port Ibiza Town Mooring, Ibiza, Spain",
+    "name": "Port Ibiza Town Mooring, Ibiza, Spain",
+    "phase": "onboard",
+    "status": "Moored",
+    "lat": 38.909574,
+    "lng": 1.439965,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Port Ibiza Town Mooring, Ibiza, Spain",
+      "shortName": "Port Ibiza Town Mooring, Ibiza, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-090",
+    "legFromPrevious": {
+      "fromId": "route-089",
+      "toId": "route-090",
+      "fromTitle": "Palma Harbour Mooring, Majorca, Spain",
+      "toTitle": "Port Ibiza Town Mooring, Ibiza, Spain",
+      "distanceDirectNm": 67.7,
+      "distanceEstimatedNm": 70.8,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          39.559884,
+          2.62989
+        ],
+        [
+          39.559983,
+          2.630898
+        ],
+        [
+          39.559752,
+          2.631853
+        ],
+        [
+          39.558784,
+          2.632894
+        ],
+        [
+          39.557063,
+          2.634879
+        ],
+        [
+          39.555829,
+          2.638972
+        ],
+        [
+          39.55477,
+          2.642319
+        ],
+        [
+          39.551759,
+          2.645066
+        ],
+        [
+          39.548119,
+          2.644465
+        ],
+        [
+          39.515772,
+          2.610712
+        ],
+        [
+          39.495507,
+          2.581358
+        ],
+        [
+          39.483319,
+          2.567625
+        ],
+        [
+          39.449756,
+          2.536125
+        ],
+        [
+          39.057134,
+          1.72966
+        ],
+        [
+          39.032407,
+          1.67593
+        ],
+        [
+          39.011392,
+          1.647348
+        ],
+        [
+          38.964558,
+          1.576109
+        ],
+        [
+          38.932595,
+          1.532078
+        ],
+        [
+          38.898936,
+          1.46719
+        ],
+        [
+          38.897017,
+          1.460366
+        ],
+        [
+          38.895948,
+          1.455045
+        ],
+        [
+          38.895547,
+          1.451697
+        ],
+        [
+          38.89675,
+          1.44835
+        ],
+        [
+          38.900891,
+          1.44526
+        ],
+        [
+          38.902828,
+          1.444831
+        ],
+        [
+          38.905032,
+          1.444917
+        ],
+        [
+          38.906836,
+          1.44526
+        ],
+        [
+          38.909774,
+          1.444117
+        ],
+        [
+          38.910834,
+          1.443678
+        ],
+        [
+          38.911302,
+          1.443431
+        ],
+        [
+          38.911461,
+          1.443302
+        ],
+        [
+          38.911586,
+          1.442873
+        ],
+        [
+          38.911653,
+          1.44239
+        ],
+        [
+          38.911719,
+          1.441864
+        ],
+        [
+          38.911611,
+          1.441264
+        ],
+        [
+          38.910718,
+          1.440738
+        ],
+        [
+          38.909574,
+          1.439965
+        ]
+      ]
+    }
+  },
+  {
+    "date": "20 Sept - mid morning",
+    "title": "Cala Porroig Anchorage, Ibiza, Spain",
+    "name": "Cala Porroig Anchorage, Ibiza, Spain",
+    "phase": "onboard",
+    "status": "At anchor",
+    "lat": 38.859821,
+    "lng": 1.314958,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Cala Porroig Anchorage, Ibiza, Spain",
+      "shortName": "Cala Porroig Anchorage, Ibiza, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-091",
+    "legFromPrevious": {
+      "fromId": "route-090",
+      "toId": "route-091",
+      "fromTitle": "Port Ibiza Town Mooring, Ibiza, Spain",
+      "toTitle": "Cala Porroig Anchorage, Ibiza, Spain",
+      "distanceDirectNm": 6.6,
+      "distanceEstimatedNm": 12.5,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          38.909574,
+          1.439965
+        ],
+        [
+          38.91096,
+          1.441553
+        ],
+        [
+          38.911461,
+          1.442261
+        ],
+        [
+          38.911544,
+          1.443184
+        ],
+        [
+          38.91131,
+          1.44371
+        ],
+        [
+          38.910801,
+          1.444021
+        ],
+        [
+          38.908252,
+          1.444466
+        ],
+        [
+          38.906282,
+          1.444466
+        ],
+        [
+          38.904713,
+          1.443951
+        ],
+        [
+          38.894559,
+          1.443479
+        ],
+        [
+          38.887044,
+          1.442578
+        ],
+        [
+          38.883255,
+          1.441998
+        ],
+        [
+          38.869089,
+          1.435733
+        ],
+        [
+          38.841924,
+          1.426764
+        ],
+        [
+          38.813038,
+          1.41715
+        ],
+        [
+          38.809561,
+          1.415434
+        ],
+        [
+          38.808624,
+          1.412001
+        ],
+        [
+          38.80742,
+          1.408052
+        ],
+        [
+          38.807153,
+          1.405478
+        ],
+        [
+          38.807287,
+          1.402731
+        ],
+        [
+          38.807554,
+          1.398096
+        ],
+        [
+          38.809427,
+          1.39123
+        ],
+        [
+          38.813573,
+          1.381273
+        ],
+        [
+          38.818522,
+          1.371832
+        ],
+        [
+          38.837913,
+          1.337328
+        ],
+        [
+          38.846336,
+          1.323423
+        ],
+        [
+          38.851818,
+          1.316557
+        ],
+        [
+          38.856973,
+          1.314948
+        ],
+        [
+          38.85851,
+          1.314991
+        ],
+        [
+          38.859821,
+          1.314958
+        ]
+      ]
+    }
+  },
+  {
+    "date": "21 Sept",
+    "title": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+    "name": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+    "phase": "onboard",
+    "status": "At anchor",
+    "lat": 38.768224,
+    "lng": 1.429918,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "shortName": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-092",
+    "legFromPrevious": {
+      "fromId": "route-091",
+      "toId": "route-092",
+      "fromTitle": "Cala Porroig Anchorage, Ibiza, Spain",
+      "toTitle": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "distanceDirectNm": 7.7,
+      "distanceEstimatedNm": 8.2,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          38.859821,
+          1.314958
+        ],
+        [
+          38.858952,
+          1.315473
+        ],
+        [
+          38.857582,
+          1.315387
+        ],
+        [
+          38.854708,
+          1.314722
+        ],
+        [
+          38.85059,
+          1.313918
+        ],
+        [
+          38.774773,
+          1.404276
+        ],
+        [
+          38.765672,
+          1.415777
+        ],
+        [
+          38.767027,
+          1.427203
+        ],
+        [
+          38.767445,
+          1.429542
+        ],
+        [
+          38.768224,
+          1.429918
+        ]
+      ]
+    }
+  },
+  {
+    "date": "22 Sept - late morning",
+    "title": "Illetes Anchorage, Majorca, Spain",
+    "name": "Illetes Anchorage, Majorca, Spain",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 39.527805,
+    "lng": 2.581991,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Illetes Anchorage, Majorca, Spain",
+      "shortName": "Illetes Anchorage, Majorca, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-093",
+    "legFromPrevious": {
+      "fromId": "route-092",
+      "toId": "route-093",
+      "fromTitle": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "toTitle": "Illetes Anchorage, Majorca, Spain",
+      "distanceDirectNm": 70.4,
+      "distanceEstimatedNm": 73.6,
+      "usesManualSeaRoute": true,
+      "geometry": [
+        [
+          38.768224,
+          1.429918
+        ],
+        [
+          38.767374,
+          1.42406
+        ],
+        [
+          38.767976,
+          1.419425
+        ],
+        [
+          38.768712,
+          1.415477
+        ],
+        [
+          38.771188,
+          1.412129
+        ],
+        [
+          38.777277,
+          1.408868
+        ],
+        [
+          38.782898,
+          1.40758
+        ],
+        [
+          38.789588,
+          1.407151
+        ],
+        [
+          38.796479,
+          1.410155
+        ],
+        [
+          38.81665,
+          1.417494
+        ],
+        [
+          38.832297,
+          1.424532
+        ],
+        [
+          38.924469,
+          1.570015
+        ],
+        [
+          39.447747,
+          2.533894
+        ],
+        [
+          39.521929,
+          2.580618
+        ],
+        [
+          39.52557,
+          2.580317
+        ],
+        [
+          39.527374,
+          2.581304
+        ],
+        [
+          39.527805,
+          2.581991
         ]
       ]
     }

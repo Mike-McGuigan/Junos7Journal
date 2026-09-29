@@ -1643,6 +1643,13 @@
       "mapStop": "Port de Maó Mooring, Menorca, Spain",
       "body": "Juno's 7 settled into the Port de Maó mooring on the morning arrival into Menorca. The harbour put the yacht within easy reach of the town and alongside a busy line-up of visiting boats, making it a fitting first stop after the passage in.",
       "summary": "Juno's 7 settled into the Port de Maó mooring after the arrival into Menorca.",
+      "flavourOf": {
+        "title": "Flavour of Menorca",
+        "body": "Menorcan cooking is shaped by the sea, the island's dairy farms and its long trading history: caldereta de langosta, Mahón cheese, oliaigua, local seafood, rustic bread and almond-based sweets all belong to the island's table. Its wines and Gin Xoriguer with lemon add the drinks that make the harbour setting feel unmistakably Menorcan.",
+        "image": "assets/images/flavour/menorca-flavour-generated.png",
+        "imageAlt": "Menorcan table with lobster stew, Mahón cheese, bread, olives, almond pastry and local white wine",
+        "imageCaption": "A flavour note for Juno's 7's first Menorcan stop"
+      },
       "photos": [],
       "videos": [],
       "media": []
@@ -1707,6 +1714,13 @@
       "mapStop": "Cala Sant Vicenç Anchorage, Majorca, Spain",
       "body": "After the short crossing over to Majorca, Juno's 7 passed through Cala des Coll Baix, seemingly checking conditions and how busy it was before continuing on. The yacht then settled at anchor in Cala Sant Vicenç on the island's north coast, where the surrounding headlands and quieter water gave a calmer place to pause after the move across.",
       "summary": "Juno's 7 settled at anchor in Cala Sant Vicenç after crossing over to Majorca.",
+      "flavourOf": {
+        "title": "Flavour of Majorca",
+        "body": "Majorcan cooking brings together sobrasada, pa amb oli, tumbet, frit mallorquí, local olive oil and almonds, with ensaïmada as its best-known sweet. It feels broader and more varied than a single coastal style, balancing farmhouse ingredients, market produce and seafood with the island's own wines and aperitifs.",
+        "image": "assets/images/flavour/majorca-flavour-generated.png",
+        "imageAlt": "Majorcan table with sobrasada, pa amb oli, tumbet, olives, almonds and ensaïmada",
+        "imageCaption": "A flavour note for Juno's 7's first Majorcan stop"
+      },
       "photos": [],
       "videos": [],
       "media": []
@@ -1791,6 +1805,209 @@
       "photos": [],
       "videos": [],
       "media": []
+    },
+    {
+      "id": "were-fucking-free",
+      "date": "2026-09-01",
+      "title": "We're Fucking Free",
+      "location": "Palma Harbour Mooring, Majorca, Spain",
+      "type": "crew-life",
+      "person": "Cameron and Sophie",
+      "quote": "We're fucking free",
+      "mapStop": "Palma Harbour Mooring, Majorca, Spain",
+      "mapStopId": "route-089",
+      "body": "Tuesday 1 September marked the end of the owners' long stint aboard. Cameron and Sophie finally had a day off, and booked a night at Summum Boutique Hotel in Palma.\n\nCameron messaged, \"We’ve booked hotel for the night, same place we stayed last year!\" Sophie then sent a video from the hotel room. Cameron followed with the good news that \"We booked the same hotel from last year and the receptionist remembered us and gave us an upgrade!\"\n\nThere was a personal echo to the choice: they had stayed at the same hotel the previous year, when Cameron visited Sophie while they were working aboard different yachts.\n\nTheir first stop ashore was a small meat and cheese platter to share, with a drink each. Cameron later named the drinks \"Lick my Lolly\" and \"Roll the Dice\", adding, \"No prizes for guessing which is which\".\n\nCameron's first message captured the feeling more honestly than any polished summary could: \"We're fucking free\".",
+      "summary": "Cameron and Sophie marked the end of the owners' long stint aboard with a day off, a remembered hotel stay with an upgrade, and their first drinks ashore in Palma.",
+      "photos": [
+        "palma-meat-cheese-platter",
+        "palma-lick-my-lolly-roll-the-dice"
+      ],
+      "videos": [
+        "sophie-summum-hotel-room"
+      ],
+      "media": [
+        "sophie-summum-hotel-room",
+        "palma-meat-cheese-platter",
+        "palma-lick-my-lolly-roll-the-dice"
+      ],
+      "heroMedia": "palma-meat-cheese-platter",
+      "crewMoment": {
+        "title": "A proper day off",
+        "body": "After the owners’ long stint aboard, the hotel upgrade and a small platter with named cocktails made the first day off feel properly earned."
+      }
+    },
+    {
+      "id": "dinner-with-ben-watkins",
+      "date": "2026-09-08",
+      "title": "Dinner with Ben",
+      "location": "Palma, Majorca, Spain",
+      "type": "crew-life",
+      "person": "Cameron and Sophie",
+      "quote": "",
+      "mapStop": "Palma Harbour Mooring, Majorca, Spain",
+      "mapStopId": "route-089",
+      "body": "On Tuesday 8 September, Cameron and Sophie went out for dinner with Ben Watkins, an old rugby friend, and his girlfriend while Juno's 7 was at the Palma Harbour Mooring.",
+      "summary": "Cameron and Sophie enjoyed dinner in Palma with old rugby friend Ben Watkins and his girlfriend.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "palma-dinner-calamari-lobster-rice",
+      "date": "2026-09-13",
+      "title": "A Dinner Ashore",
+      "location": "Palma, Majorca, Spain",
+      "type": "crew-life",
+      "person": "Cameron and Sophie",
+      "quote": "",
+      "mapStop": "Palma Harbour Mooring, Majorca, Spain",
+      "mapStopId": "route-089",
+      "body": "With the owners away from the yacht and more downtime available, Cameron and Sophie went out for dinner on Sunday 13 September. Their starters were calamari and steak tartar, followed by creamy lobster rice for their main course.",
+      "summary": "Cameron and Sophie enjoyed a dinner of calamari, steak tartar and creamy lobster rice while the owners were away.",
+      "photos": [
+        "palma-calamari-steak-tartar",
+        "palma-creamy-lobster-rice"
+      ],
+      "videos": [],
+      "media": [
+        "palma-calamari-steak-tartar",
+        "palma-creamy-lobster-rice"
+      ],
+      "heroMedia": "palma-creamy-lobster-rice"
+    },
+    {
+      "id": "van-over-dock",
+      "date": "2026-09-15",
+      "title": "A Van Over the Edge",
+      "location": "Palma Harbour Mooring, Majorca, Spain",
+      "type": "crew-life",
+      "person": "Sophie",
+      "quote": "😱",
+      "mapStop": "Palma Harbour Mooring, Majorca, Spain",
+      "mapStopId": "route-089",
+      "body": "While Juno's 7 was moored in Palma on 15 September, Sophie sent a picture of a van hanging off the edge of the dock, accompanied by a 😱 emoji.",
+      "summary": "Sophie photographed a van hanging off the edge of the dock while Juno's 7 was moored in Palma, adding a 😱 emoji.",
+      "photos": [
+        "van-over-dock"
+      ],
+      "videos": [],
+      "media": [
+        "van-over-dock"
+      ],
+      "heroMedia": "van-over-dock"
+    },
+    {
+      "id": "palma-round-of-golf",
+      "date": "September 2026",
+      "title": "A Round of Golf",
+      "location": "Palma, Majorca, Spain",
+      "type": "crew-life",
+      "person": "Cameron and another crew member",
+      "quote": "",
+      "mapStop": "Palma Harbour Mooring, Majorca, Spain",
+      "mapStopId": "route-089",
+      "body": "During the downtime in Palma, Cameron and another crew member took the opportunity to play a round of golf. The supplied video captures Cam driving off a tee, while the photographs show the course, fairways and greens in the late-day light.",
+      "summary": "Cameron and another crew member used their downtime in Palma for a round of golf, with Cam driving off the tee.",
+      "photos": [
+        "palma-golf-fairway",
+        "palma-golf-tee",
+        "palma-golf-course",
+        "palma-golf-landscape",
+        "palma-golf-fairway-sunrise"
+      ],
+      "videos": [
+        "cam-golf-tee-shot"
+      ],
+      "media": [
+        "cam-golf-tee-shot",
+        "palma-golf-fairway",
+        "palma-golf-tee",
+        "palma-golf-course",
+        "palma-golf-landscape",
+        "palma-golf-fairway-sunrise"
+      ],
+      "heroMedia": "palma-golf-tee"
+    },
+    {
+      "id": "port-ibiza-town-mooring",
+      "date": "2026-09-19",
+      "title": "Port Ibiza Town Mooring",
+      "location": "Port Ibiza Town Mooring, Ibiza, Spain",
+      "type": "mooring",
+      "person": "Cameron and Sophie",
+      "quote": "",
+      "mapStop": "Port Ibiza Town Mooring, Ibiza, Spain",
+      "body": "On 19 September, Juno's 7 crossed from Majorca to Ibiza and settled at the Port Ibiza Town Mooring.",
+      "summary": "Juno's 7 crossed from Majorca to Ibiza and moored at Port Ibiza Town.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "cala-porroig-anchorage",
+      "date": "2026-09-20",
+      "title": "Cala Porroig Anchorage",
+      "location": "Cala Porroig Anchorage, Ibiza, Spain",
+      "type": "anchorage",
+      "person": "Cameron and Sophie",
+      "quote": "",
+      "mapStop": "Cala Porroig Anchorage, Ibiza, Spain",
+      "body": "On 20 September, Juno's 7 left Port Ibiza Town and settled at anchor in Cala Porroig, on Ibiza's southwest coast.",
+      "summary": "Juno's 7 left Port Ibiza Town and settled at anchor in Cala Porroig.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "pas-de-sespalmador-anchorage",
+      "date": "2026-09-21",
+      "title": "Pas de s’Espalmador Anchorage",
+      "location": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "type": "anchorage",
+      "person": "Cameron and Sophie",
+      "quote": "",
+      "mapStop": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "body": "On 21 September, Juno's 7 anchored in Pas de s’Espalmador, the passage between Formentera and Espalmador.",
+      "summary": "Juno's 7 anchored in Pas de s’Espalmador between Formentera and Espalmador.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "illetes-return-anchorage",
+      "date": "2026-09-22",
+      "title": "Illetes Anchorage",
+      "location": "Illetes Anchorage, Majorca, Spain",
+      "type": "anchorage",
+      "person": "Cameron and Sophie",
+      "quote": "",
+      "mapStop": "Illetes Anchorage, Majorca, Spain",
+      "body": "On 22 September, Juno's 7 returned to Majorca and paused at Illetes Anchorage before continuing into Palma.",
+      "summary": "Juno's 7 returned to Majorca and paused at Illetes before heading into Palma.",
+      "photos": [],
+      "videos": [],
+      "media": []
+    },
+    {
+      "id": "palma-harbour-return",
+      "date": "2026-09-22",
+      "title": "Back in Palma Harbour",
+      "location": "Palma Harbour Mooring, Majorca, Spain",
+      "type": "voyage-stop",
+      "person": "Cameron and Sophie",
+      "quote": "",
+      "mapStop": "Palma Harbour Mooring, Majorca, Spain",
+      "mapStopId": "route-094",
+      "body": "By early evening on 22 September, Juno's 7 was back at the Palma Harbour Mooring. Close by were several substantial sailing yachts, including PERSEUS³ and ALEA. PERSEUS³ was notable for her 75-metre carbon-fibre mast, described as the tallest carbon-fibre mast ever built at launch, and the largest downwind sail area ever fitted on a yacht. ALEA looked stunning alongside the other yachts in the harbour. A webcam view later showed Juno's 7 at the far right of the outer mooring line, with a Grimaldi Lines ferry behind the harbour.",
+      "summary": "Juno's 7 returned to Palma Harbour, with the striking sailing yachts PERSEUS³ and ALEA nearby.",
+      "photos": [
+        "palma-webcam-outer-mooring"
+      ],
+      "videos": [],
+      "media": [
+        "palma-webcam-outer-mooring"
+      ],
+      "heroMedia": "palma-webcam-outer-mooring"
     }
   ],
   "media": [
@@ -3641,6 +3858,270 @@
           "title": "Cala Deià Anchorage",
           "date": "2026-08-29",
           "location": "Cala Deià Anchorage, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "sophie-summum-hotel-room",
+      "type": "video",
+      "date": "2026-09-01",
+      "url": "media/videos/2026-09-01-summum-hotel-room.mp4",
+      "title": "Summum Boutique Hotel room",
+      "caption": "Sophie’s video from the upgraded room at Summum Boutique Hotel in Palma after the owners’ long stint aboard.",
+      "categories": [
+        "crew",
+        "ports-anchorages",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "were-fucking-free",
+          "title": "We're Fucking Free",
+          "date": "2026-09-01",
+          "location": "Palma Harbour Mooring, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "palma-meat-cheese-platter",
+      "type": "photo",
+      "date": "2026-09-01",
+      "url": "media/photos/2026-09-01-palma-meat-cheese-platter.jpg",
+      "title": "A small meat and cheese platter",
+      "caption": "A small meat and cheese platter to share, with a drink each, on the first stop ashore in Palma.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "were-fucking-free",
+          "title": "We're Fucking Free",
+          "date": "2026-09-01",
+          "location": "Palma Harbour Mooring, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "palma-lick-my-lolly-roll-the-dice",
+      "type": "photo",
+      "date": "2026-09-01",
+      "url": "media/photos/2026-09-01-palma-lick-my-lolly-roll-the-dice.jpg",
+      "title": "Lick My Lolly and Roll the Dice",
+      "caption": "The drinks Cameron named “Lick my Lolly” and “Roll the Dice”, with no prizes for guessing which is which.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "were-fucking-free",
+          "title": "We're Fucking Free",
+          "date": "2026-09-01",
+          "location": "Palma Harbour Mooring, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "palma-calamari-steak-tartar",
+      "type": "photo",
+      "date": "2026-09-13",
+      "url": "media/photos/2026-09-13-calamari-steak-tartar.jpg",
+      "title": "Calamari and Steak Tartar",
+      "caption": "Cameron and Sophie’s starters: calamari and steak tartar.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "palma-dinner-calamari-lobster-rice",
+          "title": "A Dinner Ashore",
+          "date": "2026-09-13",
+          "location": "Palma, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "palma-creamy-lobster-rice",
+      "type": "photo",
+      "date": "2026-09-13",
+      "url": "media/photos/2026-09-13-creamy-lobster-rice.jpg",
+      "title": "Creamy Lobster Rice",
+      "caption": "Creamy lobster rice, the main course Cameron and Sophie both chose.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "palma-dinner-calamari-lobster-rice",
+          "title": "A Dinner Ashore",
+          "date": "2026-09-13",
+          "location": "Palma, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "cam-golf-tee-shot",
+      "type": "video",
+      "date": "September 2026",
+      "url": "media/videos/2026-09-golf-tee-shot.mp4",
+      "title": "Cam drives off the tee",
+      "caption": "Video of Cam driving off a tee during a round of golf in Palma.",
+      "categories": [
+        "crew",
+        "behind-scenes",
+        "tenders-toys"
+      ],
+      "journalEntries": [
+        {
+          "id": "palma-round-of-golf",
+          "title": "A Round of Golf",
+          "date": "September 2026",
+          "location": "Palma, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "palma-golf-fairway",
+      "type": "photo",
+      "date": "September 2026",
+      "url": "media/photos/2026-09-golf-fairway.jpg",
+      "title": "Golf course fairway",
+      "caption": "A green fairway and tree-lined course during Cameron and his fellow crew member’s round in Palma.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "palma-round-of-golf",
+          "title": "A Round of Golf",
+          "date": "September 2026",
+          "location": "Palma, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "palma-golf-tee",
+      "type": "photo",
+      "date": "September 2026",
+      "url": "media/photos/2026-09-golf-tee.jpg",
+      "title": "On the tee",
+      "caption": "A golfer looking down the tree-lined course from the tee.",
+      "categories": [
+        "crew",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "palma-round-of-golf",
+          "title": "A Round of Golf",
+          "date": "September 2026",
+          "location": "Palma, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "palma-golf-course",
+      "type": "photo",
+      "date": "September 2026",
+      "url": "media/photos/2026-09-golf-course.jpg",
+      "title": "Palma golf course",
+      "caption": "The open course, framed by trees and bright Mediterranean sky.",
+      "categories": [
+        "scenic",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "palma-round-of-golf",
+          "title": "A Round of Golf",
+          "date": "September 2026",
+          "location": "Palma, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "palma-golf-landscape",
+      "type": "photo",
+      "date": "September 2026",
+      "url": "media/photos/2026-09-golf-landscape.jpg",
+      "title": "Golf course landscape",
+      "caption": "Sunlit fairways and surrounding hills on the Palma golf course.",
+      "categories": [
+        "scenic",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "palma-round-of-golf",
+          "title": "A Round of Golf",
+          "date": "September 2026",
+          "location": "Palma, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "palma-golf-fairway-sunrise",
+      "type": "photo",
+      "date": "September 2026",
+      "url": "media/photos/2026-09-golf-fairway-sunrise.jpg",
+      "title": "Late-day light on the fairway",
+      "caption": "The golf course glowing in low sunlight between the trees.",
+      "categories": [
+        "scenic",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "palma-round-of-golf",
+          "title": "A Round of Golf",
+          "date": "September 2026",
+          "location": "Palma, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "van-over-dock",
+      "type": "photo",
+      "date": "2026-09-15",
+      "url": "media/photos/2026-09-15-van-over-dock.jpg",
+      "title": "A van over the edge",
+      "caption": "Sophie’s photograph of a van hanging off the edge of the dock while Juno's 7 was moored in Palma.",
+      "categories": [
+        "crew",
+        "ports-anchorages",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "van-over-dock",
+          "title": "A Van Over the Edge",
+          "date": "2026-09-15",
+          "location": "Palma Harbour Mooring, Majorca, Spain"
+        }
+      ]
+    },
+    {
+      "id": "palma-webcam-outer-mooring",
+      "type": "photo",
+      "date": "2026-09-22",
+      "url": "media/photos/2026-09-22-palma-webcam-outer-mooring.png",
+      "title": "Juno’s 7 on the outer mooring",
+      "caption": "Webcam view of Juno’s 7 at the far right of the outer mooring line in Palma Harbour, with a Grimaldi Lines ferry in the background.",
+      "categories": [
+        "junos7",
+        "ports-anchorages",
+        "behind-scenes"
+      ],
+      "journalEntries": [
+        {
+          "id": "palma-harbour-return",
+          "title": "Back in Palma Harbour",
+          "date": "2026-09-22",
+          "location": "Palma Harbour Mooring, Majorca, Spain"
         }
       ]
     }
@@ -11349,7 +11830,7 @@
       "date": "30 Aug - AM",
       "title": "Illetes Anchorage, Majorca, Spain",
       "name": "Illetes Anchorage, Majorca, Spain",
-      "phase": "current",
+      "phase": "onboard",
       "status": "At anchor",
       "lat": 39.528897,
       "lng": 2.58094,
@@ -11465,6 +11946,846 @@
           [
             39.528897,
             2.58094
+          ]
+        ]
+      }
+    },
+    {
+      "date": "30 Aug - Evening",
+      "title": "Palma Bay Anchorage, Majorca, Spain",
+      "name": "Palma Bay Anchorage, Majorca, Spain",
+      "phase": "onboard",
+      "status": "At anchor",
+      "lat": 39.56013,
+      "lng": 2.651975,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Palma Bay Anchorage, Majorca, Spain",
+        "shortName": "Palma Bay Anchorage, Majorca, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-088",
+      "legFromPrevious": {
+        "fromId": "route-087",
+        "toId": "route-088",
+        "fromTitle": "Illetes Anchorage, Majorca, Spain",
+        "toTitle": "Palma Bay Anchorage, Majorca, Spain",
+        "distanceDirectNm": 3.8,
+        "distanceEstimatedNm": 4.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.528897,
+            2.58094
+          ],
+          [
+            39.528062,
+            2.580564
+          ],
+          [
+            39.525646,
+            2.589962
+          ],
+          [
+            39.531529,
+            2.622042
+          ],
+          [
+            39.537222,
+            2.639551
+          ],
+          [
+            39.542252,
+            2.650537
+          ],
+          [
+            39.553107,
+            2.654657
+          ],
+          [
+            39.56013,
+            2.651975
+          ]
+        ]
+      }
+    },
+    {
+      "date": "31 Aug - AM",
+      "title": "Palma Harbour Mooring, Majorca, Spain",
+      "name": "Palma Harbour Mooring, Majorca, Spain",
+      "phase": "onboard",
+      "status": "Moored",
+      "lat": 39.559884,
+      "lng": 2.62989,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Palma Harbour Mooring, Majorca, Spain",
+        "shortName": "Palma Harbour Mooring, Majorca, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-089",
+      "legFromPrevious": {
+        "fromId": "route-088",
+        "toId": "route-089",
+        "fromTitle": "Palma Bay Anchorage, Majorca, Spain",
+        "toTitle": "Palma Harbour Mooring, Majorca, Spain",
+        "distanceDirectNm": 1.0,
+        "distanceEstimatedNm": 1.1,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.56013,
+            2.651975
+          ],
+          [
+            39.558773,
+            2.650645
+          ],
+          [
+            39.558575,
+            2.645366
+          ],
+          [
+            39.557615,
+            2.637684
+          ],
+          [
+            39.557483,
+            2.635581
+          ],
+          [
+            39.557913,
+            2.633822
+          ],
+          [
+            39.558443,
+            2.632706
+          ],
+          [
+            39.559237,
+            2.632234
+          ],
+          [
+            39.559766,
+            2.631676
+          ],
+          [
+            39.559884,
+            2.62989
+          ]
+        ]
+      }
+    },
+    {
+      "date": "19 Sept - late morning",
+      "title": "Port Ibiza Town Mooring, Ibiza, Spain",
+      "name": "Port Ibiza Town Mooring, Ibiza, Spain",
+      "phase": "onboard",
+      "status": "Moored",
+      "lat": 38.909574,
+      "lng": 1.439965,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Port Ibiza Town Mooring, Ibiza, Spain",
+        "shortName": "Port Ibiza Town Mooring, Ibiza, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-090",
+      "legFromPrevious": {
+        "fromId": "route-089",
+        "toId": "route-090",
+        "fromTitle": "Palma Harbour Mooring, Majorca, Spain",
+        "toTitle": "Port Ibiza Town Mooring, Ibiza, Spain",
+        "distanceDirectNm": 67.7,
+        "distanceEstimatedNm": 70.8,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.559884,
+            2.62989
+          ],
+          [
+            39.559983,
+            2.630898
+          ],
+          [
+            39.559752,
+            2.631853
+          ],
+          [
+            39.558784,
+            2.632894
+          ],
+          [
+            39.557063,
+            2.634879
+          ],
+          [
+            39.555829,
+            2.638972
+          ],
+          [
+            39.55477,
+            2.642319
+          ],
+          [
+            39.551759,
+            2.645066
+          ],
+          [
+            39.548119,
+            2.644465
+          ],
+          [
+            39.515772,
+            2.610712
+          ],
+          [
+            39.495507,
+            2.581358
+          ],
+          [
+            39.483319,
+            2.567625
+          ],
+          [
+            39.449756,
+            2.536125
+          ],
+          [
+            39.057134,
+            1.72966
+          ],
+          [
+            39.032407,
+            1.67593
+          ],
+          [
+            39.011392,
+            1.647348
+          ],
+          [
+            38.964558,
+            1.576109
+          ],
+          [
+            38.932595,
+            1.532078
+          ],
+          [
+            38.898936,
+            1.46719
+          ],
+          [
+            38.897017,
+            1.460366
+          ],
+          [
+            38.895948,
+            1.455045
+          ],
+          [
+            38.895547,
+            1.451697
+          ],
+          [
+            38.89675,
+            1.44835
+          ],
+          [
+            38.900891,
+            1.44526
+          ],
+          [
+            38.902828,
+            1.444831
+          ],
+          [
+            38.905032,
+            1.444917
+          ],
+          [
+            38.906836,
+            1.44526
+          ],
+          [
+            38.909774,
+            1.444117
+          ],
+          [
+            38.910834,
+            1.443678
+          ],
+          [
+            38.911302,
+            1.443431
+          ],
+          [
+            38.911461,
+            1.443302
+          ],
+          [
+            38.911586,
+            1.442873
+          ],
+          [
+            38.911653,
+            1.44239
+          ],
+          [
+            38.911719,
+            1.441864
+          ],
+          [
+            38.911611,
+            1.441264
+          ],
+          [
+            38.910718,
+            1.440738
+          ],
+          [
+            38.909574,
+            1.439965
+          ]
+        ]
+      }
+    },
+    {
+      "date": "20 Sept - mid morning",
+      "title": "Cala Porroig Anchorage, Ibiza, Spain",
+      "name": "Cala Porroig Anchorage, Ibiza, Spain",
+      "phase": "onboard",
+      "status": "At anchor",
+      "lat": 38.859821,
+      "lng": 1.314958,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Cala Porroig Anchorage, Ibiza, Spain",
+        "shortName": "Cala Porroig Anchorage, Ibiza, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-091",
+      "legFromPrevious": {
+        "fromId": "route-090",
+        "toId": "route-091",
+        "fromTitle": "Port Ibiza Town Mooring, Ibiza, Spain",
+        "toTitle": "Cala Porroig Anchorage, Ibiza, Spain",
+        "distanceDirectNm": 6.6,
+        "distanceEstimatedNm": 12.5,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            38.909574,
+            1.439965
+          ],
+          [
+            38.91096,
+            1.441553
+          ],
+          [
+            38.911461,
+            1.442261
+          ],
+          [
+            38.911544,
+            1.443184
+          ],
+          [
+            38.91131,
+            1.44371
+          ],
+          [
+            38.910801,
+            1.444021
+          ],
+          [
+            38.908252,
+            1.444466
+          ],
+          [
+            38.906282,
+            1.444466
+          ],
+          [
+            38.904713,
+            1.443951
+          ],
+          [
+            38.894559,
+            1.443479
+          ],
+          [
+            38.887044,
+            1.442578
+          ],
+          [
+            38.883255,
+            1.441998
+          ],
+          [
+            38.869089,
+            1.435733
+          ],
+          [
+            38.841924,
+            1.426764
+          ],
+          [
+            38.813038,
+            1.41715
+          ],
+          [
+            38.809561,
+            1.415434
+          ],
+          [
+            38.808624,
+            1.412001
+          ],
+          [
+            38.80742,
+            1.408052
+          ],
+          [
+            38.807153,
+            1.405478
+          ],
+          [
+            38.807287,
+            1.402731
+          ],
+          [
+            38.807554,
+            1.398096
+          ],
+          [
+            38.809427,
+            1.39123
+          ],
+          [
+            38.813573,
+            1.381273
+          ],
+          [
+            38.818522,
+            1.371832
+          ],
+          [
+            38.837913,
+            1.337328
+          ],
+          [
+            38.846336,
+            1.323423
+          ],
+          [
+            38.851818,
+            1.316557
+          ],
+          [
+            38.856973,
+            1.314948
+          ],
+          [
+            38.85851,
+            1.314991
+          ],
+          [
+            38.859821,
+            1.314958
+          ]
+        ]
+      }
+    },
+    {
+      "date": "21 Sept",
+      "title": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "name": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "phase": "onboard",
+      "status": "At anchor",
+      "lat": 38.768224,
+      "lng": 1.429918,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+        "shortName": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-092",
+      "legFromPrevious": {
+        "fromId": "route-091",
+        "toId": "route-092",
+        "fromTitle": "Cala Porroig Anchorage, Ibiza, Spain",
+        "toTitle": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+        "distanceDirectNm": 7.7,
+        "distanceEstimatedNm": 8.2,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            38.859821,
+            1.314958
+          ],
+          [
+            38.858952,
+            1.315473
+          ],
+          [
+            38.857582,
+            1.315387
+          ],
+          [
+            38.854708,
+            1.314722
+          ],
+          [
+            38.85059,
+            1.313918
+          ],
+          [
+            38.774773,
+            1.404276
+          ],
+          [
+            38.765672,
+            1.415777
+          ],
+          [
+            38.767027,
+            1.427203
+          ],
+          [
+            38.767445,
+            1.429542
+          ],
+          [
+            38.768224,
+            1.429918
+          ]
+        ]
+      }
+    },
+    {
+      "date": "22 Sept - late morning",
+      "title": "Illetes Anchorage, Majorca, Spain",
+      "name": "Illetes Anchorage, Majorca, Spain",
+      "phase": "onboard",
+      "status": "At anchor",
+      "lat": 39.527805,
+      "lng": 2.581991,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Illetes Anchorage, Majorca, Spain",
+        "shortName": "Illetes Anchorage, Majorca, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-093",
+      "legFromPrevious": {
+        "fromId": "route-092",
+        "toId": "route-093",
+        "fromTitle": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+        "toTitle": "Illetes Anchorage, Majorca, Spain",
+        "distanceDirectNm": 70.4,
+        "distanceEstimatedNm": 73.6,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            38.768224,
+            1.429918
+          ],
+          [
+            38.767374,
+            1.42406
+          ],
+          [
+            38.767976,
+            1.419425
+          ],
+          [
+            38.768712,
+            1.415477
+          ],
+          [
+            38.771188,
+            1.412129
+          ],
+          [
+            38.777277,
+            1.408868
+          ],
+          [
+            38.782898,
+            1.40758
+          ],
+          [
+            38.789588,
+            1.407151
+          ],
+          [
+            38.796479,
+            1.410155
+          ],
+          [
+            38.81665,
+            1.417494
+          ],
+          [
+            38.832297,
+            1.424532
+          ],
+          [
+            38.924469,
+            1.570015
+          ],
+          [
+            39.447747,
+            2.533894
+          ],
+          [
+            39.521929,
+            2.580618
+          ],
+          [
+            39.52557,
+            2.580317
+          ],
+          [
+            39.527374,
+            2.581304
+          ],
+          [
+            39.527805,
+            2.581991
+          ]
+        ]
+      }
+    },
+    {
+      "date": "22 Sept - early evening",
+      "title": "Palma Harbour Mooring, Majorca, Spain",
+      "name": "Palma Harbour Mooring, Majorca, Spain",
+      "phase": "current",
+      "status": "At anchor",
+      "lat": 39.558709,
+      "lng": 2.629943,
+      "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+      "location": {
+        "lookupStatus": "ok",
+        "lookupProvider": "OpenStreetMap Nominatim",
+        "osmType": "relation",
+        "osmId": 1311341,
+        "displayName": "Palma Harbour Mooring, Majorca, Spain",
+        "shortName": "Palma Harbour Mooring, Majorca, Spain",
+        "rawDisplayName": "Spain",
+        "country": "Spain",
+        "countryCode": "ES",
+        "region": null,
+        "county": null,
+        "municipality": null,
+        "island": null,
+        "nearestPlace": null,
+        "localArea": null,
+        "lookupSource": "OpenStreetMap Nominatim"
+      },
+      "id": "route-094",
+      "legFromPrevious": {
+        "fromId": "route-093",
+        "toId": "route-094",
+        "fromTitle": "Illetes Anchorage, Majorca, Spain",
+        "toTitle": "Palma Harbour Mooring, Majorca, Spain",
+        "distanceDirectNm": 2.9,
+        "distanceEstimatedNm": 5.1,
+        "usesManualSeaRoute": true,
+        "geometry": [
+          [
+            39.527805,
+            2.581991
+          ],
+          [
+            39.525289,
+            2.583643
+          ],
+          [
+            39.525338,
+            2.587034
+          ],
+          [
+            39.528644,
+            2.614446
+          ],
+          [
+            39.535727,
+            2.634444
+          ],
+          [
+            39.541949,
+            2.64174
+          ],
+          [
+            39.551215,
+            2.645602
+          ],
+          [
+            39.554855,
+            2.644744
+          ],
+          [
+            39.556689,
+            2.640474
+          ],
+          [
+            39.556656,
+            2.63777
+          ],
+          [
+            39.55606,
+            2.635024
+          ],
+          [
+            39.555531,
+            2.632964
+          ],
+          [
+            39.555432,
+            2.63159
+          ],
+          [
+            39.555762,
+            2.629788
+          ],
+          [
+            39.556162,
+            2.628763
+          ],
+          [
+            39.556352,
+            2.62916
+          ],
+          [
+            39.556228,
+            2.629589
+          ],
+          [
+            39.556203,
+            2.630308
+          ],
+          [
+            39.556468,
+            2.63122
+          ],
+          [
+            39.557229,
+            2.631606
+          ],
+          [
+            39.557948,
+            2.632003
+          ],
+          [
+            39.55837,
+            2.632164
+          ],
+          [
+            39.558627,
+            2.631896
+          ],
+          [
+            39.558701,
+            2.631574
+          ],
+          [
+            39.558784,
+            2.63137
+          ],
+          [
+            39.558734,
+            2.631038
+          ],
+          [
+            39.558709,
+            2.630834
+          ],
+          [
+            39.558709,
+            2.629943
           ]
         ]
       }

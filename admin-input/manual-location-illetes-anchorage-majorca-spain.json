@@ -1,28 +1,28 @@
 {
   "schemaVersion": 5,
-  "generatedUtc": "2026-08-30T10:38:12.071Z",
+  "generatedUtc": "2026-09-23T05:58:36.723Z",
   "vesselKey": "junos7",
   "displayName": "JUNOS 7",
   "mmsi": "319303300",
   "imo": "1109712",
   "routePoint": {
-    "date": "30 Aug - AM",
+    "date": "22 Sept - late morning",
     "title": "Illetes Anchorage, Majorca, Spain",
     "name": "Illetes Anchorage, Majorca, Spain",
     "phase": "current",
     "status": "At anchor",
-    "lat": 39.528897,
-    "lng": 2.58094,
+    "lat": 39.527805,
+    "lng": 2.581991,
     "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
   },
   "tracker": {
-    "timestampUtc": "2026-08-30T10:38:12.071Z",
+    "timestampUtc": "2026-09-23T05:58:36.723Z",
     "status": "At anchor",
     "title": "Illetes Anchorage, Majorca, Spain",
     "area": "Illetes Anchorage, Majorca, Spain",
     "position": {
-      "lat": 39.528897,
-      "lng": 2.58094,
+      "lat": 39.527805,
+      "lng": 2.581991,
       "precision": "map click approximate marker",
       "source": "captains dashboard map click"
     },

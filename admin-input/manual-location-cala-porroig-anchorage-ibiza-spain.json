@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-09-20T10:12:14.029Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "20 Sept - mid morning",
+    "title": "Cala Porroig Anchorage, Ibiza, Spain",
+    "name": "Cala Porroig Anchorage, Ibiza, Spain",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 38.859821,
+    "lng": 1.314958,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
+  },
+  "tracker": {
+    "timestampUtc": "2026-09-20T10:12:14.029Z",
+    "status": "At anchor",
+    "title": "Cala Porroig Anchorage, Ibiza, Spain",
+    "area": "Cala Porroig Anchorage, Ibiza, Spain",
+    "position": {
+      "lat": 38.859821,
+      "lng": 1.314958,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker"
+  }
+}

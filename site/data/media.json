@@ -1848,5 +1848,269 @@
         "location": "Cala Deià Anchorage, Majorca, Spain"
       }
     ]
+  },
+  {
+    "id": "sophie-summum-hotel-room",
+    "type": "video",
+    "date": "2026-09-01",
+    "url": "media/videos/2026-09-01-summum-hotel-room.mp4",
+    "title": "Summum Boutique Hotel room",
+    "caption": "Sophie’s video from the upgraded room at Summum Boutique Hotel in Palma after the owners’ long stint aboard.",
+    "categories": [
+      "crew",
+      "ports-anchorages",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "were-fucking-free",
+        "title": "We're Fucking Free",
+        "date": "2026-09-01",
+        "location": "Palma Harbour Mooring, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "palma-meat-cheese-platter",
+    "type": "photo",
+    "date": "2026-09-01",
+    "url": "media/photos/2026-09-01-palma-meat-cheese-platter.jpg",
+    "title": "A small meat and cheese platter",
+    "caption": "A small meat and cheese platter to share, with a drink each, on the first stop ashore in Palma.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "were-fucking-free",
+        "title": "We're Fucking Free",
+        "date": "2026-09-01",
+        "location": "Palma Harbour Mooring, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "palma-lick-my-lolly-roll-the-dice",
+    "type": "photo",
+    "date": "2026-09-01",
+    "url": "media/photos/2026-09-01-palma-lick-my-lolly-roll-the-dice.jpg",
+    "title": "Lick My Lolly and Roll the Dice",
+    "caption": "The drinks Cameron named “Lick my Lolly” and “Roll the Dice”, with no prizes for guessing which is which.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "were-fucking-free",
+        "title": "We're Fucking Free",
+        "date": "2026-09-01",
+        "location": "Palma Harbour Mooring, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "palma-calamari-steak-tartar",
+    "type": "photo",
+    "date": "2026-09-13",
+    "url": "media/photos/2026-09-13-calamari-steak-tartar.jpg",
+    "title": "Calamari and Steak Tartar",
+    "caption": "Cameron and Sophie’s starters: calamari and steak tartar.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "palma-dinner-calamari-lobster-rice",
+        "title": "A Dinner Ashore",
+        "date": "2026-09-13",
+        "location": "Palma, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "palma-creamy-lobster-rice",
+    "type": "photo",
+    "date": "2026-09-13",
+    "url": "media/photos/2026-09-13-creamy-lobster-rice.jpg",
+    "title": "Creamy Lobster Rice",
+    "caption": "Creamy lobster rice, the main course Cameron and Sophie both chose.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "palma-dinner-calamari-lobster-rice",
+        "title": "A Dinner Ashore",
+        "date": "2026-09-13",
+        "location": "Palma, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "cam-golf-tee-shot",
+    "type": "video",
+    "date": "September 2026",
+    "url": "media/videos/2026-09-golf-tee-shot.mp4",
+    "title": "Cam drives off the tee",
+    "caption": "Video of Cam driving off a tee during a round of golf in Palma.",
+    "categories": [
+      "crew",
+      "behind-scenes",
+      "tenders-toys"
+    ],
+    "journalEntries": [
+      {
+        "id": "palma-round-of-golf",
+        "title": "A Round of Golf",
+        "date": "September 2026",
+        "location": "Palma, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "palma-golf-fairway",
+    "type": "photo",
+    "date": "September 2026",
+    "url": "media/photos/2026-09-golf-fairway.jpg",
+    "title": "Golf course fairway",
+    "caption": "A green fairway and tree-lined course during Cameron and his fellow crew member’s round in Palma.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "palma-round-of-golf",
+        "title": "A Round of Golf",
+        "date": "September 2026",
+        "location": "Palma, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "palma-golf-tee",
+    "type": "photo",
+    "date": "September 2026",
+    "url": "media/photos/2026-09-golf-tee.jpg",
+    "title": "On the tee",
+    "caption": "A golfer looking down the tree-lined course from the tee.",
+    "categories": [
+      "crew",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "palma-round-of-golf",
+        "title": "A Round of Golf",
+        "date": "September 2026",
+        "location": "Palma, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "palma-golf-course",
+    "type": "photo",
+    "date": "September 2026",
+    "url": "media/photos/2026-09-golf-course.jpg",
+    "title": "Palma golf course",
+    "caption": "The open course, framed by trees and bright Mediterranean sky.",
+    "categories": [
+      "scenic",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "palma-round-of-golf",
+        "title": "A Round of Golf",
+        "date": "September 2026",
+        "location": "Palma, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "palma-golf-landscape",
+    "type": "photo",
+    "date": "September 2026",
+    "url": "media/photos/2026-09-golf-landscape.jpg",
+    "title": "Golf course landscape",
+    "caption": "Sunlit fairways and surrounding hills on the Palma golf course.",
+    "categories": [
+      "scenic",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "palma-round-of-golf",
+        "title": "A Round of Golf",
+        "date": "September 2026",
+        "location": "Palma, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "palma-golf-fairway-sunrise",
+    "type": "photo",
+    "date": "September 2026",
+    "url": "media/photos/2026-09-golf-fairway-sunrise.jpg",
+    "title": "Late-day light on the fairway",
+    "caption": "The golf course glowing in low sunlight between the trees.",
+    "categories": [
+      "scenic",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "palma-round-of-golf",
+        "title": "A Round of Golf",
+        "date": "September 2026",
+        "location": "Palma, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "van-over-dock",
+    "type": "photo",
+    "date": "2026-09-15",
+    "url": "media/photos/2026-09-15-van-over-dock.jpg",
+    "title": "A van over the edge",
+    "caption": "Sophie’s photograph of a van hanging off the edge of the dock while Juno's 7 was moored in Palma.",
+    "categories": [
+      "crew",
+      "ports-anchorages",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "van-over-dock",
+        "title": "A Van Over the Edge",
+        "date": "2026-09-15",
+        "location": "Palma Harbour Mooring, Majorca, Spain"
+      }
+    ]
+  },
+  {
+    "id": "palma-webcam-outer-mooring",
+    "type": "photo",
+    "date": "2026-09-22",
+    "url": "media/photos/2026-09-22-palma-webcam-outer-mooring.png",
+    "title": "Juno’s 7 on the outer mooring",
+    "caption": "Webcam view of Juno’s 7 at the far right of the outer mooring line in Palma Harbour, with a Grimaldi Lines ferry in the background.",
+    "categories": [
+      "junos7",
+      "ports-anchorages",
+      "behind-scenes"
+    ],
+    "journalEntries": [
+      {
+        "id": "palma-harbour-return",
+        "title": "Back in Palma Harbour",
+        "date": "2026-09-22",
+        "location": "Palma Harbour Mooring, Majorca, Spain"
+      }
+    ]
   }
 ]

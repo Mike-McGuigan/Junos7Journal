@@ -68,6 +68,30 @@ def load_json(path: Path, fallback):
         return fallback
 
 
+def validate_journal_source() -> dict:
+    """Reject legacy aggregate journal data before any build step can rewrite it."""
+    journal_path = DOCS / "data" / "journal.json"
+    journal = load_json(journal_path, None)
+    if not isinstance(journal, dict) or not isinstance(journal.get("entries"), list):
+        raise SystemExit(
+            "Journal validation failed: docs/data/journal.json must be the canonical "
+            "JSON object with an entries list; legacy aggregate data is not buildable."
+        )
+
+    seen = set()
+    errors = []
+    for index, entry in enumerate(journal["entries"]):
+        entry_id = entry.get("id") if isinstance(entry, dict) else None
+        if not entry_id:
+            errors.append(f"Journal entry {index + 1} has no id")
+        elif entry_id in seen:
+            errors.append(f"Duplicate journal entry id: {entry_id}")
+        seen.add(entry_id)
+    if errors:
+        raise SystemExit("Journal validation failed:\n- " + "\n- ".join(errors))
+    return journal
+
+
 
 def sync_embedded_journal_media() -> int:
     """Keep journal.json's embedded media list aligned with the canonical media index."""
@@ -283,6 +307,7 @@ def main() -> None:
     version = current_version()
     build_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
+    journal_validation = validate_journal_source()
     media_validation = validate_media_catalogue()
     embedded_media_count = sync_embedded_journal_media()
     route_stats = enrich_route_file(DOCS / "data" / "route.json", GEOMETRY_FILE)
@@ -298,6 +323,7 @@ def main() -> None:
     file_count = sum(1 for p in SITE.rglob("*") if p.is_file())
     print(f"Built site/ from docs/ for version {version}")
     print(f"Files: {file_count}")
+    print(f"Journal entries: {len(journal_validation['entries'])}")
     print(f"Embedded journal media: {embedded_media_count}")
     print(f"Embedded journal route points: {embedded_route_count}")
     print(f"Gallery categories: {len(media_validation['categories'])}")

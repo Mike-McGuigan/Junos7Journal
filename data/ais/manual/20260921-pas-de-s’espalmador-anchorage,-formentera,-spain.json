@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-09-21T08:13:35.440Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "21 Sept",
+    "title": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+    "name": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 38.768224,
+    "lng": 1.429918,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision.",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "shortName": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    },
+    "id": "route-092"
+  },
+  "tracker": {
+    "timestampUtc": "2026-09-21T08:13:35.440Z",
+    "status": "At anchor",
+    "title": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+    "area": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+    "position": {
+      "lat": 38.768224,
+      "lng": 1.429918,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker",
+    "location": {
+      "lookupStatus": "ok",
+      "lookupProvider": "OpenStreetMap Nominatim",
+      "osmType": "relation",
+      "osmId": 1311341,
+      "displayName": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "shortName": "Pas de s’Espalmador Anchorage, Formentera, Spain",
+      "rawDisplayName": "Spain",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": null,
+      "county": null,
+      "municipality": null,
+      "island": null,
+      "nearestPlace": null,
+      "localArea": null,
+      "lookupSource": "OpenStreetMap Nominatim"
+    }
+  }
+}

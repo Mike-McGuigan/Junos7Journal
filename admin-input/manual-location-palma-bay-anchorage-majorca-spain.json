@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 5,
+  "generatedUtc": "2026-08-30T21:42:41.553Z",
+  "vesselKey": "junos7",
+  "displayName": "JUNOS 7",
+  "mmsi": "319303300",
+  "imo": "1109712",
+  "routePoint": {
+    "date": "30 Aug - Evening",
+    "title": "Palma Bay Anchorage, Majorca, Spain",
+    "name": "Palma Bay Anchorage, Majorca, Spain",
+    "phase": "current",
+    "status": "At anchor",
+    "lat": 39.56013,
+    "lng": 2.651975,
+    "note": "Manual map-click location. Public free AIS coordinates may lag, so this marker is intentionally labelled with its precision."
+  },
+  "tracker": {
+    "timestampUtc": "2026-08-30T21:42:41.553Z",
+    "status": "At anchor",
+    "title": "Palma Bay Anchorage, Majorca, Spain",
+    "area": "Palma Bay Anchorage, Majorca, Spain",
+    "position": {
+      "lat": 39.56013,
+      "lng": 2.651975,
+      "precision": "map click approximate marker",
+      "source": "captains dashboard map click"
+    },
+    "source": "captains dashboard",
+    "confidence": "manual map-click marker"
+  }
+}
